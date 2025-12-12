@@ -1,0 +1,536 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.25cm
+\topmargin 1in
+\rightmargin 1cm
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\series bold
+Curriculum Vitae 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename E:/WIN_20220109_14_25_18_Pro.jpg
+	scale 38
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rajat Kalia
+\end_layout
+
+\begin_layout Standard
++918146463753
+\end_layout
+
+\begin_layout Standard
+rajatkalia@hotmail.com
+\end_layout
+
+\begin_layout Standard
+#764,41-A, Chandigarh -160036
+\end_layout
+
+\begin_layout Standard
+7 December, 1982
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Completed B.Tech in Electrical Engineering from IIT Delhi with CGPA 5.312
+ in 2007.
+ A national rank of 2499 in GATE examination, Electrical Engineering was
+ secured in 2012.
+\end_layout
+
+\begin_layout Standard
+Cleared +2 Examination from CBSE with 79.8% aggregate in 2000.
+ Cleared IIT Enterance with 11th rank in Screening and 181st rank in Mains
+ from General Category in 2001.
+\end_layout
+
+\begin_layout Standard
+Cleared 10th Examination from CBSE with 88.4% score in 1998.
+ Recieved a certificate of MERIT from CBSE for being amongst top 0.1% students
+ in Science and Mathematics.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Major Jobs
+\end_layout
+
+\begin_layout Standard
+I.
+ Gameloft ,Game Programmer, 2007
+\end_layout
+
+\begin_layout Standard
+2LPA + Outstation Perks
+\end_layout
+
+\begin_layout Standard
+Worked Puyo-Puyo game while giving the interview .
+ Later worked on the Kickboxing game while i met with an accident.
+\end_layout
+
+\begin_layout Standard
+II.
+ Kalia Institute/Technologies (Owned), 2008
+\end_layout
+
+\begin_layout Standard
+Took a showroom in Sector 37 for teacdhing.
+\end_layout
+
+\begin_layout Standard
+III.
+ RN Classes, Doubts Faculty/Question Creation, 2009
+\end_layout
+
+\begin_layout Standard
+3.6LPA
+\end_layout
+
+\begin_layout Standard
+Slightly low quality work than what i was trained for in IIT.
+ But still a good go.
+ One might need Mathematics paradigms in Programming also.
+\end_layout
+
+\begin_layout Standard
+IV.
+ Alpha Classes/Distributors (Co-owned), 2010
+\end_layout
+
+\begin_layout Standard
+4.5LPA
+\end_layout
+
+\begin_layout Standard
+Currently held by my Brother, while I visit sometimes.
+\end_layout
+
+\begin_layout Standard
+V.
+ GreyB, Technical Architect, 2012
+\end_layout
+
+\begin_layout Standard
+Exhausting work at the highest like workspaces.
+\end_layout
+
+\begin_layout Standard
+5.4 LPA
+\end_layout
+
+\begin_layout Standard
+VI.
+ Xataka, Senior Programmer, 2012
+\end_layout
+
+\begin_layout Standard
+5.5LPA
+\end_layout
+
+\begin_layout Standard
+Klaas Naaijkens , the Spanish Owner was a nice person.
+ They had a Symphony2.0 based setup.
+\end_layout
+
+\begin_layout Standard
+VII.
+ Amazon, Book Author, 2013
+\end_layout
+
+\begin_layout Quote
+Minor Jobs ( Not on Very Straightforward Employment Terms )
+\end_layout
+
+\begin_layout Quote
+I.
+ Todarmanl Search Engine, (also known as Tobu) 2002
+\end_layout
+
+\begin_layout Quote
+2 years of exhaustive play on IIT Lan.
+\end_layout
+
+\begin_layout Quote
+II.
+ Puncomm, Mohali, 2004
+\end_layout
+
+\begin_layout Quote
+Embedded work while I created a copy program which was burnt on a P-ROM
+ by the company staff.
+\end_layout
+
+\begin_layout Quote
+III.
+ I Go , 2005
+\end_layout
+
+\begin_layout Quote
+IV.
+ Chattro Stahri (later the group broke and probably started Futures First)
+ , 2006
+\end_layout
+
+\begin_layout Quote
+One Nilgiri Passout hired a team to work on it.
+\end_layout
+
+\begin_layout Quote
+V.
+ Indian Air Force , 2006
+\end_layout
+
+\begin_layout Quote
+I was posted at Base Repaier Depot -13, while they had a National Level
+ Laboratory for Callibration of Devices.
+\end_layout
+
+\begin_layout Quote
+VI.
+ Intel Labs, 2006
+\end_layout
+
+\begin_layout Quote
+My B.Tech major project , Network Intrusion Detection System with exquisite
+ package.
+\end_layout
+
+\begin_layout Quote
+VII.
+ Hirepro , 2007
+\end_layout
+
+\begin_layout Quote
+Ashish Chitrawanshi hired me on my first job while I met with an accident
+ after Gameloft.
+\end_layout
+
+\begin_layout Quote
+VIII.
+ Zoomit , 2007
+\end_layout
+
+\begin_layout Quote
+They had an office in New-Zealand as well.
+\end_layout
+
+\begin_layout Quote
+IX.
+ IDS Infotech Ltd.
+ , 2007
+\end_layout
+
+\begin_layout Quote
+Rahul Bhatia was a host, however things din't turn out my way.
+\end_layout
+
+\begin_layout Quote
+X.
+ Eternal University, Baru Sahib, Himanchal, 2008
+\end_layout
+
+\begin_layout Quote
+Counciller came to my house and hired me, however later he wanted to work
+ as his PA while I was a serious Techno.
+\end_layout
+
+\begin_layout Quote
+XI.
+ Purplle.com , 2008
+\end_layout
+
+\begin_layout Quote
+Women likeables Store.
+\end_layout
+
+\begin_layout Quote
+XII.
+ Video Conference, 2009
+\end_layout
+
+\begin_layout Quote
+While Google built it first owing to money muscle, I was one of the forerunners
+ working on an opensource project working on it.
+\end_layout
+
+\begin_layout Quote
+XIII.
+ Root Kit, 2010
+\end_layout
+
+\begin_layout Quote
+Open Source project LMS/
+\end_layout
+
+\begin_layout Quote
+XIV.
+ Mohali Academy, 2011
+\end_layout
+
+\begin_layout Quote
+Mr.
+ Jambh and Ramesh's setup.
+\end_layout
+
+\begin_layout Quote
+XV.
+ findacco.in, 2011
+\end_layout
+
+\begin_layout Quote
+On MagicBricks like pattren , Vishesh Dahinwal's Idea.
+\end_layout
+
+\begin_layout Quote
+XVI.
+ Washer Man Ltd.
+ , 2012
+\end_layout
+
+\begin_layout Quote
+Aseem Sharma , a hot shot guy at Kiranjot had lead to this venture.
+\end_layout
+
+\begin_layout Quote
+XVII.
+ Forum For Poor, 2012
+\end_layout
+
+\begin_layout Quote
+Mission for helping beggars kindaa.
+ Mostly 37 Model ppl.
+\end_layout
+
+\begin_layout Quote
+XVIII.
+ Vidyanjali, 2012
+\end_layout
+
+\begin_layout Quote
+I was CTO here , however i had to put funds for buying wesite etc from my
+ own pocket.
+ Lossy affair.
+\end_layout
+
+\begin_layout Quote
+XIX.
+ Web World Experts , 2012
+\end_layout
+
+\begin_layout Quote
+Codeigniter based Web Services work.
+\end_layout
+
+\begin_layout Quote
+XX.
+ RN Commerce Classes, 2012
+\end_layout
+
+\begin_layout Quote
+My wife studied here.
+\end_layout
+
+\begin_layout Quote
+XXI.
+ Active Sensing, 2012
+\end_layout
+
+\begin_layout Quote
+PLM setup.
+\end_layout
+
+\begin_layout Quote
+XXII.
+ Sharp Web Developers, 2013
+\end_layout
+
+\begin_layout Quote
+Small Company with non-secure monitory transactions .
+ Interesting work.
+\end_layout
+
+\begin_layout Quote
+XXIII.
+ Arvind Chauhan Physics World, 2013
+\end_layout
+
+\begin_layout Quote
+Physics Doubt Clearing job.
+\end_layout
+
+\begin_layout Quote
+XIV.
+ Moksha Software, 2014
+\end_layout
+
+\begin_layout Quote
+Wordpress Setup.
+\end_layout
+
+\begin_layout Quote
+XV.
+ Sprint, 2014
+\end_layout
+
+\begin_layout Quote
+Wordpress Devlopment via Blank Slate.
+\end_layout
+
+\begin_layout Quote
+XVI.
+ A Consulting Corp, 2014
+\end_layout
+
+\begin_layout Quote
+Ruby on Rails work.
+\end_layout
+
+\begin_layout Quote
+XVII.
+ Vik the Legend ( Game ), 2018
+\end_layout
+
+\begin_layout Quote
+Unity Based Game with a very long and exhausting script.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Major Events
+\end_layout
+
+\begin_layout Standard
+Marriage 2010
+\end_layout
+
+\begin_layout Standard
+Child(Male) 2011
+\end_layout
+
+\begin_layout Standard
+Separation from wife while I got to keep the child 2015
+\end_layout
+
+\end_body
+\end_document

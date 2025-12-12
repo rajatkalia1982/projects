@@ -1,0 +1,539 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Relativity
+\end_layout
+
+\begin_layout Author
+Xpinder Narula
+\end_layout
+
+\begin_layout Date
+22-October-2020
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Preface
+\end_layout
+
+\begin_layout Standard
+Relativity we can see in movies in few paradoxes, a person can come back
+ to where he was and see himself working there alongside him.
+ 
+\end_layout
+
+\begin_layout Standard
+Then we have kind of time machines , transponder has a separate book for
+ itself and now this separate book on General Relativity.
+\end_layout
+
+\begin_layout Standard
+Why rajat kalia didn't teach much relativity to students in his lifetime
+ is coz he expects his student to be completely verse in the subject because
+ otherwise he/she won't be able to understand what's being taught.
+ Relativity is one of the most expert topics and requires great versatility
+ in physics subject itself before a student deserves to learn it from rajat
+ kalia ji.
+ However he made radio broadcast many times of complete relativity in greatest
+ details totally unimaginable to our level.
+\end_layout
+
+\begin_layout Standard
+Favourite comments include one student Shashank(divya-later neha kalia[Kaur
+ B/Anupam Kher] with SC Certificate) claiming that some particles can move
+ faster than light .
+ Probably he meant that in his visions he has seen some people moving faster
+ than the speed of light.
+ Probably he got inspired by the movie scenes in movies like star trek where
+ you see wonderfull application of a transponder.
+ I think for performing that kind of scene you need to read that book.
+ It's avaliable freely in web resources or you can even buy a copy if you
+ want to be the actor in that movie.
+ It's a previous book written in Rajat Kalia's living time and well recieved
+ with a Quake III transponder picture on it's cover.
+ We won't be disucssing transponder at all in this book and look into crude
+ numerical problems just to limit vague imagination and stay in actual limits
+ of physics.
+\end_layout
+
+\begin_layout Standard
+I tell you why transponder is not relativity, answer is just check the name
+ of that transponder book to know what it really is.
+ Here my job is to teach relativity , but there's this constant projector
+ bug problem that some arses are demanding to teach transponder.
+ I mean there's already a book on it why should i teach it here, the mechanism
+ is written in thayt book.
+ Then there would be that photo's indian and foreign actors having sex with
+ whom one can perform that stunt in the movie, that person would have actual
+ trasponder unlike the indian actor.
+ Then see the name on the book on whose name that book is that is the actual
+ person in rajat kalia's family who is the owner of transponder
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+If transponder photo was put(by Rajat Kalia) on any other book of Rajat
+ Kalia(his own book) also , then check it's details as well to know who
+ are the concerned people.
+\end_layout
+
+\end_inset
+
+.
+ That book has been written by Rajat Kalia so he's the actual owner without
+ doubt.
+ Then there would be few foreign actors who would be the thumbnail image
+ here and indian actors who would be the enlarged image and mind you indian
+ actor is a villain.
+ Further i would like to assure once again that transponder is not relativity.
+ Read that book's title name so that you can know what are the detailed
+ mechanisms of Transponder.
+ I tell the name 
+\begin_inset Quotes eld
+\end_inset
+
+A Complete Course in Commercial and Social Sciences (including Vocabulary
+ and Language) - Extended Third Edition
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Kairav Kalia, Kiki Boyal, Dharti Putram 
+\begin_inset Quotes erd
+\end_inset
+
+ These are the concerned people in whose name Rajat Kalia has written this
+ book.
+ and the book is on commerce for social science students.
+ Manas Kalia is the actual title author name with transponder shown in image.
+\end_layout
+
+\begin_layout Chapter*
+Ackcnowledgements
+\end_layout
+
+\begin_layout Standard
+Now if the transponder movie actors kindly excuse me on projector then i
+ can start with relativity theory and problems.
+\end_layout
+
+\begin_layout Standard
+The reason i'd like to repeat why Rajat Kalia din't teach it in class coz
+ no student was verse in it.
+ Otherwise Rajat Kalia would have taught to that student alone if there
+ was such a student.
+ Radio broadcast he had done many times in childhood and was for normal
+ shrotagans.
+ Arvind Chauhan teaches from Rajat Kalia's notes or the problems he solved
+ while preparing for iit or while teaching.
+ It's a useless argument that Arvind Chauhan tried to teach relativity to
+ Rajat Kalia after reading from Rajat Kalia's documents coz that is already
+ available in videos, whatever he could read from Rajat Kalia's documents
+ and understand he has shown it in his lectures.
+ And mind you they were 134 Actors.
+ So if one single guy or few could teach relativity amongst them and has
+ tought it's shown in channel 112 videos already.
+ But then even if they mattered , they were only basics, we'd go much deeper
+ and assure full returns.
+ Further I am Xpinder Narula, Rajat Kalia's foreign actor and Indian hacked
+ account actors are no worth to me at all.
+ Now if the back house aunty pleads that she is the actual indian actor
+ and not a hacked account one , I remind that in India your pigs were looming
+ around Rajat Kalia to tell him that you are the actual Rajat Kalia and
+ not him, that's why I am concerned.
+\end_layout
+
+\begin_layout Section
+High Speed Button in a Star War Rocket
+\end_layout
+
+\begin_layout Standard
+They are using warm holes technology only don't worry but it's appearing
+ in stunt form that's why looking catchy FYI.
+ In 5th or 6th movie Luke Skywalker shows Returned Jedi the fast speed button.
+ Also the Rajat Kaliia robot tweaks in the rocket to start fast speed in
+ anothor star wars movie.
+ Evidently they din't use high speed or anything but only warm holes but
+ with stunt technology which can be much superior to actual warmhole method
+ used in normal movies.
+\end_layout
+
+\begin_layout Chapter
+Relativity Theory Basic
+\end_layout
+
+\begin_layout Standard
+Reletivistic mechanics deals with motion of objects moving at speeds of
+ the order of light where possibly the laws of classical mecanics can snap
+ at some place or the other.
+ So Relativistic mechanics is only mechanics theory but at very high speeds.
+ Now another dumbshell Shekhar Dutt is asking on projector how could devtas
+ travel the universes at even much higher speeds.
+ My answer to that dumbo, that is in spiritual domain only, one can shift
+ the soul from heart to liver with a piercing prick in 10 to 15 seconds
+ .
+ you can calculate the speed here, 1 feet in 15 seconds or roughly 2 inches/seco
+nd and that's much lesser than the speed of light , however with all the
+ drugs it can appear much larger than the speed of light to Shekhar Dutt.
+ { I must repeat that soul is a spherical object with risnia outer coating
+ solidified to like bullet proof glass density with technology and coke
+ cocentrate inside It is put using an injection inside a person, some people
+ can have more than 1 of them..
+ However if a person is consuming Red Bull or other drink, soul would have
+ that color concentrate inside }We are talking in Physical Domain and not
+ in Spiritual Domain or mechanical domain where the constuction of universes
+ is different.
+ There are further three sound domains similar to these which Rajat Kalia
+ didn't delve much in and mostly closed their workings so that unnessary
+ loads on our SYSTEM doen't mount up.
+ Probably they are handled by harappa and it appears as an additional feature
+ in our SYSTEM.
+ While they probably might be calling our features sound handling in their
+ own language.
+ So, let's not worry about those things.
+ Further to spoil things further, Sonia Sood(Today's Manish Kalia) has stolen
+ the lan cable and put a duplicate lan cable in it's place.
+ He is saying that put on the wi-fi jacks even if you are connecting through
+ lan to internet just like the amazon.com football goal copyright of ghoda.
+ Now it's a question who goes for the talk and whether he heeds or not to
+ the demand remains to be seen.
+ If those arses(aarav soods) are succussfull then there would be an additional
+ wi-fi device necessacity even if a person is connecting internet via lan
+ .
+ I think those talks would happen today.
+ One of the arses(who is Kairav(Krishnan)) is encountring the problem that
+ end of cycle audit is coming near and that can make him very very poor
+ compared to what he is these days.
+ We can only offer wishes/good health/good luck to him, don't worry kiddo,
+ good time will come again without doubt, have faith in your uncle Rajat
+ Kalia.
+\end_layout
+
+\begin_layout Section
+Theory
+\end_layout
+
+\begin_layout Standard
+Here we'll stay fixed on relativistic speeds , i.e.
+ speeds of the order of the speed of light.
+ Or very high speeds.
+ 
+\end_layout
+
+\begin_layout Standard
+Here we have two similar to river crossing question scenarios studied in
+ Kinametics.
+ Let's have a fast gothrough.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Now another Manish Kalia actor is trying to prove in relativity that lengths
+ don't change.
+ He has seen in Ramayan that Lakshman's wife returns to earth travelling
+ in space and is much taller.
+ So, i think this has made a kind of impression in his mind that space travel
+ changes height/length of object.
+ In that case i definitely assure that relativity is purely modern thing
+ of computer age, not in spiritual domain sagas like ramayan which are not
+ played in physical domain of the world but in reletively stripped down
+ other kind of domain called the spiritual domain.
+ Secondly lakshman's wife was already that height when she started the space
+ travel .
+ It was their relative hight difference that was in question.
+ I tell the answer, all of you have seen baba balaknath, it was the response
+ of that with girl higher height than man, not a height change due to space
+ travel.
+ Further you also might have seen pooja shaking drake videos also, so watch
+ it, relativity is modern science, not dream stuff.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+So we fix a frame of reference to a 1-D rod and a second frame of reference
+ a fixed point in space.
+ Then we go with the like river travel question studied in kinematics.
+\end_layout
+
+\begin_layout Standard
+So here our x-axis is along the rod and the y-axis is perpendicular to it
+ going through that fixed point in space.
+\end_layout
+
+\begin_layout Standard
+{Another stupid manish is asking why space why not a point on earth.
+ My answer 
+\begin_inset Quotes eld
+\end_inset
+
+Dumbo we are studying ideal case.
+ We study physics for studing ideal case not for imaginary cases imagined
+ by a dumbass pakoda.
+ Studying ideal case takes a lifetime of learning, can't be learned in minutes.
+ Do you know how much error case you are talking about by talking about
+ an earth reference point.
+ Evedently it can't be solved using physics and you would have to go to
+ step coz you have written in your book that you are taking earth as reference.
+ Evedently it would need earth's corriolis rotations then sun's galctic
+ rotations into consideration and coz you have written it in pdf that you
+ are calculating it it would amount to a step to make you forget that thing
+ and work on new thing.
+ The calculations you have shown are only ideal case which you might have
+ studied or probably created, but this earth reference is a serious error
+ and this is not physics mostly probably coz you din't learn the subject
+ properly and Rajat Kalia has already written in his book what you are trying
+ to do , watch the 
+\begin_inset Quotes eld
+\end_inset
+
+Error with Errorlog
+\begin_inset Quotes erd
+\end_inset
+
+ book for yourself.
+ It;s a pennis chopping procedure which your team creates by providing wrong
+ data instead of right.
+ Hahaha this book has plenty of those penis chopping diagrams
+\begin_inset Quotes erd
+\end_inset
+
+ }
+\end_layout
+
+\begin_layout Standard
+So we have light moving from the rod to that fixed point (in space) and
+ that object is translating towards that fixed point.
+ Assume a light photon went from the rod to that fixed point ..We choose the
+ origin at a point where the perpendicular from that point in space falls
+ on the rod.
+ That point becomes a pont on the y axis(say) and the rod is on the x-axis
+ with our chosen origin.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename rel1.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Now we talk about the relativity concern in the y direction.
+ We wan't a reletavistic frame of reference so let's assume that this whole
+ stuff(our frame) is moving in some other frame(Frame 2) as well with a
+ relativistic speed 
+\begin_inset Formula $v$
+\end_inset
+
+ parallel to y axis.
+ Now from origin if a photon goes towards that fixed point according to
+ Frame 2 it would move with 
+\begin_inset Formula $c-v$
+\end_inset
+
+ going in positive y direction forward and 
+\begin_inset Formula $c+v$
+\end_inset
+
+ while returning(as shown in the figure).
+ So, it would take time 
+\begin_inset Formula $\dfrac{2cy}{c^{2}-v^{2}}$
+\end_inset
+
+....(1) (similar to the first problem of irodov or boat upstream downstream
+ travel questions done in 9th mathematics) 
+\end_layout
+
+\begin_layout Standard
+Now let's look at the second case.
+ Here we see that for a point x, the Frame 2 would have moved a distance
+ 
+\begin_inset Formula $vt_{o}$
+\end_inset
+
+ forward if the photon from origin hit's a point x on x-axis in frame 1
+ along the y direction(that point is P now.).
+ Just like the river drift question we need to send the photon to slightly
+ right so that it travels along x axis and then comes back.
+ (By pythagoras law, in the velocity triangle diagram, just like the drift
+ question in first irodov chapter.).
+ You see i try to explain the things if it's difficult.
+ The frame is moving with speed v along y axis so everything, even a light
+ photon is getting dragged backword(towards -y) so we need to throw the
+ photon at an angle so that it goes along x axis instead.
+ got it??? So the photon's speed now is 
+\begin_inset Formula $\sqrt{c^{2}-v^{2}}$
+\end_inset
+
+, you can see in the velocity triangle diagram.
+ So the total travel time along x axis is 
+\begin_inset Formula $\dfrac{2x_{o}}{\sqrt{c^{2}-v^{2}}}$
+\end_inset
+
+....(2)
+\end_layout
+
+\begin_layout Standard
+Here we introduce a special constant 
+\begin_inset Formula $\beta$
+\end_inset
+
+ (beta) as the ratio of speed of the frame of reference to that of speed
+ of light.
+\end_layout
+
+\begin_layout Section
+Review Questions
+\end_layout
+
+\begin_layout Standard
+Problem 1 : Now the fist problem of irodov, if you wan't the full question
+ to be written i'd write it here.
+\end_layout
+
+\begin_layout Standard
+A rod moves lengthwise with a constant velocity v relative to the inertial
+ reference frame K.
+ At what value of v will the length of the rod in this frame be 
+\begin_inset Formula $\eta$
+\end_inset
+
+ = 0.5% less than its proper length? 
+\end_layout
+
+\begin_layout Standard
+I have put this very question , just to assure that the question is correct
+ but i've said in the above discussion that length doesn't change doesn't
+ need to be proved..
+ But here we have a question how much length changes.
+ Here you might have got it till now that what he means is that how much
+ length change is appearing to your eyes or vision, and not any acutal length
+ change.
+ Seeing is believing kind of stuff.
+ Apply the 2nd formula to get the answer.
+ I think if we start discussing this kind of questions here it can reduce
+ the trp rating of the book.
+\end_layout
+
+\begin_layout Section
+Mass Concerns in Relativity
+\end_layout
+
+\begin_layout Standard
+Use the 2nd formula assuming that we are working along x axis if your teacher
+ is insisting to do so.
+ Or else if you wan't to write a research paper make actual calculations
+ working in x and y directions.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

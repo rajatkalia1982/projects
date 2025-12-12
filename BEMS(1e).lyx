@@ -1,0 +1,557 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\use_default_options true
+\begin_modules
+endnotes
+hanging
+logicalmkup
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a5paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+A Breif Epilogy in Medical Sciences - Extended First Edition
+\end_layout
+
+\begin_layout Author
+Rajat Kalia and Gurpreet Kaur
+\end_layout
+
+\begin_layout Date
+8 August, 2018
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Preface
+\end_layout
+
+\begin_layout Standard
+We have chosen the name to be Medical Sciences , as this the name for the
+ studies at Intermediate level.
+ 
+\end_layout
+
+\begin_layout Part*
+The Human Body
+\end_layout
+
+\begin_layout Part
+The Brain
+\end_layout
+
+\begin_layout Standard
+At the back side of the brain is the grey brain.
+ It is extremely small in size compared to the rest of the brain.
+ It helps in memorization prosess.
+ Apart from this the brain has many short functional parts which are said
+ to perform various functions according to modern studies.
+ In old times in Indian texts there is a mention of talu on the skull top
+ which was called to be one of the important functionaries in indi treatement.
+ Then there are the pudpudis on the sided of the brain, extremely soft.
+ 
+\end_layout
+
+\begin_layout Chapter
+Cerebrum, Cerebellum, and Brainstem
+\end_layout
+
+\begin_layout Paragraph
+Cerebrum: 
+\end_layout
+
+\begin_layout Standard
+is the largest part of the brain and is composed of right and left hemispheres.
+ It performs higher functions like interpreting touch, vision and hearing,
+ as well as speech, reasoning, emotions, learning, and fine control of movement.
+\end_layout
+
+\begin_layout Paragraph
+Cerebellum: 
+\end_layout
+
+\begin_layout Standard
+is located under the cerebrum.
+ Its function is to coordinate muscle movements, maintain posture, and balance.
+\end_layout
+
+\begin_layout Paragraph
+Brainstem:
+\end_layout
+
+\begin_layout Standard
+acts as a relay center connecting the cerebrum and cerebellum to the spinal
+ cord.
+ It performs many automatic functions such as breathing, heart rate, body
+ temperature, wake and sleep cycles, digestion, sneezing, coughing, vomiting,
+ and swallowing.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/BEMS/pe-anatomybrain1.jpg
+	scale 43
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+The Heart
+\end_layout
+
+\begin_layout Standard
+Usually you get to hear about operations when the valve of a person's heart
+ is replaced.
+ Then modern medical studies say that there are four chambers in heart.
+ Then there is the Aorta , which passes through the heart.
+ 
+\end_layout
+
+\begin_layout Part
+The Respiratory Organs
+\end_layout
+
+\begin_layout Standard
+We breathe through our mouth, then there is a stoppage in the neck which
+ blocks any eatables to enter the respiratory pipe when one is eating.
+ Then there are the lungs which filter the air we have breathed and supply
+ clean oxygen in the arteries.
+ 
+\end_layout
+
+\begin_layout Part
+The Kidneys
+\end_layout
+
+\begin_layout Standard
+They filter the blood and produce all the liquid excretory wastes passed
+ out through the urinal passing through the bladder.
+ Any of the Kidney has two chambers.
+\end_layout
+
+\begin_layout Part
+The Bones
+\end_layout
+
+\begin_layout Chapter
+Dental Bones (as a Special Case)
+\end_layout
+
+\begin_layout Standard
+A normal person has 32 teeth comprising of frontal teeth , molars , canines
+ etc.
+ 
+\end_layout
+
+\begin_layout Part
+Ear, Nose and Throat (ENT)
+\end_layout
+
+\begin_layout Standard
+We have two ears (which have eardrums), a nose with two hoses and hair and
+ a throat with tonsils.
+ 
+\end_layout
+
+\begin_layout Part
+The Skin
+\end_layout
+
+\begin_layout Standard
+It comprisis of two layers of epidermis and on the outside covered with
+ hair at most parts in men.
+ 
+\end_layout
+
+\begin_layout Part
+Sexual Organs
+\end_layout
+
+\begin_layout Standard
+Men have a penis, women have a vagina as against this.
+ Then men have a pair of testicles.
+ On the other side women have egg producing sachets and a womb too.
+\end_layout
+
+\begin_layout Part
+Maternity (Amongst Women)
+\end_layout
+
+\begin_layout Standard
+Women can get pregnant.
+ It is a highly fragile state in a women's life while giving birth and some
+ women with delivery experience claim that they have got second life.
+\end_layout
+
+\begin_layout Part*
+A Plant or a Tree
+\end_layout
+
+\begin_layout Part
+Plant Anatomy
+\end_layout
+
+\begin_layout Chapter
+The Stem
+\end_layout
+
+\begin_layout Standard
+It draws water from the roots along with other nutrients and provides to
+ the rest of the upper plant parts.
+ It has a thick outer covering which has celluloid in the interior to provide
+ a firm state to it.
+\end_layout
+
+\begin_layout Chapter
+The Root
+\end_layout
+
+\begin_layout Standard
+The roots draw water from soil through sub roots or tentacles.
+ Apart from it they draw nutrients too.
+ Some of the roots like potato have nitrogen fixing bacteria too.
+\end_layout
+
+\begin_layout Chapter
+The Branches
+\end_layout
+
+\begin_layout Standard
+Later.
+\end_layout
+
+\begin_layout Chapter
+The Leaves
+\end_layout
+
+\begin_layout Standard
+They do photosynthesis i.e.
+ food production for the plant and oxygen too.
+ 
+\end_layout
+
+\begin_layout Chapter
+The Flower
+\end_layout
+
+\begin_layout Standard
+It's the reproductive organ of the plant .
+ So, if a plant has many flowers , we can say that it has opened multiple
+ sites for reproduction , a phenominon completely unseen in humans.
+ 
+\end_layout
+
+\begin_layout Chapter
+The Fruit
+\end_layout
+
+\begin_layout Standard
+Fruits can be poisionous or eatable.
+ They contain seeds too to create the next generation of the same plant
+ .
+ (unless the plant is modified by branch 
+\begin_inset Quotes eld
+\end_inset
+
+pyonde
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Part
+Plants which can move
+\end_layout
+
+\begin_layout Chapter
+The Chui-Mui
+\end_layout
+
+\begin_layout Standard
+It can shy away if somebody touches it.
+ 
+\end_layout
+
+\begin_layout Chapter
+Plants which can consume an animal(say a small insect) as food
+\end_layout
+
+\begin_layout Standard
+Insectivourous plants have a flower with a cup shape and a lid like opening
+ .
+ So an unwary insect which comes to take pollen gets struck and killed in
+ return instead of taking pollen.
+ It's possible that these plants can be bisexual or finding other ways of
+ pollination as insects could not take pollen .
+\end_layout
+
+\begin_layout Part
+Plants used as food by humans or animals
+\end_layout
+
+\begin_layout Standard
+It comprises of all major plants like spinach.
+\end_layout
+
+\begin_layout Chapter
+Wheat
+\end_layout
+
+\begin_layout Standard
+The seeds are consumed by humans while the bark by animals as hay.
+\end_layout
+
+\begin_layout Chapter
+Sugarcane
+\end_layout
+
+\begin_layout Standard
+The stem can be used for direct consumption or it's juice can produce sugar
+ , gur , jaggery etc.
+\end_layout
+
+\begin_layout Part
+Trees bearing Fruits and Plants bearing vegetables
+\end_layout
+
+\begin_layout Chapter
+Trees bearing Fruits
+\end_layout
+
+\begin_layout Section
+Apple
+\end_layout
+
+\begin_layout Section
+Orange
+\end_layout
+
+\begin_layout Chapter
+Plants bearing vegetables
+\end_layout
+
+\begin_layout Standard
+Many plants bear vegetables like Cucumber, tomato ( disputed between a vegetable
+ and a fruit ) , potato etc.
+\end_layout
+
+\begin_layout Part
+Allergic Plants and Trees
+\end_layout
+
+\begin_layout Chapter
+The Congress Grass
+\end_layout
+
+\begin_layout Standard
+It can cause minor allergy.
+ Although it has nothing to do with congress party it seems.
+ The name probably has been kept in vein.
+ It's found in abundance in Chandigarh.
+\end_layout
+
+\begin_layout Part
+Plants having products of medicinal value
+\end_layout
+
+\begin_layout Chapter
+Plant sources for special Organic Chemicals
+\end_layout
+
+\begin_layout Chapter
+Under Ayurvedic System
+\end_layout
+
+\begin_layout Standard
+Various plants were claimed to be of great medicinal value in the olden
+ times when modern equipments and chemical methods were not present.
+ Baba ramdev and his team are struggling hard to get ayurvedic a place in
+ modern world.
+ Russels Peters have made mockery of this system by calling ikjot's possible
+ sister , a herbaljot.
+ 
+\end_layout
+
+\begin_layout Standard
+Ayurvedic medicine is made of those plants which can't be used directly
+ as food and have some fast action in body to maybe counter a disease they
+ say.
+ 
+\end_layout
+
+\begin_layout Part
+Plants having products worthy in market
+\end_layout
+
+\begin_layout Part
+Plants which can be grafted to the Bonzai
+\end_layout
+
+\begin_layout Part
+Plants or Trees having products valued in Narcotics
+\end_layout
+
+\begin_layout Standard
+Bhang (Ganja), Hasheesh etc have been known to be plant oriented narcotics.
+ 
+\end_layout
+
+\begin_layout Part*
+Other Animals
+\end_layout
+
+\begin_layout Part
+Mammals
+\end_layout
+
+\begin_layout Part
+Insects
+\end_layout
+
+\begin_layout Part
+Reptiles
+\end_layout
+
+\begin_layout Part
+Aquatic Animals
+\end_layout
+
+\begin_layout Part
+Animals Intermediate between these Classifications
+\end_layout
+
+\begin_layout Part*
+Studying Micro-organisms
+\end_layout
+
+\begin_layout Part
+Their Importance in Medicine
+\end_layout
+
+\begin_layout Chapter
+Microbial Wastes
+\end_layout
+
+\begin_layout Part
+Bacteria
+\end_layout
+
+\begin_layout Part
+Viruses
+\end_layout
+
+\begin_layout Part
+Fungus
+\end_layout
+
+\begin_layout Part*
+Bio-studies 
+\end_layout
+
+\begin_layout Part
+Study of Excreta
+\end_layout
+
+\begin_layout Chapter
+Water Purification Processes
+\end_layout
+
+\begin_layout Part
+Modern new Dimension
+\end_layout
+
+\begin_layout Chapter
+Plant residue
+\end_layout
+
+\end_body
+\end_document

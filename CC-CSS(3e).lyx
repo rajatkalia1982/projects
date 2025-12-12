@@ -1,0 +1,2359 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage[style=authoryear,backend=biber,refsection=part]{biblatex}
+\addbibresource{Bibliography/CC/CSS/constitutions.bib}
+\addbibresource{Bibliography/CC/CSS/economics.bib}
+\end_preamble
+\use_default_options true
+\begin_modules
+endnotes
+hanging
+logicalmkup
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+A Complete Course in Commercial and Social Sciences - Third Edition
+\end_layout
+
+\begin_layout Author
+Manas Kalia and Kairav Kalia
+\end_layout
+
+\begin_layout Date
+6 March, 2018
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Economics
+\end_layout
+
+\begin_layout Part
+Microeconomics
+\end_layout
+
+\begin_layout Chapter
+The Complete Theory in three graphs 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+These concepts were first disclosed to me by my mom in childhood, then again
+ told to me by the economics teacher in SMU MBA which I was doing.
+ Evidently both of them probably read from this book as the source.
+ So, cycles go on and knowledge remains in loop.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+The Indian Economics
+\end_layout
+
+\begin_layout Standard
+Indian economics and all it's relations get a graph of this form .
+ It's called the Caviat.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/resized_Indian market.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Outside India Economics
+\end_layout
+
+\begin_layout Standard
+It's called the BLOB.
+ This rule governs all the outside india economics.
+ It's strage the economics in India is completely different from that of
+ Outside India.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/resized_outsideindia.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+India to Outside and reverse relations in Market
+\end_layout
+
+\begin_layout Standard
+It's the Starfish relation.
+ Draw a starfish in the middle of a paper and you would get to know about
+ it.
+ Plus it can lose a leg too.
+\end_layout
+
+\begin_layout Standard
+Don't worry , right now my scanner is not working, I'd have to buy a new
+ one soon.
+ Because of scanner inavailability my Physics Graphs book is also not proceeding
+ furthur.
+ So, keep a eye on furthur editions , I'll make microeconomics an elaborate
+ section with plenty of examples and also be giving proofs to the Caviat
+ and BLOB and Starfish theorys.
+\end_layout
+
+\begin_layout Chapter
+Conventional Terminology
+\end_layout
+
+\begin_layout Section
+Production Frontier 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "tutor2u.net"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A production possibility frontier (PPF) shows the maximum possible output
+ combinations of two goods or services an economy can achieve when all resources
+ are fully and efficiently employed
+\end_layout
+
+\begin_layout Subsection
+Opportunity Cost and the PPF
+\end_layout
+
+\begin_layout Verse
+Reallocating scarce resources from one product to another involves an opportunit
+y cost 
+\end_layout
+
+\begin_layout Verse
+If we increase our output of consumer goods (i.e.
+ moving along the PPF from point A to point B) then fewer resources are
+ available to produce capital goods'
+\end_layout
+
+\begin_layout Verse
+If the law of diminishing returns holds true then the opportunity cost of
+ expanding output of X measured in terms of lost units of Y is increasing.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/ppf_efficient_ineffcient.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+We normally draw a PPF on a diagram as concave to the origin i.e.
+ as we move down the PPF, as more resources are allocated towards Good Y
+ the extra output gets smaller – so more of Good X has to be given up in
+ order to produce Good Y
+\end_layout
+
+\begin_layout Verse
+This is an explanation of the law of diminishing returns and it occurs because
+ not all factor inputs are equally suited to producing items
+\end_layout
+
+\begin_layout Verse
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/ppf_diminishing_returns.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+PPF and Economic Efficiency
+\end_layout
+
+\begin_layout Subsubsection
+Production Possibilities 
+\end_layout
+
+\begin_layout Verse
+A production possibility frontier is used to illustrate the concepts of
+ opportunity cost, trade-offs and also show the effects of economic growth.
+\end_layout
+
+\begin_layout Verse
+Points within the curve show when a country’s resources are not being fully
+ utilised
+\end_layout
+
+\begin_layout Verse
+Combinations of the output of consumer and capital goods lying inside the
+ PPF happen when there are unemployed resources or when resources are used
+ inefficiently.
+ We could increase total output by moving towards the PPF
+\end_layout
+
+\begin_layout Verse
+Combinations that lie beyond the PPF are unattainable at the moment
+\end_layout
+
+\begin_layout Verse
+A country would require an increase in factor resources, an increase in
+ the productivity or an improvement in technology to reach this combination.
+\end_layout
+
+\begin_layout Verse
+Trade between countries allows nations to consume beyond their own PPF.
+\end_layout
+
+\begin_layout Verse
+Producing more of both goods would represent an improvement in welfare and
+ a gain in what is called allocative efficiency.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/ppf_opportunity_cost.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Budget Line, Constraints map and the condition of tangency 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "courses.byui.edu"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In this section, we are going to take a closer look at what is behind the
+ demand curve and the behavior of consumers.
+ How does a consumer decide to spend his/her income on the many different
+ things that he/she wants, i.e., food, clothing, housing, entertainment? We
+ assume that the goal of the consumer is to maximize his/her level of satisfacti
+on or joy, constrained by his/her income.
+\end_layout
+
+\begin_layout Standard
+Economists use the term utility as a measure of satisfaction, joy, or happiness.
+ How much satisfaction does a person gain from eating a pizza or watching
+ a movie? Measuring utility is based solely on the preferences of the individual
+ and has nothing to do with the price of the good.
+ Let’s do an experiment in utility.
+\end_layout
+
+\begin_layout Standard
+Step 01: Get some of your favorite candy, pastries, or cookies.
+\end_layout
+
+\begin_layout Standard
+Step 02: Take a bite and evaluate, on a scale from 0 to 100 (with 100 being
+ the greatest utility), the level of utility from that bite.
+ Record the marginal utility of that bite (i.e., how much you get from that
+ one additional bite).
+\end_layout
+
+\begin_layout Standard
+Step 03: Repeat step 02.
+ It is important to be consistent with each unit consumed, i.e., the same
+ size and no drinking milk or water part way though.
+ When you run out of candy or your marginal utility goes to zero you can
+ stop.
+\end_layout
+
+\begin_layout Standard
+Law of Diminishing Marginal Utility
+\end_layout
+
+\begin_layout Standard
+The law of diminishing marginal utility states that as more of the good
+ is consumed, the additional satisfaction from another bite will eventually
+ decline.
+ The marginal utility is the satisfaction gained from each additional bite.
+ As more of the good is consumed, we gain less additional satisfaction from
+ consuming another unit.
+ Thus even if a good were free and you could consume as much as you wanted,
+ there would be a limit to the amount you would consume due to the law of
+ diminishing marginal utility.
+ 
+\end_layout
+
+\begin_layout Standard
+Summing the marginal utilities gives us the total utility.
+ For example, let’s say the first chocolate was an 85 and the second chocolate
+ had a marginal utility of 79, then the total utility from consuming two
+ chocolates is 164.
+ The total utility from consuming three chocolates is 85+79+73 = 237.
+ As long as our marginal utility is positive our total utility increases
+ although with diminishing marginal utility it increases at a decreasing
+ rate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_03.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Can marginal utility be negative? Yes.
+ At a holiday dinner, you may overeat and suffer from indigestion afterwards
+ to a point where you regret having eaten too much, but at the time of the
+ dinner, you expected greater utility from eating the last of the meal.
+ We would not willingly consume an item that gave us negative marginal utility.
+ Then why would an individual stuff themselves during a hot dog eating contest
+ where clearly the last hot dogs consumed are making them worse off? Although
+ the marginal utility from the last hot dog itself makes the person worse
+ off, the utility from winning the contest is greater making the marginal
+ utility positive.
+ 
+\end_layout
+
+\begin_layout Standard
+The marginal utility of an item can change.
+ For example, during a drought water provides a high positive marginal utility,
+ and with more rain the marginal utility declines.
+ At some point, there is too much rain, it turns from being a good utility
+ to a bad one and the marginal utility of more rain, when it is already
+ flooding, is negative.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_05.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Maximizing Utility
+\end_layout
+
+\begin_layout Standard
+Utility values can be determined by an individual ranking his/her preferences
+ from least preferred to most preferred.
+ The resulting ranking or utility values are subjective or individual.
+ They are also ordinal rather than cardinal.
+ Ordinal means that the utility values simply define a ranking of preferences
+ rather than an actual cardinal measurement.
+\end_layout
+
+\begin_layout Standard
+Imagine a class has 10 students in the class and the teacher lined the students
+ up according to height.
+ He then numbered them off according to height, assigning the shortest student
+ a 1 and the tallest student a 10.
+ Is it true that student number 4 is twice tall as student number 2? Of
+ course not.
+ All we know from the ranking is that student number 4 is taller than student
+ number 2.
+ Now, imagine that in another class another teacher has also ranked 10 students
+ according to height.
+ Is it true that student number 10 from the second classroom is taller than
+ student 1 from the first classroom? We cannot say since the ranking is
+ only valid within a particular course.
+ In order to say a student is twice as tall as another student or to be
+ able to compare students between classes, we would need a cardinal measure
+ of height like inches or centimeters.
+ 
+\end_layout
+
+\begin_layout Standard
+Since utility is ordinal and not cardinal we cannot make interpersonal compariso
+ns of utility.
+ Does a rich person value a dollar more or less than a poor person? While
+ some would say that a poor person likely has more unmet needs and thus
+ he would value the dollar more.
+ The answer is that it all depends on the preferences of the individuals.
+ A poor person may prefer to live a more simplistic life and place a lower
+ value on having an extra dollar than a rich person who has a “love of money”
+ (1 Timothy 6:10).
+ We simply cannot make such an interpersonal comparison of utility.
+ 
+\end_layout
+
+\begin_layout Standard
+So how does the consumer decide what to purchase? Unfortunately everything
+ has a price and consumers only have so much money to spend.
+ Consequently consumers try to spend the limited money they have on what
+ will give them the greatest amount of satisfaction.
+ The decision rule for utility maximization is to purchase those items that
+ give the greatest marginal utility per dollar and are affordable or within
+ the budget.
+ Many grocery stores provide a tag that indicates the price per pound for
+ the good.
+ This allows consumers to compare the cost per pound for different brands
+ or different sizes.
+ The same concept is used for maximizing utility but we divide the marginal
+ utility by the price to get the marginal utility per dollar.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_07.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Let’s say that we eat only two goods: milk shakes and pizza where the price
+ of each slice of pizza is $2 and the price of each shake is $1 and we only
+ have $11 to spend.
+ Since the price of each good is different we need to divide the marginal
+ utility by the price to allow for a common comparison.
+ We then compare the marginal utility per dollar for pizzas verses shakes.
+ For the first unit the marginal utility per dollar of a shake is 50 compared
+ to only 45 for the pizza, so we would purchase the first shake.
+ We then compare the marginal utility per dollar of the first pizza (45)
+ to the marginal utility per dollar of the second shake (40) and purchase
+ the first slice of pizza.
+ If the marginal utility per dollar is the same for the two goods and we
+ have income to purchase both then we would do so, as seen in the second
+ slice of pizza and the second shake.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_08.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We continue to allocate on budget on those goods that yield the highest
+ marginal utility per dollar.
+ In this example, we would purchase four slices or pizza and three milkshakes
+ and spend our entire budget of $11.
+ The total utility from this purchase would be the sum of the marginal utilities
+: 50 + 90 + 80 + 40 + 70 + 60 + 30 = 420.
+ At the last items purchased the marginal utility per dollar spent on the
+ two goods is the same, no other combination of pizzas and milk shakes will
+ give us greater utility given our budget.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_09.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Practice
+\end_layout
+
+\begin_layout Standard
+Here is your chance to practice.
+ Holly has $20 to spend on either movies or bowling and wants to maximize
+ her utility.
+ Complete the table and determine how many movies and rounds of bowling
+ will maximize her utility.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_10.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Our first step is to divide the marginal utility of each item by the price.
+ With an income of $20 she is limited in what she can purchase.
+ Since the marginal utility per dollar for bowling (15) is greater than
+ the marginal utility of the first movie (12.5) she would initially go bowling,
+ spending $4.
+ Comparing the first movie (12.5) to the second round of bowling (10) she
+ would go to the movie spending an additional $8 and a total of $12.
+ The decision is a little harder.
+ Holly has eight dollars still to spend and the marginal utility per dollar
+ is the same for each good.
+ If she chooses the movie she will spend all eight dollars, but if she goes
+ bowling she will spend four dollars and still have four to spend.
+ We have assumed that she wants to spend all her money and gains no utility
+ from holding the cash.
+ Since she can’t afford to buy another movie but would instead by a third
+ round of bowling, which only has a marginal utility per dollar of 7.5.
+ Thus we see that to maximize her utility, she would purchase one round
+ of bowling and two movies giving her a total utility of (60 + 100 + 80)
+ = 240.
+ Recall our decision rule is to have the marginal utility per dollar spent
+ on the last items be the same for all goods.
+ In this case, we are unable to have that exactly but we try to get as close
+ as possible.
+ There is no other combination that would give us greater utility given
+ our income.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_11.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Deriving Demand
+\end_layout
+
+\begin_layout Standard
+Knowing how the consumer behaves allows us to derive a demand curve.
+ Let’s say that Suzette eats either an apple or an orange as a snack.
+ She has $12 to spend.
+ Given that each fruit costs two dollars, she will maximize her utility
+ by purchasing 3 apples and 3 oranges.
+ If we are looking at the demand for oranges, this will give us one point
+ on the demand curve.
+ At a price of $2.00, the quantity demanded of oranges is 3.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_12.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Recall that as we move along the demand curve, the only thing that changes
+ is the price of the good (ceteris paribus or holding all else constant).
+ If the price of oranges decreases to $1, the quantity of oranges demanded
+ increases to 6.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_13.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can plot the two points and create a demand curve for oranges.
+ At a price of $2 the quantity demanded is 3 and at a price of $1 the quantity
+ demanded is 6.
+ Recall that the demand curve reflects the marginal benefit or the willingness
+ to pay of the consumer.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_14.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The demand curve can be seen in the diamond-water paradox.
+ Why does water that is essential to sustain life cost so much less than
+ diamonds that are atheistically pleasing, but are relatively unnecessary?
+ Recall that price reflects the scarcity of a good.
+ Overall, the supply of water is relatively abundant while the supply of
+ diamonds is relatively limited.
+ Thus the price we pay for water is low compared to the price of diamonds.
+ 
+\end_layout
+
+\begin_layout Standard
+Is it logical for someone who is maximizing his utility to purchase both
+ water and diamonds? When deciding what to purchase we compare the marginal
+ utility divided by the price.
+ With lots of water consumption, the total utility of water is very large
+ but the marginal utility of the last gallon consumed is relatively low.
+ Few diamonds are purchased so while the marginal utility is very large,
+ say the diamond ring you just purchased for your future spouse, the total
+ utility is low since few diamonds are purchased.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_15.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+How Businesses React
+\end_layout
+
+\begin_layout Standard
+Knowing that individuals experience diminishing marginal utility, how do
+ businesses react? Recall that consumer surplus is the area below the demand
+ curve but above the price.
+ Think of some examples of how businesses react given the law of diminishing
+ marginal utility.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_16.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One example is the price per unit based on package size.
+ An ice cream store has three different serving sizes - a 6, 10, and 12
+ ounce cup.
+ The price of the smallest size, "Like It," is $4.29 or 71.5 cents per ounce.
+ For just 32 cents more, one can have four more ounces, "Love It," making
+ the marginal cost per ounce 8 cents and the average cost per ounce 46 cents.
+ Upgrading to the "Gotta Have It" size adds an additional two ounces with
+ only 15.5 cents per ounce more and an average cost per ounce of only 41
+ cents.
+ Certainly the large size is cheaper per ounce, but not everyone wants to
+ eat that large of a serving.
+ For those only wanting a small serving, the store takes advantage of their
+ greater willingness to pay for that portion size.
+ Whether its ice cream, eggs, milk, popcorn, or cereal, it is common practice
+ to charge a higher price per unit for a smaller package size.
+ However it pays for consumers to do the math since businesses will at times
+ charge a higher price on the larger packages size.
+ If customers believe that bigger is always cheaper and fail to do the math,
+ they may get caught paying a higher price per unit.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_17.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Services often follow a similar pricing scheme with lower average prices
+ for more frequent attendance.
+ For example, below are the prices for the “hopper pass” at Disneyland.
+ Tickets to sporting events follow a similar pricing approach with the per
+ game price being lower if multiple games are purchased, such as the season
+ pass.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_18.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Consider this example.
+ You are on a long airplane ride, seated next to an eccentric looking woman
+ and a businessman.
+ Halfway into the flight, the woman says to you and the businessman, that
+ she is very rich and bored of flying.
+ To break up the monotony, she offers you and the businessman a chance to
+ split $5,000.
+ The rules are as follows: the businessman makes an offer of how to split
+ the money and you either accept or reject.
+ If you accept, you get the agreed upon split.
+ If you don’t, you both get nothing.
+ This is a one time offer.
+ The businessman thinks and offers the following split $4,995 for him and
+ $5 for you.
+ Do you accept or reject the offer? Why?
+\end_layout
+
+\begin_layout Standard
+The answer to these questions will vary among individuals.
+ Some will accept stating they have five dollars more than they did before.
+ Others will reject the offer, saying that it is worth at least five dollars
+ to them to deny they businessman the $4,995.
+ Remember that when we talk about utility, it includes not only monetary
+ items but also the nonmonetary.
+\end_layout
+
+\begin_layout Standard
+In The Theory of Moral Sentiments, Adam Smith wrote: "How selfish soever
+ man may be supposed, there are evidently some principles in his nature
+ which interest him in the fortune of others and render their happiness
+ necessary to him though he derives nothing from it except the pleasure
+ of seeing it.” Remember that utility is derived from many different areas
+ including service and philanthropic acts.
+ 
+\end_layout
+
+\begin_layout Subsection
+Indifference Curves
+\end_layout
+
+\begin_layout Standard
+Indifference curves and budget constraints allow for a more in-depth analysis
+ of demand.
+ For modeling purposes we will look at the two goods.
+ An indifference curve shows the different combinations of the two goods
+ that yield the same level of utility, independent of the price of the goods.
+ Due to the law of diminishing marginal utility, the indifference curve
+ between the two goods is convex to the origin.
+ All combinations of the two goods (pizza and shakes) that are on the indifferen
+ce curve (A, B, and C) yield the same level of utility, say Utility = 100.
+ Having more of good, yields a higher level of utility (combination D) and
+ having less of the goods yields a lower level of utility (combination E).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_02.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An indifference curve map shows the family of indifference curves.
+ There could be an infinite number of indifference curves that would reflect
+ the level of utility at different combinations of the two goods.
+ Just as a line on a topographical map indicates the different points that
+ are at the same elevation, the different points along an indifference curve,
+ indicate that same level of utility.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Topographic_map_example.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Source: U.S.
+ Geological Survey
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_03.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Marginal Rate of Substitution
+\end_layout
+
+\begin_layout Standard
+The marginal rate of substitution is the slope of the curve and measures
+ the rate at which the consumer would be willing to give up one good for
+ the other while maintaining the same level of utility.
+ Thus the marginal rate of substitution reflects the ratio of marginal utilities
+ between the two goods.
+ 
+\end_layout
+
+\begin_layout Standard
+For example, at point A, the consumer would be willing to trade one shake
+ for one additional slice of pizza.
+ At point B, the consumer already has a lot of pizza but few shakes so the
+ marginal utility from an additional pizza is relatively lower and the marginal
+ utility from the shake he would have to give up would be relatively large,
+ thus to maintain the same level of utility he would have to gain 3 pizzas
+ to willingly give up one half a shake.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_04.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Since any combination of the two goods will only yield one level of utility
+ at a particular point in time, indifference curves will never cross each
+ other.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_05.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Budget Constraint
+\end_layout
+
+\begin_layout Standard
+The budget constraint indicates the combinations of the two goods that can
+ be purchased given the consumer’s income and prices of the two goods.
+ The intercept points of the budget constraint are computing by dividing
+ the income by the price of the good.
+ For example, if the consumer had $8 to spend and the price of pizza was
+ $2 and shakes were $1, then the consumer could buy four pizzas ($8/$2)
+ or eight shakes ($8/$1).
+ Any combination of the two goods that are on or beneath the budget constraint
+ are affordable, while those to the outside (farther from the origin) are
+ unaffordable.
+ 
+\end_layout
+
+\begin_layout Standard
+A greater income will cause a parallel shift rightward of the budget constraint
+ while a decrease in income will cause a parallel shift leftward.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_06.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Changing the prices of the goods changes the slope of the budget constraint.
+ If the consumer’s income is $8 and the price of pizza is $2 and the price
+ of shakes is $1, then the budget constraint would be BC1.
+ If the price of pizza drops to $1, then the budget constraint would rotate
+ out on the x-axis to BC2.
+ Alternatively, if the price of shakes increased to two dollars then the
+ budget constraint would become BC3.
+\end_layout
+
+\begin_layout Standard
+The slope of the budget constraint is the negative ratio of the prices (-Px/Py).
+ For example, given the price of pizza (on the x-axis) is $2 and the price
+ of shakes (on the y-axis) is $1, then the slope of the budget constraint
+ would be -2.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_07.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Utlity Maximization
+\end_layout
+
+\begin_layout Standard
+Given the goal of consumers is to maximize utility given their budget constraint
+s, they seek that combination of goods that allows them to reach the highest
+ indifference curve given their budget constraint.
+ This occurs where the indifference curve is tangent to the budget constraint
+ (combination A).
+ Note that combinations B and C cost the same amount as A; however, A is
+ on a higher indifference curve.
+ Combination D yields that same utility as C and B but doesn’t use all of
+ the income, thus the consumer can increase utility by consuming more.
+ Combination E is preferred to combination A, but is unattainable given
+ the budget constraint.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_08.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We previously mentioned that utility is maximized where the marginal utility
+ per dollar spent is the same for each of the goods.
+ At the point where the indifference curve is tangent to the budget constraint,
+ the slope of the indifference curve which is the ratio of marginal utilities
+ (-MUx/Muy) is equal to the slope of the budget constraint (- Price x /
+ Price y).
+ This equation can be rewritten to show that the marginal utility per dollar
+ spent will be the same for both goods.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_09.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The demand curve can be derived from the indifference curves and budget
+ constraints by changing the price of the good.
+ For example, if the price of pizza is $4, the quantity demanded of pizza
+ is two.
+ If the price of pizza decreases, the budget constraint becomes flatter
+ and the consumer can purchase more pizza, say the price of pizza drops
+ to $2 and consumer purchases 4 units.
+ If the price drops to $1.33, the quantity demanded increases to 5.
+ Plotting each of the price and quantity demanded points creates the demand
+ curve for pizza.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_10.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Income and Substitution Effects
+\end_layout
+
+\begin_layout Standard
+When discussing why the demand curve is downward sloping, we outlined the
+ substitution effect and income effect.
+ We can observe the changes in quantity demanded along the demand curve
+ due to the change in price; however, the indifference curves and budget
+ constraints can help us analyze the size of the income and substitution
+ effects.
+ 
+\end_layout
+
+\begin_layout Standard
+For example, say the consumers income is $15 and the price of apples is
+ $1 and the price of oranges is $3.
+ At these prices the consumer purchases six apples and three oranges.
+ When the price of oranges falls to $1, the consumer purchases eight apples
+ and seven oranges.
+ Thus on the demand curve for oranges, the consumer purchases three oranges
+ when the price is three dollars and seven oranges when the price is one
+ dollar.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_11.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Bringing the new budget constraint back to the original indifference curve
+ allows us to break down the income and substitution effects.
+ Since the slope of the budget constraint reflects the ratio of prices,
+ the substitution effect is the increase in the number of oranges that would
+ be purchased given the new prices, while staying on the original indifference
+ curve that is moving from point A to point B.
+ The movement from point B to point C is the income effect, the additional
+ consumption of oranges due to the increased purchasing power.
+ With a decrease in the price of oranges, the relative price of apples has
+ increased and fewer apples would be consumed due to the substitution effect;
+ however, due to increased purchasing power, more apples are purchased as
+ well as more oranges.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_12.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Recall from our elasticity discussion that the income elasticity for an
+ inferior good is negative.
+ For example, as income rises the demand for used clothing decreases.
+ Looking at second-hand clothing on the x-axis, as the price declines the
+ substitution will be positive (movement from point A to point B); however,
+ the income effect (movement from B to C) will be negative.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_13.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Extreme Cases
+\end_layout
+
+\begin_layout Standard
+When examining indifference curves and budget constraints, we can look at
+ a few extremes.
+ One extreme case would be if the two goods are perfect complements.
+ For example, you do not get additional satisfaction from having another
+ right shoe, unless you have a left shoe to go with it.
+ In the case of perfect complements, you always consume at the minimum combinati
+on of the two goods.
+ 
+\end_layout
+
+\begin_layout Standard
+Another extreme is perfect substitutes.
+ You purchase paper in either the 100 or 200 sheet packs and only value
+ the number of sheets.
+ You are indifferent between having two one-hundred sheet packages or one
+ two-hundred sheet package.
+ In the case of perfect substitutes, there are three different outcomes
+ that will maximize utility.
+ If the price of one package, yields a lower per sheet cost, the consumer
+ will buy only that good, so consumption will take place at one of the two
+ intercepts.
+ The third outcome is when the budget constraint has the same slope as the
+ indifference curve.
+ In this case, any combination along the budget constraint will yield the
+ same level of utility.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_14.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Government Food Stamps Example
+\end_layout
+
+\begin_layout Standard
+Why does the government give welfare recipients food stamps instead of cash?
+ Why are food stamps sold on the black market for a discount? Let’s assume
+ a person has $75 of income and receives $75 of food stamps from the government.
+ For simplicity, we will assume that the price of each unit of food and
+ the price of clothing are each one dollar.
+ The budget constraint allows the consumer to purchase up to 150 units of
+ food, but since food stamps can only be used to purchase food, the consumer
+ is limited to only being able to purchase 75 units of other items.
+ 
+\end_layout
+
+\begin_layout Standard
+The amount of food and other goods, the individual will purchase depends
+ on the shape of his indifference curve.
+ Provided that the person spends at least 75 dollars on food, he is not
+ constrained by receiving food stamps instead of cash.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_15.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Unfortunately, for those individuals with strong addictions, such as cigarettes
+ or alcohol, their indifference curves reflect the greater value received
+ from the addict substance.
+ Since food stamps only apply to purchasing food, the consumer is not able
+ to get as much utility and is restricted to point A.
+ If the food stamps had been in the form of cash, the consumer would have
+ purchased 40 units of food and 110 units of alcohol, point B, which would
+ yield a higher level of utility.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_16.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If the consumer could convert a portion of the food stamps to cash, even
+ at a discount, he would be able to reach a higher indifference curve.
+ Assume that he can trade food stamps on the black market for 50 cents on
+ the dollar which extends his budget constraint increasing the amount of
+ alcohol that can be purchased.
+ Selling food stamps at a discount allows the consumer to move to point
+ C, which yields a higher utility than point A.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_17.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can also model why individuals purchase items today and carry the debt
+ on their credit cards paying a high interest rate.
+ For example, let’s say the price of each good is $1.
+ Assume Will has $100 of income which he could spend today or invest the
+ money and receive $150 in the future.
+ By waiting, Will would have a greater purchasing power, but his consumption
+ bundle will depend on his preferences.
+ If he has a strong preference for having consumption today, he would be
+ willing to pay a higher price for those goods today.
+ The same is true for those who buy items on credit.
+ They are willing to pay the purchase price plus all the interest, so that
+ they can have it today (so the indifference curve touches the budget constraint
+ at a point closer to the x-axis as seen in the figure).
+ 
+\end_layout
+
+\begin_layout Standard
+Similarly, some individuals are willing to pay to go to the expensive theaters
+ to see a movie when it is first released.
+ Others will wait until it comes to the cheap theaters or even until it
+ comes out on DVD/Blu-ray.
+ Although individuals are paying for the “movie experience” and not just
+ the film itself, we can see the time preferences of individuals and the
+ price differentials over time (as represented by different placements of
+ the indifference curves).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_18.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Supply and Demand Curves ( Understanding Price and Quantity in the Marketplace
+ )
+\end_layout
+
+\begin_layout Standard
+Why do parents – and stores – behave this way? The answer is in the laws
+ of supply and demand.
+ Together, these laws give us strong clues about what to produce, how much
+ to produce, and how much to charge.
+ Because supply and demand play such a central role in our economy, it's
+ important to understand how they operate – and how you can use them to
+ analyze decisions about price and quantity.
+\end_layout
+
+\begin_layout Subsection
+The Law of Demand
+\end_layout
+
+\begin_layout Standard
+Demand, in economic terms, shows how much of a product consumers are willing
+ to purchase, at different price points, during a certain time period.
+\end_layout
+
+\begin_layout Standard
+After all, we all have limited resources, and we all have to decide what
+ we're willing and able to purchase – and at what price.
+ As an example, let's look at a simple model of the demand for a good –
+ let's say, gasoline.
+ (Note that this example is illustrative only, and not a description of
+ the real gasoline market.)
+\end_layout
+
+\begin_layout Standard
+If the price of gas is $2.00 per liter, people may be willing and able to
+ purchase 50 liters per week, on average.
+ If the price drops to $1.75 per liter, they may be able to buy 60 liters.
+ At $1.50 per liter, they may be prepared to purchase 75 liters.
+ Note that while some gas usage is essential – driving to work, for example
+ – some use is optional.
+ Therefore, as gas prices drop, people may choose to make more optional
+ trips during weekends, and so on.
+\end_layout
+
+\begin_layout Standard
+The resulting demand schedule for gas might look like this.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-1.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This schedule, and probably your own experience as a consumer, illustrates
+ the law of demand: as price falls, the corresponding quantity demanded
+ tends to increase.
+ Since price is an obstacle, the higher the price of a product, the less
+ it is demanded.
+ When the price is reduced, demand increases.
+\end_layout
+
+\begin_layout Standard
+So, there is an "inverse" relationship between price and quantity demanded.
+ When you graph the relationship, you get a downward-sloping line, like
+ the one shown in figure 1, below:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-2.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To create a market demand curve for gasoline, individual demand is totaled
+ and combined.
+\end_layout
+
+\begin_layout Subsection
+Price Elasticity
+\end_layout
+
+\begin_layout Standard
+The extent to which demand changes with price is known as "price elasticity
+ of demand."
+\end_layout
+
+\begin_layout Standard
+Inelastic products tend to be those that people must have, but they use
+ only a fixed quantity of it.
+ Electricity is an example: if power companies lower the price of electricity,
+ consumers may be happy, but they probably won't use a lot more power in
+ their homes, because they don't need much more than they already use.
+ However, demand for luxury goods, such as restaurant meals, is extremely
+ elastic – consumers quickly choose to stop going to restaurants if prices
+ go up.
+\end_layout
+
+\begin_layout Standard
+Price elasticity also affects supply.
+ Products with an inelastic supply usually have a long lead time, with little
+ control over the quantity produced.
+ Farm crops are one example, because if there's a price change, farmers
+ can't decide halfway through the growing season to produce more or less
+ of a certain crop.
+ On the other hand, products with a high elasticity of supply tend to come
+ from industries that can change their production levels more quickly –
+ for example, oil (although the oil industry may be operating close to full
+ capacity, right now.).
+\end_layout
+
+\begin_layout Subsection
+The Law of Supply
+\end_layout
+
+\begin_layout Standard
+While demand explains the consumer side of purchasing decisions, supply
+ relates to the producer's desire to make a profit.
+ A supply schedule shows the amount of product that suppliers are willing
+ and able to produce and make available to the market, at specific price
+ points, during a certain time period.
+ In short, it shows us the quantities that suppliers are willing to offer
+ at various prices.
+\end_layout
+
+\begin_layout Standard
+This happens because suppliers tend to have different costs of production.
+ At a low price, only the most efficient producers can make a profit, so
+ only they produce.
+ At a high price, even high cost producers can make a profit, so everyone
+ produces.
+\end_layout
+
+\begin_layout Standard
+Using our gasoline example, we find that oil companies are willing and able
+ to supply certain amounts of gas at certain prices, as seen below.
+ (Note: we've assumed a simple economy in which gas companies sell directly
+ to consumers.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-3.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At a low price of $1.20 per liter, suppliers are willing to provide only
+ 50 liters per consumer per week.
+ If consumers are willing to pay $2.15 per liter, suppliers will provide
+ 120 liters per week.
+ The question is this: what prices are needed to convince producers to offer
+ various quantities of a product or service?
+\end_layout
+
+\begin_layout Standard
+As price rises, the quantity supplied rises as well.
+ As price falls, so does supply.
+ This is a "direct" relationship, and the supply curve has an upward slope.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-4.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Because suppliers want to provide their products at high prices, and consumers
+ want to purchase the products at low prices, how is the price of goods
+ actually set? Let's go back to our gas example.
+ If oil companies try to sell their gas at $2.15 per liter, do you think
+ they'll sell as much? Probably not.
+ Yet, if oil companies lower the price to $1.20 per liter, consumers will
+ be very happy, but will there be enough profit? And furthermore, will there
+ be enough supply to meet the higher demand by consumers? No, and no again.
+\end_layout
+
+\begin_layout Standard
+To determine the price and quantity of goods in the market, we need to find
+ the price point where consumer demand equals the amount that suppliers
+ are willing to supply.
+ This is called the market "equilibrium."
+\end_layout
+
+\begin_layout Subsection
+Equilibrium: Where Supply Meets Demand
+\end_layout
+
+\begin_layout Standard
+Equilibrium is the point where the quantity demanded equals the quantity
+ supplied.
+ This means that there's no surplus of goods and no shortage of goods.
+ A shortage occurs when demand is greater than supply – in other words,
+ when the price is too low.
+ A surplus occurs when the price is too high, and therefore consumers don't
+ want to buy the product.
+\end_layout
+
+\begin_layout Standard
+The great thing about the free market system is that prices and quantities
+ tend to move toward equilibrium and, for the most part, keep the market
+ stable.
+\end_layout
+
+\begin_layout Standard
+Consider our example.
+ At $1.20 per liter, consumer demand exceeds supply, and there's a shortage
+ of gas in the market.
+ Shortages tend to drive up the price, because consumers compete to purchase
+ the product.
+ However, when prices go up too much, demand decreases, even though the
+ supply may be available.
+ Consumers may start to purchase substitute products, or they simply may
+ not purchase anything.
+ This creates a surplus.
+ To eliminate the surplus, the price goes down and consumers start buying
+ again.
+ In this manner, equilibrium is usually maintained quite efficiently.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-5.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In our gas example, the market equilibrium price is $1.50, with a supply
+ of 75 liters per consumer per week, as shown in figure 3.
+\end_layout
+
+\begin_layout Standard
+Market equilibrium explains movement along the supply and demand curves.
+ However, it doesn't explain changes in total demand and total supply.
+\end_layout
+
+\begin_layout Subsection
+Changes in Demand and Supply
+\end_layout
+
+\begin_layout Standard
+A change in price initially results in a movement along a demand or supply
+ curve, and it leads to a change in the quantity demanded or supplied.
+\end_layout
+
+\begin_layout Standard
+But what happens when there's a long-term change in price?
+\end_layout
+
+\begin_layout Standard
+If consumers are faced with an extreme change in the price of gas, their
+ pattern of demand for gas changes.
+ They not only start choosing different types of transportation – like taking
+ the bus or riding a bicycle to work – but they also start buying more gas-effic
+ient vehicles – like compact cars, motorcycles, or scooters.
+ The effect is a major change in total demand and a major shift in the demand
+ curve.
+ The new schedule for demand is now Demand 2, shown below.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-6.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You can see this in the graph in figure 4, below.
+ At each price point, the total demand is less, and the demand curve shifts.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-7.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Changes in any of the following factors can typically cause demand to shift:
+\end_layout
+
+\begin_layout Standard
+Consumer income.
+ 
+\end_layout
+
+\begin_layout Standard
+Consumer preference.
+ 
+\end_layout
+
+\begin_layout Standard
+Price and availability of substitute goods.
+ 
+\end_layout
+
+\begin_layout Standard
+Population.
+ 
+\end_layout
+
+\begin_layout Standard
+With a shift in demand, the equilibrium point also completely shifts.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-8.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The same type of shift can occur with supply.
+ If the price of drilling for and refining gas increases, or if political
+ events cause suppliers to decrease their output, the supply curve can move.
+ The result is that for the same price, the quantity supplied will be either
+ higher or lower than the current supply curve.
+\end_layout
+
+\begin_layout Standard
+A common complaint with the oil and gas industry is that suppliers deliberately
+ manipulate price by shifting the supply curve.
+ The result is an equilibrium price that's higher and at a lower quantity,
+ as in the following example.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-9.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Figure 5, below, shows the curves that result from this schedule.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-10.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When supply decreases, the supply curve shifts to the left.
+ When supply increases, the supply curve shifts to the right.
+\end_layout
+
+\begin_layout Standard
+Changes in supply can result from events like the following:
+\end_layout
+
+\begin_layout Standard
+Change in production costs.
+ Improved technology that makes production more efficient.
+ Industry growth and shrinkage.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Key Points
+\end_layout
+
+\begin_layout Standard
+Although the phrase "supply and demand" is commonly used, it's not always
+ understood in proper economic terms.
+ The price and quantity of goods and services in the marketplace are largely
+ determined by (a) consumer demand and (b) the amount that suppliers are
+ willing to supply.
+\end_layout
+
+\begin_layout Standard
+Demand and supply can be graphed as curves – and the two curves meet at
+ the equilibrium price and quantity.
+ The market tends to naturally move toward this equilibrium – and when total
+ demand and total supply shift, the equilibrium moves accordingly.
+ It's an interesting relationship that determines much of what happens in
+ a free market economy.
+ If you understand how these factors influence pricing, supply, and purchasing
+ decisions, it will help you analyze the market and make better price and
+ supply decisions for your company.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Apply This to Your Life
+\end_layout
+
+\begin_layout Standard
+Consider these questions in relation to your life and business:
+\end_layout
+
+\begin_layout Standard
+Are your production costs higher or lower than those of your competitors?
+ What does this mean for your business if supply or demand curves shift?
+ Are you charging as much as you could for your product, particularly if
+ demand is strong and supply is weak? Conversely, are you charging too much?
+ Are you paying too much for your inputs, particularly if demand for these
+ inputs is weakening? If demand for your inputs is likely to strengthen,
+ or supply weaken, in the future, how can you protect yourself against this?
+ Are there any other questions you should be asking yourself as a result
+ of knowing about supply and demand curves, equilibria, and shifts in supply
+ and demand curves? 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "Bibliography/CC/CSS/economics"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+printbibliography
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Marketing
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Marketing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Consumer Marketing
+\end_layout
+
+\begin_layout Standard
+For doing consumer marketing first of all the organization should have funds.
+ 
+\end_layout
+
+\begin_layout Standard
+In case of sufficient funds, depending on budget, one can go for
+\end_layout
+
+\begin_layout Standard
+1.
+ TV Channels for Advertisement
+\end_layout
+
+\begin_layout Standard
+2.
+ Newspapers
+\end_layout
+
+\begin_layout Standard
+3.
+ Radio
+\end_layout
+
+\begin_layout Standard
+4.
+ Phone Calls
+\end_layout
+
+\begin_layout Standard
+5.
+ Door to door visits by sales members.
+\end_layout
+
+\begin_layout Standard
+6.
+ Pamphlets and Street Stickers ( Although this has been declared illegal
+ some time before while my brother was in full form and me in small case
+ was practicing via this way and no other way.
+ It led to friction with the govt.
+ and my subsequent captivation by the mental asylum of Chandigarh.
+ Although I now don't remember which govt.
+ was present during that time when my pamphlets and street stickers were
+ declared illegal .
+ I was married with wife staying with me and finding it difficult to fulfill
+ her needs in terms of money and govt.
+ ( or say the local adminsitration ) was making it more difficult for me
+ to satisfy her.
+ She was not working ofcourse.
+ ).
+ It seems there were miscreants out there with dirty eye on my wife.
+ But the question which arises whether they have a real eye and how long
+ would they not get a real eye.
+ Interstingly Amit pasted a street sticker outside our house speaking something
+ about mahamurkh, probably telling about himself.
+ It can be congress , it can be shopkeeprs or their BJP , it can be bhapas.
+ Many contenders of the competition.
+ Whoever did it would be thrown out of India.India is my body itself.
+ There are organs, bones, inside my body but then waste also accumulates
+ down to my stomach in the intestine and in the bladder which needs to be
+ excreted or uninated from time to time.
+ It is in reality those people who exist as waste inside my body, those
+ who say lies like it's illegal to post pamphlets or street stickers and
+ also add shit to my food if serving food somewhere and when these people
+ are excreted from my body(ie india) can be seen inside the sevage tank.
+ And the real problem is that they know that they are shit or urine in reality
+ or the third form, the fart and don't shy away from doing such tantrums.And
+ it's also known that no legitimate resident of India would ever be a traitor
+ of this kind and these people which are being thrown out of india as waste
+ are probably not worth earth and would probably grow as a miniature lifeforms
+ used as food by aliens as usually nobody on earth consumes shit, urine
+ or farts as a regular diet.
+ Usually I have set it a rule for myself that if somebody targets my son
+ manas, i'd let him defend his own self.
+ If somebody targets my limp brother however, he/she would pay serious price.
+ Mom has given all my ideology or the ethical understanding of the world.
+ Though a very clever person herself and a cheapster, I have always kept
+ her at a higher position than my wife.
+\end_layout
+
+\begin_layout Chapter
+Industrial Marketing
+\end_layout
+
+\begin_layout Standard
+When a large organization builds some product, it nees to sell it either
+ to the general public or the secondary industry dependent on it.
+ The industrial ingredient produced by the organization can be large and
+ expensive or small and cheap or various combinations.
+ Moreover there can be organizaitons importing semi finished products form
+ as many as 100 or more different industries.
+ There is no upper and lower limit to how many input sourses of semi finished
+ products can be required for one product of the organization.
+ 
+\end_layout
+
+\begin_layout Chapter
+Services Marketing
+\end_layout
+
+\begin_layout Standard
+I'll have to search the internet or see some courses , kindly keep open
+ to furthur editions of the book.
+\end_layout
+
+\begin_layout Part
+Civil Administration
+\end_layout
+
+\begin_layout Chapter
+Police Services
+\end_layout
+
+\begin_layout Section
+Police in Countries other than India
+\end_layout
+
+\begin_layout Subsection
+LAPD of America
+\end_layout
+
+\begin_layout Standard
+We see them in the movies, slightly bad dressed than the FBI .
+ In the Rambo movie we saw them in bad light.
+ In Matrix, not doint much and not strong too.
+ However, they are the common law enforcing agency in the US.
+\end_layout
+
+\begin_layout Subsection
+NLEA of Britain
+\end_layout
+
+\begin_layout Standard
+We see them in the british movies and recently in news was one Brit Officer
+ who targetted the three attackers with his batton , stopped them but was
+ hit in the face with a knife.
+ But definitly not like the MI-6 James bond we see in 007 movies.
+\end_layout
+
+\begin_layout Section
+Indian Police
+\end_layout
+
+\begin_layout Standard
+I encountered the Chandigarh police and somewhat the Hydrabad police .
+ With one or two (probably rajput guys) misbehaving with me in the police
+ everywhere, others stay calm and don't see me as a target.
+ However the local people don't see them as very nice people .
+\end_layout
+
+\begin_layout Section
+Punjab Police 
+\end_layout
+
+\begin_layout Standard
+The most strict of the Police forces in India, led to the end of militancy
+ completely and now maintaining peace properly too.
+ 
+\end_layout
+
+\begin_layout Chapter
+Administration Services
+\end_layout
+
+\begin_layout Section
+Indian Foreign Services
+\end_layout
+
+\begin_layout Standard
+They usually take care of all the inter-nation diplomatic talks.
+ Usually as the team of the Ambassador.
+\end_layout
+
+\begin_layout Section
+IAS
+\end_layout
+
+\begin_layout Standard
+Though they see themselves as the rulers of India, I don't have a very good
+ feeling about them.
+ One Rajat Saini at IIT Delhi, praised them but they don't appear to be
+ that good a stuff to discuss here.
+ However , recently there was a case too in chandigarh, with an IAS's daughter
+ of Chandigarh taking stand against a minister's son (of Haryana) for eve
+ teasing, there are still higher importance cases like the 10 and 12 year
+ old girls rape cases pending in the court of law to which chandigarh should
+ look forward to for proper justice.
+\end_layout
+
+\begin_layout Section
+Engineering Services 
+\end_layout
+
+\begin_layout Standard
+They are very popular amongst indian masses, e.g.
+ after the complete revamp of IAS exam, which doesn't ask any technical
+ questions now.
+ The IES exams ask for the complete Engineering you have studied with an
+ IPS/IAS like interview.
+ However, critics to this exam comment and question whether an Engineer
+ can ever be a real administrator or he should prefer PHD and join as a
+ Professor somewhere.
+ However , this is a usefull exam one can look forward to if he/she has
+ both technical/admistration aptitude.
+\end_layout
+
+\begin_layout Part*
+Sociology
+\end_layout
+
+\begin_layout Part
+The Market
+\end_layout
+
+\begin_layout Chapter
+The Indian Context
+\end_layout
+
+\begin_layout Section
+Eatables (Kiryana, Mandi, Halwai, Confectionary and Restuarants)
+\end_layout
+
+\begin_layout Subsection
+Unprocessed
+\end_layout
+
+\begin_layout Standard
+Wheat or other grains in cereal form.
+\end_layout
+
+\begin_layout Subsection
+Semi-Processed ( For furthur processing at home )
+\end_layout
+
+\begin_layout Standard
+Wheat Flour
+\end_layout
+
+\begin_layout Standard
+Rice
+\end_layout
+
+\begin_layout Standard
+Vegetables
+\end_layout
+
+\begin_layout Standard
+Dals
+\end_layout
+
+\begin_layout Subsection
+Ready to Eat
+\end_layout
+
+\begin_layout Subsubsection
+Ice Creams , Flavoured Milk
+\end_layout
+
+\begin_layout Standard
+Amul and Mother Dairy are the popular National Brands.
+ Verka is the local brand available in Chandigarh and parts of Punjab.
+\end_layout
+
+\begin_layout Part
+The Media
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+The Media
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+International News Channels
+\end_layout
+
+\begin_layout Section
+CNBC
+\end_layout
+
+\begin_layout Standard
+It has a Divya Sharma (My top student at Alpha Classes) Lookalike Anchor
+ and mostly dicussing Business.
+\end_layout
+
+\begin_layout Section
+CNN
+\end_layout
+
+\begin_layout Standard
+It's not available in the Channels present in our Airtel Digital Tv Subscription
+ although earlier when Digital TV hadn't been a norm , it used to come on
+ our TV.
+\end_layout
+
+\begin_layout Section
+MSN News (via windows e-print media)
+\end_layout
+
+\begin_layout Standard
+Very Elaborative.
+ It's an experience , but then sometimes windows people start demanding
+ upgrade to windows 10 killing all our news updates and games with closeure
+ of windows store.
+ 3 of my PC's had original Windows, one of them gifted to my wife, other
+ now with my brother and this is something of a sort showing that I am a
+ rich person.
+ However her other PC via HCL didn't have original windows.
+ Apart from it my Macbook Air had orgininal Operating system too.
+ It appears that as a system rule, if somebody uses a pirated software,
+ it's normalized price needs to be paid to the software owners during system
+ audit.
+ So, with lots of people using Microsoft Office, Photoshop etc softwares
+ would be audited when a System Audit Cheque is accepted anywhere into the
+ System.
+ And people don't fear being audited too, they say we are not afraid to
+ pay the price as it would be lesser than what it is on the web if we buy
+ the original one under the agreement.
+ And mind you , Bill Gates is born rich due to the Microsoft Office Licences
+ Audit by the System.
+ As of today I am using all legal softwares with this document being written
+ in Open Source Lyx for Latex file editing as a word like environment.
+ Though my Reports at the time of my degree, i presented in hardcore latex,
+ however over the time , i have shifted to using the editor.
+ 
+\end_layout
+
+\begin_layout Chapter
+Prominent Indian News Channels
+\end_layout
+
+\begin_layout Section
+DD Broadcast ( accross various of its channels )
+\end_layout
+
+\begin_layout Section
+Aaj Tak
+\end_layout
+
+\begin_layout Standard
+Aajtak initially started with a small 2 to 4 minutes fast news on DD Metro
+ with brilliant team members and way ahead of it's times presentation.
+ Later it became a base for the Aam aadmi party as it's very brilliant members
+ like Ashutosh leaving reporting and goint to join the National Theme Party.
+ I don't know if the present day team of Aaj tak has any links with Aam
+ Aadmi Party or not.
+ Usually the channels with political bias lose their spirit in small run,
+ even in this special case when the party has emerged of this channel to
+ some extent.
+ News channels like ABP when they first came on TV, they were fast but it
+ was clear that they were party supportive with ABP supporting congress
+ and also defending it.
+ Though at one time it became my favourite News channel but i don't think
+ it deserves a mention here do to the issues of unclean nutrality.
+ 
+\end_layout
+
+\begin_layout Section
+Zee News
+\end_layout
+
+\begin_layout Standard
+They started as Zee TV, the only channel which used to come via the expensive
+ Cable Connection while DD (Doordarshan) Channels like Doordarshan, DD Jalandhar
+ , DD Metro (this required a special antenna) used to come free via the
+ antenna.
+ Then subsiquently more channels joined the bandwagon ,and side by side
+ Zee grew the number of it's channels.
+ Howevere, they were traditionally not a news channel but but had more of
+ saas bahu serials as their top item.
+\end_layout
+
+\begin_layout Subsection
+The Delimma
+\end_layout
+
+\begin_layout Standard
+It's presently the biggest news channel in terms of the Channel group's
+ infrastructure capable of covering the news of whole India and many places
+ of world, maintaining neutrality, keeping ethics too.
+ But somehow the news are non-chrispy non-masala mixed though good for a
+ person who wants to listen to true news but not much useful for someone
+ who wants to enjoy the telivision for say half an our to get a break from
+ work etc.
+ 
+\end_layout
+
+\begin_layout Section
+NDTV
+\end_layout
+
+\begin_layout Standard
+It was sued by the BJP , the present ruling party , for giving some controversia
+l news.
+\end_layout
+
+\begin_layout Section
+Other Smaller Channels
+\end_layout
+
+\begin_layout Standard
+Now there are lots of Channels with the word News in their name, covering
+ various segments of news.
+ They are playing as a group probably to fend from the larger fish in the
+ territory.
+\end_layout
+
+\begin_layout Part
+The Cream vs the bearers ( in Indian Context and beyond )
+\end_layout
+
+\begin_layout Chapter
+Introduction to the discussion 
+\begin_inset Quotes eld
+\end_inset
+
+The Cream vs the bearers
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+India starts with the President of India, the moral authority ( though a
+ low caste nowadays ) and then the Prime Minister , the authority on State's
+ Power .
+ And then we have the Cheif ministers looking after their individual territories.
+ Governers, Mayors etc.
+ Heads of Police.
+ etc people exist who are complete incharge of India.
+ But these people in total would be only a few thousands at the most as
+ far as india is concerned.
+ 
+\end_layout
+
+\begin_layout Standard
+Rest of the people, even the rich , the other politicians who are down in
+ the line, the businessmen ( although there is some negative perception
+ about the market , introduced by my mom to me) and the common masses ,
+ would come under the bearers banner IMO.
+\end_layout
+
+\begin_layout Part*
+Ecology
+\end_layout
+
+\begin_layout Part
+Possibility of Nuclear Holocaust and UN's non-proliferation treaty (which
+ India doesn't sign due to security concerns)
+\end_layout
+
+\begin_layout Chapter
+Pakistan vs India, Area of high sensitivity
+\end_layout
+
+\begin_layout Standard
+One major place where there can be a possible Nuclear war is the Pakistan
+ vs India , sensitive area.
+ From my meditation experience , I know that pakistan fires nuclear missile
+ on India in future but at that time India has sheldon shield, a type of
+ nuclear shield and the missile pollutes only pakistan area and not India's.
+ Later however many pakistanis cross to india in an attempt to find cleaner
+ area for survival , that's near the occourance of Kalki (Kalgi) Avtar near
+ 10000 AD in time(The attack probably occours in 8000-8500 AD).
+ 
+\end_layout
+
+\begin_layout Chapter
+Possibility of US using the nukes again , low
+\end_layout
+
+\begin_layout Standard
+It has been criticized hugely for the bad lives of bomb victims in Japan.
+ Even as till our period the bomb victims's lives have not been extensively
+ filmed, but still there is some awareness in the educated world that the
+ bombs were indeed dropped on Japan.
+ Believe me, US doesn't want to play the bad guy again.
+ It has only kept few nukes for it's own protection and for maintining it's
+ watchdog reputation for the present world.
+ 
+\end_layout
+
+\begin_layout Chapter
+The Role of Sci-Fi (The Phoenix writeup in Xth book, World at arms game
+ by Gameloft, one MIT OCW Course etc.
+ SCI-FI stuff predicting the near future)
+\end_layout
+
+\begin_layout Section
+The Phoenix
+\end_layout
+
+\begin_layout Standard
+In the novel, the plot is such that the Nuclear Holocaust had already taken
+ place and one man Akshay ,who also has a good quality robot friend , survives
+ it with few other fellows and they are trying to unite.
+ And akshay , a good techie , somehow manages to get a branded screwdriver
+ from a fellow survivor and with it's use his robot starts behaving more
+ humanly and intelligently.
+ 
+\end_layout
+
+\begin_layout Section
+World at Arms
+\end_layout
+
+\begin_layout Standard
+The plot in the game is also after the Holocaust and in not very distant
+ future but probably after our lives we can hope so, maybe in the 2400's
+ .
+ So, there are small territories owned by groups of people at various places,
+ they either have the nuclear technology or can buy it for small size nuclear
+ attacks and moreover machines have been developing and turning into organic
+ bodies , playing their politics , so , kind of before the 
+\begin_inset Quotes eld
+\end_inset
+
+Matrix Movie
+\begin_inset Quotes erd
+\end_inset
+
+ plot in the game.
+ 
+\end_layout
+
+\begin_layout Section
+MIT OCW
+\end_layout
+
+\begin_layout Standard
+I haven't seen this course yet.
+ Other realisitic courses, I have started liking though, MIT, NPTEL,Coursera
+ , etc and even youtube offering plenty of good courses, I have watched
+ bits and pieces here and there but they are a huge knowledgestore.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

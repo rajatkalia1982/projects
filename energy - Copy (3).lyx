@@ -1,0 +1,312 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a3paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Previous Years IIT Problems
+\end_layout
+
+\end_inset
+
+Previous Years IIT Problems
+\end_layout
+
+\begin_layout Subsection*
+Single Answer
+\end_layout
+
+\begin_layout Description
+Example: A block of mass 2 kg is free to move along the x-axis.
+ It is at rest and from t=0 onwards it is subjected to a time-dependent
+ force F(t) in the x direction.
+ The force F(t) varies with t as shown in the figure.
+ The kinetic energy of the block after 4.5 seconds is
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/ImagesReduced/002.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+a) 4.50J
+\end_layout
+
+\begin_layout Quote
+b) 7.50J
+\end_layout
+
+\begin_layout Quote
+c) 5.06J
+\end_layout
+
+\begin_layout Quote
+d) 14.06J
+\end_layout
+
+\begin_layout Chapter
+Review Questions I
+\end_layout
+
+\begin_layout Standard
+Refer to the following information for the next thirteen questions.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "dev.physicslab.org"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A 5.0-kg mass is pushed along a straight line by a net force described in
+ the graph below.
+ The object is at rest at t = 0 and x = 0.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/0406768d-b992-4a57-9d87-a50f2b36ebc3.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+a) During which displacement interval was the object's acceleration uniform?
+ 
+\end_layout
+
+\begin_layout Standard
+b) What acceleration did the object experience when x = 10 meters? 
+\end_layout
+
+\begin_layout Standard
+c) How much work was done on the object during the first 20 meters? 
+\end_layout
+
+\begin_layout Standard
+d) How much kinetic energy did the object gain during the first 20 meters?
+ 
+\end_layout
+
+\begin_layout Standard
+e) What was the object's instantaneous velocity at x = 20 meters? 
+\end_layout
+
+\begin_layout Standard
+f) How much time was required to move it through the first 20 meters? 
+\end_layout
+
+\begin_layout Standard
+g) How much did the object's momentum change in the first 20 meters? 
+\end_layout
+
+\begin_layout Standard
+h) What was the object's instantaneous acceleration at x = 22 meters? 
+\end_layout
+
+\begin_layout Standard
+i) Why can't the kinematics equations for uniformly accelerated motion be
+ used to calculate the object's instantaneous velocity at x = 30 meters?
+ What method should be used? 
+\end_layout
+
+\begin_layout Standard
+j) How much work was done to move the object from 20 meters to 30 meters?
+ 
+\end_layout
+
+\begin_layout Standard
+k) What was the object's instantaneous speed at x = 30 meters? 
+\end_layout
+
+\begin_layout Standard
+l) What was the total impulse delivered to the object from x = 0 to x =
+ 30 meters? 
+\end_layout
+
+\begin_layout Standard
+m) What percent of the impulse was delivered in the last 10 meters? 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "Bibliography/CC/P-Graphs/4e/energyconservation"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+printbibliography
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

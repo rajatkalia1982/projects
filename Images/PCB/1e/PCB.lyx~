@@ -1,0 +1,5581 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extbook
+\use_default_options true
+\begin_modules
+endnotes
+foottoend
+logicalmkup
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Physics Cook Book
+\end_layout
+
+\begin_layout Author
+Rajat Kalia and Manas Kalia
+\end_layout
+
+\begin_layout Date
+1 May , 2019
+\end_layout
+
+\begin_layout Part*
+Electromagnetism
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Electric Charges and Fields
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 43
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 3 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 19 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 10 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 19 questions in total.
+ Questions 1 to 6 carry one mark each, questions 7 to 12 carry two marks
+ each, questions 13 to 17 carry three marks each and questions 18 to 19
+ carry five marks each.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Standard
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Why is it necessary that the field lines from a point charge placed
+ in the vicinity of a conductor must be normal to the surface of the conductor
+ at every point ?
+\end_layout
+
+\begin_layout Description
+Q2: Is the force acting between two point electric charges 
+\begin_inset Formula $q_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{2}$
+\end_inset
+
+ kept at some distance apart in air, attractive or repulsive when (i) 
+\begin_inset Formula $q_{1}q_{2}$
+\end_inset
+
+ > 0 (ii) 
+\begin_inset Formula $q_{1}q_{2}$
+\end_inset
+
+ < 0 ?
+\end_layout
+
+\begin_layout Description
+Q3: Figure shows three point charges +2q, –q and + 3q.
+ Two charges + 2q and –q are enclosed within a surface ‘S’.
+ What is the electric flux due to this configuration through the surface
+ ‘S’?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image2.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q4: In which orientation, a dipole placed in a uniform electric field is
+ in (i) stable, (ii) unstable equilibrium?
+\end_layout
+
+\begin_layout Description
+Q5: An electric dipole of dipole moment 
+\begin_inset Formula $20\times10^{\text{−}6}C.m$
+\end_inset
+
+ is enclosed by a closed surface.
+ What is the net flux coming out of the surface ?
+\end_layout
+
+\begin_layout Description
+Q6: An electrostatic field line cannot be discontinuous.
+ Why ?
+\end_layout
+
+\begin_layout Description
+Q7: Define Electric Flux.
+ Write its S.I.
+ Unit.
+\end_layout
+
+\begin_layout Description
+Q8: The sum of two point charges is 
+\begin_inset Formula $7\mu C$
+\end_inset
+
+.
+ They repel each other with a force of 1 N when kept 30 cm apart in free
+ space.
+ Calculate the value of each charge.
+\end_layout
+
+\begin_layout Description
+Q9: The electric field E due to a point charge at any point near it is defined
+ as 
+\begin_inset Formula $\underset{q\rightarrow0}{lim}\left(\dfrac{\mathbf{F}}{q}\right)$
+\end_inset
+
+ where q is the test charge and F is the force acting on it.
+ What is the physical significance of 
+\begin_inset Formula $\underset{q\rightarrow0}{lim}$
+\end_inset
+
+ in this expression ? Draw the electric field lines of a point charge Q
+ when (i) Q > 0 and (ii) Q < 0.
+\end_layout
+
+\begin_layout Description
+Q10: A spherical Gaussian surface encloses a charge of 
+\begin_inset Formula $8.85\times10^{-10}C$
+\end_inset
+
+ .
+ (i) Calculate the electric flux passing through the surface.
+ (ii) How would the flux change if the radius of the Gaussian surface is
+ doubled and why ?
+\end_layout
+
+\begin_layout Description
+Q11: Define 'electric line of force' and give its two important properties.
+\end_layout
+
+\begin_layout Description
+Q12: Three point charges of + 2μC, − 3μC and − 3μC are kept at the vertices,
+ A, B and C respectively of an equilateral triangle of side 20 cm as shown
+ in the figure.
+ What should be the sign and magnitude of the charge to be placed at the
+ mid-point (M) of side BC so that the charge at A remains in equilibrium
+ ?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename image3.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q13: A positive point charge (+ q) is kept in the vicinity of an uncharged
+ conducting plate.
+ Sketch electric field lines originating from the point on to the surfaceof
+ the plate.
+ Derive the expression for the electric field at the surface of a charged
+ conductor.
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Q14
+\series default
+: A thin conducting spherical shell of radius R has charge Q spread uniformly
+ over its surface.
+ Using Gauss's law, derive an expression for an electric field at a point
+ outside the shell.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Draw a graph of electric field 
+\series bold
+E
+\series default
+(r) with distance r from the centre of the shell for 
+\begin_inset Formula $0\leq r\leq\infty$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Q15
+\series default
+: Define the term 'electric dipole moment', Is it scalar or vector? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Deduce an expression for the electric field at a point on the equatorial
+ plane of an electric dipole of length 2a.
+\end_layout
+
+\begin_layout Description
+Q16: State Gauss's theorem in electrostatics.
+ Apply this theorem to derive an expression for electric field intensity
+ at a point near an infinitely long straight charged wire.
+\end_layout
+
+\begin_layout Description
+Q17:An electric dipole is held in a uniform electric field.
+ (i) Using suitable diagram, show that it does not undergo any translatory
+ motion, and (ii) derive an expression for the torque acting on it and specify
+ its direction.
+\end_layout
+
+\begin_layout Description
+Q18: (a) Using Gauss’ law, derive an expression for the electric field intensity
+ at any point outside a uniformly charge thin spherical shell of radius
+ R and charge densitys 
+\begin_inset Formula $\sigma C/m^{2}$
+\end_inset
+
+ .
+ Draw the field lines when the charge density of the sphere is (i) positive,
+ (ii) negative.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) A uniformly charged conducting sphere of 2.5m in diameter has a surface
+ charge density of 
+\begin_inset Formula $100mC/m^{2}$
+\end_inset
+
+ .
+ Calculate the (i) Charge on the sphere (ii) Total electric flux passing
+ through the sphere.
+\end_layout
+
+\begin_layout Description
+Q19: Define the term dipole moment 
+\begin_inset Formula $\overrightarrow{p}$
+\end_inset
+
+ of an electric dipole indicating its direction.
+ Write its SI unit.
+ An electric dipole is placed in a uniform electric field 
+\begin_inset Formula $\overrightarrow{E}$
+\end_inset
+
+.
+ Deduce the expression for the torque acting on it.
+ In a particular situation, it has its dipole moment aligned with the electric
+ field.
+ Is the equilibrium stable or unstable ?
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Electrostatic Potential and Capacitance
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 50
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 4 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 20 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 20 questions in total.
+ Questions 1 to 3 carry one mark each, questions 4 to 11 carry two marks
+ each, questions 12 to 18 carry three marks each and questions 19 to 20
+ carry five marks each.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Standard
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: What is the electrostatic potential due to an electric dipole at an
+ equatorial point ?
+\end_layout
+
+\begin_layout Description
+Q2: Derive the expression for the electric potential at any point along
+ the axial line of an electric dipole?
+\end_layout
+
+\begin_layout Description
+Q3: A 500 m C Charge is at the centre of a square of side 10cm.
+ Find the work done in moving a charge of 10 m C between two diagonally
+ opposite points on the square.
+\end_layout
+
+\begin_layout Description
+Q4: Draw 3 equipotential surfaces corresponding to a field that uniformly
+ increases in magnitude but remains constant along Z-direction.
+ How are these surfaces different from that of a constant electric field
+ along Z-direction ?
+\end_layout
+
+\begin_layout Description
+Q5: (i) Can two equipotential surfaces intersect each other? Give reasons.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(ii) Two charges - q and +q are located at points A (0, 0, -a) and B (0,
+ 0, +a) respectively.
+ How much work is done in moving a test charge from point P (7, 0, 0) to
+ Q (-3, 0, O)?
+\end_layout
+
+\begin_layout Description
+Q6: Figure shows a sheet of aluminium foil of negligible thickness placed
+ between the plates of a capacitor.
+ How will its capacitance be affected if 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image5.JPG
+	scale 60
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(i) the foil is electrically insulated? 
+\end_layout
+
+\begin_layout Standard
+(ii) the foil is connected to the upper plate with a conducting wire?
+\end_layout
+
+\begin_layout Description
+Q7: Three points A.
+ Band C lie in a uniform electric field (E) of 5 x 103 NC- 1 as shown in
+ the figure.
+ Find the potential difference between A and C.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image1.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q8: (a) Why does the electric field inside a dielectric decrease when it
+ is placed in an external electric field ? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) A parallel plate capacitor with air between the plates has a capacitance
+ of 8 pF.
+ What will be the capacitance if the distance between the plates be reduced
+ by half and the space between them is filled with a substance of dielectric
+ constant K = 6 ?
+\end_layout
+
+\begin_layout Description
+Q9: A parallel plate capacitor is to be designed with a voltage rating 1
+ kV using a material of dielectric constant 3 and dielectric strength about
+ 107 Vm—1.
+ For safety we would like the field never to exceed say, 10% of the dipole
+ strength.
+ What minimum area of the plates is required to have a capacitance of 50
+ pF ?
+\end_layout
+
+\begin_layout Description
+Q10: 4 μF capacitor is charged by a 200 V supply.
+ The supply is then disconnected and the charged capacitor is connected
+ to another uncharged 2 μF capacitor.
+ How much electrostatic energy of the first capacitor is lost in the process
+ of attaining the steady situation ?
+\end_layout
+
+\begin_layout Description
+Q11: Two point charges 4 μC and -2μC are separated by a distance of 1 m
+ in air.
+ Calculate at what point on the line joining the two charges is the electric
+ potential zero.
+\end_layout
+
+\begin_layout Description
+Q12: A parallel plate capacitor is charged by a battery.
+ After some time the battery is disconnected.
+ and a dielectric slab of dielectric constant K is inserted between the
+ plates.
+ How would (i) the capacitance,(ii) the electric field between the plates
+ and (iii) the energy stored in the capacitor, be affected ? Justify your
+ answer.
+\end_layout
+
+\begin_layout Description
+Q13: Three identical capacitors C1, C2 and C3 of capacitance 6 ~F each are
+ connected to a 12 V battery as shown.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image4.jpg
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Find
+\end_layout
+
+\begin_layout Standard
+(i) charge on each capacitor 
+\end_layout
+
+\begin_layout Standard
+(ii) equivalent capacitance of the network 
+\end_layout
+
+\begin_layout Standard
+(iii) energy stored in the network of capacitors
+\end_layout
+
+\begin_layout Description
+Q14: (a) Depict the equipotential surfaces for a system of two identical
+ positive point charges placed a distance ‘d’ apart.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Deduce the expression for the potential energy of a system of two point
+ charges 
+\begin_inset Formula $q_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{2}$
+\end_inset
+
+ brought from infinity to the points 
+\begin_inset Formula $\overrightarrow{r_{1}}$
+\end_inset
+
+ and 
+\begin_inset Formula $\overrightarrow{r_{2}}$
+\end_inset
+
+ respectively in the presence of external electric field 
+\series bold
+E
+\series default
+ .
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q15: A parallel-plate capacitor is charged to a potential difference V by
+ a dc source.
+ The capacitor is then disconnected from the source.
+ If the distance between the plates is doubled, state with reason how the
+ following change: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) electric field between the plates 
+\end_layout
+
+\begin_layout Standard
+(ii) capacitance, and 
+\end_layout
+
+\begin_layout Standard
+(iii) energy stored in the capacitor
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q16: Deduce an expression for the electric potential due to an electric
+ dipole at any point on its axis.
+ Mention one contrasting feature of electric potential of a dipole at a
+ point as compared to that due to a single charge.
+\end_layout
+
+\begin_layout Description
+Q17: A parallel plate capacitor, each with plate area A and separation d,
+ is charged to a potential difference V.
+ The battery used to charge it is then disconnected.
+ A dielectric slab of thickness d and dielectric constant K is now placed
+ between the plates.
+ What change, if any, will take place in (i) charge on the plates (ii) electric
+ field intensity between the plates (iii) capacitance of the capacitor.
+\end_layout
+
+\begin_layout Description
+Q18: Explain the underlying principle of working of a parallel plate capacitor.
+ If two similar plates, each of area A having surface charge densities 
+\begin_inset Formula $+\sigma$
+\end_inset
+
+ and 
+\begin_inset Formula $-\sigma$
+\end_inset
+
+ are separated by a distance d in air, write expressions for 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) the electric field at points between the two plates.
+ 
+\end_layout
+
+\begin_layout Standard
+(ii) the potnetial difference between the plates.
+ 
+\end_layout
+
+\begin_layout Standard
+(iii) the capacitance of the capacitor so formed.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q19: (a) Derive an expression for the torque experienced by an electric
+ dipole kept in a uniform electric field.
+ (b) Calculate the work done to dissociate the system of three charges placed
+ on the vertices of a triangle as shown.
+ Here 
+\begin_inset Formula $q=1.6\times10^{-10}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image6.JPG
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q20: Derive the expression for the energy stored in a parallel plate capacitor
+ of capacitance C with air as medium between its plates having charges Q
+ and -Q.
+ Show that this energy can be expressed in terms of electric field as
+\begin_inset Formula $\dfrac{1}{2}\epsilon_{o}E^{2}Ad$
+\end_inset
+
+ where A is the area of each plate and d is the separation between the plates.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+How will the energy stored in a fully charged capacitor change when the
+ separation between the plates is doubled and a dielectric medium of dielectric
+ constant 4 is introduced between the plates ?
+\end_layout
+
+\end_deeper
+\begin_layout Chapter*
+Physics (Theory) - Current Electricity
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 42
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 4 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 18 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 18 questions in total.
+ Questions 1 to 2 carry one mark each, questions 3 to 10 carry two marks
+ each, questions 11 to 18 carry three marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: A wire of resistance 8R is bent in the form of a circle.
+ What is the effective resistance between the ends of a diameter AB?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image8.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q2: A steady current flows in a metallic conductor oL non-uniform cross-section.
+ Which of these quantities is constant along the conductor: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Current, current density.
+ drift.
+ speed, electric field?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q3: Draw V—I graph for ohmic and non-ohmic materials.
+ Give one example for each.
+\end_layout
+
+\begin_layout Description
+Q4: A wire of 15 Q resistance is gradually stretched to double its original
+ length.
+ It is then cut into two equal parts.
+ These parts are then connected in parallel across a 3·0 volt battery.
+ Find the current drawn from the battery.
+\end_layout
+
+\begin_layout Description
+Q5: Describe briefly, with the help of a circuit diagram, how a potentiometer
+ is used to determine the internal resistance of a given cell.
+\end_layout
+
+\begin_layout Description
+Q6: A cell of emf 'E' and internal resistance 'r' is connected across a
+ variable resistor 'R'.
+ Plot a graph showing the variation of terminal potential 'V' with resistance
+ R.
+ Predict from the graph the condition under which 'V' becomes equal to 'E'.
+\end_layout
+
+\begin_layout Description
+Q7: Derive an expression for drift velocity of free electrons in a conductor
+ in terms of relaxation time.
+\end_layout
+
+\begin_layout Description
+Q8: Calculate the current drawn from the battery in the given network.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image9.JPG
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q9: Figure shows the circuit diagram of a potentiometer for determining
+ the emf 'e' of a cell of negligible internal resistance.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image11.JPG
+	scale 50
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) What is the purpose of using high resistance R2 ? 
+\end_layout
+
+\begin_layout Standard
+(ii) How does the position of balance point (J) change when the resistance
+ Rl is decreased ? 
+\end_layout
+
+\begin_layout Standard
+(iii) Why cannot the balance point be obtained (1) when the emf E is greater
+ than 2 V, and (2) when the key (K) is closed?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q10: A cylindrical metallic wire is stretched to increase its length by
+ 5%.
+ Calculate the percentage change in its resistance.
+\end_layout
+
+\begin_layout Description
+Q11: Define the term 'resistivity' and write its S.I.
+ unit.
+ Derive the expression for the resistivity of a conductor in terms of number
+ density of free electrons and relaxation time.
+\end_layout
+
+\begin_layout Description
+Q12: Two cells of emf 1.5 V and 2 V and internal resistance 1 ohm and 2 ohm
+ respectively are connected in parallel to pass a current in the same direction
+ through an external resistance of 5 ohm.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(a) Draw the circuit diagram.
+ 
+\end_layout
+
+\begin_layout Standard
+(b) Using Kirchhoff’s laws, calculate the current through each branch of
+ the circuit and potential difference across the 5 ohm resistor.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q13: State the principle of potentiometer.
+ Draw a circuit diagram used to compare the e.m.f.
+ of two primary cells.
+ Write the formula used.
+ How can the sensitivity of a potentiometer be increased ?
+\end_layout
+
+\begin_layout Description
+Q14: State the principle of working of a meter bridge.
+ In a meter bridge balance point is found at a distance 
+\begin_inset Formula $l_{1}$
+\end_inset
+
+ with resistances R and S as shown in the figure.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image7.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When an unknown resistance X is connected in parallel with the resistance
+ S, the balance point shifts to a distance 
+\begin_inset Formula $l_{2}$
+\end_inset
+
+.
+ Find the expression for X in terms of 
+\begin_inset Formula $l_{1}$
+\end_inset
+
+, 
+\begin_inset Formula $l_{2}$
+\end_inset
+
+ and S.
+ 
+\end_layout
+
+\begin_layout Description
+Q15: State Kirchhoff's rules.
+ Use Kirchhoff's rules to show that no current flows in the given circuit.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image10.JPG
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q16: State Kirchhoff's rules of current distribution in an electrical network.
+ Using these rules determine the value of the current in the electric circuit
+ given below.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image12.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q17: For the potentiometer circuit shown in the given figure, points X and
+ Y reprensent the two terminals of an unknown emf E'.
+ A student observed that when the jockey in moved from the end A to the
+ end B of the potentiometer wire, the deflection in the galvanometer remains
+ in the same direction.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image13.JPG
+	scale 50
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+What may be the two possible faults in the circuit that could result in
+ this obsevation ? If the galvanometer deflection at the end B is (i) more,
+ (ii) less, than that at the end A, which of the two faults, listed above,
+ would be there in the circuit ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q18: The given figure shows a network of resistances 
+\begin_inset Formula $R_{1}$
+\end_inset
+
+, 
+\begin_inset Formula $R_{2}$
+\end_inset
+
+, 
+\begin_inset Formula $R_{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $R_{4}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image15.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Using Kirchhoff's laws, establish the balance condition for the network.
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Moving Charges and Magnetism
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 3 hours________________________ Maximum Marks : 76
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 5 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 28 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 28 questions in total.
+ Questions 1 to 5 carry one mark each, questions 6 to 13 carry two marks
+ each, questions 14 to 23 carry three marks each and questions 24 to 28
+ carry five marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: An electron beam projected along + X-axis, experiences a force due to
+ a magnetic field along the + Y-axis.
+ What is the direction of the magnetic field ?
+\end_layout
+
+\begin_layout Description
+Q2: Two wires of equal lengths are bent in the form of two loops.
+ One of the loops is square shaped whereas the other loop is circular.
+ These are suspended in a uniform magnetic field and the same current is
+ passed through them.
+ Which loop will experience greater torque ? Give reasons.
+\end_layout
+
+\begin_layout Description
+Q3: An electron does not suffer any deflection while passing through a region
+ of uniform magnetic field.
+ What is the direction of the magnetic field?
+\end_layout
+
+\begin_layout Description
+Q4: Magnetic field lines can be entirely confined within the core of a toroid,
+ but not within a straight solenoid.
+ Why?
+\end_layout
+
+\begin_layout Description
+Q5: What is the direction of the force acting on a charged particle q, moving
+ with a velocity 
+\begin_inset Formula $\overrightarrow{v}$
+\end_inset
+
+ in a uniform magnetic field 
+\begin_inset Formula $\overrightarrow{B}$
+\end_inset
+
+ ?
+\end_layout
+
+\begin_layout Description
+Q6: Define current sensitivity and voltage sensitivity of a galvanometer.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Increasing the current sensitivity may not necessarUy increase the voltage
+ sensitivity of a galvanometer.
+ Justify.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q7: A charge 'q' moving along the X-axis with a velocity V is subjected
+ to a uniform magnetic field B acting along the Z-axis as it crosses the
+ origin O.
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image20.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(i) Trace its trajectory.
+\end_layout
+
+\begin_layout Standard
+(ii) Does the charge gain kinetic energy as it enters the magnetic field?
+ Justify your answer.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q8: State Biot-Savart law.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+A current I flows in a conductor placed perpendicular to the plane of the
+ paper.
+ Indicate the direction of the magnetic field due to a small element 
+\begin_inset Formula $\overrightarrow{dl}$
+\end_inset
+
+ at point P situated at a distance 
+\begin_inset Formula $\overrightarrow{r}$
+\end_inset
+
+ from the element as shown in the figure .
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image21.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q9: Write the relation for the forece acting on a charge carrier q moving
+ with a velocity 
+\begin_inset Formula $\overrightarrow{v}$
+\end_inset
+
+ through a magnetic field 
+\begin_inset Formula $\overrightarrow{B}$
+\end_inset
+
+ in vector notation.
+ Using this relation, deduce the conditions under which this force will
+ be (i) maximum (ii) minimum.
+\end_layout
+
+\begin_layout Description
+Q10: In an ammeter (consisting of a galvanometer and a shunt), 0.5% of the
+ main current passes through the galvanometer.
+ Resistance of the galvanometer coil is G.
+ Calculate the resistance of the shunt in terms of galvanometer resistance,
+ G.
+\end_layout
+
+\begin_layout Description
+Q11: A voltage of 30 V is applied across a carbon resistor with first, second
+ and third rings of blue, black and yellow colours respectively.
+ Calculate the value of current, in mA, through the resistor.
+\end_layout
+
+\begin_layout Description
+Q12: A galvanometer has a resistance of It gives full scale deflection with
+ a current of 2 mA.
+ Calculate the value of the resistance needed to convert it into an ammeter
+ of range 0-0.3 A.
+\end_layout
+
+\begin_layout Description
+Q13: A wire of length L is bent round in the form of a coil having N turns
+ of same radius.
+ If a steady current I flows through it in a clockwise direction, find the
+ magnitude and direction of the magnetic field produced at its centre.
+\end_layout
+
+\begin_layout Description
+Q14: A galvanometer with a coil of resistance 120 ohm shows full scale deflectio
+n for a current of 2.5 mA.
+ How will you convert the galvanometer into an ammeter of range 0 to 7.5
+ A ? Determine the net resistance of the ammeter.
+ When an ammeter is put in a circuit, does it read slightly less or more
+ than the actual current in the original circuit ? Justify your answer.
+\end_layout
+
+\begin_layout Description
+Q15: Write the expression for the magnetic moment m due to a planar square
+ loop of side ‘l’ carrying a steady current I in a vector form.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+In the given figure this loop is placed in a horizontal plane near a long
+ straight conductor carrying a steady current 
+\begin_inset Formula $I_{1}$
+\end_inset
+
+ at a distance l as shown.
+ Give reason to explain that the loop will experience a net force but no
+ torque.
+ Write the expression for this force acting on the loop.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image19.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q16: A long straight wire of a circular cross-section of radius ‘a’ carries
+ a steady current ‘I’.
+ The current is uniformly distributed across the cross-section.
+ Apply Ampere’s circuital law to calculate the magnetic field at a point
+ ‘r’ in the region for (i) r < a and (ii) r > a.
+\end_layout
+
+\begin_layout Description
+Q17: State the underlying principle of working of a moving coil galvanometer.
+ Write two reasons why a galvanometer can not be used as such to measure
+ current in a given circuit.
+ Name any two factors on which the current sensitivity of a galvanometer
+ depends.
+\end_layout
+
+\begin_layout Description
+Q18: Derive the expression for force per unit length between two long straight
+ parallel current carrying conductors.
+ Hence define one ampere.
+ 
+\end_layout
+
+\begin_layout Description
+Q19: State Ampere’s circuital law.
+ Write the expression for the magnetic field at the centre of a circular
+ coil of radius R carrying a current I.
+ Draw the magnetic field lines due to this coil.
+\end_layout
+
+\begin_layout Description
+Q20: Write the expression for the force acting on a charged particle of
+ charge q moving with velocity 
+\begin_inset Formula $\overrightarrow{v}$
+\end_inset
+
+ in the presence of magnetic field 
+\begin_inset Formula $\overrightarrow{B}$
+\end_inset
+
+ .
+ Show that in the presence of this force 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) the kinetic energy of the particle does not change.
+ 
+\end_layout
+
+\begin_layout Standard
+(ii) its instantaneous power is zero.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q21: Deduce the expression for the torque experienced by a rectangular loop
+ carrying a steady current 'I' and placed in a uniform magnetic field 
+\begin_inset Formula $\overrightarrow{B}$
+\end_inset
+
+ .
+ Indicate the direction of the torque acting on the loop.
+\end_layout
+
+\begin_layout Description
+Q22: Deduce the expression for magnetic dipole moment of an electron revolving
+ around the nu,c leus in a circular orbit of radius 'r'.
+ Indicate the direction of the magnetic dipole moment.
+\end_layout
+
+\begin_layout Description
+Q23: Depict the field-line pattern due to a current carrying solenoid of
+ finite length.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) In what way do these lines differ from those due to an electric dipole?
+ 
+\end_layout
+
+\begin_layout Standard
+(ii) Why can't two magnetic ffeld lines intersect each other?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q24: (a) With the help of a labelled diagram, explain the principle and
+ working, of a moving coil galvanometer.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Two parallel coaxial circular coils of equal radius ‘R’ and equal number
+ of turns ‘N’, carry equal currents 'I' in the same direction and are separated
+ by a distance ‘2R’.
+ Find the magnitude and direction of the net magnetic field produced at
+ the mid-point of the line joining their centres.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+OR
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Draw a labelled diagram of a moving coil galvanometer.
+ State the principle on which it works.
+ Deduce an expression for the torque acting on a rectangular current carrying
+ loop kept in a uniform magnetic field.
+ Write two factors on which the current sensitivity of a moving coil galvanomete
+r depend.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q25: (a) State Biot-Savart’s law.
+ Using this law, derive the expression for the magnetic field due to a current
+ carrying circular loop of radius ‘R’, at a point which is at a distance
+ ‘x’ from its centre along the axis of the loop.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Two small identical circular loops, marked (1) and (2), carrying equal
+ currents, are placed with the geometrical axes perpendicular to each other
+ as shown in the figure.
+ Find the magnitude and direction of the net magnetic field produced at
+ the point O.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image16.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q26: Explain the principle and working of a cyclotron with the help of a
+ labelled diagram.
+ A cyclotron’s oscillator frequency is 10 MHz.
+ What should be the operating magnetic field for accelerating protons ?
+ If the radius of its ‘dees’ is 60 cm, what is the kinetic energy of the
+ proton beam produced by the accelerator ? Express your answer in units
+ of MeV.
+ (e = 
+\begin_inset Formula $1.6×10^{-19}$
+\end_inset
+
+ C, 
+\begin_inset Formula $m_{p}=1.67×10^{-27}$
+\end_inset
+
+ kg, 1 MeV = 
+\begin_inset Formula $1.602×10^{-13}$
+\end_inset
+
+ J).
+ 
+\end_layout
+
+\begin_layout Description
+Q27: Depict the magnetic field lines due to two straight, long, parallel
+ conductors carrying currents 
+\begin_inset Formula $I_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $I_{2}$
+\end_inset
+
+ in the same direction.
+ Hence deduce an expression for the force acting per unit length on one
+ conductor due to the other.
+ Is this force attractive or repulsive ? Figure shows a rectangular current-carr
+ying loop placed 2 cm away from a long, straight, current-carrying conductor.
+ What is the direction and magnitude of the net force acting on the loop
+ ?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image17.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q28: (a) Two straight long parallel conductors carry currents 
+\begin_inset Formula $I_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $I_{2}$
+\end_inset
+
+ in the same direction.
+ Deduce the expression for the force per unit length between them.
+ Depict the pattern of magnetic field lines around them.
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) A rectangular current carrying loop EFGH is kept in a uniform magnetic
+ field as shown in the figure.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image18.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(i) What is the direction of the magnetic moment of the current loop? 
+\end_layout
+
+\begin_layout Standard
+(ii) When is the torque acting on the loop (A) maximum, (B) zero?
+\end_layout
+
+\end_deeper
+\begin_layout Chapter*
+Physics (Theory) - Moving Charges and Magnetism II
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 42
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 4 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 18 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 18 questions in total.
+ Questions 1 to 5 carry one mark each, questions 6 to 13 carry two marks
+ each, questions 14 to 23 carry three marks each and questions 24 to 28
+ carry five marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q31: Draw a schematic sketch of a cyclotron.
+ Explain briefly how it works and how it is used to accelerate the charged
+ particles.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) Show that time period of ions in a cyclotron is independent of both
+ the speed and radius of circular path.
+ 
+\end_layout
+
+\begin_layout Standard
+(ii) What is resonance condition ? How is it used to accelerate the charged
+ particles ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+OR
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Explain, with the help of a labelled diagram, the principle and construction
+ of a cyclotron.
+ Deduce an expression for the cyclotron frequency and show that it does
+ not depend on the speed of the charged particle.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q32: State Biot-Savart law.
+ Use it to derive an expression for the magnetic field at the centre of
+ a circular loop of radius R carrying a steady current I.
+ Sketch the magnetic field lines for such a current carrying loop.
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Magnetism and Matter
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 45 Min________________________ Maximum Marks : 17
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 2 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 8 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 8 questions in total.
+ Questions 1 to 2 carry one mark each, questions 3 to 7 carry two marks
+ each, and question 8 carries five marks .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Why should the material used for making permanent magnets have high
+ coercivity ?
+\end_layout
+
+\begin_layout Description
+Q2: Magnetic field lines can be entirely confined within the core of a toroid,
+ but not within a straight solenoid.
+ Why?
+\end_layout
+
+\begin_layout Description
+Q3: Define the terms 'Magnetic Dip' and 'Magnetic Declination' with the
+ help of relevant diagrams.
+\end_layout
+
+\begin_layout Description
+Q4: Write two characteristic properties to distinguish between diamagnetic
+ and paramagnetic materials.
+\end_layout
+
+\begin_layout Description
+Q5: Define magnetic susceptibility of a material.
+ Name two elements, one having positive susceptibility and the other having
+ negative susceptibility.
+ What does negative susceptibility signify?
+\end_layout
+
+\begin_layout Description
+Q6: (i) Write two characteristics of a material used for making permanent
+ magnets.
+ (ii) Why is the core of an electromagnet made of ferromagnetic materials?
+ 
+\end_layout
+
+\begin_layout Description
+Q7: Draw magnetic field line when a (i) diamagnetic, (ii) paramagnetic substance
+ is placed in an external magnetic field.
+ Which magnetic property distinguishes this behaviour of the field line
+ due to the substances?
+\end_layout
+
+\begin_layout Description
+Q8: Distinguish the magnetic properties of dia, para- and ferro-magnetic
+ substances in terms of (i) susceptibility, (ii) magnetic permeability and
+ (iii) coercivity.
+ Give one example of each of these materials.
+ Draw the field lines due to an external magnetic field near a (i) diamagnetic,
+ (ii) paramagnetic substance.
+\end_layout
+
+\begin_layout Part*
+Physics (Theory) - Alternating Current
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 3 Hours________________________ Maximum Marks : 65
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 4 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 23 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 23 questions in total.
+ Questions 1 to 3 carry one mark , questions 4 to 13 carry two marks , questions
+ 14 to 17 carry 3 marks, and questions 18 to 23 carry 5 marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: The power factor of an a.c.
+ circuit is 0.5.
+ What will be the phase difference between voltage and current in this circuit
+ ?
+\end_layout
+
+\begin_layout Description
+Q2: A bulb and a capacitor are connected in series to an a.c.
+ source of variable frequency.
+ How will the brightness of the bulb change on increasing the frequency
+ of the a.c.
+ source ? Give reason.
+\end_layout
+
+\begin_layout Description
+Q3: In a series LCR circuit, the voltages across an inductor, a capacitor
+ and a resistor are 30 V, 30 V and 60 V respectively.
+ What is the phase difference between the applied voltage and the current
+ in the circuit ?
+\end_layout
+
+\begin_layout Description
+Q4: (i) Draw the graphs showing variation of inductive reactance and capacitive
+ reactance with frequency of applied a.c.
+ source.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(ii) Can the voltage drop across the inductor or the capacitor in a series
+ LCR circuit be greater than the applied voltage of the a.c.
+ source ? Justify your answer.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q5: State the condition under which the phenomenon of resonance occurs in
+ a series LCR circuit.
+ Plot a graph showing variation of current with frequency of a.c.
+ source in a series LCR circuit.
+\end_layout
+
+\begin_layout Description
+Q6: A coil Q is connected to low voltage bulb B and placed near another
+ coil P as shown in the figure.
+ Give reasons to explain the following observations: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(a) The bulb ‘B’ lights 
+\end_layout
+
+\begin_layout Standard
+(b) Bulb gets dimmer if the coil Q is moved towards left.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image25.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q7: Prove that an ideal inductor does not dissipate power in an a.c.
+ circuit.
+\end_layout
+
+\begin_layout Description
+Q8: Distinguish between the terms 'average value' and 'rms value' of an
+ alternating current.
+ The instantaneous current from an a.c.
+ source is I = 5 sin (314 t) ampere.
+ What are the average and rms values of the current ?
+\end_layout
+
+\begin_layout Description
+Q9: An electric bulb B and a parallel plate capacitor C are connected in
+ series to the a.c.
+ mains as shown in the given figure.
+ The bulb glows with some brightness.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image27.JPG
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+How will the glow of the bulb be affected on introducing a dielectric slab
+ between the plates of the capacitor ? Give reasons in support of your answer.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q10: Calculate the current drawn by the primary of a transformer which steps
+ down 200 V to 20 V to operate a device of resistance 
+\begin_inset Formula $20\Omega$
+\end_inset
+
+ .
+ Assume the efficiency of the transformer to be 80%.
+ 
+\end_layout
+
+\begin_layout Description
+Q11: An a.c.
+ voltage of 100 V, 50 Hz is connected across a 20 ohm resistor and mH inductor
+ in series.
+ Calculate (i) impedance of the circuit, (ii) rms current in the circuit.
+\end_layout
+
+\begin_layout Description
+Q12: Prove that an ideal capacitor, in an a.c.
+ circuit does not dissipate power.
+ 
+\end_layout
+
+\begin_layout Description
+Q13: Derive an expression for the impedance of a.c.
+ circuit consisting of an inductor and a resistor.
+\end_layout
+
+\begin_layout Description
+Q14: Explain with the help of a labelled diagram the underlying principle
+ and working of a step-up transformer.
+ Why cannot such a device be used to step-up d.c.
+ voltage ?
+\end_layout
+
+\begin_layout Description
+Q15: Given below are two electric circuits A and B
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image26.JPG
+	scale 60
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Calculate the ratio of power factor of the circuit B to the power factor
+ of circuit A.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q16: A resistor of 
+\begin_inset Formula $200\Omega$
+\end_inset
+
+ and a capacitor of 40 mF are connected in series to 220 V a.c.
+ source with angular frequency
+\begin_inset Formula $\omega=300Hz$
+\end_inset
+
+ .
+ Calculate the voltages (rms) across the resistor and the capacitor.
+ Why is the algebraic sum of these voltages more than the source voltage
+ ? How do you resolve this paradox ?
+\end_layout
+
+\begin_layout Description
+Q17: An inductor 200 mH,, capacitor 500mF, resistor 10W are connected in
+ series with a 100V, variable frequency a.c.
+ source.
+ Calculate the 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) frequency at which the power factor of the circuit is unity;
+\end_layout
+
+\begin_layout Standard
+(ii) current amplitude at this frequency; 
+\end_layout
+
+\begin_layout Standard
+(iii) Q-factor
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q18: A series LCR circuit is connected to a source having voltage 
+\begin_inset Formula $v=v_{m}sin\omega t$
+\end_inset
+
+ .
+ Derive the expression for the instantaneous current I and its phase relationshi
+p to the applied voltage.
+ Obtain the condition for resonance to occur.
+ Define ‘power factor’.
+ State the conditions under which it is (i) maximum and (ii) minimum.
+ 
+\end_layout
+
+\begin_layout Description
+Q19: Draw a labelled.
+ diagram of a step-up transformer and explain briefly its working.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Deduce the expressions for the secondary voltage and secondary current in
+ terms of the number of turns of primary and secondary windings.
+ 
+\end_layout
+
+\begin_layout Standard
+How is the power transmission and distribution over· long distances .
+ done with the use of transformers ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q20: (a) Derive an expression for the average power consumed in a series
+ LCR circuit connected to a.c.
+ source in which the phase difference between the voltage and the current
+ in the circuit is 
+\begin_inset Formula $\phi$
+\end_inset
+
+.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Define the quality factor in an a.c.
+ circuit.
+ Why should the quality factor have high value in receiving circuits? Name
+ the factors on which it depends.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q21: (a) Derive the relationship between the peak and the nns value of current
+ in an a.c.
+ circuit.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Describe briefly.
+ with the help of a labelled diagram.
+ working of a step-up transformer.
+ A step-up transfonner converts a low voltage into high voltage.
+ Does it not violate the principle of conservation of energy? Explain.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q22: Explain the term 'inductive reactance'.
+ Show graphically the variation of inductive reactance with frequency of
+ the applied alternating voltage.
+ An a.c.
+ voltage 
+\begin_inset Formula $E=E_{o}\sin\omega t$
+\end_inset
+
+ is applied across a pure inductor of inductance L.
+ Show mathematically that the current flowing through it lags behind the
+ applied voltage by aphase angle of 
+\begin_inset Formula $\dfrac{\pi}{2}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Description
+Q23: Explain the term 'capacitive reactance'.
+ Show graphically the variation of capacitive reactance with frequency of
+ the applied alternating voltage.
+ An a.c.
+ voltage 
+\begin_inset Formula $E=E_{o}\sin\omega t$
+\end_inset
+
+ is applied across a pure capacitor of capacitance C.
+ Show mathematically that the current flowing through it leads the applied
+ voltage by a phase angle of 
+\begin_inset Formula $\dfrac{\pi}{2}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Part*
+Physics (Theory) - Electromagnetic Induction
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 1 Hour________________________ Maximum Marks : 27
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 3 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 8 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 8 questions in total.
+ Questions 1 to 2 carry one mark , questions 3 carries two marks , question
+ 4 carries 3 marks, and questions 5 to 8 carry 5 marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: State the Faraday's law of electromagnetic induction.
+\end_layout
+
+\begin_layout Description
+Q2: A plot of magnetic flux 
+\begin_inset Formula $(\phi)$
+\end_inset
+
+ versus current (I) is shown in the figure for two inductors A and Β.
+ Which of the two has larger value of self inductance?
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image24.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q3: In the figure given below, a bar magnet moving towards the right or
+ left induces an e.m.f.
+ in the coils (1) and (2).
+ Find, giving reason, the directions of the induced currents through the
+ resistors AB and CD when the magnet is moving (a) towards the right, and
+ (b) towards the left.
+ 
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image22.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q4: (a) Define self inductance.
+ Write its S.1.
+ units.
+ (b) Derive an expression for self inductance of a long solenoid of length
+ 
+\begin_inset Formula $l$
+\end_inset
+
+, cross-sectional area A having N number of turns.
+\end_layout
+
+\begin_layout Description
+Q5: A jet plane is travelling towards west at a speed of 1800 km/h.
+ What is the voltage difference developed between the ends of the wing having
+ a span of 25 m, if the Earth's magnetic field at the location has a magnitude
+ of 
+\begin_inset Formula $5x10^{-4}$
+\end_inset
+
+ T and the dip angle is 
+\begin_inset Formula $30^{o}$
+\end_inset
+
+ ?
+\end_layout
+
+\begin_layout Description
+Q6: State the working principle of an A.C.
+ generator with the help of a labelled diagram.
+ Derive an expression for the instantaneous value of the emf induced in
+ coil.
+ Why is the emf maximum when the plane of the armature is parallel to the
+ magnetic field ?
+\end_layout
+
+\begin_layout Description
+Q7: (a) What are eddy currents? Write their two applications.
+\end_layout
+
+\begin_layout Standard
+(b) Figure shows a rectangular conducting loop PQSR in which arm RS of length
+ '
+\begin_inset Formula $l$
+\end_inset
+
+' is movable.
+ The loop is kept in a uniform magnetic fi eld 'E' directed downward perpendicul
+ar to the plane of the loop.
+ The arm RS is moved with a uniform speed 'v',
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image23.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Deduce an expression for 
+\end_layout
+
+\begin_layout Standard
+(i) the emf induced across the arm 'RS', 
+\end_layout
+
+\begin_layout Standard
+(ii) the external force required to move the arm, and 
+\end_layout
+
+\begin_layout Standard
+(iii) the power dissipated as heat.
+\end_layout
+
+\begin_layout Description
+Q8: (a) State Lenz's law.
+ Give one example to illustrate this law.
+ ''The Lenz's law is a consequence of the principle of conservation of energy."
+ Justify this statement.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Deduce an expression for the mutual inductance of two long coaxial solenoids
+ but having different radii and different number of turns.
+\end_layout
+
+\end_deeper
+\begin_layout Part*
+Optics
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Ray Optics and Optical Instruments
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2.5 Hours________________________ Maximum Marks : 58
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 3 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 18 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 18 questions in total.
+ Questions 1 to 4 carry one mark each, questions 5 to 8 carry two marks
+ each, questions 9 to 10 carry three marks each and question 11 to 18 carry
+ five marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: A glass lens of refractive index 1.45 disappears when immersed in a liquid.
+ What is the value of refractive index of the liquid?
+\end_layout
+
+\begin_layout Description
+Q2: You are given following three lenses.
+ Which two lenses will you use as an eyepiece and as an objective to construct
+ an astronomical telescope ?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image30.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q3: Two thin lenses of power + 6 D and - 2 D are in contact.
+ What is the focal length of the combination ?
+\end_layout
+
+\begin_layout Description
+Q4: A converging lens of refractive index 1.5 is kept in a liquid medium
+ having same refractive index.
+ What would be the focal length of the lens in this medium?
+\end_layout
+
+\begin_layout Description
+Q5: (i) Out of blue and red light which is deviated more by a prism? Give
+ reason.
+ (ii) Give the formula that can be used to determine refractive index of
+ materials of a prism in minimum deviation condition.
+\end_layout
+
+\begin_layout Description
+Q6: Define refractive index of a transparent medium.
+ A ray of light passes through a triangular prism.
+ Plot a graph showing the variation of the angle of deviation with the angle
+ of incidence.
+\end_layout
+
+\begin_layout Description
+Q7: Draw a ray diagram of an astronomical telescope in the normal adjustment
+ position.
+ State two drawback of this type of telescope.
+\end_layout
+
+\begin_layout Description
+Q8: Calculate the distance of an object of height h from a concave mirror
+ of focal length 10 cm, so as to obtain a real image of magnification 2.
+\end_layout
+
+\begin_layout Description
+Q9: Three light rays red (R), green (0) and blue (B) are incident on a right
+ angled prism 'abc' at face 'ab'.
+ The refractive indices of the material of the prism for red, green and
+ blue wavelengths are 1.39, 1.44 and 1.47 respectively.
+ Out of the three which colour ray will emerge out of face 'ac' ? Justify
+ your answer.
+ Trace the path of these rays after passing through face 'ab'.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image35.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q10: State the conditions under which total internal reflection occurs.
+ One face of a prism with a refracting angle of 30° is coated with silver.
+ A ray incident on another face at an angle of 45° is refracted and reflected
+ from the silver coated face and retraces its path.
+ Find the refractive index of the material of the prism.
+\end_layout
+
+\begin_layout Description
+Q11: Draw a ray diagram to show the working of a compound microscope.
+ Deduce an expression for the total magnification when the final image is
+ formed at the near point.
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+In a compound microscope, an object is placed at a distance of 1.5 cm from
+ the objective of focal length 1.25 cm.
+ If the eye piece has a focal length of 5 cm and the final image is formed
+ at the near point, estimate the magnifying power of the microscope.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q12: Trace the rays of light showing the formation of an image due to a
+ point object placed on the axis of a spherical surface separating the two
+ media of refractive indices n1 and n2.
+ Establi sh the relation between the distances of the object, the image
+ and the radius of curvature from the central pOint of the spherical surface.
+ 55/l/1 Hence derive the expression of the lens maker's formula.
+ 
+\end_layout
+
+\begin_layout Description
+Q13:  Draw the labelled ray diagram for the formation of image by a compound
+ microscope.
+ Derive the expression for the total magnification of a compound microscope.
+ Explain why both the objective and the eyepiece of a compound microscope
+ must have short focal lengths.
+\end_layout
+
+\begin_layout Description
+Q14: (a) Draw a ray diagram for formation of image of a point object by
+ a thin double convex lens having radii of curvatures Rl and R2 and hence
+ derive lens maker's formula.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Define power of a lens and give its S.1.
+ units.
+ If a convex lens of focal length 50 em is placed it'} contact coaxially
+ with a concave lens of focal length 20 cm, what is the power 'of the combinatio
+n ? 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q15: Draw a labelled ray diagram to show the image formation by an astronomical
+ telescope.
+ Derive the expression for its magnifying power in normal adjustment.
+ Write two basic features which can distinguish between a telescope and
+ a compound microscope.
+\end_layout
+
+\begin_layout Description
+Q16: (a) (i) Draw a labelled ray diagram to show the formation of image
+ in an astronomical telescope for a distant object.
+ (ii) Write three distinct advantages of a reflecting type telescope over
+ a refracting type telescope: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) A convex lens of focal length 10 em is placed coaxially 5 em away from
+ a concave lens of focal length 10 cm.
+ If an object is placed 30 cm in front of the convex lens, find the position
+ of the fmal image formed by the combined system.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q17: (a) With the help of a suitable ray diagram, derive the mIrror formula
+ for a concave mirror.
+ (b) The near point of a hypermetropic person is 50 em from the eye.
+ What is the power of the lens required to enable the person to read clearly
+ a book held at 25 em from the eye?
+\end_layout
+
+\begin_layout Description
+Q18: (a) For a ray of light travelling from a denser medium of refractive
+ index 
+\begin_inset Formula $n_{1}$
+\end_inset
+
+ to rarer medium of refractive index 
+\begin_inset Formula $n_{2}$
+\end_inset
+
+, prove that 
+\begin_inset Formula $\dfrac{n_{2}}{n_{1}}=\sin i_{c}$
+\end_inset
+
+, where 
+\begin_inset Formula $i_{c}$
+\end_inset
+
+ is the critical angle of incidence for the media.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Explain with the help of a diagram, how the above principle is used
+ for transmission of video signals using optical fibres.
+\end_layout
+
+\end_deeper
+\begin_layout Chapter*
+Physics (Theory) - Wave Optics
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 1.5 Hours________________________ Maximum Marks : 36
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 3 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 17 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 17 questions in total.
+ Questions 1 to 9 carry one mark each, question 10 carries two marks , questions
+ 11 to 15 carry 3 marks each and questions 16 to 17 carry five marks .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Calculate the speed of light in a medium whose critical angle is 30°.
+\end_layout
+
+\begin_layout Description
+Q2: What type of wavefront will emerge from a (i) point source, and (ii)
+ distant light source ?
+\end_layout
+
+\begin_layout Description
+Q3: If the angle between the pass axis of polarizer and the analyser is
+ 45°, write the ratio of the intensities of original light and the transmitted
+ light after passing through the analyser.
+\end_layout
+
+\begin_layout Description
+Q4: Draw the wavefront coming out of a convex lens when a point source of
+ light is placed at its focus.
+\end_layout
+
+\begin_layout Description
+Q5: Unpolarised light of intensity I is passed through a polaroid.
+ What is the intensity of the light transmitted by the polaroid?
+\end_layout
+
+\begin_layout Description
+Q6: Why are coherent sources required to create interference of light ?
+\end_layout
+
+\begin_layout Description
+Q7: How would the angular separation of interference fringes in Young's
+ Double Slit Experiment change when the distance between the slits and the
+ screen is doubled ?
+\end_layout
+
+\begin_layout Description
+Q8: How does the angular separation of interference fringes change, in Young’s
+ experiment, if the distance between the slits is increased?
+\end_layout
+
+\begin_layout Description
+Q9: How does the fringe width of interference fringes change, when the whole
+ apparatus of Young’s experiment is kept in a liquid of refractive index
+ 1.3?
+\end_layout
+
+\begin_layout Description
+Q10: Define the term 'linearly polarised light'.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+When does the intensity of transmitted light become maximum, when a polaroid
+ sheet is rotated between two crossed polaroids ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q11: What is an unpolarized light? Explain with the help of suitable ray
+ diagram how an unpolarized light can be polarized by reflection from a
+ transparent medium.
+ Write the expression for Brewster angle in terms of the refractive index
+ of denser medium.
+\end_layout
+
+\begin_layout Description
+Q12: In a single slit diffraction experiment, when a tiny circular obstacle
+ is placed in the path of light from a distant source, a bright spot is
+ seen at the centre of the shadow of the obstacle.
+ Explain why? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+State two points of difference between the interference pattern obtained
+ in Young's double slit experiment and the diffraction pattern due to a
+ single slit.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q13: (a) Why do we not encounter diffraction effects of light in everyday
+ observations? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) In the observed diffraction pattern due to a single slit, how will the
+ width of central maximum be affected if 
+\end_layout
+
+\begin_layout Standard
+(i) the width of the slit is doubled; 
+\end_layout
+
+\begin_layout Standard
+(ii) the wavelength of the light used is increased? Justify your answer
+ in each case.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q14: In Young's double slit experiment, monochromatic light of wavelength
+ 630 nm illuminates the pair of slits and produces an interference pattern
+ in which two consecutive bright fringes are separated by 8·1 mm.
+ Another source of monochromatic light produces the interference pattern
+ in which the two consecutive bright fringes are separated by 7·2 mm.
+ Find the wavelength of light from the second source.
+\end_layout
+
+\begin_layout Description
+Q15: How is a wave front defined? Using Huygen’s construction draw a figure
+ showing the propagation of a plane wave reflecting at the interface of
+ the two media.
+ Show that the angle of incidence is equal to the angle of reflection.
+\end_layout
+
+\begin_layout Description
+Q16: State Huygens’s principle.
+ Show, with the help of a suitable diagram, how this principle is used to
+ obtain the diffraction pattern by a single slit.
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Draw a plot of intensity distribution and explain clearly why the secondary
+ maxima becomes weaker with increasing order (n) of the secondary maxima.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q17: (a) What is plane polarized light? Two polaroids are placed at 
+\begin_inset Formula $90^{o}$
+\end_inset
+
+ to each other and the transmitted intensity is zero.
+ What happens when one more Polaroid is placed between these two, bisecting
+ the angle between them? How will the intensity of transmitted light vary
+ on further rotating the third Polaroid? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) If a light beam shows no intensity variation when transmitted through
+ a Polaroid which is rotated, does it mean that the light is unpolarized?
+ Explain briefly.
+\end_layout
+
+\end_deeper
+\begin_layout Part*
+Modern Physics
+\end_layout
+
+\begin_layout Part*
+Physics (Theory) - Atoms
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 30 Min________________________ Maximum Marks : 13
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 2 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 6 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 6 questions in total.
+ Questions 1 to 2 carry one mark each, question 3 carries two marks each,
+ and questions 4 to 6 carry three marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Write the expression for Bohr’s radius in hydrogen atom.
+\end_layout
+
+\begin_layout Description
+Q2: In the Rutherford scattering experiment the distance of closest approach
+ for an a-particle is 
+\begin_inset Formula $d_{o}$
+\end_inset
+
+ If 
+\begin_inset Formula $\alpha$
+\end_inset
+
+-particle is replaced by a proton, how much kinetic energy in comparison
+ to 
+\begin_inset Formula $\alpha$
+\end_inset
+
+-particle will it require to have the same distance of closest approach
+ 
+\begin_inset Formula $d_{o}$
+\end_inset
+
+ ?
+\end_layout
+
+\begin_layout Description
+Q3: The energy of the electron in the ground state of hydrogen atom is -
+ 13·6 eV.
+ (i) What does the negative sign signify? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(ii) How much energy is required to take an electron in this atom from the
+ ground state to the first excited state?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q4: The energy levels of an atom are as shown below.
+ Which of them will result in the transition of a photon of wavelength 275
+ nm ?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image34.JPG
+	scale 70
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Which transition corresponds to etruSSlon of radiation of maximum wavelength
+ ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q5: Draw a schematic arrangement of the Geiger - Marsden experiment.
+ How did the scattering of a -particles by a thin foil of gold provide an
+ important way to determine an upper limit on the size of the nucleus? Explain
+ briefly.
+\end_layout
+
+\begin_layout Description
+Q6: The energy level diagram of an element is given below.
+ Identify, by doing necessary calculations, which transition corresponds
+ to the emission of a spectral line of wavelength 102.7 nm.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image39.JPG
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Physics (Theory) -Nuclei
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 50 Min________________________ Maximum Marks : 19
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 2 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 10 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 10 questions in total.
+ Questions 1 to 3 carry one mark each, questions 4 to 8 carry two marks
+ each, and questions 9 to 10 carry three marks each.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Two nuclei have mass numbers in the ratio 1 : 2.
+ What is the ratio of their nuclear densities?
+\end_layout
+
+\begin_layout Description
+Q2: Two nuclei have mass numbers in the ratio 1 : 8.
+ What is the ratio of their nuclear radii ?
+\end_layout
+
+\begin_layout Description
+Q3: State the reason, why heavy water is generally used as a moderator in
+ a nuclear reactor.
+\end_layout
+
+\begin_layout Description
+Q4: A heavy nucleus X of mass number 240 and binding energy per nucleon
+ 7.6 MeV is split into two fragments Y and Z of mass numbers 110 and 130.
+ The binding energy of nucleons in Y and Z is 8.5 MeV per nucleon.
+ Calculate the energy Q released pr fission in MeV.
+\end_layout
+
+\begin_layout Description
+Q5: A radioactive nucleus 'A' undergoes a series of decays according to
+ the following scheme:
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image33.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The mass number and atomic number of A are 180 and 72 respectively.
+ What are these numbers for A4 ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q6: (a) What is meant by half life of a radioactive element ? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) The half life of a radioactive substance is 30 s.
+ Calculate (i) the decay constant, and (ii) time taken for the sample to
+ decay by 3/4 th of the initial value.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q7: (a) The mass of a nucleus in its ground state is always less than the
+ total mass of its constituents - neutrons and protons.
+ Explain.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Plot a graph showing the variation of potential energy of a pair of
+ nucleons as a function of their separation.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q8: A nucleus 
+\begin_inset Formula $_{10}^{23}Ne$
+\end_inset
+
+ undergoes 
+\begin_inset Formula $\beta$
+\end_inset
+
+-decay and becomes 
+\begin_inset Formula $_{11}^{23}Na$
+\end_inset
+
+ .
+ Calculate the maximum kinetic energy of electrons emitted assuming that
+ the daughter nucleus and anti-neutrino carry negligible kinetic energy.
+\end_layout
+
+\begin_layout Description
+Q9: (i) Define ‘activity’ of a radioactive material and write its S.I.
+ units.
+ (ii) Plot a graph showing variation of activity of a given radioactive
+ sample with time.
+ (iii) The sequence of stepwise decay of a radioactive nucleus is 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+\begin_inset Formula $D\overset{\alpha}{\rightarrow}D_{1}\overset{\beta-}{\rightarrow}D_{2}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+If the atomic number and mass number of D2 are 71 and 176 respectively,
+ what are their corresponding values of D?
+\end_layout
+
+\begin_layout Description
+Q10: Draw a plot showing the variation of binding energy per nucleon versus
+ the mass number A.
+ Explain with the help of this plot the release of energy in the processes
+ of nuclear fission and fusion.
+\end_layout
+
+\begin_layout Part*
+Physics (Theory) - Dual Nature of Radiation and Matter
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 45 Min________________________ Maximum Marks : 18
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 2 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 10 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 10 questions in total.
+ Questions 1 to 4 carry one mark each, questions 5 to 8 carry two marks
+ each, and questions 9 to 10 carry three marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: The figure shows a plot of three curves a, b, c showing the variation
+ of photocurrent vs collector plate potential for three different intensities
+ 
+\begin_inset Formula $I_{1}$
+\end_inset
+
+, 
+\begin_inset Formula $I_{2}$
+\end_inset
+
+ and 
+\begin_inset Formula $I_{3}$
+\end_inset
+
+ having frequencies 
+\begin_inset Formula $\nu_{1}$
+\end_inset
+
+ , 
+\begin_inset Formula $\nu_{2}$
+\end_inset
+
+ and 
+\begin_inset Formula $\nu_{3}$
+\end_inset
+
+ respectively incident on a photosensitive surface.
+ Point out the two curves for which the incident radiations have same frequency
+ but different intensities.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image31.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q2: The stopping potential in an experiment on photoelectric effect is 1·5
+ V.
+ What is the maximum kinetic energy of the photoelectrons emitted?
+\end_layout
+
+\begin_layout Description
+Q3: An electron and alpha particle have the same kinetic energy.
+ How are the de-Broglie wavelengths associated with them related?
+\end_layout
+
+\begin_layout Description
+Q4: An electron and alpha particle have the same de-Broglie wavelength associate
+d with them.
+ How are their kinetic energies related to each other?
+\end_layout
+
+\begin_layout Description
+Q5: An electron is accelerated through a potential difference of 64 volts.
+ What is the de-Broglie wavelength associated with it? To which part of
+ the electromagnetic spectrum does this value of wavelength correspond?
+\end_layout
+
+\begin_layout Description
+Q6: Plot a graph showing the variation of stopping potential with the frequency
+ of incident radiation for two different photosensitive materials having
+ work functions 
+\begin_inset Formula $W_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $W_{2}$
+\end_inset
+
+ (
+\begin_inset Formula $W_{1}>W_{2}$
+\end_inset
+
+).
+ On what factors does the (i) slope and (ii) intercept of the lines depend?
+\end_layout
+
+\begin_layout Description
+Q7: Derive an expression for the de-Broglie wavelength associated with an
+ electron accelerated through a potential V.
+ Draw a schematic diagram of a localised-wave describing the wave nature
+ of the moving electron.
+\end_layout
+
+\begin_layout Description
+Q8: Figure shows variation of stopping potential (Vo) with the frequency
+ (
+\begin_inset Formula $\nu$
+\end_inset
+
+) for two photosensitive materials 
+\begin_inset Formula $M_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $M_{2}$
+\end_inset
+
+· 
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image36.JPG
+	scale 60
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) Why is the slope same for both lines? 
+\end_layout
+
+\begin_layout Standard
+(ii) For which material will the emitted electrons have greater kinetic
+ energy for the incident radiations of the same frequency? Justify your
+ answer.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q9: A proton and an alpha particle are accelerated through the same potential.
+ Which one of the two has (i) greater value of de-Broglie wavelength associated
+ with it, and: (ii) less kinetic energy? Justify your answers.
+\end_layout
+
+\begin_layout Description
+Q10: An electromagnetic wave of wavelength 
+\begin_inset Formula $\lambda$
+\end_inset
+
+ is incident on a photosensitive surface of negligible work function.
+ If the photo-electrons emitted from this surface have the de –Broglie wavelengt
+h 
+\begin_inset Formula $\lambda_{1}$
+\end_inset
+
+ , prove that 
+\begin_inset Formula $\lambda=\left(\dfrac{2mc}{h}\right)\lambda_{1}^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Physics (Theory) - Electromagnetic Waves
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 30 Min________________________ Maximum Marks : 12
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 2 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 8 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 8 questions in total.
+ Questions 1 to 4 carry one mark each, and questions 5 to 8 carry two marks
+ each.
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Write the following radiations in ascending order in respect of their
+ frequencies: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+X-rays, microwaves, UV rays and radio waves.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q2: Name the electromagnetic radiations which are produced when high energy
+ electrons are bombarded on a metal target.
+\end_layout
+
+\begin_layout Description
+Q3: Name the EM waves used for studying crystal structure of solids.
+ What is its frequency range?
+\end_layout
+
+\begin_layout Description
+Q4: Name the part of the electromagnetic spectrum of wavelength 102 m and
+ mention its one application.
+\end_layout
+
+\begin_layout Description
+Q5: How does a charge q oscillating at certain frequency produce electromagnetic
+ waves? Sketch a schematic diagram depicting electric and magnetic fields
+ for an electromagnetic wave propagating along the Z-direction.
+\end_layout
+
+\begin_layout Description
+Q6: Name the electromagnetic radiations having the wavelength range from
+ 1 mm to 700 nm.
+ Give its two important applications.
+\end_layout
+
+\begin_layout Description
+Q7: Answer the following questions: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(a) Optical and radio telescopes are built on the ground while X-ray astronomy
+ is possible only from satellites orbiting the Earth.
+ Why? 
+\end_layout
+
+\begin_layout Standard
+(b) The small ozone layer on top of the stratosphere is crucial for human
+ survival.
+ Why ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q8: The oscillating magnetic field in a plane electromagnetic wave is given
+ by 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+\begin_inset Formula $B_{y}=\left(8\times10^{-6}\right)\sin\left[2\times10^{11}t+300\pi x\right]\,T$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(i) Calculate the wavelength of the electromagnetic wave.
+ 
+\end_layout
+
+\begin_layout Standard
+(ii) Write down the expression for the oscillating electric field.
+\end_layout
+
+\end_deeper
+\begin_layout Part*
+Semiconductors
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Semiconductor Electronics: Materials, Devices and Simple
+ Circuits
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2.25 Hrs________________________ Maximum Marks : 53
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 4 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 15 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 15 questions in total.
+ Question 1 carries one mark, questions 2 to 5 carry two marks each, questions
+ 6 to 8 carry two marks each and questions 9 to 15 carries five marks .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Give the logic symbol of NOR gate.
+\end_layout
+
+\begin_layout Description
+Q2: Draw the circuit diagram of an illuminated photodiode in reverse bias.
+ How is photodiode used to measure light intensity?
+\end_layout
+
+\begin_layout Description
+Q3: The following figure shows the input waveforms (A.
+ B) and the output waveform (Y) of a gate.
+ Identify the gate write its truth table and draw its logic symbol.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image32.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q4: Draw the logic symbol of the gate whose truth table is given below :
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image37.JPG
+	scale 60
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+If this logic gate is connected to NOT gate, what will be the output when
+ (i) A = 0, B = 0 and (ii) A = 1, B = 1 ? Draw the logic symbol of the combinati
+on.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q5: Draw the output wave form at X, using the given inputs A, B for the
+ logic circuit shown below.
+ Also identify the gate.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename E:/Books/A Complete Course in Physics/Test 2011/image38.JPG
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q6: With the help of a suitable diagram, explain the formation of depletion
+ region in a p-n junction.
+ How does its width change when the junction is (i) forward biased, and
+ (ii) reverse biased ?
+\end_layout
+
+\begin_layout Description
+Q7: Give a circuit diagram of a common emitter amplifier using an n-p-n
+ transistor.
+ Draw the input and output waveforms of the signal.
+ Write the expression for its voltage gain.
+\end_layout
+
+\begin_layout Description
+Q8: The figure below shows the V-I characteristic of a semiconductor diode
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image40.JPG
+	scale 55
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) Identify the semiconductor diode used.
+ 
+\end_layout
+
+\begin_layout Standard
+(ii) Draw the circuit diagram to obtain the given characteristic of this
+ device.
+ 
+\end_layout
+
+\begin_layout Standard
+(iii) Briefly explain how this diode can be used as a voltage regulator
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q9: (a) Explain the formation of depletion layer and potential barrier in
+ a p–n junction.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) In the figure given below the input waveform is converted into the output
+ waveform by a device ‘X’.
+ Name the device and draw its circuit diagram.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image28.JPG
+	scale 70
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(c) Identify the logic gate represented by the circuit as shown and write
+ its truth table.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+\begin_inset Graphics
+	filename F:/Live/Projects/PhysicsCBSETests/image29.JPG
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q10: (a) With the help of circuit diagram explain the working principle
+ of a transistor amplifier as an oscillator.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Distinguish between a conductor, a semiconductor and an insulator on
+ the basis of energy band diagrams.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q11: (i) Draw a circuit diagram to study the input and output characteristics
+ of an n-p-n transistor in its common emitter configuration.
+ Draw the typical input and output characteristics.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(ii) Explain, with the help of a circuit diagram, the working of n-p-n transisto
+r as a common emitter amplifier.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q12: How is a zener diode fabricated so as to make it a special purpose
+ diode? Draw J-V characteristics of zener diode and explain the significance
+ of breakdown voltage.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Explain briefly, with the help of a circuit diagram, how a p-n junction
+ diode works as a half wave rectifier.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q13: (a) .
+ Explain the formation of 'depletion layer ' and barrier potential in a
+ p-n junction.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) With the help of a labelled circuit diagram explain the use of a p-n
+ junction diode as a full wave rectifier.
+ Draw the input and output waveforms.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q14: Draw a circuit diagram of an n-p-n transistor with its emitter base
+ junction forward biased and base collector junction reverse biased.
+ Describe briefly its working.
+ Explain how a transistor in active state exhibits a low resistance at its
+ emitter base junction and high resistance at its base collector junction.
+ Draw a circuit diagram and explain the operation of a transistor as a switch.
+\end_layout
+
+\begin_layout Description
+Q15: Distinguish between an intrinsic semiconductor and P-type semiconductor.
+ Give reason, why a P-type semiconductor crystal is electrically neutral,
+ although 
+\begin_inset Formula $n_{h}>>n_{e}$
+\end_inset
+
+ ?
+\end_layout
+
+\begin_layout Part*
+Physics (Theory) - Communication Systems
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 1.5 Hrs________________________ Maximum Marks : 32
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 2 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 15 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 15 questions in total.
+ Questions 1 to 2 carry one mark each, questions 3 to 11 carry two marks
+ each, and questions 12 to 15 carry three marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Which part of electromagnetic spectrum is used in radar systems?
+\end_layout
+
+\begin_layout Description
+Q2: What is sky wave propagation?
+\end_layout
+
+\begin_layout Description
+Q3: Explain the function of a repeater in a communication system.
+\end_layout
+
+\begin_layout Description
+Q4: What is the range of frequencies used in satellite communication? What
+ is common between these waves and light waves?
+\end_layout
+
+\begin_layout Description
+Q5: By what percentage wi ll the transmission range of a TV tower be affected
+ when the height of the tower is increased by 21 % ?
+\end_layout
+
+\begin_layout Description
+Q6: Why are high frequency carrier waves used for transmission ? 
+\end_layout
+
+\begin_layout Description
+Q7: What is meant by tenn ' modulation' ? Draw a block diagram of a simple
+ modulator for obtaining an AM signal.
+\end_layout
+
+\begin_layout Description
+Q8: (i) What is line of sight communication? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(ii) Why is it not possible to use sky wave propagation for transmission
+ of TV signals?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q9: Write the function of (i) Transducer and (ii) Repeater in the context
+ of communication system.
+ 
+\end_layout
+
+\begin_layout Description
+Q10: Write two factors justifying the need of modulation for transmission
+ of a signal.
+\end_layout
+
+\begin_layout Description
+Q11: A transmitting antenna at the top of a tower has a height of 36 m and
+ the height of the receiving antenna is 49 m.
+ What is the maximum distance between them, for satisfactory communication
+ in the LOS mode? (Radius of earth = 6400 km)
+\end_layout
+
+\begin_layout Description
+Q12: What is space wave propagation? Give two examples of communication
+ system which use space wave mode.
+ A TV tower is 80 m tall.
+ Calculate the maximum distance upto which the signal transmitted from the
+ tower can be received.
+\end_layout
+
+\begin_layout Description
+Q13: What is meant by detection of a signal in a communication system ?
+ With the help of a block diagram explain the detection of A.M.
+ signal.
+\end_layout
+
+\begin_layout Description
+Q14: Distinguish between sky wave and space wave propagation.
+ Give a brief description with the help of suitable diagrams indicating
+ how these waves are propagated.
+\end_layout
+
+\begin_layout Description
+Q15: Draw a plot of the variation of amplitude versus w for an amplitude
+ modulated wave.
+ Define modulation index.
+ State its importance for effective amplitude modulation.
+\end_layout
+
+\end_body
+\end_document

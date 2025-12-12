@@ -1,0 +1,81 @@
+#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\begin_modules
+endnotes
+foottoend
+logicalmkup
+theorems-std
+\end_modules
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 1in
+\topmargin 1.5in
+\rightmargin 1in
+\bottommargin 1.5in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Thermal Properties of Matter
+\end_layout
+
+\begin_layout Standard
+We know from experience that a glass of ice-cold water left on a table on
+ a hot summer day eventually warms up whereas a cup of hot tea on the same
+ table cools down.
+ It means that when the temperature of body, ice-cold water or hot tea in
+ this case, and its surrounding medium are different, heat transfer takes
+ place between the system and the surrounding medium, until the body and
+ the surrounding medium are at the same temperature.
+ We also know that in the case of glass tumbler of ice cold water, heat
+ flows from the environment to the glass tumbler, whereas in the case of
+ hot tea, it flows from the cup of hot tea to the environment.
+ So, we can say that 
+\series bold
+heat is the form of energy transferred between two (or more) systems or
+ a system and its surroundings by virtue of temperature difference
+\series default
+.
+ The SI unit of heat energy transferred is expressed in joule (J) while
+ SI unit of temperature is kelvin (K).
+\end_layout
+
+\end_body
+\end_document

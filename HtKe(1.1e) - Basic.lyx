@@ -1,0 +1,1781 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage[style=authoryear,backend=biber,refsection=part]{biblatex}
+\addbibresource{Bibliography/CC/P-Graphs/4e/introduction.bib}
+\addbibresource{Bibliography/CC/P-Graphs/4e/kinematics.bib}
+\end_preamble
+\use_default_options true
+\begin_modules
+logicalmkup
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 2cm
+\rightmargin 1.5cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Subsection*
+1.
+ Derivation from v-t graph { 
+\begin_inset Formula $v=u+at$
+\end_inset
+
+ }
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/IX/v-t graph.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We define the slope of v-t graph as a, so it gives 
+\begin_inset Formula $a=\dfrac{v-u}{t}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Manipulating the form of this equation, we get 
+\begin_inset Formula $v=u+at$
+\end_inset
+
+ , which is newton's first equation of motion in scalar form.
+\end_layout
+
+\begin_layout Subsection*
+2.
+ Derivation from v-t graph { 
+\begin_inset Formula $s=ut+\dfrac{1}{2}at^{2}$
+\end_inset
+
+ }
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/IX/v-t graph - Newton's Second Equation.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Area under the v-t graph is dispacement(s)
+\end_layout
+
+\begin_layout Standard
+Area of a trapezium is sum of parallel sides X distance between them
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow s=\dfrac{v+u}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Substituting, the previously derived newton's first equation of motion in
+ scalar form
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow s=\dfrac{u+at+u}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+OR
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $s=ut+\dfrac{1}{2}at^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+3.
+ Derivation from v-t graph { 
+\begin_inset Formula $v^{2}-u{}^{2}=2as$
+\end_inset
+
+ }
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/IX/v-t graph - Newton's Third Equation.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In deriving the newton's third equation by graph, two values are taken from
+ the graph
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $a=\dfrac{v-u}{t}$
+\end_inset
+
+ and 
+\begin_inset Formula $s=\dfrac{v+u}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Multiplying both the equations,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $as=\dfrac{v^{2}-u{}^{2}}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+OR
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v^{2}-u{}^{2}=2as$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+4.
+ Result from Area Under the v-t graph, 
+\begin_inset Formula $s=v_{av}t=\dfrac{v+u}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+5.
+ Manipulating 
+\begin_inset Formula $v=u+at$
+\end_inset
+
+ as 
+\begin_inset Formula $u=v-at$
+\end_inset
+
+ and substituting in 
+\begin_inset Formula $s=\dfrac{v+u}{2}t$
+\end_inset
+
+ gives 
+\begin_inset Formula $s=\dfrac{v-at+v}{2}t$
+\end_inset
+
+ 
+\begin_inset Formula $\Rightarrow s=vt-\dfrac{1}{2}at^{2}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+The Complete Derivation
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/IX/method.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Example
+\end_layout
+
+\end_inset
+
+ : A girl starts from rest and travels along a straight line.
+ The diagram below shows the velocity-time graph of the girl from 0 s to
+ 90 s.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/8312034.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(a) Describe the motion of the girl from 0 s to 40 s.
+\end_layout
+
+\begin_layout Standard
+(b) Find the average velocity of the girl in the first 70 s.
+ 
+\end_layout
+
+\begin_layout Standard
+(c) Draw the acceleration-time graph of the girl from 0 s to 90 s.
+\end_layout
+
+\begin_layout Standard
+(d) Find the displacement of the girl from the starting point to the position
+ at 90 s.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Solution
+\end_layout
+
+\end_inset
+
+ : (a) From 0 s to 20 s, she travels with constant acceleration of 0.25 ms^(-2);
+ From 20 s to 40 s, she travels at constant velocity of 5 m/s.
+ 
+\end_layout
+
+\begin_layout Standard
+(b) Total displacement = area under v-t graph = ½ (30 + 70) * 5 = 250 m
+ Average velocity = 250/70 = 3.57 m/s 
+\end_layout
+
+\begin_layout Standard
+(c) Acceleration is the gradient of v-t graph.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/7365655.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(d) Displacement = area under v-t graph = 250 – ½ * 20 * 5 = 200 m
+\end_layout
+
+\begin_layout Standard
+Tips: (1) It is very easy to mix up kinematics graphs.
+ The only way to differentiate these graphs is to look at the y-axis!
+\end_layout
+
+\begin_layout Standard
+(2) When describing the motion, do it region by region! And always talk
+ about acceleration or speed / velocity with values if applicable.
+ Refer to example above.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Example
+\end_layout
+
+\end_inset
+
+ : An object's velocity during a 10 second time interval is shown by the
+ graph below:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/ex23.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+a.) Determine the object's total distance traveled and displacement.
+\end_layout
+
+\begin_layout Standard
+b.) At t = 0, the object's position is x = 2 m.
+ Find the object's position at t = 2, t = 4, t = 7, and t = 10.
+ 
+\end_layout
+
+\begin_layout Standard
+c.) What is the object's acceleration at the following times: t = 1, t =
+ 3, and t = 6.
+ 
+\end_layout
+
+\begin_layout Standard
+d.) Sketch the corresponding acceleration vs.
+ time graph from t = 0 to t = 10.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Solution
+\end_layout
+
+\end_inset
+
+ : a.) Recall that the equation for velocity is v = x/t.
+ If we solve this for x, we get x = vt.
+ Notice that this is the same as the area of a rectangles whose sides are
+ lengths v and t, so we can determine that the displacement is the area
+ enclosed by the velocity vs.
+ time graph.
+ So, we will find the area of each section under the graph:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/ex23a.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The total distance traveled by the object is simply the sum of all these
+ areas: 3 + 6 + 4.5 + 2 + 2 = 17.5 m The displacement is found in a similar
+ fashion, except areas below the x-axis are considered negative: 3 + 6 +
+ 4.5 - 2 - 2 = 9.5 m Interestingly enough, the area enclosed by any function
+ can be represented by a definite integral.
+ For example, if this graph were defined as a function v(t), then the displaceme
+nt would be the integral from 0 to 10 of v(t)dt, and the total distance
+ traveled would be the integral from 0 to 10 of |v(t)|dt Go to calculus
+ notes
+\end_layout
+
+\begin_layout Standard
+b.) The position of the object at a given point in time can be found in much
+ the same way we found the displacement in part a, except this time we must
+ also add in the initial value given.
+ So: x(2) = 2 + 3 = 5 m x(4) = 2 + 3 + 6 = 11 m x(7) = 2 + 3 + 6 + 4.5 =
+ 15.5 m x(10) = 2 + 3 + 6 + 4.5 - 2 - 2 = 11.5 m
+\end_layout
+
+\begin_layout Standard
+Notice that this can also be done by adding the integral from 0 to t of
+ v(t)dt to the initial value of 2.
+ Go to calculus notes
+\end_layout
+
+\begin_layout Standard
+c.) Like velocity in part b of problem 22, the instantaneous acceleration
+ at any point along one of the graph's line segments is the same as the
+ average acceleration across that line segment.
+ The formula for acceleration is aavg = Δv/Δt = (vf - vi)/(tf - ti), so:
+ a(t) = (vf - vi)/(tf - ti) a(1) = (3 - 0)/(2 - 0) = 3/2 = 1.5 m/s2 a(3)
+ = (3 - 3)/(4 - 2) = 0/2 = 0 m/s2 a(6) = (-2 - 3)/(9 - 4) = -5/5 = -1 m/s2
+\end_layout
+
+\begin_layout Standard
+Similarly to the relationship between velocity and position, the formula
+ for acceleration is the same as the slope formula for a velocity vs.
+ time graph.
+ So, we can say that the slope of any velocity vs.
+ time graph is its acceleration.
+ Notice that this definition defines acceleration as the derivative of velocity.
+ So, it is true that for any velocity function v(t), its derivative is an
+ acceleration function a(t).
+ Also, integration can be used to go from an acceleration function to a
+ position function.
+ Go to calculus notes
+\end_layout
+
+\begin_layout Standard
+d.) We know that the acceleration along each line segment of this velocity
+ vs.
+ time graph is equal to the slope of the line segment.
+ We determined these slopes in part c, so the acceleration graph would look
+ like:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/ex23d.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This graph uses horizontal lines instead of points to represent that the
+ acceleration is defined at that value at any point along that section.
+ The open circles at the end of each line segment simply indicate that at
+ those time values, acceleration is not defined at either value represented
+ by the horizontal lines.
+ At these points, acceleration is undefined because it changes instantaneously
+ from one value to the next, which cannot be represented numerically.
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Example :
+\series default
+ On a displacement-time graph, two straight lines make angles of 30° and
+ 60° with the time-axis.
+ The ratio of the velocities represented by them is 
+\end_layout
+
+\begin_layout Quote
+a) 
+\begin_inset Formula $1:\sqrt{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+b) 1:3
+\end_layout
+
+\begin_layout Quote
+c) 
+\begin_inset Formula $\sqrt{3}:1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+d) 3:1
+\end_layout
+
+\begin_layout Quote
+{ Hint: The velocity in a displacement-time is given by the slope of the
+ curve.
+ Slope = tan(gent) of angle of inclination of s-t graph.
+ This gives the respective ratios tan 30
+\begin_inset Formula $^{o}$
+\end_inset
+
+ / tan 60
+\begin_inset Formula $^{o}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Answer: b) is the correct answer.
+ }
+\end_layout
+
+\begin_layout Description
+
+\series bold
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Example 
+\end_layout
+
+\end_inset
+
+:
+\series default
+ A body is moving in a straight line as shown in velocity-time graph.
+ The displacement and distance travelled by body in 8 second are respectively:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-firstequation.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+a) 12 m, 20 m
+\end_layout
+
+\begin_layout Quote
+b) 20 m, 12 m
+\end_layout
+
+\begin_layout Quote
+c) 12 m, 12 m
+\end_layout
+
+\begin_layout Quote
+d) 20 m, 20 m
+\end_layout
+
+\begin_layout Quote
+{ Hint: The displacement in a velocity-time graph is given by the area under
+ the graph with proper signs.
+ From 0s - to 2s , the area is 8m .
+ From 2s - to 4s , the area is -4m .
+ From 4s - to 8s , the area is 8m.
+ Adding these 3 values , we get 8m + (-4m) + 8m = 12m.
+ } The distance in a v-t graph is given by the absolute area under the graph.
+ So, taking the absolute values of individual area divisions, we get 8m
+ + 4m + 8m =20m
+\end_layout
+
+\begin_layout Quote
+Answer: a) is the correct answer.
+ }
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Example 
+\end_layout
+
+\end_inset
+
+:
+\series default
+ The velocity-time graph of a particle in linear motion is as shown.
+ Both v and t are in SI units.
+ The displacement of the particle is
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/displacementfromvtgraphproblem.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+a) 6 m
+\end_layout
+
+\begin_layout Quote
+b) 8 m
+\end_layout
+
+\begin_layout Quote
+c) 16 m
+\end_layout
+
+\begin_layout Quote
+d) 18 m
+\end_layout
+
+\begin_layout Quote
+{ Hint : For displacement calculations, between 0 - to 4 , area of the positive
+ trapesium = 
+\begin_inset Formula $\dfrac{1}{2}\times\left(2+4\right)\times4$
+\end_inset
+
+ = 12
+\end_layout
+
+\begin_layout Quote
+between 4 - to 8, area of negative trapesium =
+\begin_inset Formula $\dfrac{1}{2}\times(2+4)\times(-2)$
+\end_inset
+
+ = -6.
+\end_layout
+
+\begin_layout Quote
+So , the answer is +6
+\end_layout
+
+\begin_layout Quote
+So , a is the correct option.}
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Example
+\end_layout
+
+\end_inset
+
+ : A speedboat starts from rest, accelerating at 2 ms 
+\begin_inset Formula $−2$
+\end_inset
+
+ for 20 s.
+ It then continues at a steady speed for a further 30 s and decelerates
+ to rest in 30 s.
+ Find:
+\end_layout
+
+\begin_layout Standard
+(a) the distance travelled in m,
+\end_layout
+
+\begin_layout Standard
+(b) the average speed in ms 
+\begin_inset Formula $^{−1}$
+\end_inset
+
+ and,
+\end_layout
+
+\begin_layout Standard
+(c) the time taken to cover half the distance.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/ex2.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Solution
+\end_layout
+
+\end_inset
+
+ : a) distance=area of trapezium 
+\begin_inset Formula ${\displaystyle =\frac{\left(a+b\right)h}{2}}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle =\frac{\left(80+30\right)\left(40\right)}{2}}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+=2200 m
+\end_layout
+
+\begin_layout Standard
+b) 
+\begin_inset Formula ${\displaystyle \text{average speed}=\frac{\text{distance travelled}}{\text{time taken}}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle =\frac{2200}{80}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+=27.5 ms 
+\begin_inset Formula $^{−1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+c) We need to find the time when the area of the trapezium is half of its
+ original area, or 1100m , as shown in the graph.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "72col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/ex2c.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The base of this unknown trapezium has length 
+\backslash
+displaystyle{t}t, and the top of the trapezium will have length t−20.
+ So we have:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle \text{area of trapezium}=\frac{\left(a+b\right)h}{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle 1100=\frac{\left(t+\left[t-20\right]\right)40}{2}=20\left(2t-20\right)}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+55=2t−20 
+\end_layout
+
+\begin_layout Standard
+75=2t 
+\end_layout
+
+\begin_layout Standard
+t=37.5s 
+\end_layout
+
+\begin_layout Standard
+So it will take 37.5 s to cover half the distance.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+1.
+ Sketch a velocity-time graph for an object moving with a constant speed
+ in the negative direction.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object moving with a constant speed
+ in the negative direction is shown below.
+ To have "a constant speed in the negative direction" is to have a - velocity
+ which is unchanging.
+ Thus, the line on the graph will be in the - region of the graph (below
+ 0).
+ Since the velocity is unchanging, the line is horizontal.
+ Since the slope of a line on a v-t graph is the object's acceleration,
+ a horizontal line (zero slope) on a v-t graph is characteristic of a motion
+ with zeo acceleration (constant velocity).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph28.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 28
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+2.
+ Sketch a velocity-time graph for an object which is at rest.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object which is at rest is shown below.
+ To be "at rest" is to have a zero velocity.
+ Thus the line is drawn along the axis (v=0).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph29.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 29
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+3.
+ Sketch a velocity-time graph for an object moving in the + direction, accelerat
+ing from a slow speed to a fast speed.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object moving in the + direction,
+ accelerating from a slow speed to a fast speed is shown below.
+ An object which is moving in the + direction and speeding up (slow to fast)
+ has a + acceleration.
+ (If necessary, review the dir'n of the acceleration vector in the Physics
+ Classroom Tutorial.) Since the slope of a line on a v-t graph is the object's
+ acceleration, an object with + acceleration is represented by a line with
+ + slope.
+ Thus, the line is a straight diagonal line with upward (+) slope.
+ Since the velocity is +, the line is plotted in the + region of the v-t
+ graph.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph30.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 30
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+4.
+ Sketch a velocity-time graph for an object moving in the + direction, accelerat
+ing from a fast speed to a slow speed.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object moving in the + direction,
+ accelerating from a fast speed to a slow speed is shown below.
+ An object whgich is moving in the + direction and slowing down (fast to
+ slow) has a - acceleration.
+ (If necessary, review the dir'n of the acceleration vector in the Physics
+ Classroom Tutorial.) Since the slope of a line on a v-t graph is the object's
+ acceleration, an object with - acceleration is represented by a line with
+ - slope.
+ Thus, the line is a straight diagonal line with downward (-) slope.
+ Since the velocity is +, the line is plotted in the + region of the v-t
+ graph.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph31.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 31
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+5.
+ Sketch a velocity-time graph for an object moving in the - direction, accelerat
+ing from a slow speed to a fast speed.
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object moving in the - direction,
+ accelerating from a slow speed to a fast speed is shown below.
+ An object whgich is moving in the - direction and speeding up (slow to
+ fast) has a - acceleration.
+ (If necessary, review the dir'n of the acceleration vector in the Physics
+ Classroom Tutorial.) Since the slope of a line on a v-t graph is the object's
+ acceleration, an object with - acceleration is represented by a line with
+ - slope.
+ Thus, the line is a straight diagonal line with downward (-) slope.
+ Since the velocity is -, the line is plotted in the - region of the v-t
+ graph.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph32.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 32
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+6.
+ Sketch a velocity-time graph for an object moving in the - direction, accelerat
+ing from a fast speed to a slow speed.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object moving in the - direction,
+ accelerating from a fast speed to a slow speed is shown below.
+ An object whgich is moving in the - direction and slowing down (fast to
+ slow) has a + acceleration.
+ (If necessary, review the dir'n of the acceleration vector in the Physics
+ Classroom Tutorial.) Since the slope of a line on a v-t graph is the object's
+ acceleration, an object with + acceleration is represented by a line with
+ + slope.
+ Thus, the line is a straight diagonal line with upward (+) slope.
+ Since the velocity is -, the line is plotted in the - region of the v-t
+ graph.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph33.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 33
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+7.
+ Sketch a velocity-time graph for an object which first moves with a slow,
+ constant speed in the + direction, and then with a fast constant speed
+ in the + direction.
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object which first moves with a slow,
+ constant speed in the + direction, and then with a fast constant speed
+ in the + direction is shown below.
+ Since there are two parts of this object's motion, there will be two distinct
+ parts on the graph.
+ Each part is in the + region of the v-t graph (above 0) since the velocity
+ is +.
+ Each part is horizontal since the velocity during each part is constant
+ (constant velocity means zero acceleration which means zero slope).
+ The second part of the graph will be higher since the velocity is greater
+ during the second part of the motion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph34.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 34
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+8.
+ Sketch a velocity-time graph for an object which first moves with a fast,
+ constant speed in the + direction, and then with a slow constant speed
+ in the + direction.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object which first moves with a fast,
+ constant speed in the + direction, and then with a slow constant speed
+ in the + direction is shown below.
+ Since there are two parts of this object's motion, there will be two distinct
+ parts on the graph.
+ Each part is in the + region of the v-t graph (above 0) since the velocity
+ is +.
+ Each part is horizontal since the velocity during each part is constant
+ (constant velocity means zero acceleration which means zero slope).
+ The first part of the graph will be higher since the velocity is greater
+ during the first part of the motion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph35.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 35
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+7.
+ Sketch a velocity-time graph for an object which first moves with a constant
+ speed in the + direction, and then moves with a positive acceleration.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object which first moves with a constant
+ speed in the + direction, and then moves with a positive acceleration is
+ shown below.
+ Since there are two parts of this object's motion, there will be two distinct
+ parts on the graph.
+ Each part is in the + region of the v-t graph (above 0) since the velocity
+ is +.
+ The slope of the first part is zero since constant velocity means zero
+ acceleration and zero acceleration is represented by a horizontal line
+ on a v-t graph (slope = acceleration for v-t graphs).
+ The second part of the graph is an upward sloping line since the object
+ has + acceleration (again, the slope = acceleration for v-t graphs)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph36.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 36
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+8.
+ Sketch a velocity-time graph for an object which first moves with a constant
+ speed in the + direction, and then moves with a negative acceleration.
+ 
+\end_layout
+
+\begin_layout Standard
+Answer : A velocity-time graph for an object which first moves with a constant
+ speed in the + direction, and then moves with a negative acceleration is
+ shown below.
+ Since there are two parts of this object's motion, there will be two distinct
+ parts on the graph.
+ Each part is in the + region of the v-t graph (above 0) since the velocity
+ is +.
+ The slope of the first part is zero since constant velocity means zero
+ acceleration and zero acceleration is represented by a horizontal line
+ on a v-t graph (slope = acceleration for v-t graphs).
+ The second part of the graph is an downward sloping line since the object
+ has - acceleration (again, the slope = acceleration for v-t graphs) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph37.gif
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Graph of Question 37
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

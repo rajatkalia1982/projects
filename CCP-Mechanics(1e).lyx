@@ -1,0 +1,2026 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage[style=authoryear,backend=biber,refsection=part]{biblatex}
+\addbibresource{Bibliography/introduction.bib}
+\addbibresource{Bibliography/kinematics.bib}
+\addbibresource{Bibliography/lawsofmotion.bib}
+\addbibresource{Bibliography/energyconservation.bib}
+\addbibresource{Bibliography/shm.bib}
+\addbibresource{Bibliography/currentelectricity.bib}
+\addbibresource{Bibliography/lattice.bib}
+\end_preamble
+\use_default_options true
+\begin_modules
+logicalmkup
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 2cm
+\rightmargin 1.5cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+A Complete Course in Physics (Mechanics->Kinematics Theory) - First Edition
+\end_layout
+
+\begin_layout Author
+Rajat Kalia and Touma Edision
+\end_layout
+
+\begin_layout Date
+18 November, 2017
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Kinematics
+\end_layout
+
+\end_inset
+
+Kinematics
+\end_layout
+
+\begin_layout Part
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Newton's Equations of Motion
+\end_layout
+
+\end_inset
+
+Newton's Equations of Motion
+\end_layout
+
+\begin_layout Chapter
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Derivation of Newton's Equations of Motion from basic forms and graphs
+\end_layout
+
+\end_inset
+
+Derivation of Newton's Equations of Motion from basic forms and graphs
+\end_layout
+
+\begin_layout Standard
+We will use the basic assumptions like 
+\begin_inset Formula $\overrightarrow{v}=\dfrac{\overrightarrow{dr}}{dt}$
+\end_inset
+
+ (First Equation) and 
+\begin_inset Formula $\overrightarrow{a}=\dfrac{\overrightarrow{dv}}{dt}$
+\end_inset
+
+(2nd Equation) and the v-t graph to derive the following Newton's equations
+ of motion for constant acceleration case(i.e.
+ in Newton's equations we assume that 
+\begin_inset Formula $\overrightarrow{a}$
+\end_inset
+
+ is constant while the basic first and second equation , we can use everywhere[n
+on-uniform acceleration cases too]).
+\end_layout
+
+\begin_layout Standard
+1.
+ 
+\begin_inset Formula $\overrightarrow{v}=\overrightarrow{v_{o}}+\overrightarrow{a}t$
+\end_inset
+
+ (Newton's first equation of motion)
+\end_layout
+
+\begin_layout Standard
+2.
+ 
+\begin_inset Formula $\overrightarrow{r}=\overrightarrow{r_{o}}+\overrightarrow{v_{o}}t+\dfrac{1}{2}\overrightarrow{a}t^{2}$
+\end_inset
+
+ (Newton's second equation of motion)
+\end_layout
+
+\begin_layout Standard
+3.
+ 
+\begin_inset Formula $\overrightarrow{v}.\overrightarrow{v}=\overrightarrow{v_{o}}.\overrightarrow{v_{o}}+2\overrightarrow{a}.(\overrightarrow{r}-\overrightarrow{r_{o}})$
+\end_inset
+
+ (Newton's third equation of motion)
+\end_layout
+
+\begin_layout Section
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Newton's first equation of motion
+\end_layout
+
+\end_inset
+
+Newton's first equation of motion
+\end_layout
+
+\begin_layout Standard
+The equation is 
+\begin_inset Formula $\overrightarrow{v}=\overrightarrow{v_{o}}+\overrightarrow{a}t$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+We'll first rewise a 9th class derivation without the use of first equation.
+\end_layout
+
+\begin_layout Subsection
+Basic Derivation (without use of calculus or graphs)
+\end_layout
+
+\begin_layout Standard
+We define 
+\begin_inset Formula $\overrightarrow{a}=\dfrac{\overrightarrow{v}-\overrightarrow{v_{o}}}{t}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cross multiplying, 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\overrightarrow{a}t=\overrightarrow{v}-\overrightarrow{v_{o}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $\overrightarrow{v}=\overrightarrow{v_{o}}+\overrightarrow{a}t$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection
+Derivation from v-t graph(Scalar form)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Equations of Motion/v-t graph.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We define the slope of v-t graph as a, so it gives 
+\begin_inset Formula $a=\dfrac{v-v_{o}}{t}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Manipulating the form of this equation, we get 
+\begin_inset Formula $v=v_{o}+at$
+\end_inset
+
+ , which is newton's first equation of motion in scalar form.
+\end_layout
+
+\begin_layout Subsection
+Calculus Derivation(to be used in our class)
+\end_layout
+
+\begin_layout Standard
+By the 2nd equation General Definition, we have
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{a}=\dfrac{\overrightarrow{dv}}{dt}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\overrightarrow{dv}=\overrightarrow{a}dt$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\intop_{\overrightarrow{v_{o}}}^{\overrightarrow{v}}\overrightarrow{dv}=\intop_{0}^{t}\overrightarrow{a}dt$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\left[\overrightarrow{v}\right]_{\overrightarrow{v_{o}}}^{\overrightarrow{v}}=\overrightarrow{a}\left[t\right]_{0}^{t}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\overrightarrow{v}-\overrightarrow{v_{o}}=\overrightarrow{a}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $\overrightarrow{v}=\overrightarrow{v_{o}}+\overrightarrow{a}t$
+\end_inset
+
+ ——— ( Derived)
+\end_layout
+
+\begin_layout Section
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Newton's second equation of motion
+\end_layout
+
+\end_inset
+
+Newton's second equation of motion
+\end_layout
+
+\begin_layout Standard
+The equation is 
+\begin_inset Formula $\overrightarrow{r}=\overrightarrow{r_{o}}+\overrightarrow{v_{o}}t+\dfrac{1}{2}\overrightarrow{a}t^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We'll first rewise a 9th class derivation without the use of first equation.
+\end_layout
+
+\begin_layout Subsection
+Basic Derivation (without use of calculus or graphs)
+\end_layout
+
+\begin_layout Standard
+We'll be using newton's first equation of motion and the definition of average
+ velocity to derive it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{\overline{v}}=\dfrac{\overrightarrow{v}+\overrightarrow{v_{o}}}{2}$
+\end_inset
+
+ .i.e.
+ Average velocity vector is the the average of initial velocity and final
+ velocity vectors.
+\end_layout
+
+\begin_layout Standard
+Also, 
+\begin_inset Formula $\overrightarrow{s}=\overrightarrow{\overline{v}}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\overrightarrow{s}=\dfrac{\overrightarrow{v}+\overrightarrow{v_{o}}}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Substituting, 
+\begin_inset Formula $\overrightarrow{v}=\overrightarrow{v_{o}}+\overrightarrow{a}t$
+\end_inset
+
+ , i.e.
+ the newton's first equation of motion.
+ We get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{s}=\dfrac{\overrightarrow{v_{o}}+\overrightarrow{a}t+\overrightarrow{v_{o}}}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Now, 
+\begin_inset Formula $\overrightarrow{s}=\overrightarrow{r}-\overrightarrow{r_{o}}$
+\end_inset
+
+ , displacement vector is the difference of final position vector and initial
+ position vector.
+\end_layout
+
+\begin_layout Standard
+Manipulating, we get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{r}-\overrightarrow{r_{o}}=\dfrac{2\overrightarrow{v_{o}}+\overrightarrow{a}t}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+OR
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{r}=\overrightarrow{r_{o}}+\overrightarrow{v_{o}}t+\dfrac{1}{2}\overrightarrow{a}t^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Derivation from v-t graph(Scalar form)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Equations of Motion/v-t graph - Newton's Second Equation.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Area under the v-t graph is dispacement(s)
+\end_layout
+
+\begin_layout Standard
+Area of a trapezium is sum of parallel sides X distance between them
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow s=\dfrac{v+v_{o}}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Substituting, the previously derived newton's first equation of motion in
+ scalar form
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow s=\dfrac{v_{o}+at+v_{o}}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+OR
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $s=v_{o}t+\dfrac{1}{2}at^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Calculus Derivation(to be used in our class)
+\end_layout
+
+\begin_layout Standard
+We have, 
+\begin_inset Formula $\overrightarrow{v}=\dfrac{\overrightarrow{dr}}{dt}$
+\end_inset
+
+ , by first equation general definition
+\end_layout
+
+\begin_layout Standard
+Substituting, newton's first equation of motion
+\end_layout
+
+\begin_layout Standard
+We get
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $\overrightarrow{v_{o}}+\overrightarrow{a}t=\dfrac{\overrightarrow{dr}}{dt}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\intop_{\overrightarrow{r_{o}}}^{\overrightarrow{r}}\overrightarrow{dr}=\intop_{0}^{t}(\overrightarrow{v_{o}}+\overrightarrow{a}t)dt$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\left[\overrightarrow{r}\right]_{\overrightarrow{r_{o}}}^{\overrightarrow{r}}=\left[\overrightarrow{v_{o}}t+\dfrac{1}{2}\overrightarrow{a}t^{2}\right]_{0}^{t}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\overrightarrow{r}-\overrightarrow{r_{o}}=\overrightarrow{v_{o}}t+\dfrac{1}{2}\overrightarrow{a}t^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\overrightarrow{r}=\overrightarrow{r_{o}}+\overrightarrow{v_{o}}t+\dfrac{1}{2}\overrightarrow{a}t^{2}$
+\end_inset
+
+——— ( Derived)
+\end_layout
+
+\begin_layout Section
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Newton's third equation of motion
+\end_layout
+
+\end_inset
+
+Newton's third equation of motion
+\end_layout
+
+\begin_layout Standard
+The equation is 
+\begin_inset Formula $\overrightarrow{v}.\overrightarrow{v}=\overrightarrow{v_{o}}.\overrightarrow{v_{o}}+2\overrightarrow{a}.(\overrightarrow{r}-\overrightarrow{r_{o}})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We'll first rewise a basic derivation without the use of first equation.
+ It will require dot product.
+\end_layout
+
+\begin_layout Subsection
+Basic Derivation (without use of calculus or graphs)
+\end_layout
+
+\begin_layout Standard
+We have,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{v}-\overrightarrow{v_{o}}=\overrightarrow{a}t$
+\end_inset
+
+ , by newton's first equation of motion
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{\overrightarrow{v}+\overrightarrow{v_{o}}}{2}t=\overrightarrow{s}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Taking dot product
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $\overrightarrow{(v}-\overrightarrow{v_{o}}).\left(\dfrac{\overrightarrow{v}+\overrightarrow{v_{o}}}{2}t\right)=\overrightarrow{a}t.\overrightarrow{s}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cancelling t, transfering 2 to right hand side in numerator and opeing the
+ brackets, we get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{v}.\overrightarrow{v}-\overrightarrow{v_{o}}.\overrightarrow{v_{o}}=2\overrightarrow{a}.\overrightarrow{s}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Manipulating, substituting the value of displacement vector, we get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{v}.\overrightarrow{v}=\overrightarrow{v_{o}}.\overrightarrow{v_{o}}+2\overrightarrow{a}.(\overrightarrow{r}-\overrightarrow{r_{o}})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Derivation from v-t graph(Scalar form)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Equations of Motion/v-t graph - Newton's Third Equation.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In deriving the newton's third equation by graph, two values are taken from
+ the graph
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $a=\dfrac{v-v_{o}}{t}$
+\end_inset
+
+ and
+\begin_inset Formula $s=\dfrac{v+v_{o}}{2}t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Multiplying both the equations,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $as=\dfrac{v^{2}-v{}_{o}^{2}}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+OR
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v^{2}-v{}_{o}^{2}=2as$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Derivation(to be used in our class)
+\end_layout
+
+\begin_layout Standard
+We have, 
+\begin_inset Formula $\overrightarrow{v}=\dfrac{\overrightarrow{dr}}{dt}$
+\end_inset
+
+ (First Equation) and 
+\begin_inset Formula $\overrightarrow{a}=\dfrac{\overrightarrow{dv}}{dt}$
+\end_inset
+
+(2nd Equation) as the basic General Definition
+\end_layout
+
+\begin_layout Standard
+Reversing the sides of the second equation and taking dot product, we get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\overrightarrow{v}.\overrightarrow{dv}=\overrightarrow{a}.\overrightarrow{dr}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Integrating,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\intop_{\overrightarrow{v_{o}}}^{\overrightarrow{v}}\overrightarrow{v}.\overrightarrow{dv}=\intop_{\overrightarrow{r_{o}}}^{\overrightarrow{r}}\overrightarrow{a}.\overrightarrow{dr}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\left[\dfrac{\overrightarrow{v}.\overrightarrow{v}}{2}\right]_{\overrightarrow{v_{o}}}^{\overrightarrow{v}}=\overrightarrow{a}.\left[\overrightarrow{r}\right]_{\overrightarrow{r_{o}}}^{\overrightarrow{r}}$
+\end_inset
+
+ (This type of Integral in dot product, we'll study at bachelor's level,
+ here we can prove it using vector's components)
+\end_layout
+
+\begin_layout Standard
+Substituting the values of limits,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{\overrightarrow{v}.\overrightarrow{v}-\overrightarrow{v_{o}}.\overrightarrow{v_{o}}}{2}=\overrightarrow{a}.\overrightarrow{s}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\overrightarrow{v}.\overrightarrow{v}-\overrightarrow{v_{o}}.\overrightarrow{v_{o}}=2\overrightarrow{a}.\overrightarrow{s}$
+\end_inset
+
+ ——— ( Derived)
+\end_layout
+
+\begin_layout Part
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Relative Velocity 
+\end_layout
+
+\end_inset
+
+Relative Velocity 
+\end_layout
+
+\begin_layout Chapter
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Crossing the River problems (Theory)
+\end_layout
+
+\end_inset
+
+Crossing the River problems (Theory)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Theory Problem 1.
+\end_layout
+
+\end_inset
+
+ Two swimmers leave point A on one bank of the river to reach point B lying
+ right across on the other bank.
+ One of them crosses the river along the straight line AB while the other
+ swims at right angles to the stream and then walks the distance that he
+ has been carried away by the stream to get to point B.
+ What was the velocity u of his walking if both swimmers reached the destination
+ simultaneously? The stream velocity 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+ = 2.0 km/hour and the velocity v' of each swimmer with respect to water
+ equals 2.5 km per hour.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Solution.
+ 
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Case I
+\end_layout
+
+\end_inset
+
+ : Swimmer swims with final velocity along AB, this case is also called
+ the 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Shortest Path
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ case.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Relative Velocity/Crossing the River problems/Shortest Path.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We see that 
+\begin_inset Formula $\overrightarrow{v'}+\overrightarrow{v_{o}}=\overrightarrow{v}$
+\end_inset
+
+ and they form a right triangle
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow v=\sqrt{v'^{2}-v_{o}^{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+time to reach point B = 
+\begin_inset Formula $\dfrac{AB}{\sqrt{v'^{2}-v_{o}^{2}}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Strong
+status open
+
+\begin_layout Plain Layout
+Case II
+\end_layout
+
+\end_inset
+
+ : Swimmer swims at right angle to the stream, this would require the 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Shortest time in crossing the river
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ but the problem requires that he would have to walk to get to B.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Relative Velocity/Crossing the River problems/Shortest Time in river crossing.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We see that 
+\begin_inset Formula $\overrightarrow{v'}+\overrightarrow{v_{o}}=\overrightarrow{v}$
+\end_inset
+
+ and they form a right triangle, though this time with 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\overrightarrow{v}$
+\end_inset
+
+ as the hyportenuse.
+ It should be noted however that this time v', vo and v vectors are different
+ from Case I while the magnitudes of v' and vo are the same.
+ Our problem Case II is independent in this regard from case I and we can
+ choose the same names without loss of generality
+\end_layout
+
+\begin_layout Standard
+Proceeding to solve the question
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{AB}{v'}=\dfrac{d_{w}}{v_{o}}$
+\end_inset
+
+ (By similarity of triangles, from figure)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow d_{w}=\dfrac{v_{o}}{v'}.AB$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time 
+\begin_inset Formula $t_{1}$
+\end_inset
+
+ to cross the river and reach the point (say C ) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{1}=\dfrac{AB}{v'}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time 
+\begin_inset Formula $t_{2}$
+\end_inset
+
+ to cross the distance dw back to B
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{2}=\dfrac{d_{w}}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Total time = 
+\begin_inset Formula $t_{1}+t_{2}=\dfrac{AB}{v'}+\dfrac{d_{w}}{u}=\dfrac{AB}{v'}+\dfrac{\dfrac{v_{o}}{v'}.AB}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Proceeding to solve the problem by comparing both the cases,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{AB}{\sqrt{v'^{2}-v_{o}^{2}}}=\dfrac{AB}{v'}+\dfrac{\dfrac{v_{o}}{v'}.AB}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solving further, we get the required form, first cancelling AB and cross
+ multiplying v'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{v'}{\sqrt{v'^{2}-v_{o}^{2}}}-1=\dfrac{v_{o}}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow u=\dfrac{v_{o}}{\dfrac{v'}{\sqrt{v'^{2}-v_{o}^{2}}}-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Calculating the value, u = 3 km/hr
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Theory Problem 2 : 
+\end_layout
+
+\end_inset
+
+Two boats, A and B, move away from a buoy anchored at the middle of a river
+ along the mutually perpendicular straight lines: the boat A along the river,
+ and the boat B across thg river.
+ Having moved off an equal distance from the buoy the boats returned.
+ Find the ratio of times of motion of boats 
+\begin_inset Formula $\tau_{A}/\tau_{B}$
+\end_inset
+
+ if the velocity of each boat with respect to water is 
+\begin_inset Formula $\eta$
+\end_inset
+
+ = 1.2 times greater than the stream velocity.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Solution: 
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Relative Velocity/Crossing the River problems/Theory Problem 2.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Let the stream velocity be 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+ , then the boat velocity with respect to water is 
+\begin_inset Formula $\eta v_{o}$
+\end_inset
+
+ .
+ Also let us assume that the equal distance be d.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Case A
+\series default
+ : Final velocity of boat A in forward journey ( in the stream direction
+ )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v=\eta v_{o}+v_{o}=(\eta+1)v_{o}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time to reach the destination =
+\begin_inset Formula $t_{1}=\dfrac{d}{(\eta+1)v_{o}}$
+\end_inset
+
+ ............(1)
+\end_layout
+
+\begin_layout Standard
+Final velocity of boat A in the backward journey ( opposite to the stream
+ direction )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v=\eta v_{o}-v_{o}=(\eta-1)v_{o}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time to reach back to the buoy =
+\begin_inset Formula $t_{2}=\dfrac{d}{(\eta-1)v_{o}}$
+\end_inset
+
+ ............(2)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tau_{A}=t_{1}+t_{2}=\dfrac{d}{(\eta+1)v_{o}}+\dfrac{d}{(\eta-1)v_{o}}=\dfrac{2\eta}{\eta^{2}-1}\dfrac{d}{v_{o}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Case B : 
+\series default
+Here we proceed according to the shortest path case in Theory Problem 1.
+\end_layout
+
+\begin_layout Standard
+In Forward Journey (Upwards in the figure)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{1}=\dfrac{d}{\sqrt{\eta^{2}-1}v_{o}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In Backwards Journey (Downwards in the figure)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{2}=\dfrac{d}{\sqrt{\eta^{2}-1}v_{o}}=t_{1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $\tau_{B}=t_{1}+t_{2}=2t_{1}=\dfrac{2}{\sqrt{\eta^{2}-1}}\dfrac{d}{v_{o}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{\tau_{A}}{\tau_{B}}=\dfrac{\dfrac{2\eta}{\eta^{2}-1}\dfrac{d}{v_{o}}}{\dfrac{2}{\sqrt{\eta^{2}-1}}\dfrac{d}{v_{o}}}=\dfrac{\eta}{\sqrt{\eta^{2}-1}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Substituting the value, we get 6/
+\begin_inset Formula $\sqrt{11}$
+\end_inset
+
+ as the ratio.
+ = 1.81 (approx.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Theory Problem 3 : 
+\end_layout
+
+\end_inset
+
+ A boat moves relative to water with a velocity which is n = 2.0 times less
+ than the river flow velocity.
+ At what angle to the stream direction must the boat move to minimize drifting?
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex Emph
+status open
+
+\begin_layout Plain Layout
+Solution: 
+\end_layout
+
+\end_inset
+
+ Let the river flow velocity = 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+ .
+ and velocity of boat relative to water would be then 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $v'=v_{o}/n$
+\end_inset
+
+ .
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Relative Velocity/Crossing the River problems/Theory Problem 3.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Across component(along y axis) of v is 
+\begin_inset Formula $v'\sin\theta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Drift component(along x axis) of v is 
+\begin_inset Formula $v'\cos\vartheta+v_{o}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+drift = 
+\begin_inset Formula $\dfrac{AB}{v'\sin\theta}\left(v'\cos\vartheta+v_{o}\right)=AB\left(\cot\theta+\dfrac{v_{o}}{v'}cosec\theta\right)=AB\left(\cot\theta+ncosec\theta\right)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Now we have to minimize drift, 
+\end_layout
+
+\begin_layout Standard
+At minima, 
+\begin_inset Formula $\dfrac{d}{d\theta}drift=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\dfrac{d}{d\theta}AB\left(\cot\theta+ncosec\theta\right)=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow AB(cosec^{2}\theta+ncosec\theta\cot\theta)=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow\cos\vartheta=-\dfrac{1}{n}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The only solution in (0,π) is 120
+\begin_inset Formula $^{o}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Part
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Motion in 2D
+\end_layout
+
+\end_inset
+
+Motion in 2D
+\end_layout
+
+\begin_layout Chapter
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+2D Projectile Motion
+\end_layout
+
+\end_inset
+
+2D Projectile Motion
+\end_layout
+
+\begin_layout Section
+Projection at an angle to the Horizontal
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Motion in 2D/2D Projectile Motion/Projectile.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+From Figure, we get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v_{x}=u\cos\theta$
+\end_inset
+
+ ..........(1)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v_{y}=u\sin\theta-gt$
+\end_inset
+
+ ..........(2)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=u\cos\theta t$
+\end_inset
+
+ ..........(3)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=u\sin\theta t-\dfrac{1}{2}gt^{2}$
+\end_inset
+
+ ..........(4)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Case I : Maximum height, H
+\end_layout
+
+\begin_layout Standard
+At maximum height, 
+\begin_inset Formula $v_{y}$
+\end_inset
+
+ is zero.
+\end_layout
+
+\begin_layout Standard
+This gives the time at maximum height, (equating equation (2) to zero )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $T_{H}=\dfrac{u\sin\theta}{g}$
+\end_inset
+
+ ———–(Supplementary Result)
+\end_layout
+
+\begin_layout Standard
+Substituting this value of 
+\begin_inset Formula $T_{H}$
+\end_inset
+
+ in y-> equation (4), we get maximum height (H) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $H=u\sin\theta.\dfrac{u\sin\theta}{g}-\dfrac{1}{2}g\left(\dfrac{u\sin\theta}{g}\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $H=\dfrac{u^{2}\sin^{2}\theta}{2g}$
+\end_inset
+
+ ———–(Primary Result) [Maximum Height]
+\end_layout
+
+\begin_layout Standard
+Also , the value of x at this point 
+\end_layout
+
+\begin_layout Standard
+X
+\begin_inset Formula $_{H}=u\cos\theta.T_{H}=\dfrac{u^{2}\sin2\theta}{2g}$
+\end_inset
+
+ ———–(Supplementary Result)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Case II: Range, R and Time of Flight, T
+\end_layout
+
+\begin_layout Standard
+At R, y=0.
+\end_layout
+
+\begin_layout Standard
+Substituting this value in equation (4), we get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $T=\dfrac{2u\sin\theta}{g}$
+\end_inset
+
+ ———–(Primary Result) [Time of Flight]
+\end_layout
+
+\begin_layout Standard
+Interestingly, 
+\begin_inset Formula $T=2T_{H}$
+\end_inset
+
+ ———–(Supplementary Result)
+\end_layout
+
+\begin_layout Standard
+Substituting the time of flight in x, we get R
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $R=u\cos\theta.T=u\cos\theta.\dfrac{2u\sin\theta}{g}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $R==\dfrac{u^{2}\sin2\theta}{g}$
+\end_inset
+
+———–(Primary Result) [Range]
+\end_layout
+
+\begin_layout Standard
+Also, 
+\begin_inset Formula $R=2X_{H}$
+\end_inset
+
+ implying that Maximum height occours at half the Flight range.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Case III : Equation of Trajectory
+\end_layout
+
+\begin_layout Standard
+Eliminating t from the equations of x and y (3 and 4) we get
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=u\sin\theta.\left(\dfrac{x}{u\cos\theta}\right)-\dfrac{1}{2}g.\left(\dfrac{x}{u\cos\theta}\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=x\tan\theta-\dfrac{1}{2}g\dfrac{x^{2}}{u^{2}\cos\theta^{2}}$
+\end_inset
+
+———–(Primary Result) [Equation of Trajectory]
+\end_layout
+
+\begin_layout Section
+Horizontal Projection (Corollary)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Motion in 2D/2D Projectile Motion/Projectile(Horizontal Projection).jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the case of Horizontal Projection
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v_{x}=u$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v_{y}=gt$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=ut$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=\dfrac{1}{2}gt^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Projection on Inclined Plane
+\end_layout
+
+\begin_layout Standard
+For an inclined plane, we shift the co-ordinate axis x along the plane and
+ y perpendicular to it.This is not necessary, but convenient usually.
+ However, there are cases when it's usefull to treat a projectile on a inclined
+ plane as a normal projectile of the above two cases.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Motion in 2D/2D Projectile Motion/Projectile on an Inclined Plane.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v_{x}=u\cos\alpha-g\sin\theta t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v_{y}=u\sin\alpha-g\cos\theta t$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=u\cos\alpha t-\dfrac{1}{2}g\sin\theta t^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=u\sin\alpha t-\dfrac{1}{2}g\cos\theta t^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Case I : Maximum Distance from the plane
+\end_layout
+
+\begin_layout Standard
+At this Distance, 
+\begin_inset Formula $v_{y}=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solving we get , 
+\begin_inset Formula $t_{H}=\dfrac{u\sin\alpha}{g\cos\theta}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Substituting in y, we get 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $H=u\sin\alpha.\dfrac{u\sin\alpha}{g\cos\theta}-\dfrac{1}{2}g\cos\theta\left(\dfrac{u\sin\alpha}{g\cos\theta}\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow H=\dfrac{u^{2}\sin^{2}\alpha}{2g\cos\theta}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Case II : Range along the plane, Time to hit the plane
+\end_layout
+
+\begin_layout Standard
+At R, 
+\begin_inset Formula $y=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{R}=\dfrac{2u\sin\alpha}{g\cos\theta}=2t_{H}$
+\end_inset
+
+ (Even when the maximum distance occours at an unsimmetrical point)
+\end_layout
+
+\begin_layout Standard
+Substituting in x,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $R=u\cos\alpha.\dfrac{2u\sin\alpha}{g\cos\theta}-\dfrac{1}{2}g\sin\theta\left(\dfrac{2u\sin\alpha}{g\cos\theta}\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow R=\dfrac{2u^{2}\sin\alpha\cos\left(\alpha+\theta\right)}{g\cos^{2}\theta}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

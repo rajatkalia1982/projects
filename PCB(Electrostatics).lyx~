@@ -1,0 +1,691 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extbook
+\use_default_options true
+\begin_modules
+endnotes
+foottoend
+logicalmkup
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter*
+Physics (Theory) - Electric Charges and Fields (CBSE)
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 41
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 3 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 19 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 10 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 18 questions in total.
+ Section A : Questions 1 to 16 carry one mark each, Section B : questions
+ 17 to 21 carry two marks each, Section C : questions 22 to 28 carry three
+ marks each , Section D : questions 29 and 30 carry 4 marks each and Section
+ E : questions 31 to 33carry five marks each.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Standard
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\epsilon_{o}=8.854\times10^{-12}C^{2}N^{-1}m^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Section - A
+\end_layout
+
+\begin_layout Description
+Q1: Why is it necessary that the field lines from a point charge placed
+ in the vicinity of a conductor must be normal to the surface of the conductor
+ at every point ?
+\end_layout
+
+\begin_layout Description
+Q2: Is the force acting between two point electric charges 
+\begin_inset Formula $q_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{2}$
+\end_inset
+
+ kept at some distance apart in air, attractive or repulsive when (i) 
+\begin_inset Formula $q_{1}q_{2}$
+\end_inset
+
+ > 0 (ii) 
+\begin_inset Formula $q_{1}q_{2}$
+\end_inset
+
+ < 0 ?
+\end_layout
+
+\begin_layout Description
+Q3: Figure shows three point charges +2q, –q and + 3q.
+ Two charges + 2q and –q are enclosed within a surface ‘S’.
+ What is the electric flux due to this configuration through the surface
+ ‘S’?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image2.1.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q4: In which orientation, a dipole placed in a uniform electric field is
+ in (i) stable, (ii) unstable equilibrium?
+\end_layout
+
+\begin_layout Description
+Q5: An electric dipole of dipole moment 
+\begin_inset Formula $20\times10^{\text{−}6}C.m$
+\end_inset
+
+ is enclosed by a closed surface.
+ What is the net flux coming out of the surface ?
+\end_layout
+
+\begin_layout Description
+Q6: An electrostatic field line cannot be discontinuous.
+ Why ?
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+For Questions 13 to 16, two statements are given - one labelled Assertion
+ (A) and other labelled Reason (R).
+ Select the correct answer to these questions from the options as given
+ below.
+\end_layout
+
+\begin_layout Standard
+(A) If both Assertion (A) and and Reason (R) are true and Reason (R) is
+ the correct explaination of Assertion (A).
+\end_layout
+
+\begin_layout Standard
+(B) If both Assertion (A) and Reason (R) are true, and Reason (R) is not
+ the correct explaination of Assertion (A).
+\end_layout
+
+\begin_layout Standard
+(C) If Assertion (A) is true but Reason (R) is false.
+\end_layout
+
+\begin_layout Standard
+(D) If both Assertion (A) and Reason (R) are false.
+\end_layout
+
+\begin_layout Standard
+Q1: Assertion (A) : Equal amount of positive and negative charges are distribute
+d uniformly on two halves of a thin circular ring as shown in figure.
+ The resultant electric field at the centre O of the ring is along OC.
+\end_layout
+
+\begin_layout Standard
+Reason (R) : It is so because the net potential at O is not zero.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/AR-1.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Q2: Assertion (A) :
+\end_layout
+
+\begin_layout Section*
+Section B
+\end_layout
+
+\begin_layout Description
+Q17: Define Electric Flux.
+ Write its S.I.
+ Unit.
+\end_layout
+
+\begin_layout Description
+Q18: The sum of two point charges is 
+\begin_inset Formula $7\mu C$
+\end_inset
+
+.
+ They repel each other with a force of 1 N when kept 30 cm apart in free
+ space.
+ Calculate the value of each charge.
+\end_layout
+
+\begin_layout Description
+Q19: The electric field E due to a point charge at any point near it is
+ defined as 
+\begin_inset Formula $\underset{q\rightarrow0}{lim}\left(\dfrac{\mathbf{F}}{q}\right)$
+\end_inset
+
+ where q is the test charge and F is the force acting on it.
+ What is the physical significance of 
+\begin_inset Formula $\underset{q\rightarrow0}{lim}$
+\end_inset
+
+ in this expression ? Draw the electric field lines of a point charge Q
+ when (i) Q > 0 and (ii) Q < 0.
+\end_layout
+
+\begin_layout Description
+Q20: A spherical Gaussian surface encloses a charge of 
+\begin_inset Formula $8.85\times10^{-10}C$
+\end_inset
+
+ .
+ (i) Calculate the electric flux passing through the surface.
+ (ii) How would the flux change if the radius of the Gaussian surface is
+ doubled and why ?
+\end_layout
+
+\begin_layout Description
+Q21: Define 'electric line of force' and give its two important properties.
+\end_layout
+
+\begin_layout Description
+Q : Four point charges of 
+\begin_inset Formula $1\:\mu C$
+\end_inset
+
+ , 
+\begin_inset Formula $-2\:\mu C$
+\end_inset
+
+ , 
+\begin_inset Formula $1\:\mu C$
+\end_inset
+
+ and 
+\begin_inset Formula $-2\:\mu C$
+\end_inset
+
+ are placed at the corners A, B, C and D respectively, of a square of side
+ 30 cm.
+ Find the net force acting on a charge of 
+\begin_inset Formula $4\:\mu C$
+\end_inset
+
+ placed at the centre of the square.
+\end_layout
+
+\begin_layout Description
+OR
+\end_layout
+
+\begin_layout Standard
+Three point charges , 
+\begin_inset Formula $1\:pC$
+\end_inset
+
+ each, are kept at the vertices of an equilateral triangle of side 
+\begin_inset Formula $10\:cm$
+\end_inset
+
+.
+ Find the net electric field at the centroid of triangle.
+\end_layout
+
+\begin_layout Section*
+Section - C
+\end_layout
+
+\begin_layout Description
+Q22: A positive point charge (+ q) is kept in the vicinity of an uncharged
+ conducting plate.
+ Sketch electric field lines originating from the point on to the surfaceof
+ the plate.
+ Derive the expression for the electric field at the surface of a charged
+ conductor.
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Q2
+\series default
+3: A thin conducting spherical shell of radius R has charge Q spread uniformly
+ over its surface.
+ Using Gauss's law, derive an expression for an electric field at a point
+ outside the shell.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Draw a graph of electric field 
+\series bold
+E
+\series default
+(r) with distance r from the centre of the shell for 
+\begin_inset Formula $0\leq r\leq\infty$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Q
+\series default
+24: Define the term 'electric dipole moment', Is it scalar or vector? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Deduce an expression for the electric field at a point on the equatorial
+ plane of an electric dipole of length 2a.
+\end_layout
+
+\begin_layout Description
+Q25: State Gauss's theorem in electrostatics.
+ Apply this theorem to derive an expression for electric field intensity
+ at a point near an infinitely long straight charged wire.
+\end_layout
+
+\begin_layout Description
+Q26: An electric dipole is held in a uniform electric field.
+ (i) Using suitable diagram, show that it does not undergo any translatory
+ motion, and (ii) derive an expression for the torque acting on it and specify
+ its direction.
+\end_layout
+
+\begin_layout Description
+Q: (a) Define the term 'electric flux' and write its dimensions.
+\end_layout
+
+\begin_layout Standard
+(b) A plane surface, in shape of a square of side 1 cm is placed in an electric
+ field 
+\begin_inset Formula $\overrightarrow{E}=\left(100\frac{N}{C}\right)\hat{i}$
+\end_inset
+
+ such that the unit vector normal to the surface is given by 
+\begin_inset Formula $\hat{n}=0.8\hat{i}+0.6\hat{j}$
+\end_inset
+
+.
+ Find the electric flux through the surface.
+\end_layout
+
+\begin_layout Section*
+Section D
+\end_layout
+
+\begin_layout Description
+Q29: (a) Using Gauss’ law, derive an expression for the electric field intensity
+ at any point outside a uniformly charge thin spherical shell of radius
+ R and charge densitys 
+\begin_inset Formula $\sigma C/m^{2}$
+\end_inset
+
+ .
+ Draw the field lines when the charge density of the sphere is (i) positive,
+ (ii) negative.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) A uniformly charged conducting sphere of 2.5m in diameter has a surface
+ charge density of 
+\begin_inset Formula $100mC/m^{2}$
+\end_inset
+
+ .
+ Calculate the (i) Charge on the sphere (ii) Total electric flux passing
+ through the sphere.
+\end_layout
+
+\begin_layout Description
+Q30: Define the term dipole moment 
+\begin_inset Formula $\overrightarrow{p}$
+\end_inset
+
+ of an electric dipole indicating its direction.
+ Write its SI unit.
+ An electric dipole is placed in a uniform electric field 
+\begin_inset Formula $\overrightarrow{E}$
+\end_inset
+
+.
+ Deduce the expression for the torque acting on it.
+ In a particular situation, it has its dipole moment aligned with the electric
+ field.
+ Is the equilibrium stable or unstable ?
+\end_layout
+
+\begin_layout Section*
+Section E
+\end_layout
+
+\begin_layout Description
+Q31 : (i) Draw equipotential surfaces for an electric dipole.
+\end_layout
+
+\begin_layout Standard
+(ii) Two point charges 
+\begin_inset Formula $q_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{2}$
+\end_inset
+
+ are located at 
+\begin_inset Formula $\vec{r_{1}}$
+\end_inset
+
+ and 
+\begin_inset Formula $\vec{r_{2}}$
+\end_inset
+
+ respectively in an external electric field 
+\begin_inset Formula $\vec{E}$
+\end_inset
+
+.
+ Obtain an expression for the potential energy of the system.
+\end_layout
+
+\begin_layout Standard
+(iii) The dipole moment of a molecule is 
+\begin_inset Formula $10^{-30}Cm$
+\end_inset
+
+.
+ It is placed in an electric field 
+\begin_inset Formula $\vec{E}$
+\end_inset
+
+ of 
+\begin_inset Formula $10^{5}V/m$
+\end_inset
+
+ such that it's axis is along the electric field.
+ The direction of 
+\begin_inset Formula $\vec{E}$
+\end_inset
+
+ is suddenly changed by 
+\begin_inset Formula $60^{o}$
+\end_inset
+
+ at an instant .
+ Find the change in the potential energy of the dipole, at that instant.
+\end_layout
+
+\begin_layout Standard
+OR
+\end_layout
+
+\begin_layout Standard
+Q : (i) A thin spherical shell of radius R has a uniform surface charge
+ density 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ .
+ Using Gauss's law , deduce an expression for electric field (i) outside
+ and (ii) inside the shell.
+\end_layout
+
+\begin_layout Standard
+(ii) Two long straight thin wires AB and CD have linear charge densities
+ 
+\begin_inset Formula $10\:\mu C/m$
+\end_inset
+
+ and 
+\begin_inset Formula $-20\:\mu C/m$
+\end_inset
+
+, respectively.
+ They are kept parallel to each other at a distance 1 m.
+ Find the magnitude and direction of the net electric field at a point midway
+ between them.
+\end_layout
+
+\end_body
+\end_document

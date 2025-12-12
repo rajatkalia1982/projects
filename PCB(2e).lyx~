@@ -1,0 +1,1542 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extbook
+\use_default_options true
+\begin_modules
+endnotes
+foottoend
+logicalmkup
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Physics Cook Book - 2nd Edition
+\end_layout
+
+\begin_layout Author
+Rajat Kalia and Manas Kalia
+\end_layout
+
+\begin_layout Date
+7-April, 2024
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Electric Charges and Fields
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 41
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 3 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 19 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 10 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 18 questions in total.
+ Questions 1 to 6 carry one mark each, questions 7 to 11 carry two marks
+ each, questions 12 to 16 carry three marks each and questions 17 to 18
+ carry five marks each.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Standard
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: Why is it necessary that the field lines from a point charge placed
+ in the vicinity of a conductor must be normal to the surface of the conductor
+ at every point ?
+\end_layout
+
+\begin_layout Description
+Q2: Is the force acting between two point electric charges 
+\begin_inset Formula $q_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{2}$
+\end_inset
+
+ kept at some distance apart in air, attractive or repulsive when (i) 
+\begin_inset Formula $q_{1}q_{2}$
+\end_inset
+
+ > 0 (ii) 
+\begin_inset Formula $q_{1}q_{2}$
+\end_inset
+
+ < 0 ?
+\end_layout
+
+\begin_layout Description
+Q3: Figure shows three point charges +2q, –q and + 3q.
+ Two charges + 2q and –q are enclosed within a surface ‘S’.
+ What is the electric flux due to this configuration through the surface
+ ‘S’?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image2.1.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q4: In which orientation, a dipole placed in a uniform electric field is
+ in (i) stable, (ii) unstable equilibrium?
+\end_layout
+
+\begin_layout Description
+Q5: An electric dipole of dipole moment 
+\begin_inset Formula $20\times10^{\text{−}6}C.m$
+\end_inset
+
+ is enclosed by a closed surface.
+ What is the net flux coming out of the surface ?
+\end_layout
+
+\begin_layout Description
+Q6: An electrostatic field line cannot be discontinuous.
+ Why ?
+\end_layout
+
+\begin_layout Description
+Q7: Define Electric Flux.
+ Write its S.I.
+ Unit.
+\end_layout
+
+\begin_layout Description
+Q8: The sum of two point charges is 
+\begin_inset Formula $7\mu C$
+\end_inset
+
+.
+ They repel each other with a force of 1 N when kept 30 cm apart in free
+ space.
+ Calculate the value of each charge.
+\end_layout
+
+\begin_layout Description
+Q9: The electric field E due to a point charge at any point near it is defined
+ as 
+\begin_inset Formula $\underset{q\rightarrow0}{lim}\left(\dfrac{\mathbf{F}}{q}\right)$
+\end_inset
+
+ where q is the test charge and F is the force acting on it.
+ What is the physical significance of 
+\begin_inset Formula $\underset{q\rightarrow0}{lim}$
+\end_inset
+
+ in this expression ? Draw the electric field lines of a point charge Q
+ when (i) Q > 0 and (ii) Q < 0.
+\end_layout
+
+\begin_layout Description
+Q10: A spherical Gaussian surface encloses a charge of 
+\begin_inset Formula $8.85\times10^{-10}C$
+\end_inset
+
+ .
+ (i) Calculate the electric flux passing through the surface.
+ (ii) How would the flux change if the radius of the Gaussian surface is
+ doubled and why ?
+\end_layout
+
+\begin_layout Description
+Q11: Define 'electric line of force' and give its two important properties.
+\end_layout
+
+\begin_layout Description
+Q12: A positive point charge (+ q) is kept in the vicinity of an uncharged
+ conducting plate.
+ Sketch electric field lines originating from the point on to the surfaceof
+ the plate.
+ Derive the expression for the electric field at the surface of a charged
+ conductor.
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Q1
+\series default
+3: A thin conducting spherical shell of radius R has charge Q spread uniformly
+ over its surface.
+ Using Gauss's law, derive an expression for an electric field at a point
+ outside the shell.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Draw a graph of electric field 
+\series bold
+E
+\series default
+(r) with distance r from the centre of the shell for 
+\begin_inset Formula $0\leq r\leq\infty$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Q1
+\series default
+4: Define the term 'electric dipole moment', Is it scalar or vector? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Deduce an expression for the electric field at a point on the equatorial
+ plane of an electric dipole of length 2a.
+\end_layout
+
+\begin_layout Description
+Q15: State Gauss's theorem in electrostatics.
+ Apply this theorem to derive an expression for electric field intensity
+ at a point near an infinitely long straight charged wire.
+\end_layout
+
+\begin_layout Description
+Q16: An electric dipole is held in a uniform electric field.
+ (i) Using suitable diagram, show that it does not undergo any translatory
+ motion, and (ii) derive an expression for the torque acting on it and specify
+ its direction.
+\end_layout
+
+\begin_layout Description
+Q17: (a) Using Gauss’ law, derive an expression for the electric field intensity
+ at any point outside a uniformly charge thin spherical shell of radius
+ R and charge densitys 
+\begin_inset Formula $\sigma C/m^{2}$
+\end_inset
+
+ .
+ Draw the field lines when the charge density of the sphere is (i) positive,
+ (ii) negative.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) A uniformly charged conducting sphere of 2.5m in diameter has a surface
+ charge density of 
+\begin_inset Formula $100mC/m^{2}$
+\end_inset
+
+ .
+ Calculate the (i) Charge on the sphere (ii) Total electric flux passing
+ through the sphere.
+\end_layout
+
+\begin_layout Description
+Q18: Define the term dipole moment 
+\begin_inset Formula $\overrightarrow{p}$
+\end_inset
+
+ of an electric dipole indicating its direction.
+ Write its SI unit.
+ An electric dipole is placed in a uniform electric field 
+\begin_inset Formula $\overrightarrow{E}$
+\end_inset
+
+.
+ Deduce the expression for the torque acting on it.
+ In a particular situation, it has its dipole moment aligned with the electric
+ field.
+ Is the equilibrium stable or unstable ?
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Electric Charges and Fields (Test -2)
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 41
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 3 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 19 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 10 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 18 questions in total.
+ Questions 1 to 6 carry one mark each, questions 7 to 11 carry two marks
+ each, questions 12 to 16 carry three marks each and questions 17 to 18
+ carry five marks each.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Standard
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Section - A
+\end_layout
+
+\begin_layout Standard
+Q1: Assertion (A) : Equal amount of positive and negative charges are distribute
+d uniformly on two halves of a thin circular ring as shown in figure.
+ The resultant electric field at the centre O of the ring is along OC.
+\end_layout
+
+\begin_layout Standard
+Reason (R) : It is so because the net potential at O is not zero.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/AR-1.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Physics (Theory) - Electrostatic Potential and Capacitance
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 47
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 4 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 20 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 19 questions in total.
+ Questions 1 to 3 carry one mark each, questions 4 to 11 carry two marks
+ each, questions 12 to 17 carry three marks each and questions 18 to 19
+ carry five marks each.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Standard
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: What is the electrostatic potential due to an electric dipole at an
+ equatorial point ?
+\end_layout
+
+\begin_layout Description
+Q2: Derive the expression for the electric potential at any point along
+ the axial line of an electric dipole?
+\end_layout
+
+\begin_layout Description
+Q3: A 500 m C Charge is at the centre of a square of side 10cm.
+ Find the work done in moving a charge of 10 m C between two diagonally
+ opposite points on the square.
+\end_layout
+
+\begin_layout Description
+Q4: Draw 3 equipotential surfaces corresponding to a field that uniformly
+ increases in magnitude but remains constant along Z-direction.
+ How are these surfaces different from that of a constant electric field
+ along Z-direction ?
+\end_layout
+
+\begin_layout Description
+Q5: (i) Can two equipotential surfaces intersect each other? Give reasons.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(ii) Two charges - q and +q are located at points A (0, 0, -a) and B (0,
+ 0, +a) respectively.
+ How much work is done in moving a test charge from point P (7, 0, 0) to
+ Q (-3, 0, O)?
+\end_layout
+
+\begin_layout Description
+Q6: Figure shows a sheet of aluminium foil of negligible thickness placed
+ between the plates of a capacitor.
+ How will its capacitance be affected if 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/PCB/1e/image5.JPG
+	scale 60
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(i) the foil is electrically insulated? 
+\end_layout
+
+\begin_layout Standard
+(ii) the foil is connected to the upper plate with a conducting wire?
+\end_layout
+
+\begin_layout Description
+Q7: Three points A.
+ Band C lie in a uniform electric field (E) of 5 x 103 NC- 1 as shown in
+ the figure.
+ Find the potential difference between A and C.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image1.1.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q8: (a) Why does the electric field inside a dielectric decrease when it
+ is placed in an external electric field ? 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(b) A parallel plate capacitor with air between the plates has a capacitance
+ of 8 pF.
+ What will be the capacitance if the distance between the plates be reduced
+ by half and the space between them is filled with a substance of dielectric
+ constant K = 6 ?
+\end_layout
+
+\begin_layout Description
+Q9: A parallel plate capacitor is to be designed with a voltage rating 1
+ kV using a material of dielectric constant 3 and dielectric strength about
+ 107 Vm—1.
+ For safety we would like the field never to exceed say, 10% of the dipole
+ strength.
+ What minimum area of the plates is required to have a capacitance of 50
+ pF ?
+\end_layout
+
+\begin_layout Description
+Q10: 4 μF capacitor is charged by a 200 V supply.
+ The supply is then disconnected and the charged capacitor is connected
+ to another uncharged 2 μF capacitor.
+ How much electrostatic energy of the first capacitor is lost in the process
+ of attaining the steady situation ?
+\end_layout
+
+\begin_layout Description
+Q11: Two point charges 4 μC and -2μC are separated by a distance of 1 m
+ in air.
+ Calculate at what point on the line joining the two charges is the electric
+ potential zero.
+\end_layout
+
+\begin_layout Description
+Q12: A parallel plate capacitor is charged by a battery.
+ After some time the battery is disconnected.
+ and a dielectric slab of dielectric constant K is inserted between the
+ plates.
+ How would (i) the capacitance,(ii) the electric field between the plates
+ and (iii) the energy stored in the capacitor, be affected ? Justify your
+ answer.
+\end_layout
+
+\begin_layout Description
+Q13: (a) Depict the equipotential surfaces for a system of two identical
+ positive point charges placed a distance ‘d’ apart.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(b) Deduce the expression for the potential energy of a system of two point
+ charges 
+\begin_inset Formula $q_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{2}$
+\end_inset
+
+ brought from infinity to the points 
+\begin_inset Formula $\overrightarrow{r_{1}}$
+\end_inset
+
+ and 
+\begin_inset Formula $\overrightarrow{r_{2}}$
+\end_inset
+
+ respectively in the presence of external electric field 
+\series bold
+E
+\series default
+ .
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q14: A parallel-plate capacitor is charged to a potential difference V by
+ a dc source.
+ The capacitor is then disconnected from the source.
+ If the distance between the plates is doubled, state with reason how the
+ following change: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) electric field between the plates 
+\end_layout
+
+\begin_layout Standard
+(ii) capacitance, and 
+\end_layout
+
+\begin_layout Standard
+(iii) energy stored in the capacitor
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q15: Deduce an expression for the electric potential due to an electric
+ dipole at any point on its axis.
+ Mention one contrasting feature of electric potential of a dipole at a
+ point as compared to that due to a single charge.
+\end_layout
+
+\begin_layout Description
+Q16: A parallel plate capacitor, each with plate area A and separation d,
+ is charged to a potential difference V.
+ The battery used to charge it is then disconnected.
+ A dielectric slab of thickness d and dielectric constant K is now placed
+ between the plates.
+ What change, if any, will take place in (i) charge on the plates (ii) electric
+ field intensity between the plates (iii) capacitance of the capacitor.
+\end_layout
+
+\begin_layout Description
+Q17: Explain the underlying principle of working of a parallel plate capacitor.
+ If two similar plates, each of area A having surface charge densities 
+\begin_inset Formula $+\sigma$
+\end_inset
+
+ and 
+\begin_inset Formula $-\sigma$
+\end_inset
+
+ are separated by a distance d in air, write expressions for 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) the electric field at points between the two plates.
+ 
+\end_layout
+
+\begin_layout Standard
+(ii) the potnetial difference between the plates.
+ 
+\end_layout
+
+\begin_layout Standard
+(iii) the capacitance of the capacitor so formed.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q18: (a) Derive an expression for the torque experienced by an electric
+ dipole kept in a uniform electric field.
+ (b) Calculate the work done to dissociate the system of three charges placed
+ on the vertices of a triangle as shown.
+ Here 
+\begin_inset Formula $q=1.6\times10^{-10}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image6.JPG
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q19: Derive the expression for the energy stored in a parallel plate capacitor
+ of capacitance C with air as medium between its plates having charges Q
+ and -Q.
+ Show that this energy can be expressed in terms of electric field as
+\begin_inset Formula $\dfrac{1}{2}\epsilon_{o}E^{2}Ad$
+\end_inset
+
+ where A is the area of each plate and d is the separation between the plates.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+How will the energy stored in a fully charged capacitor change when the
+ separation between the plates is doubled and a dielectric medium of dielectric
+ constant 4 is introduced between the plates ?
+\end_layout
+
+\end_deeper
+\begin_layout Chapter*
+Physics (Theory) - Current Electricity
+\end_layout
+
+\begin_layout Subsubsection*
+Time allowed : 2 hours________________________ Maximum Marks : 42
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Quote
+1.
+ Please check that this question paper contains 4 printed pages.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ Please check that this question paper contains 18 questions.
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ 15 minutes time has been allotted to read this question paper.
+ The student will read the question paper only and will not write any answer
+ on the answer script during this period.
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General Instructions :
+\end_layout
+
+\begin_layout Quote
+1.
+ All questions are compulsory.
+ 
+\end_layout
+
+\begin_layout Quote
+2.
+ There are 18 questions in total.
+ Questions 1 to 2 carry one mark each, questions 3 to 10 carry two marks
+ each, questions 11 to 18 carry three marks each .
+ 
+\end_layout
+
+\begin_layout Quote
+3.
+ Use of calculators is not permitted.
+ 
+\end_layout
+
+\begin_layout Quote
+4.
+ You may use the following values of physical constants wherever necessary:
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset Formula $c=3\times10^{8}ms^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $h=6·626\times10^{-34}Js$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $e=1·602\times10^{-19}C$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\mu_{o}=4\pi\times10^{-7}TmA^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{1}{4\pi\epsilon_{o}}=9\times10^{9}Nm^{2}C^{-2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Mass of electron 
+\begin_inset Formula $m_{e}=9\text{·}1\times10^{-31}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Mass of neutron 
+\begin_inset Formula $m_{n}\cong1\text{·}675x10^{-27}kg$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Boltzmann's constant 
+\begin_inset Formula $k=1·381\times10^{-23}JK^{-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Avogadro's number 
+\begin_inset Formula $N_{A}=6·022\times10^{23}/mol^{-1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Radius of earth = 6400 km
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1: A wire of resistance 8R is bent in the form of a circle.
+ What is the effective resistance between the ends of a diameter AB?
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image8.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q2: A steady current flows in a metallic conductor oL non-uniform cross-section.
+ Which of these quantities is constant along the conductor: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Current, current density.
+ drift.
+ speed, electric field?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q3: Draw V—I graph for ohmic and non-ohmic materials.
+ Give one example for each.
+\end_layout
+
+\begin_layout Description
+Q4: A wire of 15 Q resistance is gradually stretched to double its original
+ length.
+ It is then cut into two equal parts.
+ These parts are then connected in parallel across a 3·0 volt battery.
+ Find the current drawn from the battery.
+\end_layout
+
+\begin_layout Description
+Q5: Describe briefly, with the help of a circuit diagram, how a potentiometer
+ is used to determine the internal resistance of a given cell.
+\end_layout
+
+\begin_layout Description
+Q6: A cell of emf 'E' and internal resistance 'r' is connected across a
+ variable resistor 'R'.
+ Plot a graph showing the variation of terminal potential 'V' with resistance
+ R.
+ Predict from the graph the condition under which 'V' becomes equal to 'E'.
+\end_layout
+
+\begin_layout Description
+Q7: Derive an expression for drift velocity of free electrons in a conductor
+ in terms of relaxation time.
+\end_layout
+
+\begin_layout Description
+Q8: Calculate the current drawn from the battery in the given network.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image9.JPG
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q9: Figure shows the circuit diagram of a potentiometer for determining
+ the emf 'e' of a cell of negligible internal resistance.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image11.JPG
+	scale 50
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(i) What is the purpose of using high resistance R2 ? 
+\end_layout
+
+\begin_layout Standard
+(ii) How does the position of balance point (J) change when the resistance
+ Rl is decreased ? 
+\end_layout
+
+\begin_layout Standard
+(iii) Why cannot the balance point be obtained (1) when the emf E is greater
+ than 2 V, and (2) when the key (K) is closed?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q10: A cylindrical metallic wire is stretched to increase its length by
+ 5%.
+ Calculate the percentage change in its resistance.
+\end_layout
+
+\begin_layout Description
+Q11: Define the term 'resistivity' and write its S.I.
+ unit.
+ Derive the expression for the resistivity of a conductor in terms of number
+ density of free electrons and relaxation time.
+\end_layout
+
+\begin_layout Description
+Q12: Two cells of emf 1.5 V and 2 V and internal resistance 1 ohm and 2 ohm
+ respectively are connected in parallel to pass a current in the same direction
+ through an external resistance of 5 ohm.
+ 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+(a) Draw the circuit diagram.
+ 
+\end_layout
+
+\begin_layout Standard
+(b) Using Kirchhoff’s laws, calculate the current through each branch of
+ the circuit and potential difference across the 5 ohm resistor.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q13: State the principle of potentiometer.
+ Draw a circuit diagram used to compare the e.m.f.
+ of two primary cells.
+ Write the formula used.
+ How can the sensitivity of a potentiometer be increased ?
+\end_layout
+
+\begin_layout Description
+Q14: State the principle of working of a meter bridge.
+ In a meter bridge balance point is found at a distance 
+\begin_inset Formula $l_{1}$
+\end_inset
+
+ with resistances R and S as shown in the figure.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image7.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When an unknown resistance X is connected in parallel with the resistance
+ S, the balance point shifts to a distance 
+\begin_inset Formula $l_{2}$
+\end_inset
+
+.
+ Find the expression for X in terms of 
+\begin_inset Formula $l_{1}$
+\end_inset
+
+, 
+\begin_inset Formula $l_{2}$
+\end_inset
+
+ and S.
+ 
+\end_layout
+
+\begin_layout Description
+Q15: State Kirchhoff's rules.
+ Use Kirchhoff's rules to show that no current flows in the given circuit.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image10.JPG
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q16: State Kirchhoff's rules of current distribution in an electrical network.
+ Using these rules determine the value of the current in the electric circuit
+ given below.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image12.JPG
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q17: For the potentiometer circuit shown in the given figure, points X and
+ Y reprensent the two terminals of an unknown emf E'.
+ A student observed that when the jockey in moved from the end A to the
+ end B of the potentiometer wire, the deflection in the galvanometer remains
+ in the same direction.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image13.JPG
+	scale 50
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+What may be the two possible faults in the circuit that could result in
+ this obsevation ? If the galvanometer deflection at the end B is (i) more,
+ (ii) less, than that at the end A, which of the two faults, listed above,
+ would be there in the circuit ?
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Q18: The given figure shows a network of resistances 
+\begin_inset Formula $R_{1}$
+\end_inset
+
+, 
+\begin_inset Formula $R_{2}$
+\end_inset
+
+, 
+\begin_inset Formula $R_{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $R_{4}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Images/PCB/1e/image15.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Using Kirchhoff's laws, establish the balance condition for the network.
+\end_layout
+
+\end_body
+\end_document
