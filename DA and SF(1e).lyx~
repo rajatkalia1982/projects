@@ -89,7 +89,7 @@
 \begin_body
 
 \begin_layout Title
-Significant Figures
+Dimensional Analysis and Significant Figures
 \end_layout
 
 \begin_layout Author
@@ -102,6 +102,39 @@ Rajat Kalia
 \end_layout
 
 \begin_layout Part
+Dimensional Analysis
+\end_layout
+
+\begin_layout Part*
+Problem Set
+\end_layout
+
+\begin_layout Chapter
+JEE Mains Problems
+\end_layout
+
+\begin_layout Standard
+Q1:
+ The dimensional formula of 
+\begin_inset Formula $\frac{1}{2}\epsilon_{0}E^{2}$
+\end_inset
+
+ ( 
+\begin_inset Formula $\epsilon_{0}$
+\end_inset
+
+ = permittivity of vacuum and 
+\begin_inset Formula $E$
+\end_inset
+
+ = Electric Field ) is 
+\end_layout
+
+\begin_layout Part
+Significant Figures
+\end_layout
+
+\begin_layout Part*
 Problem Set
 \end_layout
 
@@ -130,6 +163,12 @@ Q1 :
 
 \begin_layout Standard
 (Ignore the contribution of load to Young's Modulus error calculation)
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+[JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
 \begin_layout Standard
