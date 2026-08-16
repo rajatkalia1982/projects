@@ -89,85 +89,16 @@
 \begin_body
 
 \begin_layout Title
-The Pullaw Gravitation
+Complex Numbers ( Algebra )
 \end_layout
 
-\begin_layout Address
-#764,
- 41-A,
- Chandigarh {TC(official)}
+\begin_layout Author
+Rajat Kalia
 \end_layout
 
-\begin_layout Address
-\begin_inset CommandInset href
-LatexCommand href
-name "https://github.com/rajatkalia1982/projects"
-target "https://github.com/rajatkalia1982/projects"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Address
-\begin_inset CommandInset href
-LatexCommand href
-name "https://sourceforge.net/u/rajatkalia/profile"
-target "https://sourceforge.net/u/rajatkalia/profile"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Address
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.youtube.com/@rajatkaliaeducation"
-target "https://www.youtube.com/@rajatkaliaeducation"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Address
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.lulu.com/spotlight/rajatkalia11"
-target "https://www.lulu.com/spotlight/rajatkalia11"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Address
-\begin_inset CommandInset href
-LatexCommand href
-name "https://amazon.com/author/rajatkalia"
-target "https://amazon.com/author/rajatkalia"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Address
-\begin_inset CommandInset href
-LatexCommand href
-name "https://rk-e.blogspot.in/"
-target "https://rk-e.blogspot.in/"
-literal "false"
-
-\end_inset
-
-
+\begin_layout Date
+16 August,
+ 2026
 \end_layout
 
 \begin_layout Standard
@@ -180,7 +111,7 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Part
-Gravitation Theory
+Theory
 \end_layout
 
 \begin_layout Part
@@ -188,72 +119,91 @@ Problem Set
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+JEE Mains Problems
+\end_layout
+
+\end_inset
+
 JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
 Q1:
- A planet (
-\begin_inset Formula $P_{1}$
+ Let x and y be real numbers such that 
+\begin_inset Formula $50\left(\dfrac{2x}{1+3i}-\dfrac{y}{1-2i}\right)=31+17i$
 \end_inset
 
-) is moving around a star of mass 2M in the orbit of radius R.
- Another planet (
-\begin_inset Formula $P_{2}$
+ ,
+ 
+\begin_inset Formula $i=\sqrt{-1}.$
 \end_inset
 
-) is moving around another star of mass 4M in a orbit of radius 2R.
- Ratio of time periods of revolution of 
-\begin_inset Formula $P_{1}$
-\end_inset
-
- and 
-\begin_inset Formula $P_{2}$
+Then the value of 
+\begin_inset Formula $10(x-3y)$
 \end_inset
 
  is :
 \end_layout
 
 \begin_layout Standard
-[ JEE Mains 2nd April 2026 Shift 1 ]
+(A) 20
 \end_layout
 
 \begin_layout Standard
-(A) 
-\begin_inset Formula $\dfrac{1}{2}$
-\end_inset
-
-
+(B) 31
 \end_layout
 
 \begin_layout Standard
-(B) 2
+(C) 35
 \end_layout
 
 \begin_layout Standard
-(C) 4
+(D) 75
 \end_layout
 
 \begin_layout Standard
-(D) 
-\begin_inset Formula $\dfrac{1}{4}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-{Solution :
+{ Solution:
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=jbztq7mxFwc"
-target "https://www.youtube.com/watch?v=jbztq7mxFwc"
+name "https://www.youtube.com/watch?v=7bvmAsRoeiU"
+target "https://www.youtube.com/watch?v=7bvmAsRoeiU"
 literal "true"
 
 \end_inset
 
-}
+ }
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
