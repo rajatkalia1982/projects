@@ -101,6 +101,15 @@ Rajat Kalia
  2026
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Theory
 \end_layout

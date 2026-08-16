@@ -161,7 +161,17 @@ D) -8
 \end_layout
 
 \begin_layout Standard
+{ Soltution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=NAct7oeCy2s"
+target "https://www.youtube.com/watch?v=NAct7oeCy2s"
+literal "true"
 
+\end_inset
+
+}
 \end_layout
 
 \end_body

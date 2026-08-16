@@ -101,6 +101,10 @@ Rajat Kalia
  2026
 \end_layout
 
+\begin_layout Standard
+
+\end_layout
+
 \begin_layout Part
 Theory
 \end_layout
@@ -184,6 +188,17 @@ literal "true"
 \end_inset
 
  }
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+
 \end_layout
 
 \end_body

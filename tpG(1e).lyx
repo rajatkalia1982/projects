@@ -89,20 +89,20 @@
 \begin_body
 
 \begin_layout Title
-Quadratic Equations (Algebra)
+The Pullaw Gravitation
 \end_layout
 
-\begin_layout Author
-Rajat Kalia
-\end_layout
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
 
-\begin_layout Date
-16 August,
- 2026
+\end_inset
+
+
 \end_layout
 
 \begin_layout Part
-Theory
+Gravitation Theory
 \end_layout
 
 \begin_layout Part
@@ -115,40 +115,62 @@ JEE Mains Problems
 
 \begin_layout Standard
 Q1:
- Let α,
- α + 2 ,
- α ∈ Z ,
- be the roots of the quadratic equation
+ A planet (
+\begin_inset Formula $P_{1}$
+\end_inset
+
+) is moving around a star of mass 2M in the orbit of radius R.
+ Another planet (
+\begin_inset Formula $P_{2}$
+\end_inset
+
+) is moving around another star of mass 4M in a orbit of radius 2R.
+ Ratio of time periods of revolution of 
+\begin_inset Formula $P_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $P_{2}$
+\end_inset
+
+ is :
 \end_layout
 
 \begin_layout Standard
-x( x + 2 ) + ( x +1 )( x + 3 ) + ( x + 2 )( x + 4 ) + ...........+ ( x + n + 1 )( x + n - 1 ) = 4n for some n ∈ N.
- Then n + α is equal to :
+[ JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
 \begin_layout Standard
-A) 0
+(A) 
+\begin_inset Formula $\dfrac{1}{2}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-B) 1
+(B) 2
 \end_layout
 
 \begin_layout Standard
-C) 2
+(C) 4
 \end_layout
 
 \begin_layout Standard
-D) 3
+(D) 
+\begin_inset Formula $\dfrac{1}{4}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-{Solution:
+{Solution :
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=_WAVSUet9a0"
-target "https://www.youtube.com/watch?v=_WAVSUet9a0"
+name "https://www.youtube.com/watch?v=jbztq7mxFwc"
+target "https://www.youtube.com/watch?v=jbztq7mxFwc"
 literal "true"
 
 \end_inset
