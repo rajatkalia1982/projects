@@ -1,5 +1,5 @@
-#LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 620
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -12,11 +12,11 @@ hanging
 logicalmkup
 theorems-std
 \end_modules
-\maintain_unincluded_children no
+\maintain_unincluded_children false
 \language english
 \language_package default
-\inputencoding auto-legacy
-\fontencoding auto
+\inputencoding auto
+\fontencoding global
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -24,13 +24,9 @@ theorems-std
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
-\font_roman_osf false
-\font_sans_osf false
-\font_typewriter_osf false
+\font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
-\use_microtype false
-\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -39,7 +35,7 @@ theorems-std
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize a4
+\papersize a4paper
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
@@ -60,9 +56,6 @@ theorems-std
 \suppress_date false
 \justification true
 \use_refstyle 0
-\use_formatted_ref 0
-\use_minted 0
-\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -75,23 +68,15 @@ theorems-std
 \tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
-\is_math_indent 0
-\math_numbering_side default
-\quotes_style english
-\dynamic_quotes 0
+\quotes_language english
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
-\tablestyle default
 \tracking_changes false
 \output_changes false
-\change_bars false
-\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
-\docbook_table_output 0
-\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -101,12 +86,11 @@ A Complete Course in Mathematics - Birthday Edition
 \end_layout
 
 \begin_layout Author
-Rajat Kalia
+Manas Kalia and Rajat Kalia
 \end_layout
 
 \begin_layout Date
-1 May,
- 2017
+1 May, 2017
 \end_layout
 
 \begin_layout Standard
@@ -123,7 +107,9 @@ Preface
 \end_layout
 
 \begin_layout Standard
-We have reached the concept of Master Problems for Intermediate level Mathematics ( +1/+2) after long research and have put our complete experience in the form of our book.
+We have reached the concept of Master Problems for Intermediate level Mathematic
+s ( +1/+2) after long research and have put our complete experience in the
+ form of our book.
  
 \end_layout
 
@@ -148,8 +134,7 @@ Relations
 \end_layout
 
 \begin_layout Description
-Q:
- Show that the relation R in the set of real numbers defined as 
+Q: Show that the relation R in the set of real numbers defined as 
 \begin_inset Formula $R=\left\{ \left(a,b\right):\sqrt{a}+3\leqslant b\right\} $
 \end_inset
 
@@ -165,10 +150,9 @@ Matrix match type problems
 \end_layout
 
 \begin_layout Description
-Matrix 1:
- Under column-I properties of relations are mentioned.
- Match the stated property with the relations listed under column-II ,
- that satisfies it
+Matrix 1: Under column-I properties of relations are mentioned.
+ Match the stated property with the relations listed under column-II , that
+ satisfies it
 \end_layout
 
 \begin_layout Standard
@@ -232,8 +216,7 @@ Column II
 \begin_inset Text
 
 \begin_layout Plain Layout
-natural numbers N,
- defined as
+natural numbers N, defined as
 \end_layout
 
 \end_inset
@@ -368,8 +351,7 @@ of real numbers
 \begin_inset Formula $\mathbb{R}$
 \end_inset
 
- ,
- defined by
+ , defined by
 \end_layout
 
 \end_inset
@@ -477,10 +459,9 @@ Real Numbers
 \end_layout
 
 \begin_layout Standard
-When we talk of functions,
- we talk of only real valued functions.
- So,
- it is important that we brush up our theory of real numbers done in junior classes.
+When we talk of functions, we talk of only real valued functions.
+ So, it is important that we brush up our theory of real numbers done in
+ junior classes.
 \end_layout
 
 \begin_layout Paragraph
@@ -488,12 +469,8 @@ Definition
 \end_layout
 
 \begin_layout Subparagraph
-Any decimal fraction,
- terminating or nonterminating,
- is called a 
+Any decimal fraction, terminating or nonterminating, is called a 
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -521,8 +498,6 @@ Rational Numbers
 \begin_layout Standard
 Every rational number
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -585,8 +560,6 @@ where
  is the set of Integers.
  The decimal representation of a rational number can be either 
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -597,8 +570,6 @@ Terminating Decimal Expansion
 
 terminating or 
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -633,8 +604,7 @@ The set of rational numbers is
 \series bold
 closed
 \series default
- with respect to the operations of addition,
- subtraction and product.
+ with respect to the operations of addition, subtraction and product.
  i.e.
  If 
 \begin_inset Formula $p$
@@ -644,13 +614,11 @@ closed
 \begin_inset Formula $q$
 \end_inset
 
- are two rational numbers,
- then 
+ are two rational numbers, then 
 \begin_inset Formula $p+q$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $p-q$
 \end_inset
 
@@ -671,8 +639,6 @@ closed
 \series bold
 [
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -693,8 +659,7 @@ Between any two rational numbers
 \begin_inset Formula $q$
 \end_inset
 
- ,
- there exist infinite rational numbers.[
+ , there exist infinite rational numbers.[
 \series bold
 Property of Denseness
 \series default
@@ -868,8 +833,7 @@ which is rational for
 \begin_layout Standard
 
 \size footnotesize
-Note :
- The sole purpose of adding 
+Note : The sole purpose of adding 
 \begin_inset Formula $x$
 \end_inset
 
@@ -899,8 +863,6 @@ Irrational Numbers
 
 \begin_layout Standard
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -909,9 +871,9 @@ Non terminiating Non-recurring decimal Expansion
 
 \end_inset
 
-Non-terminating non-repeating decimal fractions are called Irrational numbers .
- In fact,
- all real numbers which are not rational are Irrational numbers.
+Non-terminating non-repeating decimal fractions are called Irrational numbers
+ .
+ In fact, all real numbers which are not rational are Irrational numbers.
  The set of Irrational numbers can be represented by the symbol 
 \series bold
 
@@ -935,7 +897,8 @@ Properties
 \end_layout
 
 \begin_layout Itemize
-The sum,difference,product and quotient of two Irrational numbers may be rational or irrational.ie.
+The sum,difference,product and quotient of two Irrational numbers may be
+ rational or irrational.ie.
  The set 
 \series bold
 T 
@@ -944,8 +907,6 @@ is not closed with respect to addition,subtraction,multiplication and division.
 \series bold
 [Closure Property
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -958,8 +919,8 @@ Closure Property of Irrational Numbers
 \end_layout
 
 \begin_layout Itemize
-The sum,
- difference,product and quotient of a rational number and an Irrational number is Irrational.
+The sum, difference,product and quotient of a rational number and an Irrational
+ number is Irrational.
 \end_layout
 
 \begin_layout Itemize
@@ -967,8 +928,6 @@ There exist infinite rational and irrational numbers between two real numbers.
 \series bold
 [Property of Denseness
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1003,10 +962,9 @@ for which
 
 \begin_layout Quote
 Sol.
- We know,
- there exist infinite rational numbers between a rational number and an irrational number.
- So,
- there will be infinite rational numbers between 
+ We know, there exist infinite rational numbers between a rational number
+ and an irrational number.
+ So, there will be infinite rational numbers between 
 \begin_inset Formula $r$
 \end_inset
 
@@ -1015,8 +973,7 @@ Sol.
 \end_inset
 
  .
- So,
- there exist infinite values of 
+ So, there exist infinite values of 
 \begin_inset Formula $k$
 \end_inset
 
@@ -1028,8 +985,7 @@ Sol.
 \begin_inset Formula $\sqrt{3}$
 \end_inset
 
-.In that case,
- we can chose a 
+.In that case, we can chose a 
 \begin_inset Formula $k$
 \end_inset
 
@@ -1186,8 +1142,7 @@ Write the Answer Type Questions
 \end_layout
 
 \begin_layout Description
-Q1:
- The solution set of 
+Q1: The solution set of 
 \begin_inset Formula $\dfrac{7}{x-2}\geq5$
 \end_inset
 
@@ -1199,20 +1154,18 @@ Assertion-Reason Type Questions
 \end_layout
 
 \begin_layout Standard
-Each question in this section has four choices (a),(b),(c) and (d) out of which only one is correct.
+Each question in this section has four choices (a),(b),(c) and (d) out of
+ which only one is correct.
  Mark your choices as follows:
 \end_layout
 
 \begin_layout Quote
-(a) STATEMENT-1 is True,
- STATEMENT-2 is True,
- STATEMENT-2 is the correct explaination of STATEMENT-1.
+(a) STATEMENT-1 is True, STATEMENT-2 is True, STATEMENT-2 is the correct
+ explaination of STATEMENT-1.
 \end_layout
 
 \begin_layout Quote
-(b) STATEMENT-1 is True,
- STATEMENT-2 is True,
- STATEMENT-2 is 
+(b) STATEMENT-1 is True, STATEMENT-2 is True, STATEMENT-2 is 
 \series bold
 NOT
 \series default
@@ -1220,23 +1173,19 @@ NOT
 \end_layout
 
 \begin_layout Quote
-(c) STATEMENT-1 is True,
- STATEMENT-2 is False.
+(c) STATEMENT-1 is True, STATEMENT-2 is False.
 \end_layout
 
 \begin_layout Quote
-(d) STATEMENT-1 is False,
- STATEMENT-2 is True
+(d) STATEMENT-1 is False, STATEMENT-2 is True
 \end_layout
 
 \begin_layout Quote
 
 \series bold
 Q1:
-
 \series default
- STATEMENT-1:
- For every rational number 
+ STATEMENT-1: For every rational number 
 \begin_inset Formula $r$
 \end_inset
 
@@ -1256,8 +1205,8 @@ for which
 \end_layout
 
 \begin_layout Quote
-STATEMENT-2:
- There exist infinite rational numbers between any two rational numbers.
+STATEMENT-2: There exist infinite rational numbers between any two rational
+ numbers.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1275,8 +1224,7 @@ Q1
 \begin_inset Formula $x=\dfrac{3-q^{2}}{14q-5}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $q\epsilon\mathbb{Q}$
 \end_inset
 
@@ -1290,24 +1238,20 @@ Q1
 
  
 \size footnotesize
-{Hint:
- Put 
+{Hint: Put 
 \begin_inset Formula $y-7x=q$
 \end_inset
 
  to get the answer.
- Also,
- equivalently if we had put 
+ Also, equivalently if we had put 
 \begin_inset Formula $y+7x=q$
 \end_inset
 
- we would have got ,
- 
+ we would have got , 
 \begin_inset Formula $x=\frac{q^{2}-3}{14q+5}$
 \end_inset
 
-,
- 
+, 
 \begin_inset Formula $q\neq-\frac{5}{14}$
 \end_inset
 
@@ -1317,8 +1261,7 @@ Q1
 \begin_layout Quote
 Q2 
 \size footnotesize
-{Hint:
- Let us take 
+{Hint: Let us take 
 \begin_inset Formula $s^{2}-2sk=5$
 \end_inset
 
@@ -1335,8 +1278,7 @@ Q2
 \end_layout
 
 \begin_layout Quote
-Q3 No ,
- it is not a rational number.
+Q3 No , it is not a rational number.
  
 \size footnotesize
 {Hint.
@@ -1370,8 +1312,7 @@ Q4
 \end_inset
 
  .
- From the point where it cuts the y axis,
- draw an arc of length 
+ From the point where it cuts the y axis, draw an arc of length 
 \begin_inset Formula $\frac{n+1}{2}$
 \end_inset
 
@@ -1444,8 +1385,6 @@ Absolute value of a real number
 \begin_layout Standard
 The magnitude of a number is called the 
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1454,7 +1393,8 @@ Absolute value of the number
 
 \end_inset
 
-Absolute value of the number.Also,it is the distance of the point representing the number from origin on the number line .
+Absolute value of the number.Also,it is the distance of the point representing
+ the number from origin on the number line .
  e.g.
  
 \begin_inset Formula $|2-\sqrt{5}|$
@@ -1555,8 +1495,6 @@ or
 \series bold
 
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1782,8 +1720,6 @@ A proof of the Triangle Inequality
 
 \begin_layout Subsection
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1796,8 +1732,7 @@ The Wavey-Curve Technique
 \end_layout
 
 \begin_layout Standard
-Let us consider,
- that we have an expression of the form 
+Let us consider, that we have an expression of the form 
 \begin_inset Formula 
 \[
 e=\dfrac{\left(x+1\right)\left(x-1\right)\left(x-3\right)}{x-2}
@@ -1813,8 +1748,7 @@ e=\dfrac{\left(x+1\right)\left(x-1\right)\left(x-3\right)}{x-2}
 \begin_inset Formula $>0$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $<0$
 \end_inset
 
@@ -1823,8 +1757,8 @@ e=\dfrac{\left(x+1\right)\left(x-1\right)\left(x-3\right)}{x-2}
 \end_inset
 
  .
- To find the sign of the expression,
- we first of all mark these points on the number line .
+ To find the sign of the expression, we first of all mark these points on
+ the number line .
  Then we draw a curve like the one shown in the figure
 \end_layout
 
@@ -1839,20 +1773,16 @@ e=\dfrac{\left(x+1\right)\left(x-1\right)\left(x-3\right)}{x-2}
 \end_layout
 
 \begin_layout Standard
-We start from the right hand side ,
- draw a positive section of curve between 
+We start from the right hand side , draw a positive section of curve between
+ 
 \begin_inset Formula $\infty$
 \end_inset
 
  and the right most point.
- Then,
- at the rightmost point( 3 in this case) ,
- we switch the sign of the curve to negative and take it below the axis.
- Like this ,
- we change sign of the curve at every 
+ Then, at the rightmost point( 3 in this case) , we switch the sign of the
+ curve to negative and take it below the axis.
+ Like this , we change sign of the curve at every 
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1863,8 +1793,7 @@ Critical Points in a Wavey-Curve
 
 Critical point( ie.
  at 3,2,1,-1 in this case).
- Now from this curve,
- we try to find out the sign of the expression 
+ Now from this curve, we try to find out the sign of the expression 
 \begin_inset Formula 
 \[
 e=\dfrac{\left(x+1\right)\left(x-1\right)\left(x-3\right)}{x-2}
@@ -1908,13 +1837,11 @@ The actual reason for the positive sign of
 \begin_inset Formula $x-3>0$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $x-2$
 \end_inset
 
->0 ,
- 
+>0 , 
 \begin_inset Formula $x-1>0$
 \end_inset
 
@@ -1923,17 +1850,16 @@ The actual reason for the positive sign of
 \end_inset
 
 .
- Due to this reason,
- the expression 
+ Due to this reason, the expression 
 \begin_inset Formula $e$
 \end_inset
 
- which is obtained by multiplying 3 positive quatities and dividing the resultant with a positive quantity is positive.
+ which is obtained by multiplying 3 positive quatities and dividing the
+ resultant with a positive quantity is positive.
 \end_layout
 
 \begin_layout Plain Layout
-Similarly,
- in the interval 
+Similarly, in the interval 
 \begin_inset Formula $\left(2,3\right)$
 \end_inset
 
@@ -1941,8 +1867,7 @@ Similarly,
 \begin_inset Formula $x-2$
 \end_inset
 
->0,
- 
+>0, 
 \begin_inset Formula $x-1>0$
 \end_inset
 
@@ -1995,7 +1920,8 @@ In this way we can investigate for other intervals also.
 \begin_inset Formula $e=0$
 \end_inset
 
- for all the critical points in the numerator( if and only if they don't appear in the denominator too)
+ for all the critical points in the numerator( if and only if they don't
+ appear in the denominator too)
 \end_layout
 
 \begin_layout Standard
@@ -2030,9 +1956,7 @@ Not defined for
 \begin_layout Standard
 
 \size footnotesize
-{Note:
- It may be noted,
- that if we have to find 
+{Note: It may be noted, that if we have to find 
 \begin_inset Formula $x$
 \end_inset
 
@@ -2040,8 +1964,7 @@ Not defined for
 \begin_inset Formula $e\geq0$
 \end_inset
 
- ,
- then we will take the union of the values of 
+ , then we will take the union of the values of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -2069,7 +1992,8 @@ i.e.
 \end_inset
 
  .
- The same expression can be written by using a closed interval at the points where 
+ The same expression can be written by using a closed interval at the points
+ where 
 \begin_inset Formula $e=0$
 \end_inset
 
@@ -2088,8 +2012,7 @@ i.e.
 \begin_layout Standard
 
 \size footnotesize
-In a similar way,
- we can find the values of 
+In a similar way, we can find the values of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -2119,8 +2042,8 @@ We have to find the sign of
 \end_layout
 
 \begin_layout Standard
-To find the sign of such an expression,
- we first of all make the coefficients of 
+To find the sign of such an expression, we first of all make the coefficients
+ of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -2151,19 +2074,19 @@ The critical points of this expression are
 
 .
  The curve will then change sign at the first critical point -1.
- Thereafter ,
- the curve will change sign 3 times at the point 
+ Thereafter , the curve will change sign 3 times at the point 
 \begin_inset Formula $x=-\dfrac{1}{3}$
 \end_inset
 
 .
- (It may be noted that if a curve changes sign an odd number of times,
- it is equivalent to change of sign just one time) .
+ (It may be noted that if a curve changes sign an odd number of times, it
+ is equivalent to change of sign just one time) .
  Then the curve changes sign 6 times at 
 \begin_inset Formula $x=-2$
 \end_inset
 
-.(change of sign an even number of times means the sign is retained).Things will be more clear from the adjoining figure.
+.(change of sign an even number of times means the sign is retained).Things
+ will be more clear from the adjoining figure.
 \end_layout
 
 \begin_layout Standard
@@ -2188,8 +2111,7 @@ The critical points of this expression are
 \end_layout
 
 \begin_layout Standard
-Similarly,
- 
+Similarly, 
 \begin_inset Formula $E<0$
 \end_inset
 
@@ -2201,8 +2123,7 @@ Similarly,
 \end_layout
 
 \begin_layout Standard
-Also,
- 
+Also, 
 \begin_inset Formula $E=0$
 \end_inset
 
@@ -2438,8 +2359,7 @@ c)
 \series bold
 Method 1
 \series default
-:
- 
+: 
 \begin_inset Formula $|3x-5|<1$
 \end_inset
 
@@ -2476,8 +2396,7 @@ Method 1
 \series bold
 Method 2
 \series default
-:
- 
+: 
 \begin_inset Formula $|3x-5|<1$
 \end_inset
 
@@ -2485,8 +2404,7 @@ Method 2
 \end_layout
 
 \begin_layout Quote
-Squaring both sides,
- we get
+Squaring both sides, we get
 \end_layout
 
 \begin_layout Quote
@@ -2542,8 +2460,7 @@ d)
 \begin_layout Quote
 
 \size footnotesize
-{Note:
- It can be observed that 
+{Note: It can be observed that 
 \begin_inset Formula $|y|$
 \end_inset
 
@@ -2593,8 +2510,7 @@ e)
 \series bold
 Case I
 \series default
-:
- 
+: 
 \begin_inset Formula $x\geq0$
 \end_inset
 
@@ -2618,8 +2534,7 @@ This assumption would imply that
 \end_inset
 
 .
- Hence ,
- no solution exists.
+ Hence , no solution exists.
 \end_layout
 
 \begin_layout Quote
@@ -2627,8 +2542,7 @@ This assumption would imply that
 \series bold
 Case II
 \series default
-:
- 
+: 
 \begin_inset Formula $x<0$
 \end_inset
 
@@ -2662,8 +2576,7 @@ f)
 \series bold
 Case I
 \series default
-:
- 
+: 
 \begin_inset Formula $x\geq0$
 \end_inset
 
@@ -2679,8 +2592,7 @@ Case I
 \end_inset
 
 .
- Hence ,
- no solution exists for 
+ Hence , no solution exists for 
 \begin_inset Formula $x\geq0$
 \end_inset
 
@@ -2692,8 +2604,7 @@ Case I
 \series bold
 Case II
 \series default
-:
- 
+: 
 \begin_inset Formula $x<0$
 \end_inset
 
@@ -2728,8 +2639,7 @@ This value of
 \end_inset
 
  .
- Hence ,
- no solution exists for 
+ Hence , no solution exists for 
 \begin_inset Formula $x<0$
 \end_inset
 
@@ -2793,8 +2703,7 @@ h)
 \series bold
 Case I
 \series default
-:
- 
+: 
 \begin_inset Formula $\cos x\geq0$
 \end_inset
 
@@ -2814,8 +2723,7 @@ which is not possible for any
 \end_inset
 
 .
- Hence ,
- no solution exists for 
+ Hence , no solution exists for 
 \begin_inset Formula $\cos x\geq0$
 \end_inset
 
@@ -2867,8 +2775,7 @@ Case II
 \begin_inset Formula $\Rightarrow x=2n\pi\pm\dfrac{2\pi}{3}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon Z$
 \end_inset
 
@@ -2942,8 +2849,7 @@ j)
 \end_layout
 
 \begin_layout Quote
-We know,
- 
+We know, 
 \begin_inset Formula $|x-y|=|x|-|y|$
 \end_inset
 
@@ -2959,8 +2865,7 @@ We know,
 \end_layout
 
 \begin_layout Quote
-Also ,
- it may be noted that 
+Also , it may be noted that 
 \begin_inset Formula $x^{4}+4>0\forall x$
 \end_inset
 
@@ -3079,8 +2984,6 @@ l)
 \begin_layout Quote
 We first of all find the 
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -3099,15 +3002,15 @@ critical points.
 \end_inset
 
 .
- Similarly,
- the points 2,0 are obtained by euating the other modulus terms to zero.
- So,
- there are 3 critical points ie at 
+ Similarly, the points 2,0 are obtained by euating the other modulus terms
+ to zero.
+ So, there are 3 critical points ie at 
 \begin_inset Formula $x=\left\{ -2,0,2\right\} $
 \end_inset
 
 .
- We plot these points on the number line and divide the whole number line at these critical points.
+ We plot these points on the number line and divide the whole number line
+ at these critical points.
 \end_layout
 
 \begin_layout Quote
@@ -3125,8 +3028,7 @@ critical points.
 \series bold
 Case I
 \series default
- :
- 
+ : 
 \begin_inset Formula $x<-2$
 \end_inset
 
@@ -3167,8 +3069,7 @@ The equation becomes
 \series bold
 Case II
 \series default
-:
- 
+: 
 \begin_inset Formula $-2\leq x<0$
 \end_inset
 
@@ -3202,8 +3103,7 @@ The equation becomes
 \series bold
 Case III
 \series default
- :
- 
+ : 
 \begin_inset Formula $0\leq x<2$
 \end_inset
 
@@ -3226,8 +3126,7 @@ which is true for all
 \begin_inset Formula $x$
 \end_inset
 
- ,
- but our interval is 
+ , but our interval is 
 \begin_inset Formula $\left[0,2\right)$
 \end_inset
 
@@ -3246,8 +3145,7 @@ which is true for all
 \series bold
 Case IV
 \series default
- :
- 
+ : 
 \begin_inset Formula $x\geq2$
 \end_inset
 
@@ -3287,8 +3185,7 @@ Hence
 
 \begin_layout Quote
 Now we combine all the solutions obtained from different intervals.
- So,
- the final solution is the union of all the cases i.e.
+ So, the final solution is the union of all the cases i.e.
  
 \begin_inset Formula $x\epsilon\left[0,2\right)\cup\left\{ 2\right\} $
 \end_inset
@@ -3340,13 +3237,11 @@ i.e.
 \end_layout
 
 \begin_layout Quote
-Now in this case,
- the critical points are 
+Now in this case, the critical points are 
 \begin_inset Formula $-\dfrac{9}{7}$
 \end_inset
 
-,
- 
+, 
 \begin_inset Formula $-\dfrac{7}{5}$
 \end_inset
 
@@ -3355,8 +3250,7 @@ Now in this case,
 \end_inset
 
 .
- Plotting them on the number line,
- we get the intervals as shown below
+ Plotting them on the number line, we get the intervals as shown below
 \end_layout
 
 \begin_layout Quote
@@ -3374,8 +3268,7 @@ Now in this case,
 \series bold
 Case I
 \series default
-:
- 
+: 
 \begin_inset Formula $x<-\dfrac{9}{7}$
 \end_inset
 
@@ -3412,8 +3305,7 @@ Case I
 \series bold
 Case II
 \series default
-:
- 
+: 
 \begin_inset Formula $-\dfrac{9}{7}\leq x<-\dfrac{7}{5}$
 \end_inset
 
@@ -3459,8 +3351,7 @@ Case II
 \series bold
 Case III 
 \series default
-:
- 
+: 
 \begin_inset Formula $-\dfrac{7}{5}\leq x<-\dfrac{5}{3}$
 \end_inset
 
@@ -3497,8 +3388,7 @@ Case III
 \series bold
 Case IV
 \series default
-:
- 
+: 
 \begin_inset Formula $x\geq-\dfrac{5}{3}$
 \end_inset
 
@@ -3535,8 +3425,7 @@ Case IV
 \end_layout
 
 \begin_layout Standard
-Hence,
- the only solution is 
+Hence, the only solution is 
 \begin_inset Formula $x=-\dfrac{11}{9}$
 \end_inset
 
@@ -3570,8 +3459,7 @@ The critical points lie at
 \end_inset
 
  respectively.
- So ,
- dividing the number line as done previously
+ So , dividing the number line as done previously
 \end_layout
 
 \begin_layout Standard
@@ -3579,8 +3467,7 @@ The critical points lie at
 \series bold
 Case I
 \series default
-:
- 
+: 
 \begin_inset Formula $x<-1$
 \end_inset
 
@@ -3620,8 +3507,7 @@ Case I
 \series bold
 Case II
 \series default
-:
- 
+: 
 \begin_inset Formula $-1\leq x<0$
 \end_inset
 
@@ -3665,8 +3551,7 @@ Case II
 \series bold
 Case III
 \series default
-:
- 
+: 
 \begin_inset Formula $x\geq0$
 \end_inset
 
@@ -3707,8 +3592,7 @@ The solution to Case III is
 \end_layout
 
 \begin_layout Standard
-Hence,
- the general solution to this problem is 
+Hence, the general solution to this problem is 
 \begin_inset Formula $x\epsilon\left\{ -2\right\} \cup\left[0,\infty\right)$
 \end_inset
 
@@ -3724,8 +3608,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- Solve for 
+Q1: Solve for 
 \begin_inset Formula $x$
 \end_inset
 
@@ -3761,8 +3644,7 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- The complete solution set of 
+Q1: The complete solution set of 
 \begin_inset Formula $\dfrac{1}{\left|\dfrac{4}{x}-10\right|}$
 \end_inset
 
@@ -3802,8 +3684,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The point in the co-ordinate plane satisfying 
+Q2: The point in the co-ordinate plane satisfying 
 \begin_inset Formula $|7x+5|=-|3-3y|$
 \end_inset
 
@@ -3839,8 +3720,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The complete solution set of 
+Q3: The complete solution set of 
 \begin_inset Formula $|\cot x|=\cot x+2\sqrt{3}$
 \end_inset
 
@@ -3852,8 +3732,7 @@ a){
 \begin_inset Formula $x:x=n\pi+\dfrac{\pi}{3}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon\mathbb{Z}$
 \end_inset
 
@@ -3865,8 +3744,7 @@ b){
 \begin_inset Formula $x:x=n\pi-\dfrac{\pi}{3}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon\mathbb{Z}$
 \end_inset
 
@@ -3878,8 +3756,7 @@ c){
 \begin_inset Formula $x:x=n\pi+\dfrac{\pi}{6}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon\mathbb{Z}$
 \end_inset
 
@@ -3891,8 +3768,7 @@ d){
 \begin_inset Formula $x:x=n\pi-\dfrac{\pi}{6}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon\mathbb{Z}$
 \end_inset
 
@@ -3900,8 +3776,7 @@ d){
 \end_layout
 
 \begin_layout Description
-Q4:
- The area bounded by the curves given by 
+Q4: The area bounded by the curves given by 
 \begin_inset Formula $\left|x\right|+\left|2y\right|=2$
 \end_inset
 
@@ -3929,8 +3804,7 @@ Multiple answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- The solution set of 
+Q1: The solution set of 
 \begin_inset Formula $2|\tan x|=\tan x+\sqrt{3}$
 \end_inset
 
@@ -3942,8 +3816,7 @@ a){
 \begin_inset Formula $x:x=n\pi+\dfrac{\pi}{3}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon Z$
 \end_inset
 
@@ -3955,8 +3828,7 @@ b){
 \begin_inset Formula $x:x=n\pi-\dfrac{\pi}{3}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon Z$
 \end_inset
 
@@ -3968,8 +3840,7 @@ c){
 \begin_inset Formula $x:x=n\pi+\dfrac{\pi}{6}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon Z$
 \end_inset
 
@@ -3981,8 +3852,7 @@ d){
 \begin_inset Formula $x:x=n\pi-\dfrac{\pi}{6}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon Z$
 \end_inset
 
@@ -3994,11 +3864,8 @@ Matrix Match Type Problems
 \end_layout
 
 \begin_layout Description
-Matrix 1:
- Under Column I ,
- some equations are given .
- Under Column II,
- some solutions satisfying some of the equations are given.
+Matrix 1: Under Column I , some equations are given .
+ Under Column II, some solutions satisfying some of the equations are given.
  Match the entry in Column I with the solution satisfying it in Column II.{Note:
  [ ] is the Greatest Integer Function}
 \end_layout
@@ -4153,8 +4020,7 @@ Linked Comprehension Type Problems
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- Consider the equation 
+Comprehension 1: Consider the equation 
 \begin_inset Formula $y=$
 \end_inset
 
@@ -4172,12 +4038,12 @@ Comprehension 1:
 \end_inset
 
 .
- Read the following questions based on this information and answer them carefully.
+ Read the following questions based on this information and answer them
+ carefully.
 \end_layout
 
 \begin_layout Description
-Q1:
- The value(s) of 
+Q1: The value(s) of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -4217,8 +4083,7 @@ d)None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The value(s) of 
+Q2: The value(s) of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -4258,8 +4123,7 @@ d)None of these
 \end_layout
 
 \begin_layout Description
-Comprehension 2:
- The first 3 terms of an A.P.
+Comprehension 2: The first 3 terms of an A.P.
  are 
 \begin_inset Formula $\left|3x\right|,\left|3x-1\right|$
 \end_inset
@@ -4269,13 +4133,11 @@ and
 \end_inset
 
 .
- Based on this information,
- give the answers to the questions below
+ Based on this information, give the answers to the questions below
 \end_layout
 
 \begin_layout Description
-Q1:
- The value of 
+Q1: The value of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -4299,8 +4161,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The 10th term of the A.P.
+Q2: The 10th term of the A.P.
  is 
 \end_layout
 
@@ -4333,8 +4194,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The sum of first 15 terms of the series is
+Q3: The sum of first 15 terms of the series is
 \end_layout
 
 \begin_layout Quote
@@ -4366,8 +4226,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Comprehension 3:
- A function 
+Comprehension 3: A function 
 \begin_inset Formula $f_{n}(x)$
 \end_inset
 
@@ -4392,8 +4251,7 @@ Comprehension 3:
 \end_inset
 
 .
- Using this definition ,
- 
+ Using this definition , 
 \begin_inset Formula $f_{2}(x)=f_{1}(f_{1}(x))=\dfrac{x-1}{x}$
 \end_inset
 
@@ -4411,13 +4269,11 @@ Comprehension 3:
 \end_inset
 
 and so on.
- Based on the information,
- answer the questions below.
+ Based on the information, answer the questions below.
 \end_layout
 
 \begin_layout Description
-Q1:
- The domain of definition of 
+Q1: The domain of definition of 
 \begin_inset Formula $g(x)=\left|\ln(f_{34}(x))\right|$
 \end_inset
 
@@ -4453,8 +4309,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The complete solution set of 
+Q2: The complete solution set of 
 \begin_inset Formula $\left|f_{71}\left(x\right)\right|>\left|\dfrac{1}{f_{73}\left(x\right)}\right|$
 \end_inset
 
@@ -4490,8 +4345,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The values of 
+Q3: The values of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -4545,8 +4399,7 @@ Q1 a)
 \begin_inset Formula $x=2n\pi+\dfrac{\pi}{2}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $n\epsilon Z$
 \end_inset
 
@@ -4556,13 +4409,11 @@ Q1 a)
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- The solution of the equation is all values of 
+{Hint: The solution of the equation is all values of 
 \begin_inset Formula $x$
 \end_inset
 
- which satisfy the equation ,
- 
+ which satisfy the equation , 
 \begin_inset Formula $\sin x=1$
 \end_inset
 
@@ -4580,8 +4431,7 @@ b) No Solution i.e
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- It may be observed that 
+{Hint: It may be observed that 
 \begin_inset Formula $|y|<-y$
 \end_inset
 
@@ -4610,8 +4460,7 @@ c)
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- 
+{Hint: 
 \begin_inset Formula $|y|=-y$
 \end_inset
 
@@ -4641,8 +4490,7 @@ Q1) C
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- 
+{Hint: 
 \begin_inset Formula $\dfrac{1}{\left|\dfrac{4}{x}-10\right|}$
 \end_inset
 
@@ -4668,8 +4516,7 @@ Q1) C
 \size footnotesize
 Case I 
 \series default
-:
- 
+: 
 \begin_inset Formula $\dfrac{4}{x}-10>\dfrac{1}{3}$
 \end_inset
 
@@ -4707,8 +4554,7 @@ Case I
 
 \series bold
 \size footnotesize
-Case II:
- 
+Case II: 
 \series default
 
 \begin_inset Formula $\dfrac{4}{x}-10<-\dfrac{1}{3}$
@@ -4764,8 +4610,7 @@ Case II:
 \begin_layout Quote
 
 \size footnotesize
-Combining all cases,
- we get 
+Combining all cases, we get 
 \begin_inset Formula $x\epsilon\left(-\infty,0\right)\cup\left(0,\dfrac{12}{31}\right)\cup\left(\dfrac{12}{29},\infty\right)$
 \end_inset
 
@@ -4848,8 +4693,7 @@ Linked Comprehension Type Problems
 \series bold
 Comprehension 1
 \series default
-:
- Q1) D Q2)A
+: Q1) D Q2)A
 \end_layout
 
 \begin_layout Quote
@@ -4968,8 +4812,7 @@ i.e
 \begin_inset Formula $\forall x\epsilon\mathbb{R}$
 \end_inset
 
- ,
- y is identically equal to zero.
+ , y is identically equal to zero.
 \end_layout
 
 \begin_layout Quote
@@ -5006,15 +4849,13 @@ A}
 \series bold
 Comprehension 2
 \series default
-:
- Q1) D Q2)C Q3)A
+: Q1) D Q2)C Q3)A
 \end_layout
 
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- a)
+{Hint: a)
 \begin_inset Formula $\left|3x\right|,\left|3x-1\right|$
 \end_inset
 
@@ -5062,8 +4903,7 @@ The critical points in this case are
 \size footnotesize
 Case I
 \series default
- :
- 
+ : 
 \begin_inset Formula $x\epsilon\left(-\infty,-\dfrac{1}{3}\right)$
 \end_inset
 
@@ -5100,8 +4940,7 @@ In this case equation becomes
 \size footnotesize
 Case II
 \series default
-:
- 
+: 
 \begin_inset Formula $x\epsilon\left[-\dfrac{1}{3},0\right)$
 \end_inset
 
@@ -5111,8 +4950,7 @@ Case II
 \begin_layout Quote
 
 \size footnotesize
-In this case ,
- the equation becomes
+In this case , the equation becomes
 \end_layout
 
 \begin_layout Quote
@@ -5152,8 +4990,7 @@ In this case ,
 \size footnotesize
 Case III
 \series default
- :
- 
+ : 
 \begin_inset Formula $x\epsilon\left[0,\dfrac{1}{3}\right)$
 \end_inset
 
@@ -5163,8 +5000,7 @@ Case III
 \begin_layout Quote
 
 \size footnotesize
-In this case ,
- the equation becomes
+In this case , the equation becomes
 \end_layout
 
 \begin_layout Quote
@@ -5214,8 +5050,7 @@ Case IV
 \begin_layout Quote
 
 \size footnotesize
-In this case,
- the equation becomes
+In this case, the equation becomes
 \end_layout
 
 \begin_layout Quote
@@ -5241,8 +5076,7 @@ i.e
 \begin_layout Quote
 
 \size footnotesize
-Combining all the cases,
- we get 
+Combining all the cases, we get 
 \begin_inset Formula $x=\dfrac{1}{12}$
 \end_inset
 
@@ -5256,8 +5090,7 @@ b) Substituting the value of
 \begin_inset Formula $x$
 \end_inset
 
- ,
- the series becomes 
+ , the series becomes 
 \begin_inset Formula $\left\{ \dfrac{1}{4},\dfrac{3}{4},\dfrac{5}{4},\cdots\cdots\cdots\right\} $
 \end_inset
 
@@ -5267,8 +5100,7 @@ b) Substituting the value of
 \begin_layout Quote
 
 \size footnotesize
-Hence,
- the series has first term 
+Hence, the series has first term 
 \begin_inset Formula $a=\dfrac{1}{4}$
 \end_inset
 
@@ -5308,15 +5140,13 @@ c) The sum of first 15 terms of the series is
 \series bold
 Comprehension 3
 \series default
-:
- Q1) A Q2)B Q3)C
+: Q1) A Q2)B Q3)C
 \end_layout
 
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- 
+{Hint: 
 \begin_inset Formula $f_{1}(x)=\dfrac{2x-1}{x+1}$
 \end_inset
 
@@ -5356,8 +5186,7 @@ Comprehension 3
 \begin_layout Quote
 
 \size footnotesize
-On simlar lines,
- we can find 
+On simlar lines, we can find 
 \begin_inset Formula $f_{4}(x)=f_{1}(f_{3}(x))=\dfrac{1}{1-x}$
 \end_inset
 
@@ -5411,8 +5240,7 @@ It may be noted that this function repeats itself after a gap of 6 .i.e
 \begin_layout Quote
 
 \size footnotesize
-Q1:
- 
+Q1: 
 \begin_inset Formula $f_{34}(x)=f_{4}(x)$
 \end_inset
 
@@ -5485,8 +5313,7 @@ i.e
 \begin_layout Quote
 
 \size footnotesize
-Q2:
- 
+Q2: 
 \begin_inset Formula $\left|f_{71}\left(x\right)\right|>\left|\dfrac{1}{f_{73}\left(x\right)}\right|$
 \end_inset
 
@@ -5581,8 +5408,7 @@ i.e.
 \begin_layout Quote
 
 \size footnotesize
-Q3:
- 
+Q3: 
 \begin_inset Formula $\left|f_{56}\left(x\right)\right|>f_{56}\left(x\right)$
 \end_inset
 
@@ -5653,8 +5479,6 @@ Functions
 
 \begin_layout Standard
 \begin_inset Index idx
-range none
-pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -5663,7 +5487,8 @@ Functions
 
 \end_inset
 
-Functions are one of the most important areas of mathematics because they lie at the heart of much of mathematical analysis.
+Functions are one of the most important areas of mathematics because they
+ lie at the heart of much of mathematical analysis.
 \end_layout
 
 \begin_layout Section
@@ -5671,18 +5496,15 @@ Domain of Definition and Range
 \end_layout
 
 \begin_layout Description
-Q:
- For the function 
+Q: For the function 
 \begin_inset Formula $f\left(x\right)=\dfrac{x}{x+2}$
 \end_inset
 
- ,
- find 
+ , find 
 \begin_inset Formula $f\left(x+3\right)$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $f\left(3x\right)$
 \end_inset
 
@@ -5690,18 +5512,15 @@ Q:
 \begin_inset Formula $3f\left(x\right)$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $3f\left(3x+3\right)$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $f\left(x^{3}\right)$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $\left(f\left(x\right)\right)^{3}$
 \end_inset
 
@@ -5711,8 +5530,7 @@ Q:
 \begin_layout Description
 
 \size small
-Sol:
- 
+Sol: 
 \begin_inset Formula $f\left(x+3\right)=\dfrac{x+3}{x+5}$
 \end_inset
 
@@ -5818,8 +5636,7 @@ Sol:
 \end_layout
 
 \begin_layout Description
-Q:
- Find the domains of definition of the following functions:
+Q: Find the domains of definition of the following functions:
 \end_layout
 
 \begin_layout Quote
@@ -5935,15 +5752,12 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- (i) Prove that for the logarithmic function 
+Q1: (i) Prove that for the logarithmic function 
 \begin_inset Formula $y=\ln\left|x\right|$
 \end_inset
 
- ,
- if the argument takes values in a G.P.
- ,
- then the corresponding values of the function 
+ , if the argument takes values in a G.P.
+ , then the corresponding values of the function 
 \begin_inset Formula $y$
 \end_inset
 
@@ -5960,10 +5774,8 @@ Q1:
 \begin_inset Formula $y=e^{x}$
 \end_inset
 
- ,
- if the argument takes values in a A.P..
- ,
- then the corresponding values of the function 
+ , if the argument takes values in a A.P..
+ , then the corresponding values of the function 
 \begin_inset Formula $y$
 \end_inset
 
@@ -5982,11 +5794,9 @@ Subjective Problems
 \end_layout
 
 \begin_layout Quote
-Q1 :
- 
+Q1 : 
 \size footnotesize
-{Hint:
- (i) Let the arguments be defined by the general term 
+{Hint: (i) Let the arguments be defined by the general term 
 \begin_inset Formula $x_{n}=ar^{n-1}$
 \end_inset
 
@@ -6010,16 +5820,16 @@ Q1 :
 \end_inset
 
 .
- Hence ,
- these terms are in A.P.
+ Hence , these terms are in A.P.
 \end_layout
 
 \begin_layout Quote
 
 \size footnotesize
-(ii)Proceeding in a similar manner ,
- if we take the argument as a general term of an A.P.
- then the corresponding values of the function will have a constant common difference.}
+(ii)Proceeding in a similar manner , if we take the argument as a general
+ term of an A.P.
+ then the corresponding values of the function will have a constant common
+ difference.}
 \end_layout
 
 \begin_layout Section
@@ -6035,8 +5845,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- Find the range of the function defined on 
+Q1: Find the range of the function defined on 
 \series bold
 R
 \series default
@@ -6064,8 +5873,7 @@ where
 \end_layout
 
 \begin_layout Section
-Injectivity,
- Surjectivity and Bijectivity
+Injectivity, Surjectivity and Bijectivity
 \end_layout
 
 \begin_layout Subsection
@@ -6077,8 +5885,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- Check whether the function 
+Q1: Check whether the function 
 \begin_inset Formula $f:\left(-\infty,-3\right)\rightarrow\left[-\dfrac{1}{4},0\right]$
 \end_inset
 
@@ -6099,8 +5906,7 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- A function 
+Q1: A function 
 \begin_inset Formula $f:R\rightarrow\left[1,2\right]$
 \end_inset
 
@@ -6128,8 +5934,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- Let 
+Q2: Let 
 \begin_inset Formula $f:[0,\infty)\rightarrow S$
 \end_inset
 
@@ -6137,8 +5942,7 @@ Q2:
 \begin_inset Formula $f\left(x\right)=2^{x\left(1-x\right)}$
 \end_inset
 
- be onto,
- then the set S is
+ be onto, then the set S is
 \end_layout
 
 \begin_layout Quote
@@ -6184,13 +5988,11 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Quote
-Q1:
- B
+Q1: B
 \end_layout
 
 \begin_layout Quote
-Q2:
- D
+Q2: D
 \end_layout
 
 \begin_layout Section
@@ -6206,8 +6008,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- Check whether the function 
+Q1: Check whether the function 
 \begin_inset Formula $f:\left(-\infty,0\right)\rightarrow\left(0,\infty\right)$
 \end_inset
 
@@ -6220,8 +6021,7 @@ Q1:
 \end_layout
 
 \begin_layout Description
-Q2:
- A function 
+Q2: A function 
 \begin_inset Formula $f:R-\left\{ -2,2\right\} \rightarrow\left(-\infty,\dfrac{5}{2}\right]\cup\left(3,\infty\right)$
 \end_inset
 
@@ -6230,7 +6030,8 @@ Q2:
 \end_inset
 
  .
- Divide the domain into minimum number of suitable subsets so that the function becomes invertible on each individual domain.
+ Divide the domain into minimum number of suitable subsets so that the function
+ becomes invertible on each individual domain.
  Also find the inverse on each of these domains.
 \end_layout
 
@@ -6239,8 +6040,7 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- A function on 
+Q1: A function on 
 \begin_inset Formula $f:\left[2,4\right)\rightarrow\left(-\infty,0\right]$
 \end_inset
 
@@ -6293,8 +6093,7 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Quote
-Q1:
- D
+Q1: D
 \end_layout
 
 \begin_layout Section
@@ -6306,8 +6105,7 @@ Limits
 \end_layout
 
 \begin_layout Description
-Q:
- Evaluate the limits
+Q: Evaluate the limits
 \end_layout
 
 \begin_layout Quote
@@ -6320,8 +6118,7 @@ a)
 
 \begin_layout Description
 Sol.
- a) Case I :
- 
+ a) Case I : 
 \end_layout
 
 \begin_layout Chapter
@@ -6337,18 +6134,15 @@ Multiple answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- If 
+Q1: If 
 \begin_inset Formula $x=\sqrt[3]{a^{\tan^{-1}t}}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $y=\sqrt[3]{a^{\cot^{-1}t}}$
 \end_inset
 
- ,
- then 
+ , then 
 \begin_inset Formula $\dfrac{dy}{dx}=$
 \end_inset
 
@@ -6404,8 +6198,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- A ladder 
+Q1: A ladder 
 \begin_inset Formula $13$
 \end_inset
 
@@ -6424,10 +6217,8 @@ Q1:
 \begin_inset Formula $\theta$
 \end_inset
 
- ,which the ladder makes with the ground,
- w.rt.
- time ,
- when the foot of the ladder is 
+ ,which the ladder makes with the ground, w.rt.
+ time , when the foot of the ladder is 
 \begin_inset Formula $12m$
 \end_inset
 
@@ -6440,9 +6231,10 @@ Linked Comprehension Type Problems
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- A Scientist at CERN labs recently designed a gadget to measure the variations of pressure of Helium gas with change in its volume.
- The gadget consists of a hollow frustrum(of a cone) with constant base angle 
+Comprehension 1: A Scientist at CERN labs recently designed a gadget to
+ measure the variations of pressure of Helium gas with change in its volume.
+ The gadget consists of a hollow frustrum(of a cone) with constant base
+ angle 
 \begin_inset Formula $45^{o}$
 \end_inset
 
@@ -6453,9 +6245,11 @@ Comprehension 1:
 \end_inset
 
  is dropped inside the frustrum from the open face.
- The ball expands to fit the frustrum and touches it at the top edge and the centre of the base{as shown in the Figure}.
+ The ball expands to fit the frustrum and touches it at the top edge and
+ the centre of the base{as shown in the Figure}.
  Helium gas is then put in the cavity between the ball and frustrum.
- The ball now contracts and the frustrum also contracts maintaining a constant angle 
+ The ball now contracts and the frustrum also contracts maintaining a constant
+ angle 
 \begin_inset Formula $45^{o}$
 \end_inset
 
@@ -6468,8 +6262,7 @@ Comprehension 1:
 \end_layout
 
 \begin_layout Description
-Q1:
- Express the volume of the frustrum in terms of 
+Q1: Express the volume of the frustrum in terms of 
 \begin_inset Formula $r$
 \end_inset
 
@@ -6505,8 +6298,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The volume of the portion of sphere outside the frustrum is 
+Q2: The volume of the portion of sphere outside the frustrum is 
 \end_layout
 
 \begin_layout Quote
@@ -6538,8 +6330,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- What is the rate of change of the volume of the cavity w.r.t.
+Q3: What is the rate of change of the volume of the cavity w.r.t.
  
 \begin_inset Formula $r$
 \end_inset
@@ -6591,19 +6382,17 @@ d) None of these.
 \end_layout
 
 \begin_layout Description
-Q4:
- The pressure of the gas inside the cavity varies as 
+Q4: The pressure of the gas inside the cavity varies as 
 \begin_inset Formula $PV^{\gamma}=k$
 \end_inset
 
-(a constant) ,
- then the rate of change of Pressure of the gas inside the cavity w.r.t.
+(a constant) , then the rate of change of Pressure of the gas inside the
+ cavity w.r.t.
  time is { at the instant when 
 \begin_inset Formula $\dfrac{dr}{dt}=-2$
 \end_inset
 
- units/sec ,
- 
+ units/sec , 
 \begin_inset Formula $r$
 \end_inset
 
@@ -6667,21 +6456,17 @@ Comprehension 1
 \end_layout
 
 \begin_layout Quote
-Answers:
- Q1) C ,
- Q2) A ,Q3) B ,Q4) B.
+Answers: Q1) C , Q2) A ,Q3) B ,Q4) B.
 \end_layout
 
 \begin_layout Standard
 
 \size footnotesize
-{Hint:
- Q1) Let 
+{Hint: Q1) Let 
 \begin_inset Formula $r_{1}$
 \end_inset
 
-be the radius of the top opening,
- 
+be the radius of the top opening, 
 \begin_inset Formula $r_{2}$
 \end_inset
 
@@ -6695,8 +6480,7 @@ be the radius of the top opening,
 \begin_layout Standard
 
 \size footnotesize
-From adjoining diagram,
- it is clear that 
+From adjoining diagram, it is clear that 
 \end_layout
 
 \begin_layout Standard
@@ -6705,8 +6489,7 @@ From adjoining diagram,
 \begin_inset Formula $r_{1}=\dfrac{r}{\sqrt{2}}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $r_{2}=r(\sqrt{2}+1)$
 \end_inset
 
@@ -6762,9 +6545,8 @@ We know that the volume of a frustrum is
 \begin_layout Standard
 
 \size footnotesize
-Q2:
- To find the volume of the portion of sphere outside the frustrum,
- we first find the volume of 3Dimensional Portion of the sphere shown in figure
+Q2: To find the volume of the portion of sphere outside the frustrum, we
+ first find the volume of 3Dimensional Portion of the sphere shown in figure
 \end_layout
 
 \begin_layout Standard
@@ -6794,8 +6576,7 @@ Let it's volume be
 \begin_layout Standard
 
 \size footnotesize
-Using the concept of Solid Angle,
- 
+Using the concept of Solid Angle, 
 \begin_inset Formula $\dfrac{v}{V}=\dfrac{a}{A}$
 \end_inset
 
@@ -6807,8 +6588,7 @@ Using the concept of Solid Angle,
 \begin_inset Formula $V$
 \end_inset
 
- is the Volume of the Complete Sphere ,
- 
+ is the Volume of the Complete Sphere , 
 \begin_inset Formula $A$
 \end_inset
 
@@ -6840,8 +6620,8 @@ Using the concept of Solid Angle,
 \begin_layout Standard
 
 \size footnotesize
-Alternatively,
- this Volume can be found out by generating diffrential cones of base area 
+Alternatively, this Volume can be found out by generating diffrential cones
+ of base area 
 \begin_inset Formula $dA$
 \end_inset
 
@@ -6849,7 +6629,8 @@ Alternatively,
 \begin_inset Formula $r$
 \end_inset
 
-.These diffrential cones are generated by joining the boundaries of the diffrential area with the centre of the sphere .
+.These diffrential cones are generated by joining the boundaries of the diffrenti
+al area with the centre of the sphere .
  The volume of one such cone will be
 \end_layout
 
@@ -6865,8 +6646,8 @@ Alternatively,
 \begin_layout Standard
 
 \size footnotesize
-Adding these diffrential cones,
- we get the volume of the portion of sphere as 
+Adding these diffrential cones, we get the volume of the portion of sphere
+ as 
 \end_layout
 
 \begin_layout Standard
@@ -6885,7 +6666,8 @@ Adding these diffrential cones,
 \begin_layout Standard
 
 \size footnotesize
-Now we need to subtract the volume of the cone from this volume to get the required volume of the portion of sphere outside the frustrum.
+Now we need to subtract the volume of the cone from this volume to get the
+ required volume of the portion of sphere outside the frustrum.
 \end_layout
 
 \begin_layout Standard
@@ -6951,15 +6733,14 @@ Now we need to subtract the volume of the cone from this volume to get the requi
 \begin_layout Standard
 
 \size footnotesize
-{The student may note that the concept of Solid angle can be developed intuitively without any prior knowledge of the concept}
+{The student may note that the concept of Solid angle can be developed intuitive
+ly without any prior knowledge of the concept}
 \end_layout
 
 \begin_layout Standard
 
 \size footnotesize
-Q3:
- From the figure ,
- it is clear that 
+Q3: From the figure , it is clear that 
 \end_layout
 
 \begin_layout Standard
@@ -7068,8 +6849,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- A thin rectangular sheet is inscribed in a sphere of radius 
+Q1: A thin rectangular sheet is inscribed in a sphere of radius 
 \begin_inset Formula $R$
 \end_inset
 
@@ -7078,8 +6858,7 @@ Q1:
 \end_layout
 
 \begin_layout Description
-Q2:
- A cylinder of height 
+Q2: A cylinder of height 
 \begin_inset Formula $h$
 \end_inset
 
@@ -7109,15 +6888,15 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- From a military base located at the origin,
- a Surface-to-Surface Missile(STSM) was fired onto a target city located at (8,0) along the path 
+Q1: From a military base located at the origin, a Surface-to-Surface Missile(STS
+M) was fired onto a target city located at (8,0) along the path 
 \begin_inset Formula $y=8x-x^{2}$
 \end_inset
 
 .
- Sometime later,
- a Radar located in the target city detected the missile and an Anti-Ballistic Interceptor Missile(ABIM) was fired from the city along the path 
+ Sometime later, a Radar located in the target city detected the missile
+ and an Anti-Ballistic Interceptor Missile(ABIM) was fired from the city
+ along the path 
 \begin_inset Formula $y=\sqrt{8x-x^{2}}$
 \end_inset
 
@@ -7126,14 +6905,15 @@ Q1:
 status open
 
 \begin_layout Plain Layout
-A guided missile may move along a non-parabolic path as it is propelled by rockets or jet engines
+A guided missile may move along a non-parabolic path as it is propelled
+ by rockets or jet engines
 \end_layout
 
 \end_inset
 
 to intercept the missile.
- Ironically,
- the ABIM made substantial damage to the military base and the target city was also destroyed.
+ Ironically, the ABIM made substantial damage to the military base and the
+ target city was also destroyed.
  What was the maximum distance between the trajectories of the two missiles?
 \end_layout
 
@@ -7158,8 +6938,7 @@ Linked Comprehension Type Problems
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- A circular sheet of radius 
+Comprehension 1: A circular sheet of radius 
 \begin_inset Formula $R$
 \end_inset
 
@@ -7187,8 +6966,7 @@ Comprehension 1:
 \end_layout
 
 \begin_layout Description
-Q1:
- The angle 
+Q1: The angle 
 \begin_inset Formula $\theta$
 \end_inset
 
@@ -7224,8 +7002,7 @@ D)None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The Volume of the cone with the maximum volume is
+Q2: The Volume of the cone with the maximum volume is
 \end_layout
 
 \begin_layout Quote
@@ -7266,8 +7043,7 @@ D)None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The semi-vertical angle of the cone with maximum volume is
+Q3: The semi-vertical angle of the cone with maximum volume is
 \end_layout
 
 \begin_layout Quote
@@ -7299,14 +7075,12 @@ D)None of these
 \end_layout
 
 \begin_layout Description
-Comprehension 2:
- S is an ellipse in the Cartesian plane with its major axis parallel to x-axis,
- having centre at 
+Comprehension 2: S is an ellipse in the Cartesian plane with its major axis
+ parallel to x-axis, having centre at 
 \begin_inset Formula $\left(\dfrac{1}{2},1\right)$
 \end_inset
 
- ,
- eccentricity 
+ , eccentricity 
 \begin_inset Formula $\dfrac{1}{\sqrt{2}}$
 \end_inset
 
@@ -7335,8 +7109,7 @@ Comprehension 2:
 \begin_inset Formula $f(1)=c$
 \end_inset
 
- ,
- where 
+ , where 
 \begin_inset Formula $0\leq c\leq32$
 \end_inset
 
@@ -7344,8 +7117,7 @@ Comprehension 2:
 \end_layout
 
 \begin_layout Description
-Q1:
- The minimum possible area of the ellipse is
+Q1: The minimum possible area of the ellipse is
 \end_layout
 
 \begin_layout Quote
@@ -7377,9 +7149,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The equation of auxillary circle for the ellipse of maximum area,
- is
+Q2: The equation of auxillary circle for the ellipse of maximum area, is
 \end_layout
 
 \begin_layout Quote
@@ -7411,8 +7181,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- 
+Q3: 
 \begin_inset Formula $\underset{c\rightarrow0^{+}}{\lim}\left\{ f\left(1+f^{/}\left(x\right)\right)\right\} ^{f\left(x\right)}$
 \end_inset
 
@@ -7420,8 +7189,7 @@ Q3:
 \begin_inset Formula $x>0$
 \end_inset
 
- ,
- is
+ , is
 \end_layout
 
 \begin_layout Quote
@@ -7459,13 +7227,11 @@ Linked Comprehension Type Problems
 \series bold
 Comprehension 1
 \series default
-:
- 
+: 
 \end_layout
 
 \begin_layout Quote
-Answers:
- Q1) B Q2)C Q3)D
+Answers: Q1) B Q2)C Q3)D
 \end_layout
 
 \begin_layout Quote
@@ -7495,8 +7261,8 @@ Answers:
 \begin_layout Quote
 
 \size footnotesize
-When the cone is generated from the sector,
- its Curved Surface Area will be equal to the area of the sector.
+When the cone is generated from the sector, its Curved Surface Area will
+ be equal to the area of the sector.
 \end_layout
 
 \begin_layout Quote
@@ -7591,8 +7357,7 @@ Also
 \begin_layout Quote
 
 \size footnotesize
-As is clear,
- the points 
+As is clear, the points 
 \begin_inset Formula $\theta=0$
 \end_inset
 
@@ -7647,8 +7412,7 @@ corresponding to
 \begin_layout Quote
 
 \size footnotesize
-Q2:
- Volume of the cone is given by
+Q2: Volume of the cone is given by
 \end_layout
 
 \begin_layout Quote
@@ -7682,8 +7446,8 @@ units
 \begin_layout Quote
 
 \size footnotesize
-Q3:
- It can be observed from the figure that for the semi-vertical angle 
+Q3: It can be observed from the figure that for the semi-vertical angle
+ 
 \begin_inset Formula $\phi$
 \end_inset
 
@@ -7731,21 +7495,17 @@ Q3:
 \series bold
 Comprehension 
 \series default
-2:
- 
+2: 
 \end_layout
 
 \begin_layout Quote
-Answers:
- Q1) C Q2)B Q3)A
+Answers: Q1) C Q2)B Q3)A
 \end_layout
 
 \begin_layout Quote
 
 \size footnotesize
-{ Hint:
- Q1:
- It can be easily verified that 
+{ Hint: Q1: It can be easily verified that 
 \begin_inset Formula $f(x)=cx$
 \end_inset
 
@@ -7768,8 +7528,7 @@ Solving it with
 \begin_inset Formula $x=\dfrac{1}{c+2}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $y=\dfrac{c}{c+2}$
 \end_inset
 
@@ -7794,13 +7553,11 @@ The equation of ellipse will be
 \begin_layout Quote
 
 \size footnotesize
-Now,
- since the eccentricity is 
+Now, since the eccentricity is 
 \begin_inset Formula $\dfrac{1}{\sqrt{2}}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $b^{2}=a^{2}(1-e^{2})$
 \end_inset
 
@@ -7830,13 +7587,11 @@ Hence the equation of ellipse becomes
 \begin_layout Quote
 
 \size footnotesize
-Now,
- 
+Now, 
 \begin_inset Formula $x=\dfrac{1}{c+2}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $y=\dfrac{c}{c+2}$
 \end_inset
 
@@ -7913,7 +7668,8 @@ This gives
 \end_inset
 
  .
- Also it may be noted that the derivative is negative in the left neighbourhood of 
+ Also it may be noted that the derivative is negative in the left neighbourhood
+ of 
 \begin_inset Formula $c=16$
 \end_inset
 
@@ -7922,8 +7678,7 @@ This gives
 \end_inset
 
  .
- Hence,
- 
+ Hence, 
 \begin_inset Formula $c=16$
 \end_inset
 
@@ -7942,8 +7697,7 @@ This gives
 \begin_layout Quote
 
 \size footnotesize
-Q2:
- It is easy to observe that maxima of A can occur at 
+Q2: It is easy to observe that maxima of A can occur at 
 \begin_inset Formula $c=0$
 \end_inset
 
@@ -7961,8 +7715,7 @@ At
 \begin_inset Formula $c=0$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $a^{2}=2$
 \end_inset
 
@@ -7976,8 +7729,7 @@ At
 \begin_inset Formula $c=32$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $a^{2}=\dfrac{32\times33}{4\times\left(34\right)^{2}}<\dfrac{1}{4}$
 \end_inset
 
@@ -7987,8 +7739,7 @@ At
 \begin_layout Quote
 
 \size footnotesize
-Hence,
- the maximum occurs at 
+Hence, the maximum occurs at 
 \begin_inset Formula $c=0$
 \end_inset
 
@@ -8024,8 +7775,7 @@ i.e.
 \begin_layout Quote
 
 \size footnotesize
-Q3:
- 
+Q3: 
 \begin_inset Formula $\underset{c\rightarrow0^{+}}{\lim}\left\{ f\left(1+f^{/}\left(x\right)\right)\right\} ^{f\left(x\right)}$
 \end_inset
 
@@ -8033,8 +7783,7 @@ Q3:
 \begin_inset Formula $x>0$
 \end_inset
 
- ,
- is
+ , is
 \end_layout
 
 \begin_layout Quote
@@ -8101,14 +7850,11 @@ Multiple Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- The point(s) on the curve 
+Q1: The point(s) on the curve 
 \begin_inset Formula $y^{2}+4=8x$
 \end_inset
 
- ,
- where the tangent makes equal intercepts with the axes ,
- is/are
+ , where the tangent makes equal intercepts with the axes , is/are
 \end_layout
 
 \begin_layout Quote
@@ -8148,13 +7894,11 @@ Matrix Match Type Problems
 \end_layout
 
 \begin_layout Description
-Matrix 1:
- Under Column I,
- equations of some curves are listed.
- Under Column II,
- equations of some lines are listed.
- An entry in Column I is linked to an entry in column II ,
- if the entry in Column II is either a tangent or a normal to the curve given in the entry in Column I.
+Matrix 1: Under Column I, equations of some curves are listed.
+ Under Column II, equations of some lines are listed.
+ An entry in Column I is linked to an entry in column II , if the entry
+ in Column II is either a tangent or a normal to the curve given in the
+ entry in Column I.
  
 \end_layout
 
@@ -8336,8 +8080,7 @@ Answers
 \end_layout
 
 \begin_layout Quote
-Q1:
- A,B
+Q1: A,B
 \end_layout
 
 \begin_layout Quote
@@ -8345,8 +8088,7 @@ Q1:
 \end_layout
 
 \begin_layout Quote
-Matrix 1:
- 
+Matrix 1: 
 \end_layout
 
 \begin_layout Quote
@@ -8386,8 +8128,7 @@ Indefinite Integrals
 \end_layout
 
 \begin_layout Description
-Q1:
- Evaluate the following Integrals
+Q1: Evaluate the following Integrals
 \end_layout
 
 \begin_layout Quote
@@ -8399,8 +8140,7 @@ a)
 \end_layout
 
 \begin_layout Description
-Sol:
- a) 
+Sol: a) 
 \begin_inset Formula $\intop\dfrac{x^{2}e^{x}}{\left(x+2\right)^{2}}dx$
 \end_inset
 
@@ -8422,13 +8162,11 @@ Sol:
 \end_layout
 
 \begin_layout Quote
-Now we know,
- if 
+Now we know, if 
 \begin_inset Formula $f(x)=\dfrac{x-2}{x+2}$
 \end_inset
 
- ,
- then 
+ , then 
 \begin_inset Formula $f^{/}(x)=\dfrac{4}{\left(x+2\right)^{2}}$
 \end_inset
 
@@ -8436,8 +8174,7 @@ Now we know,
 \end_layout
 
 \begin_layout Quote
-Hence,
- 
+Hence, 
 \begin_inset Formula $\intop\dfrac{x^{2}e^{x}}{\left(x+2\right)^{2}}dx=\left(\dfrac{x-2}{x+2}\right)e^{x}+C$
 \end_inset
 
@@ -8449,8 +8186,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- Evaluate the Integral 
+Q1: Evaluate the Integral 
 \end_layout
 
 \begin_layout Description
@@ -8465,8 +8201,7 @@ Q1:
 \end_layout
 
 \begin_layout Description
-Q2:
- Evaluate the Integral
+Q2: Evaluate the Integral
 \end_layout
 
 \begin_layout Description
@@ -8481,8 +8216,7 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- The integral 
+Q1: The integral 
 \begin_inset Formula $\int\dfrac{dx}{\sin\left(x-a\right)\cos\left(x-b\right)}$
 \end_inset
 
@@ -8518,14 +8252,12 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- If 
+Q2: If 
 \begin_inset Formula $\int\dfrac{4x^{2}+2x+1}{x\left(2x-1\right)\left(2x+1\right)}dx=A\ln\left|x\right|+B\ln\left|2x-1\right|+C\ln\left|2x+1\right|+D$
 \end_inset
 
  .
- Then,
- 
+ Then, 
 \begin_inset Formula $A+B-C$
 \end_inset
 
@@ -8571,16 +8303,13 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Quote
-Q1:
- Answer :
- A
+Q1: Answer : A
 \end_layout
 
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- 
+{Hint: 
 \begin_inset Formula $\int\dfrac{dx}{\sin\left(x-a\right)\cos\left(x-b\right)}=\dfrac{1}{\cos\left(a-b\right)}\intop\dfrac{\cos\left(\left(x-b\right)-\left(x-a\right)\right)}{\sin\left(x-a\right)\cos\left(x-b\right)}dx=$
 \end_inset
 
@@ -8603,8 +8332,7 @@ Q1:
 \end_layout
 
 \begin_layout Quote
-Q2:Answer :
- A
+Q2:Answer : A
 \end_layout
 
 \begin_layout Quote
@@ -8615,8 +8343,8 @@ Q2:Answer :
 \end_inset
 
  .
- If we want to do it with the method of vedic mathematics,
- we must make the coefficients of all the 
+ If we want to do it with the method of vedic mathematics, we must make
+ the coefficients of all the 
 \begin_inset Formula $x$
 \end_inset
 
@@ -8644,8 +8372,7 @@ i.e
 \begin_inset Formula $\Rightarrow a=\dfrac{2\left(1\right)}{\left(-1\right)\left(1\right)}=-2$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $b=\dfrac{2\left(3\right)}{\left(1\right)\left(2\right)}=3$
 \end_inset
 
@@ -8681,13 +8408,11 @@ Comparing this with the given equation
 \begin_inset Formula $A\ln\left|x\right|+B\ln\left|2x-1\right|+C\ln\left|2x+1\right|+D$
 \end_inset
 
- ,
- we get 
+ , we get 
 \begin_inset Formula $A=-1$
 \end_inset
 
-,
- 
+, 
 \begin_inset Formula $B=\dfrac{3}{2}$
 \end_inset
 
@@ -8720,8 +8445,7 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- 
+Q1: 
 \begin_inset Formula $\intop_{0}^{2}\tan^{-1}\left(\dfrac{4x-4}{4+2x-x^{2}}\right)dx$
 \end_inset
 
@@ -8753,13 +8477,11 @@ d)
 \end_layout
 
 \begin_layout Description
-Q2:
- If for 
+Q2: If for 
 \begin_inset Formula $t>0$
 \end_inset
 
- ,
- the definite integral 
+ , the definite integral 
 \begin_inset Formula $\intop_{0}^{t^{2}}x^{\frac{3}{2}}f\left(x\right)dx=2t^{5}$
 \end_inset
 
@@ -8780,8 +8502,7 @@ a)
 \end_layout
 
 \begin_layout Description
-Q3:
- 
+Q3: 
 \begin_inset Formula $\intop_{-e^{2}}^{-e^{-2}}\left|\dfrac{\log\left|x\right|}{x}\right|dx$
 \end_inset
 
@@ -8805,8 +8526,7 @@ d) -4
 \end_layout
 
 \begin_layout Description
-Q4:
- 
+Q4: 
 \begin_inset Formula $\underset{x\rightarrow0}{\lim}\intop_{x}^{\tan x}\dfrac{1}{t^{3}}dt$
 \end_inset
 
@@ -8838,13 +8558,11 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q5:
- If 
+Q5: If 
 \begin_inset Formula $\intop_{1}^{\log x}t^{5}f\left(t\right)dt=\log\left(x\right)-1$
 \end_inset
 
- ,
- then 
+ , then 
 \begin_inset Formula $f\left(2\right)$
 \end_inset
 
@@ -8880,8 +8598,7 @@ Multiple Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- 
+Q1: 
 \begin_inset Formula $f\left(x\right)$
 \end_inset
 
@@ -8897,8 +8614,7 @@ Q1:
 \begin_inset Formula $f^{/}\left(\dfrac{2}{\sqrt{7}}\right)=0$
 \end_inset
 
- ,
- then
+ , then
 \end_layout
 
 \begin_layout Quote
@@ -8942,10 +8658,8 @@ Matrix Match type Problems
 \end_layout
 
 \begin_layout Description
-Matrix 1:
- In Column I,
- some expressions containing Integrals are given.In Column II,
- some values are given .
+Matrix 1: In Column I, some expressions containing Integrals are given.In
+ Column II, some values are given .
  Match the expression in Column I with the values in Column II.
 \end_layout
 
@@ -9115,8 +8829,7 @@ Q1 a) A
 \end_layout
 
 \begin_layout Quote
-{ Hint :
- a)Let 
+{ Hint : a)Let 
 \begin_inset Formula $I=\intop_{0}^{2}\tan^{-1}\left(\dfrac{4x-4}{4+2x-x^{2}}\right)dx$
 \end_inset
 
@@ -9138,13 +8851,11 @@ Q1 a) A
 \end_layout
 
 \begin_layout Quote
-Now ,
- we know that 
+Now , we know that 
 \begin_inset Formula $\forall x\epsilon\left(0,2\right)$
 \end_inset
 
-,
- both 
+, both 
 \begin_inset Formula $\dfrac{x}{2}$
 \end_inset
 
@@ -9174,14 +8885,11 @@ Now ,
 \end_layout
 
 \begin_layout Quote
-Now,
- applying the property,
- 
+Now, applying the property, 
 \begin_inset Formula $\int_{a}^{b}f\left(x\right)dx=\int_{a}^{b}f\left(a+b-x\right)dx$
 \end_inset
 
- on the second integral,
- we get
+ on the second integral, we get
 \end_layout
 
 \begin_layout Quote
@@ -9205,10 +8913,7 @@ Multiple Answer MCQ's
 \end_layout
 
 \begin_layout Quote
-Q1:
- A,
- B,
- C ,D
+Q1: A, B, C ,D
 \end_layout
 
 \begin_layout Quote
@@ -9248,13 +8953,11 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- For 
+Q1: For 
 \begin_inset Formula $x\geq0$
 \end_inset
 
- ,
- the curve 
+ , the curve 
 \begin_inset Formula $y=x^{2}\sin x$
 \end_inset
 
@@ -9274,8 +8977,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Quote
-Q1:
- 
+Q1: 
 \end_layout
 
 \begin_layout Section
@@ -9283,8 +8985,7 @@ Curved Surface Area and Volume
 \end_layout
 
 \begin_layout Description
-Q:
- A cork ball of radius 
+Q: A cork ball of radius 
 \begin_inset Formula $R$
 \end_inset
 
@@ -9307,9 +9008,8 @@ Q:
 \end_layout
 
 \begin_layout Description
-Sol:
- To calculate the volume of the portion of ball,
- we divide it into diffrential cylinders.
+Sol: To calculate the volume of the portion of ball, we divide it into diffrenti
+al cylinders.
  Let us keep a single parameter 
 \begin_inset Formula $\theta$
 \end_inset
@@ -9372,8 +9072,7 @@ Sol:
 \end_layout
 
 \begin_layout Standard
-Also,
- 
+Also, 
 \begin_inset Formula $r=R\sin\theta$
 \end_inset
 
@@ -9395,7 +9094,8 @@ Note that
 \begin_inset Formula $d\theta$
 \end_inset
 
- is so small that the curve on the edges will vanish and the figure will be a cylinder.
+ is so small that the curve on the edges will vanish and the figure will
+ be a cylinder.
  
 \end_layout
 
@@ -9475,15 +9175,16 @@ Linked Comprehension Type Problems
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- An unnamed space project,
- by a major space organization is in the form of a cone with a paraboloid cavity at the bottom.
- The parabolic cavity has its focus at the centre of the base of the cone and it touches the the outer curved surface of the cone at the base edge.
+Comprehension 1: An unnamed space project, by a major space organization
+ is in the form of a cone with a paraboloid cavity at the bottom.
+ The parabolic cavity has its focus at the centre of the base of the cone
+ and it touches the the outer curved surface of the cone at the base edge.
  The height of the cavity is 
 \begin_inset Formula $'a'.$
 \end_inset
 
- The body of the project is made of solid Lead and a coating of carbon of thickness 
+ The body of the project is made of solid Lead and a coating of carbon of
+ thickness 
 \begin_inset Formula $2\mu m$
 \end_inset
 
@@ -9503,8 +9204,7 @@ Comprehension 1:
 \end_layout
 
 \begin_layout Description
-Q1:
- The height of the space project is
+Q1: The height of the space project is
 \end_layout
 
 \begin_layout Quote
@@ -9536,8 +9236,7 @@ d) None of these.
 \end_layout
 
 \begin_layout Description
-Q2:
- The volume of lead in the project is
+Q2: The volume of lead in the project is
 \end_layout
 
 \begin_layout Quote
@@ -9569,8 +9268,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The total amount of Carbon used in the project is
+Q3: The total amount of Carbon used in the project is
 \end_layout
 
 \begin_layout Quote
@@ -9611,12 +9309,13 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Comprehension 2:
- Two adjacent BSNL towers have the following specifications.
- One is located in Sector-36,
- Chandigarh and forms a Hemi-Spherical cell of radius 300m .
- Second one is located in Village Attawa and forms a hemi-spherical cell of radius 400m.
- Both the towers are at a distance of half a kilometer.[It may be assumed that the Transmitters are at ground level.]
+Comprehension 2: Two adjacent BSNL towers have the following specifications.
+ One is located in Sector-36, Chandigarh and forms a Hemi-Spherical cell
+ of radius 300m .
+ Second one is located in Village Attawa and forms a hemi-spherical cell
+ of radius 400m.
+ Both the towers are at a distance of half a kilometer.[It may be assumed
+ that the Transmitters are at ground level.]
 \end_layout
 
 \begin_layout Description
@@ -9630,8 +9329,7 @@ Comprehension 2:
 \end_layout
 
 \begin_layout Description
-Q1:
- The angle of intersection of the cells is
+Q1: The angle of intersection of the cells is
 \end_layout
 
 \begin_layout Quote
@@ -9663,8 +9361,8 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The maximum height at which a person carrying a mobile phone can stand to recieve signals from both the towers is
+Q2: The maximum height at which a person carrying a mobile phone can stand
+ to recieve signals from both the towers is
 \end_layout
 
 \begin_layout Quote
@@ -9684,8 +9382,8 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The volume of the portion which recieves signals from both the towers is
+Q3: The volume of the portion which recieves signals from both the towers
+ is
 \end_layout
 
 \begin_layout Quote
@@ -9736,15 +9434,13 @@ Linked Comprehension type problems
 \end_layout
 
 \begin_layout Quote
-Comprehension 1:
- Answers Q1) B Q2) A Q3) C
+Comprehension 1: Answers Q1) B Q2) A Q3) C
 \end_layout
 
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- Let us choose a coordinate axis as shown in the figure.
+{Hint: Let us choose a coordinate axis as shown in the figure.
 \end_layout
 
 \begin_layout Quote
@@ -9781,7 +9477,8 @@ a) The parabola is a downward facing parabola with with vertex at
 \end_inset
 
 .
- This means the points where the parabola touches the cone have co-ordinates 
+ This means the points where the parabola touches the cone have co-ordinates
+ 
 \begin_inset Formula $\left(2a,0\right)$
 \end_inset
 
@@ -9790,7 +9487,8 @@ a) The parabola is a downward facing parabola with with vertex at
 \end_inset
 
 .
- The slope of tangent at these two points can be found out by diffrentiating the curve
+ The slope of tangent at these two points can be found out by diffrentiating
+ the curve
 \end_layout
 
 \begin_layout Quote
@@ -9848,8 +9546,7 @@ b) The volume of the cone is equal to
 
 \size footnotesize
 Now our concern is to find the volume of the cavity.
- To do this,
- we devide the cavity into diffrential cylinders of radius 
+ To do this, we devide the cavity into diffrential cylinders of radius 
 \begin_inset Formula $x$
 \end_inset
 
@@ -9921,8 +9618,7 @@ The volume of a diffrential cylinder is
 \begin_layout Quote
 
 \size footnotesize
-Hence,
- 
+Hence, 
 \begin_inset Formula $V_{Lead}=V_{Cone}-V_{Cavity}=\dfrac{8}{3}\pi a^{3}-2\pi a^{3}=\dfrac{2}{3}\pi a^{3}$
 \end_inset
 
@@ -9942,7 +9638,8 @@ c) The curved surface area of the cone is
 \begin_layout Quote
 
 \size footnotesize
-The curved surface area of the cavity can be found out by taking diffrential elements as shown in the figure.
+The curved surface area of the cavity can be found out by taking diffrential
+ elements as shown in the figure.
 \end_layout
 
 \begin_layout Quote
@@ -9964,8 +9661,7 @@ It may be noted that
 \begin_inset Formula $x$
 \end_inset
 
- co-ordinate is decreasing,
- i.e.
+ co-ordinate is decreasing, i.e.
  
 \begin_inset Formula $dx$
 \end_inset
@@ -9986,8 +9682,8 @@ Diffrential surface area
 \begin_layout Quote
 
 \size footnotesize
-Integrating this diffrential area,
- we get the Curved Surface Area of the Parabolic Cavity as
+Integrating this diffrential area, we get the Curved Surface Area of the
+ Parabolic Cavity as
 \end_layout
 
 \begin_layout Quote
@@ -10003,8 +9699,7 @@ C.S.Area
 \begin_layout Quote
 
 \size footnotesize
-Hence,
- the total C.S.A is 
+Hence, the total C.S.A is 
 \begin_inset Formula $4\sqrt{2}\pi a^{2}+\pi a^{2}\left[\dfrac{16\sqrt{2}-8}{3}\right]=\pi a^{2}\left[\dfrac{28\sqrt{2}-8}{3}\right]=\dfrac{4}{3}\pi a^{2}\left(7\sqrt{2}-2\right)$
 \end_inset
 
@@ -10025,16 +9720,14 @@ The amount of carbon used is C.S.A
 \end_layout
 
 \begin_layout Quote
-Comprehension 2 :
- Answers :
- Q1)C Q2)C Q3) A
+Comprehension 2 : Answers : Q1)C Q2)C Q3) A
 \end_layout
 
 \begin_layout Quote
 
 \size footnotesize
-{Hint:
- The adjoining figure clearly explains all the parameters required for finding the angle between the cells
+{Hint: The adjoining figure clearly explains all the parameters required
+ for finding the angle between the cells
 \end_layout
 
 \begin_layout Quote
@@ -10057,8 +9750,7 @@ a)It may be noted that
 \end_inset
 
 .
- Hence,
- the intervening angle is 
+ Hence, the intervening angle is 
 \begin_inset Formula $90^{o}$
 \end_inset
 
@@ -10104,8 +9796,8 @@ b) We may redraw the figure as shown below
 \begin_layout Quote
 
 \size footnotesize
-c) If we complete the spheres ,
- the required volume will be half of the intersecting portions of the spheres.
+c) If we complete the spheres , the required volume will be half of the
+ intersecting portions of the spheres.
 \end_layout
 
 \begin_layout Quote
@@ -10137,8 +9829,7 @@ We know
 \end_inset
 
  .
- On similar lines ,
- we can find 
+ On similar lines , we can find 
 \begin_inset Formula $\cos\beta=\dfrac{4}{5}$
 \end_inset
 
@@ -10170,8 +9861,7 @@ We know
 \begin_layout Quote
 
 \size footnotesize
-From the cork ball example done earlier,
- we know that 
+From the cork ball example done earlier, we know that 
 \begin_inset Formula $V_{left}=\intop_{0}^{\beta}\pi R_{right}^{3}\sin^{3}\theta d\theta=\pi R_{right}^{3}\left(\left[-\cos\theta\right]_{0}^{\beta}-\left[\dfrac{-\cos^{3}\theta}{3}\right]_{0}^{\beta}\right)=\pi R_{right}^{3}\left(-\left(\dfrac{4}{5}-1\right)+\dfrac{1}{3}\left(\dfrac{64}{125}-1\right)\right)=\pi\left(400\right)^{3}\left(\dfrac{14}{375}\right)$
 \end_inset
 
@@ -10206,12 +9896,10 @@ Matrix Match type Problems
 \end_layout
 
 \begin_layout Description
-Matrix 1:
- Under Column I,
- some families of curves are mentioned.
- Under Column II,
- the diffrential equations reprsenting them are given.
- Match the curves in Coloumn I with the diffrential equations which can possibly represent them under Column II.
+Matrix 1: Under Column I, some families of curves are mentioned.
+ Under Column II, the diffrential equations reprsenting them are given.
+ Match the curves in Coloumn I with the diffrential equations which can
+ possibly represent them under Column II.
  
 \end_layout
 
@@ -10408,8 +10096,7 @@ ching both the coordinate axes.
 \begin_inset Text
 
 \begin_layout Plain Layout
-'c' ,
- touching the lines 
+'c' , touching the lines 
 \begin_inset Formula $x=-2c$
 \end_inset
 
@@ -10617,15 +10304,15 @@ Complex Numbers
 \end_layout
 
 \begin_layout Description
-Matrix 1:
- A line 
+Matrix 1: A line 
 \begin_inset Formula $\overline{a}z+a\overline{z}+c+\overline{c}=0$
 \end_inset
 
  is taken in the argand plane.
- The equation of line after applying the transformation given,
- is to be found.
- Column I contains the transformation while column II contains the resulting equations.
+ The equation of line after applying the transformation given, is to be
+ found.
+ Column I contains the transformation while column II contains the resulting
+ equations.
 \end_layout
 
 \begin_layout Standard
@@ -10687,8 +10374,7 @@ Column II
 \begin_inset Text
 
 \begin_layout Plain Layout
-along the positive x-axis ,
- 
+along the positive x-axis , 
 \begin_inset Formula $Im(a)$
 \end_inset
 
@@ -10712,8 +10398,7 @@ along the positive x-axis ,
 \begin_inset Text
 
 \begin_layout Plain Layout
-positive y-axis ,
- and then reflected in
+positive y-axis , and then reflected in
 \end_layout
 
 \end_inset
@@ -10781,8 +10466,7 @@ the real axis
 \begin_inset Text
 
 \begin_layout Plain Layout
-along the positive x-axis ,
- 
+along the positive x-axis , 
 \begin_inset Formula $Im(a)$
 \end_inset
 
@@ -10806,8 +10490,7 @@ along the positive x-axis ,
 \begin_inset Text
 
 \begin_layout Plain Layout
-positive y-axis ,
- and then reflected in
+positive y-axis , and then reflected in
 \end_layout
 
 \end_inset
@@ -10875,8 +10558,7 @@ imaginary axis
 \begin_inset Text
 
 \begin_layout Plain Layout
-along the positive x-axis ,
- 
+along the positive x-axis , 
 \begin_inset Formula $Re(a)$
 \end_inset
 
@@ -10900,8 +10582,7 @@ along the positive x-axis ,
 \begin_inset Text
 
 \begin_layout Plain Layout
-negative y-axis ,
- and then reflected in
+negative y-axis , and then reflected in
 \end_layout
 
 \end_inset
@@ -10969,8 +10650,7 @@ the real axis
 \begin_inset Text
 
 \begin_layout Plain Layout
-along the positive x-axis ,
- 
+along the positive x-axis , 
 \begin_inset Formula $Re(a)$
 \end_inset
 
@@ -10994,8 +10674,7 @@ along the positive x-axis ,
 \begin_inset Text
 
 \begin_layout Plain Layout
-positive y-axis ,
- and then reflected in
+positive y-axis , and then reflected in
 \end_layout
 
 \end_inset
@@ -11070,10 +10749,7 @@ Linked Comprehension type Problems
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- Let a ,
- b ,
- c be three distinct real numbers and 
+Comprehension 1: Let a , b , c be three distinct real numbers and 
 \begin_inset Formula $f(x)$
 \end_inset
 
@@ -11133,8 +10809,7 @@ f\left(-3\right)
 \end_layout
 
 \begin_layout Description
-Q1:
- The curve 
+Q1: The curve 
 \begin_inset Formula $f(x)$
 \end_inset
 
@@ -11170,8 +10845,7 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- The equation of chord 
+Q2: The equation of chord 
 \begin_inset Formula $AB$
 \end_inset
 
@@ -11207,8 +10881,7 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The area of the region lying between the curve and the chord 
+Q3: The area of the region lying between the curve and the chord 
 \begin_inset Formula $AB$
 \end_inset
 
@@ -11252,20 +10925,17 @@ Matrix Match Type Problems
 \end_layout
 
 \begin_layout Description
-Matrix 1:
- A student goes to exam on a bicycle or scooter or car or on foot.
- The probabilities of his using bicycle,
- scooter car or being on foot are 
+Matrix 1: A student goes to exam on a bicycle or scooter or car or on foot.
+ The probabilities of his using bicycle, scooter car or being on foot are
+ 
 \begin_inset Formula $\dfrac{1}{10}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $\dfrac{1}{5}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $\dfrac{3}{10}$
 \end_inset
 
@@ -11274,7 +10944,8 @@ Matrix 1:
 \end_inset
 
  respectively.
- The probability of reaching late at the examination centre by using these modes are 
+ The probability of reaching late at the examination centre by using these
+ modes are 
 \begin_inset Formula $\dfrac{1}{3}$
 \end_inset
 
@@ -11292,9 +10963,9 @@ Matrix 1:
 
  respectively.
  The student reached the exam centre on time.
- Under Column I,
- the modes of travel are given and under Column II,
- the probabilies that the student used the particular mode of transport provided that he reached the exam centre on time.
+ Under Column I, the modes of travel are given and under Column II, the
+ probabilies that the student used the particular mode of transport provided
+ that he reached the exam centre on time.
  Match the corresponding entries.
 \end_layout
 
@@ -11432,8 +11103,7 @@ Linked Comprehension Type Questions
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- There are 
+Comprehension 1: There are 
 \begin_inset Formula $n$
 \end_inset
 
@@ -11455,8 +11125,7 @@ Comprehension 1:
 \begin_inset Formula $k^{th}$
 \end_inset
 
- coin,
- the odds in favour of appearance of head are 
+ coin, the odds in favour of appearance of head are 
 \begin_inset Formula $k$
 \end_inset
 
@@ -11481,13 +11150,11 @@ Comprehension 1:
 \end_layout
 
 \begin_layout Quote
-Q1:
- If 
+Q1: If 
 \begin_inset Formula $P(E_{k})=c\forall k$
 \end_inset
 
- ,
- then 
+ , then 
 \begin_inset Formula $P\left(E_{m}|H\right)$
 \end_inset
 
@@ -11537,8 +11204,7 @@ D)
 
 \end_deeper
 \begin_layout Quote
-Q2:
- If 
+Q2: If 
 \begin_inset Formula $P\left(E_{k}\right)\propto k$
 \end_inset
 
@@ -11593,8 +11259,7 @@ D)
 
 \end_deeper
 \begin_layout Quote
-Q3:
- Evaluate the probability 
+Q3: Evaluate the probability 
 \begin_inset Formula $P$
 \end_inset
 
@@ -11678,8 +11343,7 @@ Logarithms Worksheet
 \end_layout
 
 \begin_layout Description
-Q1:
- Find the domains of definition of the following functions:
+Q1: Find the domains of definition of the following functions:
 \end_layout
 
 \begin_layout Quote
@@ -11707,11 +11371,8 @@ c)
 \end_layout
 
 \begin_layout Description
-Q2 Matrix 1:
- Under Column I ,
- some equations are given .
- Under Column II,
- some solutions satisfying some of the equations are given.
+Q2 Matrix 1: Under Column I , some equations are given .
+ Under Column II, some solutions satisfying some of the equations are given.
  Match the entry in Column I with the solution satisfying it in Column II.{Note:
  [ ] is the Greatest Integer Function}
 \end_layout
@@ -11862,8 +11523,7 @@ Column II
 \end_layout
 
 \begin_layout Description
-Q3 Comprehension 1:
- A function 
+Q3 Comprehension 1: A function 
 \begin_inset Formula $f_{n}(x)$
 \end_inset
 
@@ -11888,8 +11548,7 @@ Q3 Comprehension 1:
 \end_inset
 
 .
- Using this definition ,
- 
+ Using this definition , 
 \begin_inset Formula $f_{2}(x)=f_{1}(f_{1}(x))=\dfrac{x-1}{x}$
 \end_inset
 
@@ -11907,13 +11566,11 @@ Q3 Comprehension 1:
 \end_inset
 
 and so on.
- Based on the information,
- answer the questions below.
+ Based on the information, answer the questions below.
 \end_layout
 
 \begin_layout Description
-1:
- The domain of definition of 
+1: The domain of definition of 
 \begin_inset Formula $g(x)=\left|\ln(f_{34}(x))\right|$
 \end_inset
 
@@ -11949,8 +11606,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-2:
- The complete solution set of 
+2: The complete solution set of 
 \begin_inset Formula $\left|f_{71}\left(x\right)\right|>\left|\dfrac{1}{f_{73}\left(x\right)}\right|$
 \end_inset
 
@@ -11986,8 +11642,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-3:
- The values of 
+3: The values of 
 \begin_inset Formula $x$
 \end_inset
 
@@ -12027,15 +11682,12 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q4:
- (i) Prove that for the logarithmic function 
+Q4: (i) Prove that for the logarithmic function 
 \begin_inset Formula $y=\ln\left|x\right|$
 \end_inset
 
- ,
- if the argument takes values in a G.P.
- ,
- then the corresponding values of the function 
+ , if the argument takes values in a G.P.
+ , then the corresponding values of the function 
 \begin_inset Formula $y$
 \end_inset
 
@@ -12052,10 +11704,8 @@ Q4:
 \begin_inset Formula $y=e^{x}$
 \end_inset
 
- ,
- if the argument takes values in a A.P..
- ,
- then the corresponding values of the function 
+ , if the argument takes values in a A.P..
+ , then the corresponding values of the function 
 \begin_inset Formula $y$
 \end_inset
 
@@ -12068,26 +11718,19 @@ Matrices
 \end_layout
 
 \begin_layout Description
-Q:
- Invent a 
+Q: Invent a 
 \begin_inset Formula $3\times3$
 \end_inset
 
- magic matrix M with the entries 1 ,
- 2 ,
- 3 ,
- ........9.
+ magic matrix M with the entries 1 , 2 , 3 , ........9.
  All rows and columns and diagonals add to 15 .
- The first row could be ( 8,
- 3,
- 4) .
+ The first row could be ( 8, 3, 4) .
  What could be M.
  
 \end_layout
 
 \begin_layout Description
-Q:
- If 
+Q: If 
 \begin_inset Formula $A=\left[\begin{array}{cc}
 1 & i\\
 -i & 1
@@ -12103,8 +11746,7 @@ Q:
 \end_layout
 
 \begin_layout Description
-Q:
- Find the adjoints of the following matrices
+Q: Find the adjoints of the following matrices
 \end_layout
 
 \begin_layout Quote
@@ -12141,8 +11783,7 @@ c)
 \end_layout
 
 \begin_layout Description
-Q:
- If 
+Q: If 
 \begin_inset Formula $A=\left[\begin{array}{c}
 2x+6\\
 26\\
@@ -12174,8 +11815,7 @@ t^{2} & -t & 4
 \end_layout
 
 \begin_layout Standard
-Then ,
- 
+Then , 
 \begin_inset Formula $A$
 \end_inset
 
@@ -12239,8 +11879,7 @@ Linked Comprehension Type Questions
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- Two vectors 
+Comprehension 1: Two vectors 
 \begin_inset Formula $v=\left(1,2,3\right)$
 \end_inset
 
@@ -12297,10 +11936,7 @@ B
 \end_layout
 
 \begin_layout Quote
-Q1:
- A relation between A ,
- B ,
- c and d is 
+Q1: A relation between A , B , c and d is 
 \begin_inset Separator latexpar
 \end_inset
 
@@ -12338,8 +11974,7 @@ d) None of these
 
 \end_deeper
 \begin_layout Quote
-Q2:
- The matrix 
+Q2: The matrix 
 \begin_inset Formula $\left[\begin{array}{c}
 A\\
 B
@@ -12417,8 +12052,7 @@ Matrix Match Type Problems
 \begin_layout Standard
 
 \series bold
-Matrix 1 :
- 
+Matrix 1 : 
 \series default
 Three elementary matrices 
 \begin_inset Formula $E=\left[\begin{array}{ccc}
@@ -12428,8 +12062,7 @@ Three elementary matrices
 \end{array}\right]$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $F=\left[\begin{array}{ccc}
 1 & 0 & 0\\
 0 & 1 & 0\\
@@ -12437,8 +12070,7 @@ Three elementary matrices
 \end{array}\right]$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $G=\left[\begin{array}{ccc}
 1 & 0 & 0\\
 0 & 1 & 0\\
@@ -12447,13 +12079,13 @@ Three elementary matrices
 \end_inset
 
  are given.
- Under column I ,
- resultant matrices (lower triangular) obtained from 
+ Under column I , resultant matrices (lower triangular) obtained from 
 \begin_inset Formula $E,F,G$
 \end_inset
 
  or their inverses are given.
- Match the matrices given in column I with their corresponding expressions given under column II :
+ Match the matrices given in column I with their corresponding expressions
+ given under column II :
 \end_layout
 
 \begin_layout Standard
@@ -12658,8 +12290,7 @@ Subjective Problems
 \end_layout
 
 \begin_layout Description
-Q1:
- Prove the following Identities
+Q1: Prove the following Identities
 \end_layout
 
 \begin_layout Description
@@ -12675,23 +12306,19 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- If 
+Q1: If 
 \begin_inset Formula $x=r\sin\alpha\sin\beta\cos\gamma$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $y=r\sin\alpha\sin\beta\sin\gamma$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $z=r\sin\alpha\cos\beta$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $w=r\cos\alpha$
 \end_inset
 
@@ -12731,13 +12358,11 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- If 
+Q2: If 
 \begin_inset Formula $\tan\theta=\dfrac{\sqrt{6}a}{2}-\dfrac{1}{2\sqrt{6}a}$
 \end_inset
 
- ,
- then 
+ , then 
 \begin_inset Formula $\sec\theta-\tan\theta$
 \end_inset
 
@@ -12773,8 +12398,7 @@ Q2:
 \end_layout
 
 \begin_layout Description
-Q1:
- 
+Q1: 
 \begin_inset Formula $\tan\dfrac{\pi}{96}+2\tan\dfrac{\pi}{48}+4\tan\dfrac{\pi}{24}+8+8\sqrt{3}$
 \end_inset
 
@@ -12818,13 +12442,11 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- The number of solutions of 
+Q1: The number of solutions of 
 \begin_inset Formula $8^{cosec^{2}x}+8^{-\cot^{2}x}=\dfrac{33}{2}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $0\leq x\leq2\pi$
 \end_inset
 
@@ -12848,8 +12470,7 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q1:
- The number of distinct real solutions of
+Q1: The number of distinct real solutions of
 \end_layout
 
 \begin_layout Quote
@@ -12880,8 +12501,7 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q3 :
- If 
+Q3 : If 
 \begin_inset Formula $-\pi\leq\theta\leq\pi$
 \end_inset
 
@@ -12897,13 +12517,11 @@ Q3 :
 \begin_inset Formula $r=3\left(2+3\sin\theta\right)$
 \end_inset
 
- ,
- then the number of ordered pairs 
+ , then the number of ordered pairs 
 \begin_inset Formula $\left(r,\theta\right)$
 \end_inset
 
-,
- which are solutions is/are
+, which are solutions is/are
 \end_layout
 
 \begin_layout Quote
@@ -12923,8 +12541,7 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q4:
- If 
+Q4: If 
 \begin_inset Formula $0\leq x,y,z,t\leq2\pi$
 \end_inset
 
@@ -12932,8 +12549,7 @@ Q4:
 \begin_inset Formula $\sin x+\dfrac{\sin y}{2}+\dfrac{\sin z}{3}=-t^{2}+2t-\dfrac{17}{6}$
 \end_inset
 
- ,
- then the value of 
+ , then the value of 
 \begin_inset Formula $x+y+z$
 \end_inset
 
@@ -12977,8 +12593,7 @@ Multiple Answer Type Questions
 \end_layout
 
 \begin_layout Description
-Q1:
- If 
+Q1: If 
 \begin_inset Formula $\cos\theta=a$
 \end_inset
 
@@ -12986,8 +12601,7 @@ Q1:
 \begin_inset Formula $\theta\epsilon\left[0,\dfrac{7\pi}{6}\right]$
 \end_inset
 
- ,
- then the value of 'a' can be
+ , then the value of 'a' can be
 \end_layout
 
 \begin_layout Quote
@@ -13019,8 +12633,7 @@ D)
 \end_layout
 
 \begin_layout Description
-Q2:
- If 
+Q2: If 
 \begin_inset Formula $\sin^{9}x+\cos^{6}x=1$
 \end_inset
 
@@ -13028,8 +12641,7 @@ Q2:
 \begin_inset Formula $-3\pi\leq x\leq2\pi$
 \end_inset
 
-,
- then which of these statements is/are correct
+, then which of these statements is/are correct
 \end_layout
 
 \begin_layout Quote
@@ -13045,8 +12657,9 @@ B) The sum of roots is
 \end_layout
 
 \begin_layout Quote
-C) The ratio of the number of roots on the left side of zero to the number of roots on the right side on the right side of zero,
- on the number line is 
+C) The ratio of the number of roots on the left side of zero to the number
+ of roots on the right side on the right side of zero, on the number line
+ is 
 \begin_inset Formula $\dfrac{4}{3}$
 \end_inset
 
@@ -13066,9 +12679,9 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- The angles of a right angled triangle are in A.P.
- The ratio of the area of circumcircle of the triangle to the area of the triangle is
+Q1: The angles of a right angled triangle are in A.P.
+ The ratio of the area of circumcircle of the triangle to the area of the
+ triangle is
 \end_layout
 
 \begin_layout Quote
@@ -13100,18 +12713,15 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q1:
- In a 
+Q1: In a 
 \begin_inset Formula $\triangle ABC$
 \end_inset
 
- ,
- with sides a,b,c and 
+ , with sides a,b,c and 
 \begin_inset Formula $\angle B=\dfrac{\pi}{6}$
 \end_inset
 
- ,
- 
+ , 
 \begin_inset Formula $\angle C=\dfrac{\pi}{4}$
 \end_inset
 
@@ -13198,9 +12808,8 @@ Assertion-Reason Type Questions
 \end_layout
 
 \begin_layout Description
-Q1:
- Statement 1:
- If the sides of a triangle are 3,4,5 then the altitudes of the triangle are 
+Q1: Statement 1: If the sides of a triangle are 3,4,5 then the altitudes
+ of the triangle are 
 \begin_inset Formula $\dfrac{1}{3},\dfrac{1}{4},\dfrac{1}{5}$
 \end_inset
 
@@ -13208,8 +12817,7 @@ Q1:
 \end_layout
 
 \begin_layout Quote
-Statement 2:
- If the sides of a triangle are in A.P.
+Statement 2: If the sides of a triangle are in A.P.
  then the altitudes of the triangle are in H.P.
 \end_layout
 
@@ -13218,17 +12826,12 @@ Linked Comprehension Type Questions
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- For a quadrilateral with sides a,
- b ,
- c ,
- d ,
- semi-perimeter 's' and sum of any two opposite angles 
+Comprehension 1: For a quadrilateral with sides a, b , c , d , semi-perimeter
+ 's' and sum of any two opposite angles 
 \begin_inset Formula $=2\alpha$
 \end_inset
 
- ,
- the area 
+ , the area 
 \begin_inset Formula $\triangle$
 \end_inset
 
@@ -13243,8 +12846,8 @@ Comprehension 1:
 \end_layout
 
 \begin_layout Standard
-Now,
- we take a special quadrilateral which can be inscribed in a circle 
+Now, we take a special quadrilateral which can be inscribed in a circle
+ 
 \begin_inset Formula $C_{1}$
 \end_inset
 
@@ -13256,8 +12859,7 @@ Now,
 \end_layout
 
 \begin_layout Description
-Q1:
- The area of a special quadrilateral 
+Q1: The area of a special quadrilateral 
 \begin_inset Formula $\triangle$
 \end_inset
 
@@ -13297,8 +12899,7 @@ D)
 \end_layout
 
 \begin_layout Description
-Q2:
- The radius of the inscribed circle 
+Q2: The radius of the inscribed circle 
 \begin_inset Formula $C_{2}$
 \end_inset
 
@@ -13338,8 +12939,8 @@ D)
 \end_layout
 
 \begin_layout Description
-Q3:
- Cosine of the angle between the diagonals of the special quadrilateral is given by
+Q3: Cosine of the angle between the diagonals of the special quadrilateral
+ is given by
 \end_layout
 
 \begin_layout Quote
@@ -13375,8 +12976,7 @@ D)
 \end_layout
 
 \begin_layout Description
-Q4:
- If B is the angle between sides 
+Q4: If B is the angle between sides 
 \begin_inset Formula $a$
 \end_inset
 
@@ -13436,8 +13036,7 @@ Single Answer MCQ's
 \end_layout
 
 \begin_layout Description
-Q1:
- The number of solutions of the equation 
+Q1: The number of solutions of the equation 
 \begin_inset Formula $\sin^{-1}\left(1-x\right)-2\sin^{-1}\left(x\right)=\dfrac{\pi}{2}$
 \end_inset
 
@@ -13461,13 +13060,11 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- If 
+Q2: If 
 \begin_inset Formula $\dfrac{1}{\sqrt{2}}<x<1$
 \end_inset
 
- ,
- the number of solutions of the equations
+ , the number of solutions of the equations
 \end_layout
 
 \begin_layout Quote
@@ -13494,8 +13091,7 @@ D) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- The equation 
+Q3: The equation 
 \begin_inset Formula $\cos^{-1}x=3\cos^{-1}a$
 \end_inset
 
@@ -13555,8 +13151,7 @@ Linked Comprehension Type Problems
 \end_layout
 
 \begin_layout Description
-Comprehension 1:
- A function 
+Comprehension 1: A function 
 \begin_inset Formula $f:\left(\dfrac{5\pi}{2},\dfrac{7\pi}{2}\right)\rightarrow\left(-1,1\right)$
 \end_inset
 
@@ -13597,8 +13192,7 @@ Comprehension 1:
 \end_layout
 
 \begin_layout Description
-Q1:
- 
+Q1: 
 \begin_inset Formula $g^{-1}(-x)$
 \end_inset
 
@@ -13634,8 +13228,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q2:
- Set '
+Q2: Set '
 \begin_inset Formula $R_{h}$
 \end_inset
 
@@ -13671,8 +13264,7 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Q3:
- If a function 
+Q3: If a function 
 \begin_inset Formula $v:\left(-\infty,0\right]\rightarrow\left[3\pi,\dfrac{7\pi}{2}\right)$
 \end_inset
 
@@ -13680,8 +13272,7 @@ Q3:
 \begin_inset Formula $v\left(x\right)=f^{-1}\left(\dfrac{2^{x}-2^{-x}}{2^{x}+2^{-x}}\right)$
 \end_inset
 
- ,
- then 
+ , then 
 \begin_inset Formula $v(x)$
 \end_inset
 
@@ -13708,8 +13299,6 @@ d) None of these.
 \begin_inset CommandInset index_print
 LatexCommand printindex
 type "idx"
-name "Index"
-literal "true"
 
 \end_inset
 

@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -10,11 +10,11 @@
 logicalmkup
 initials
 \end_modules
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language english
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding auto-legacy
+\fontencoding auto
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -22,7 +22,9 @@ initials
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
 \use_microtype false
@@ -35,7 +37,7 @@ initials
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize a4paper
+\papersize a4
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
@@ -56,7 +58,9 @@ initials
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_formatted_ref 0
 \use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -76,11 +80,16 @@ initials
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
+\tablestyle default
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -90,11 +99,12 @@ A Complete Course in Physics ( Graphs ) - First Edition
 \end_layout
 
 \begin_layout Author
-Rajat Kalia and Madhu Johal
+Rajat Kalia
 \end_layout
 
 \begin_layout Date
-July 30, 2012
+July 30,
+ 2012
 \end_layout
 
 \begin_layout Standard
@@ -117,8 +127,8 @@ This book is a research evaluate stuff on Kinematics covering graphs.
 \end_layout
 
 \begin_layout Standard
-I would like to thank my family, well wishers for their support and consistent
- encouragement and most of all God for it's grace and Guidance.
+I would like to thank my family,
+ well wishers for their support and consistent encouragement and most of all God for it's grace and Guidance.
  
 \end_layout
 
@@ -132,6 +142,8 @@ The Equations of motion and the origin of Graph Handling
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -182,7 +194,8 @@ Change in Position
 \end_layout
 
 \begin_layout Quote
-{ The second one requires the manipulation , 
+{ The second one requires the manipulation ,
+ 
 \begin_inset Formula $dx=vdt$
 \end_inset
 
@@ -195,8 +208,8 @@ Change in Position
 \end_layout
 
 \begin_layout Standard
-The equations can be further manipulated to obtain the Speed Time Graph
- , where 
+The equations can be further manipulated to obtain the Speed Time Graph ,
+ where 
 \end_layout
 
 \begin_layout Quotation
@@ -204,16 +217,18 @@ speed = rate of change of distance wrt time
 \end_layout
 
 \begin_layout Standard
-Few of the following examples illustrate this concept: 
+Few of the following examples illustrate this concept:
+ 
 \end_layout
 
 \begin_layout Description
 
 \series bold
 Example:
+
 \series default
- On a displacement-time graph, two straight lines make angles of 30° and
- 60° with the time-axis.
+ On a displacement-time graph,
+ two straight lines make angles of 30° and 60° with the time-axis.
  The ratio of the velocities represented by them is 
 \end_layout
 
@@ -245,6 +260,7 @@ d) 3:1
 
 \series bold
 Example:
+
 \series default
  A body is moving in a straight line as shown in velocity-time graph.
  The displacement and distance travelled by body in 8 second are respectively:
@@ -285,28 +301,32 @@ status open
 \end_layout
 
 \begin_layout Quote
-a) 12 m, 20 m
+a) 12 m,
+ 20 m
 \end_layout
 
 \begin_layout Quote
-b) 20 m, 12 m
+b) 20 m,
+ 12 m
 \end_layout
 
 \begin_layout Quote
-c) 12 m, 12 m
+c) 12 m,
+ 12 m
 \end_layout
 
 \begin_layout Quote
-d) 20 m, 20 m
+d) 20 m,
+ 20 m
 \end_layout
 
 \begin_layout Description
 
 \series bold
-Example: 
+Example:
+ 
 \series default
-The graph shows position as a function of time for two trains running on
- parallel tracks.
+The graph shows position as a function of time for two trains running on parallel tracks.
  Which statement is true?
 \end_layout
 
@@ -369,13 +389,15 @@ c) Both trains have the same velocity at some time before t
 \end_layout
 
 \begin_layout Quote
-d) Somewhere on the graph, both trains have the same acceleration.
+d) Somewhere on the graph,
+ both trains have the same acceleration.
 \end_layout
 
 \begin_layout Description
 
 \series bold
 Example:
+
 \series default
  The velocity-time graph of a particle in linear motion is as shown.
  Both v and t are in SI units.
@@ -434,6 +456,8 @@ d) 18 m
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -446,7 +470,8 @@ The Second Equation
 \end_layout
 
 \begin_layout Standard
-Proceeding similar to above, the equation 
+Proceeding similar to above,
+ the equation 
 \begin_inset Formula $a=\dfrac{dv}{dt}$
 \end_inset
 
@@ -486,7 +511,8 @@ Change in Velocity
 \end_layout
 
 \begin_layout Quote
-{ The second one requires the manipulation , 
+{ The second one requires the manipulation ,
+ 
 \begin_inset Formula $dv=adt$
 \end_inset
 
@@ -503,8 +529,8 @@ A few of the following examples illustrate it.
 \end_layout
 
 \begin_layout Description
-Example: A car starts from rest acquires a velocity v with uniform acceleration
- 
+Example:
+ A car starts from rest acquires a velocity v with uniform acceleration 
 \begin_inset Formula $2ms^{-2}$
 \end_inset
 
@@ -513,8 +539,8 @@ Example: A car starts from rest acquires a velocity v with uniform acceleration
 \end_inset
 
  .
- If the total time for which it remains in motion is 3 sec, the total distance
- travelled is:
+ If the total time for which it remains in motion is 3 sec,
+ the total distance travelled is:
 \end_layout
 
 \begin_layout Quote
@@ -534,7 +560,8 @@ d) 6 m
 \end_layout
 
 \begin_layout Description
-Example: A particle starts from rest.
+Example:
+ A particle starts from rest.
  Its acceleration (a) vs time (t) is as shown in the Figure.
  The maximum speed of the particle will be
 \end_layout
@@ -590,8 +617,8 @@ d) 660 m/s
 \end_layout
 
 \begin_layout Description
-Example: Acceleration-time graph of a particle moving in a straight line
- is shown in Figure.
+Example:
+ Acceleration-time graph of a particle moving in a straight line is shown in Figure.
  The velocity of particle at time t = 0 is 2 m/s.
  Velocity at the end of fourth second is
 \end_layout
@@ -647,14 +674,13 @@ d) 14 m/s
 \end_layout
 
 \begin_layout Description
-Example: Each of the three graphs represents acceleration vs time for an
- object that already has a positive velocity at time 
+Example:
+ Each of the three graphs represents acceleration vs time for an object that already has a positive velocity at time 
 \begin_inset Formula $t_{1}$
 \end_inset
 
  .
- Which graph/graphs show an object whose speed is increasing for the entire
- time interva1 between 
+ Which graph/graphs show an object whose speed is increasing for the entire time interva1 between 
 \begin_inset Formula $t_{1}$
 \end_inset
 
@@ -712,12 +738,13 @@ c) Graphs I and III
 \end_layout
 
 \begin_layout Quote
-d) Graphs I, II and III
+d) Graphs I,
+ II and III
 \end_layout
 
 \begin_layout Description
-Example: A body starts from rest and moves along a straight line with constant
- acceleration.
+Example:
+ A body starts from rest and moves along a straight line with constant acceleration.
  The variation of speed v with distance s is given by the graph
 \end_layout
 
@@ -757,6 +784,8 @@ status open
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -806,8 +835,10 @@ This kind of graph requires the manipulation of the Equation
 \end_layout
 
 \begin_layout Description
-Example: A body, initially at rest, starts moving along x-axis in such a
- way that its acceleration vs displacement plot is as shown in the Figure.
+Example:
+ A body,
+ initially at rest,
+ starts moving along x-axis in such a way that its acceleration vs displacement plot is as shown in the Figure.
  The maximum velocity of the particle is
 \end_layout
 
@@ -862,8 +893,10 @@ d) None of these
 \end_layout
 
 \begin_layout Description
-Example : A particle initially at rest, it is subjected to a non-uniform
- acceleration a, as shown in the gure.
+Example :
+ A particle initially at rest,
+ it is subjected to a non-uniform acceleration a,
+ as shown in the gure.
  The maximum speed attained by the particle is
 \end_layout
 
@@ -919,6 +952,8 @@ d) 110 m/s
 
 \begin_layout Section
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -932,6 +967,8 @@ Other Types of Graphs
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -949,21 +986,25 @@ The sign of Acceleration can be determined from the Position-Time Graph.
 \end_layout
 
 \begin_layout Quote
-i) If the graph is Concave-Up, the Acceleration is Positive.
+i) If the graph is Concave-Up,
+ the Acceleration is Positive.
 \end_layout
 
 \begin_layout Quote
-ii) If the graph is Concave-Down, the Acceleration is Negative.
+ii) If the graph is Concave-Down,
+ the Acceleration is Negative.
 \end_layout
 
 \begin_layout Quote
-iii) If the graph is a straight line, the Acceleration is ZERO.
- { Irrespective of any other factor , such as the slope or direction of
- line} 
+iii) If the graph is a straight line,
+ the Acceleration is ZERO.
+ { Irrespective of any other factor ,
+ such as the slope or direction of line} 
 \end_layout
 
 \begin_layout Description
-Example: The graph given below is a plot of distance vs time.
+Example:
+ The graph given below is a plot of distance vs time.
  For which labelled region is the 
 \begin_inset Quotes eld
 \end_inset
@@ -1027,29 +1068,33 @@ d) d
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
-The Average-Velocity / Instantaneous Velocity , Equal Case
+The Average-Velocity / Instantaneous Velocity ,
+ Equal Case
 \end_layout
 
 \end_inset
 
-The Average-Velocity / Instantaneous Velocity , Equal Case
+The Average-Velocity / Instantaneous Velocity ,
+ Equal Case
 \end_layout
 
 \begin_layout Quote
-We know , that ( in a x-t graph) the slope of the Secant is the Average
- Velocity , whereas the slope of Tangent is the Instaneous Velocity.
- The point where these two lines coincide, is the point where Average Velocity
- is equal to Instantaneous Velocity.
+We know ,
+ that ( in a x-t graph) the slope of the Secant is the Average Velocity ,
+ whereas the slope of Tangent is the Instaneous Velocity.
+ The point where these two lines coincide,
+ is the point where Average Velocity is equal to Instantaneous Velocity.
 \end_layout
 
 \begin_layout Description
-Example: Position-time graph is shown which is a semicircle from t = 2 to
- t = 8 s.
- Find time t at which the instantaneous velocity is equal to average velocity
- over first t seconds,
+Example:
+ Position-time graph is shown which is a semicircle from t = 2 to t = 8 s.
+ Find time t at which the instantaneous velocity is equal to average velocity over first t seconds,
 \end_layout
 
 \begin_layout Quote
@@ -1104,6 +1149,8 @@ d) 5 s
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1116,10 +1163,9 @@ The Velocity-Displacement Case
 \end_layout
 
 \begin_layout Quote
-This can be handled in a similar way as Acceleration-Displacement case by
- integrating the respective equation.
- Here the problem is of v = f(x) type, which can be integrated by writing
- 
+This can be handled in a similar way as Acceleration-Displacement case by integrating the respective equation.
+ Here the problem is of v = f(x) type,
+ which can be integrated by writing 
 \begin_inset Formula $\dfrac{dx}{dt}=f(x)$
 \end_inset
 
@@ -1132,8 +1178,8 @@ i.e.
 \end_layout
 
 \begin_layout Description
-Example: The velocity-displacement graph of a particle moving along a straight
- line is shown here.
+Example:
+ The velocity-displacement graph of a particle moving along a straight line is shown here.
 \end_layout
 
 \begin_layout Description
@@ -1210,8 +1256,8 @@ status open
 
 \begin_layout Description
 Example.
- The velocity (v) of a body moving along the postive x-direction varies
- with displacement (x) from the origin as p v = k x , where k is a constant.
+ The velocity (v) of a body moving along the postive x-direction varies with displacement (x) from the origin as p v = k x ,
+ where k is a constant.
  Which of the graphs shown in Fig.
  correctly represents the displacement-time (x - t) graph of the motion?
 \end_layout
@@ -1252,6 +1298,8 @@ status open
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1264,13 +1312,13 @@ Motion Under Free Fall due to Gravity
 \end_layout
 
 \begin_layout Quote
-In such examples, the governing equations rule and the coordi-nate system
- needs to be properly chosen.
+In such examples,
+ the governing equations rule and the coordi-nate system needs to be properly chosen.
 \end_layout
 
 \begin_layout Description
-Example: Which of the following graphs correctly represents velocity-time
- relationship for a particle released from rest to fall freely under gravity?
+Example:
+ Which of the following graphs correctly represents velocity-time relationship for a particle released from rest to fall freely under gravity?
  
 \end_layout
 
@@ -1309,9 +1357,8 @@ status open
 \end_layout
 
 \begin_layout Description
-Example: The velocity-time graph of a body falling from rest under gravity
- and rebounding from a solid surface is represented by which of the following
- graphs?
+Example:
+ The velocity-time graph of a body falling from rest under gravity and rebounding from a solid surface is represented by which of the following graphs?
 \end_layout
 
 \begin_layout Description
@@ -1349,12 +1396,11 @@ status open
 \end_layout
 
 \begin_layout Description
-Example: A body A is thrown vertically upwards with such a velocity that
- it reaches a maximum height of h.
+Example:
+ A body A is thrown vertically upwards with such a velocity that it reaches a maximum height of h.
  Simultaneously another body B is dropped from height h.
  It strikes the ground and doesn't rebound.
- The velocity of A relative to B vs time graph is best represented by (upward
- direction is positive.)
+ The velocity of A relative to B vs time graph is best represented by (upward direction is positive.)
 \end_layout
 
 \begin_layout Description
@@ -1393,6 +1439,8 @@ status open
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1405,7 +1453,8 @@ Projectile Motion
 \end_layout
 
 \begin_layout Description
-Example: A shell is fired from a gun at an angle to the horizontal.
+Example:
+ A shell is fired from a gun at an angle to the horizontal.
  Graphs are drawn for its horizontal component of velocity 
 \begin_inset Formula $v_{x}$
 \end_inset
@@ -1453,6 +1502,8 @@ status open
 
 \begin_layout Subsection
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -1466,8 +1517,7 @@ Miscelleneous
 
 \begin_layout Description
 Example.
- Figure shows the displacement-time ( x-t ) graph of body moving in a straight
- line.
+ Figure shows the displacement-time ( x-t ) graph of body moving in a straight line.
  Which one of the graphs shown in Fig.
  represents the velocity- time ( v-t ) graph of the motion of the body.
 \end_layout
@@ -1582,8 +1632,8 @@ status open
 
 \begin_layout Description
 Example.
- A car starts from rest, accelerates uniformly for 4 seconds and then moves
- with uniform velocity.
+ A car starts from rest,
+ accelerates uniformly for 4 seconds and then moves with uniform velocity.
  Which of the (x-t) graphs shown in Fig.
  represents the motion of the car upto t = 7 s?
 \end_layout
@@ -1632,7 +1682,8 @@ Example.
 \begin_inset Formula $u_{2}$
 \end_inset
 
-, (
+,
+ (
 \begin_inset Formula $u_{2}$
 \end_inset
 
@@ -1647,8 +1698,9 @@ Example.
 \begin_inset Formula $\triangle x=x_{2}-x_{1}$
 \end_inset
 
-, the relative position of the second stone with respect to the first upto
- t = 10 s? Assume that the stones do not rebound after hitting the ground.
+,
+ the relative position of the second stone with respect to the first upto t = 10 s?
+ Assume that the stones do not rebound after hitting the ground.
 \end_layout
 
 \begin_layout Description
@@ -1727,11 +1779,13 @@ status open
 \end_layout
 
 \begin_layout Quote
-a) (i), (ii) and (iv) only
+a) (i),
+ (ii) and (iv) only
 \end_layout
 
 \begin_layout Quote
-b) (i), (ii) and (iii) only
+b) (i),
+ (ii) and (iii) only
 \end_layout
 
 \begin_layout Quote
@@ -1791,7 +1845,8 @@ Passage Type
 \end_layout
 
 \begin_layout Description
-Example: The speed-time graph of the motion of a body is shown in Fig.
+Example:
+ The speed-time graph of the motion of a body is shown in Fig.
 \end_layout
 
 \begin_layout Description
@@ -1863,8 +1918,7 @@ d) Zero
 
 \begin_layout Description
 2.
- The ratio of distance travelled by the body during the last 2 seconds to
- the total distance travelled by it is 
+ The ratio of distance travelled by the body during the last 2 seconds to the total distance travelled by it is 
 \end_layout
 
 \begin_layout Quote
@@ -1905,10 +1959,10 @@ d) 40/7 m/s
 \end_layout
 
 \begin_layout Description
-Example: A body starts from rest at time t = 0 and undergoes an acceleration
- as shown in Fig.Which of the graphs shown in Fig.
- represents the velocity-time (v-t) graph of the motion of the body from
- t = 0 s to t = 4 s? 
+Example:
+ A body starts from rest at time t = 0 and undergoes an acceleration as shown in Fig.Which of the graphs shown in Fig.
+ represents the velocity-time (v-t) graph of the motion of the body from t = 0 s to t = 4 s?
+ 
 \end_layout
 
 \begin_layout Description
@@ -1981,7 +2035,8 @@ status open
 
 \begin_layout Description
 1.
- In Question above, what is the velocity of the body at time t = 2.5 s?
+ In Question above,
+ what is the velocity of the body at time t = 2.5 s?
 \end_layout
 
 \begin_layout Quote
@@ -2002,8 +2057,8 @@ d) 5.5 m/s
 
 \begin_layout Description
 2.
- In above question, how much distance does the body cover from t = 0 s to
- t = 4 s?
+ In above question,
+ how much distance does the body cover from t = 0 s to t = 4 s?
 \end_layout
 
 \begin_layout Quote
@@ -2023,9 +2078,9 @@ d) 15 m
 \end_layout
 
 \begin_layout Description
-3 In above question, which of the graphs shown in Fig.
- represents the displacement-time (x-t) graph of the motion of the body
- from t = 0 s to t = 4 s?
+3 In above question,
+ which of the graphs shown in Fig.
+ represents the displacement-time (x-t) graph of the motion of the body from t = 0 s to t = 4 s?
 \end_layout
 
 \begin_layout Description
@@ -2068,8 +2123,12 @@ Matching
 
 \begin_layout Description
 1.
- Match the graphs (a), (b), (c) and (d) shown in Fig.
- with the types of motions (p), (q), (r) and (s) that they represent
+ Match the graphs (a),
+ (b),
+ (c) and (d) shown in Fig.
+ with the types of motions (p),
+ (q),
+ (r) and (s) that they represent
 \end_layout
 
 \begin_layout Description
@@ -2163,6 +2222,8 @@ status open
 
 \begin_layout Section
 \begin_inset Index idx
+range none
+pageformat default
 status open
 
 \begin_layout Plain Layout
@@ -2175,7 +2236,8 @@ Previous Year Problems IIT
 \end_layout
 
 \begin_layout Description
-Q1: A particle starts from rest.
+Q1:
+ A particle starts from rest.
  Its acceleration ( a ) versus time ( t ) is as shown in the gure.
  The maximum speed of the particle will be
 \end_layout
@@ -2231,9 +2293,10 @@ d ) 660 m /s
 \end_layout
 
 \begin_layout Description
-Q2: If graph of velocity vs.
- distance is as shown, which of the following graphs correctly represents
- the variation of acceleration with displacement ?
+Q2:
+ If graph of velocity vs.
+ distance is as shown,
+ which of the following graphs correctly represents the variation of acceleration with displacement ?
 \end_layout
 
 \begin_layout Description
@@ -2345,7 +2408,9 @@ status open
 \end_layout
 
 \begin_layout Description
-Q3: What is the height to which the lift takes the passengers ? 
+Q3:
+ What is the height to which the lift takes the passengers ?
+ 
 \end_layout
 
 \begin_layout Quote
@@ -2365,7 +2430,10 @@ d ) cannot be calculated from the above graph
 \end_layout
 
 \begin_layout Description
-Q4: In the above graph, what is the average velocity of the lift? 
+Q4:
+ In the above graph,
+ what is the average velocity of the lift?
+ 
 \end_layout
 
 \begin_layout Quote
@@ -2385,7 +2453,10 @@ d ) 3 m/s
 \end_layout
 
 \begin_layout Description
-Q5: In the above graph , what is the average acceleration of the lift? 
+Q5:
+ In the above graph ,
+ what is the average acceleration of the lift?
+ 
 \end_layout
 
 \begin_layout Quote
@@ -2417,11 +2488,14 @@ d ) zero
 \end_layout
 
 \begin_layout Description
-Q6: Four persons K, L, M and N are initially at the corners of a square
- of side of length d.
- If every person starts moving with velocity v such that K is always headed
- towards L, L towards M, M towards N and N towards K, then the four persons
- will meet after 
+Q6:
+ Four persons K,
+ L,
+ M and N are initially at the corners of a square of side of length d.
+ If every person starts moving with velocity v such that K is always headed towards L,
+ L towards M,
+ M towards N and N towards K,
+ then the four persons will meet after 
 \end_layout
 
 \begin_layout Quote
@@ -2444,8 +2518,8 @@ d ) d / 2v s
 Example.
  A ball is dropped vertically from a height h above the ground.
  It hits the ground and bounces up vertically to a height h/2.
- Neglecting subsequent motion and air resistance, its velocity v varies
- with the height h as (see Fig.) (l.l.T.
+ Neglecting subsequent motion and air resistance,
+ its velocity v varies with the height h as (see Fig.) (l.l.T.
  2000)
 \end_layout
 

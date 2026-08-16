@@ -108,17 +108,29 @@ Rajat Kalia
 \end_layout
 
 \begin_layout Date
-22 January ,
- 2019
+16 August ,
+ 2026
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
 #764,
  41-A,
- Chandigarh {TC(official)}
+ Chandigarh {TC(official)} - 160036
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
+Shamlat (Ramgarh Sardaran),
+ Ludhiana,
+ Punjab
+\end_layout
+
+\begin_layout Standard
+SCO 24(TF),
+ 41-D,
+ Chandigarh - 160036
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.alphaclasses.com/"
@@ -130,11 +142,11 @@ literal "true"
 
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
-name "https://github.com/rajatkalia1982/projects"
-target "https://github.com/rajatkalia1982/projects"
+name "https://github.com/rajatkalia1982"
+target "https://github.com/rajatkalia1982"
 literal "false"
 
 \end_inset
@@ -142,7 +154,7 @@ literal "false"
 
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://sourceforge.net/u/rajatkalia/profile"
@@ -154,7 +166,7 @@ literal "false"
 
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.youtube.com/@rajatkaliaeducation"
@@ -166,7 +178,7 @@ literal "true"
 
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.lulu.com/spotlight/rajatkalia11"
@@ -178,7 +190,7 @@ literal "false"
 
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://amazon.com/author/rajatkalia"
@@ -190,12 +202,48 @@ literal "true"
 
 \end_layout
 
-\begin_layout Address
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://rk-e.blogspot.in/"
 target "https://rk-e.blogspot.in/"
 literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.guru.com/freelancers/rajat-kalia"
+target "https://www.guru.com/freelancers/rajat-kalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.linkedin.com/in/rajatkalia007/"
+target "https://www.linkedin.com/in/rajatkalia007/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.facebook.com/rajatkalia007"
+target "https://www.facebook.com/rajatkalia007"
+literal "true"
 
 \end_inset
 
