@@ -113,6 +113,10 @@ Problem Set
 JEE Mains Problems
 \end_layout
 
+\begin_layout Section
+Intext Problems
+\end_layout
+
 \begin_layout Standard
 Q1:
  The dimensional formula of 
@@ -140,8 +144,6 @@ Q1:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 [ JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
@@ -159,6 +161,81 @@ C) -1
 
 \begin_layout Standard
 D) 2
+\end_layout
+
+\begin_layout Section
+Full Syllabus Problems
+\end_layout
+
+\begin_layout Standard
+Q1:
+ The position of an object having mass 0.1 kg as a function of time t is given as 
+\begin_inset Formula $\overrightarrow{r}=10t^{2}\hat{i}+5t^{3}\hat{j}$
+\end_inset
+
+ m.
+ At t = 1 s,
+ which of the following statements is correct ?
+\end_layout
+
+\begin_layout Standard
+[ JEE Mains 2nd April 2026 Shift 1 ]
+\end_layout
+
+\begin_layout Standard
+A The linear momentum 
+\begin_inset Formula $\overrightarrow{p}=(2\hat{i}+1.5\hat{j})kg.m/s$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+B The force acting on the object 
+\begin_inset Formula $\overrightarrow{F}=\left(2\hat{i}+3\hat{j}\right)N$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+C The angular momentum of the object about it's origin 
+\begin_inset Formula $\overrightarrow{L}=15\hat{k}\;J.s$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+D The torque acting on the object about it's origin 
+\begin_inset Formula $T=20\hat{k}\;N.m$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Choose the correct answer from the options given below :
+\end_layout
+
+\begin_layout Standard
+(a) A,
+ B and C only.
+\end_layout
+
+\begin_layout Standard
+(b) B,
+ C and D only.
+\end_layout
+
+\begin_layout Standard
+(c) A,
+ C and D only.
+\end_layout
+
+\begin_layout Standard
+(d) A,
+ B and 
 \end_layout
 
 \begin_layout Part
@@ -197,9 +274,7 @@ Q1 :
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-[JEE Mains 2nd April 2026 Shift 1 ]
+[ JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
 \begin_layout Standard

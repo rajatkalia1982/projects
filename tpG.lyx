@@ -4,7 +4,7 @@
 \begin_header
 \save_transient_properties true
 \origin unavailable
-\textclass article
+\textclass book
 \use_default_options true
 \maintain_unincluded_children no
 \language english
@@ -33,6 +33,7 @@
 \float_placement class
 \float_alignment class
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -48,6 +49,7 @@
 \use_package undertilde 1
 \cite_engine basic
 \cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -86,7 +88,70 @@
 
 \begin_body
 
+\begin_layout Title
+The Pullaw Gravitation
+\end_layout
+
+\begin_layout Part
+Gravitation Theory
+\end_layout
+
+\begin_layout Part
+Problem Set
+\end_layout
+
+\begin_layout Chapter
+JEE Mains Problems
+\end_layout
+
 \begin_layout Standard
+Q1:
+ A planet (
+\begin_inset Formula $P_{1}$
+\end_inset
+
+) is moving around a star of mass 2M in the orbit of radius R.
+ Another planet (
+\begin_inset Formula $P_{2}$
+\end_inset
+
+) is moving around another star of mass 4M in a orbit of radius 2R.
+ Ratio of time periods of revolution of 
+\begin_inset Formula $P_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $P_{2}$
+\end_inset
+
+ is :
+\end_layout
+
+\begin_layout Standard
+[ JEE Mains 2nd April 2026 Shift 1 ]
+\end_layout
+
+\begin_layout Standard
+(A) 
+\begin_inset Formula $\dfrac{1}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(B) 2
+\end_layout
+
+\begin_layout Standard
+(C) 4
+\end_layout
+
+\begin_layout Standard
+(D) 
+\begin_inset Formula $\dfrac{1}{4}$
+\end_inset
+
 
 \end_layout
 

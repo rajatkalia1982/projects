@@ -15801,7 +15801,7 @@ Q6:
 
 \end_deeper
 \begin_layout Part
-Problem Set
+General Problem Set
 \end_layout
 
 \begin_layout Chapter
@@ -15824,7 +15824,7 @@ Q1:
 \end_layout
 
 \begin_layout Standard
-[JEE Mains 2nd April 2026 Shift 1 ]
+[ JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
 \begin_layout Standard
@@ -15849,6 +15849,23 @@ C)
 
 \begin_layout Standard
 D) 0
+\end_layout
+
+\begin_layout Part
+Circular Motion Problem Set
+\end_layout
+
+\begin_layout Chapter
+JEE Mains Problems
+\end_layout
+
+\begin_layout Standard
+Q1:
+ A particle is rotating in a circular path and at any instant its motion can be described as 
+\begin_inset Formula $\theta=\dfrac{5t^{4}}{40}-\dfrac{t^{3}}{3}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
