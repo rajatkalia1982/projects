@@ -131,10 +131,6 @@ SCO 24(TF),
 \end_layout
 
 \begin_layout Standard
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.alphaclasses.com/"
@@ -247,6 +243,18 @@ literal "false"
 LatexCommand href
 name "https://www.facebook.com/rajatkalia007"
 target "https://www.facebook.com/rajatkalia007"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.instagram.com/rajatkalia007/"
+target "https://www.instagram.com/rajatkalia007/"
 literal "true"
 
 \end_inset

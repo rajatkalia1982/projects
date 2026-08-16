@@ -253,6 +253,30 @@ literal "true"
 \begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
+name "https://www.instagram.com/rajatkalia007/"
+target "https://www.instagram.com/rajatkalia007/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.twitch.tv/rajatkalia"
+target "https://www.twitch.tv/rajatkalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
 name "https://x.com/RajatKalia1"
 target "https://x.com/RajatKalia1"
 literal "false"
