@@ -89,11 +89,20 @@
 \begin_body
 
 \begin_layout Title
-The Pullaw Gravitation
+System of Linear Equations
+\end_layout
+
+\begin_layout Author
+Rajat Kalia
+\end_layout
+
+\begin_layout Date
+16 August,
+ 2026
 \end_layout
 
 \begin_layout Part
-Gravitation Theory
+Theory
 \end_layout
 
 \begin_layout Part
@@ -105,59 +114,54 @@ JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
-Q1:
- A planet (
-\begin_inset Formula $P_{1}$
-\end_inset
-
-) is moving around a star of mass 2M in the orbit of radius R.
- Another planet (
-\begin_inset Formula $P_{2}$
-\end_inset
-
-) is moving around another star of mass 4M in a orbit of radius 2R.
- Ratio of time periods of revolution of 
-\begin_inset Formula $P_{1}$
-\end_inset
-
- and 
-\begin_inset Formula $P_{2}$
-\end_inset
-
- is :
+Q1 :
+ Let α,
+ β ∈ R be such that the system of linear equations
 \end_layout
 
 \begin_layout Standard
-[ JEE Mains 2nd April 2026 Shift 1 ]
+x + 2y + z = 5
 \end_layout
 
 \begin_layout Standard
-(A) 
-\begin_inset Formula $\dfrac{1}{2}$
+2x + y + αz = 5
+\end_layout
+
+\begin_layout Standard
+8x + 4y + βz = 18
+\end_layout
+
+\begin_layout Standard
+has no solution.
+ Then 
+\begin_inset Formula $\dfrac{β}{α}$
 \end_inset
 
-
+ is equal to :
 \end_layout
 
 \begin_layout Standard
-(B) 2
+[ JEE Mains 2026 2nd April Shift 1 ]
 \end_layout
 
 \begin_layout Standard
-(C) 4
+A) -4
 \end_layout
 
 \begin_layout Standard
-(D) 
-\begin_inset Formula $\dfrac{1}{4}$
-\end_inset
-
-
+B) 4
 \end_layout
 
 \begin_layout Standard
-{Solution :
- }
+C) 8
+\end_layout
+
+\begin_layout Standard
+D) -8
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \end_body
