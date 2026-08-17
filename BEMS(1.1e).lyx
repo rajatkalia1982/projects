@@ -1,5 +1,5 @@
-#LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 620
+#LyX 2.5 created this file. For more info see https://www.lyx.org/
+\lyxformat 643
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -36,10 +36,21 @@ theorems-std
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement class
+\float_alignment class
 \paperfontsize default
 \spacing single
-\use_hyperref false
-\papersize a5
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
@@ -58,19 +69,27 @@ theorems-std
 \use_indices false
 \paperorientation portrait
 \suppress_date false
-\justification true
-\use_refstyle 0
+\justification default
+\crossref_package prettyref
 \use_formatted_ref 0
 \use_minted 0
 \use_lineno 0
+\backgroundcolor none
+\fontcolor none
+\notefontcolor lightgray
+\boxbgcolor red
+\table_border_color default
+\table_odd_row_color default
+\table_even_row_color default
+\table_alt_row_colors_start 1
 \index Index
 \shortcut idx
 \color #008000
 \end_index
 \leftmargin 1in
-\topmargin 1.25in
-\rightmargin 1in
-\bottommargin 1.25in
+\topmargin 2cm
+\rightmargin 1.5cm
+\bottommargin 2cm
 \secnumdepth 3
 \tocdepth 1
 \paragraph_separation indent
@@ -92,6 +111,7 @@ theorems-std
 \html_be_strict false
 \docbook_table_output 0
 \docbook_mathml_prefix 1
+\docbook_mathml_version 0
 \end_header
 
 \begin_body
@@ -530,6 +550,291 @@ Animals Intermediate between these Classifications
 
 \begin_layout Part*
 Studying Micro-organisms
+\end_layout
+
+\begin_layout Chapter
+Cell Organalles
+\end_layout
+
+\begin_layout Section
+ER {Endoplasmic Reticulum}
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename DocFiles/Biology/Port/Cell Fundamental unit of life/3-s2.0-B9780123838643000028-f02-17-9780123838643.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The endoplasmic reticulum (ER) is a network of interconnected membranes within eukaryotic cells,
+ playing a crucial role in protein and lipid synthesis,
+ modification,
+ and transport.
+ It exists in two forms:
+ rough endoplasmic reticulum (RER),
+ which is studded with ribosomes and involved in protein synthesis,
+ and smooth endoplasmic reticulum (SER),
+ which lacks ribosomes and is involved in lipid synthesis and other functions.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename DocFiles/Biology/Port/Cell Fundamental unit of life/Untitled.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+• Structure:
+\end_layout
+
+\begin_layout Standard
+The ER is a continuous network of membrane-bound tubules and flattened sacs (cisternae) that extends from the nuclear membrane throughout the cytoplasm.
+ 
+\end_layout
+
+\begin_layout Standard
+• Rough Endoplasmic Reticulum (RER):
+\end_layout
+
+\begin_layout Standard
+The RER is characterized by the presence of ribosomes on its outer surface,
+ which are responsible for protein synthesis.
+ Proteins synthesized on the RER are often destined for other organelles,
+ the cell membrane,
+ or secretion outside the cell.
+ 
+\end_layout
+
+\begin_layout Standard
+• Smooth Endoplasmic Reticulum (SER):
+\end_layout
+
+\begin_layout Standard
+The SER lacks ribosomes and is involved in a variety of functions,
+ including lipid synthesis (steroid hormones,
+ phospholipids),
+ detoxification of drugs and toxins,
+ and the release of calcium ions for muscle contraction and nerve function.
+ 
+\end_layout
+
+\begin_layout Standard
+• Functions:
+\end_layout
+
+\begin_layout Standard
+The ER performs various functions,
+ including:
+\end_layout
+
+\begin_layout Standard
+• Protein Synthesis:
+ The RER is the primary site of protein synthesis,
+ especially for proteins destined for secretion or insertion into the cell membrane.
+ 
+\end_layout
+
+\begin_layout Standard
+• Lipid Synthesis:
+ The SER is involved in the synthesis of various lipids,
+ including steroids,
+ phospholipids,
+ and cholesterol.
+ 
+\end_layout
+
+\begin_layout Standard
+• Detoxification:
+ The SER can help detoxify harmful substances in the body.
+ 
+\end_layout
+
+\begin_layout Standard
+• Calcium Storage and Release:
+ The ER can store and release calcium ions,
+ which are crucial for muscle contraction and nerve function.
+ 
+\end_layout
+
+\begin_layout Standard
+• Protein Folding and Modification:
+ The ER plays a role in protein folding and modification,
+ ensuring proteins are properly shaped and functional.
+ 
+\end_layout
+
+\begin_layout Standard
+Relationship to Other Organelles:
+\end_layout
+
+\begin_layout Standard
+The ER is connected to the nuclear envelope and other organelles,
+ including the Golgi apparatus,
+ allowing for the efficient movement and modification of proteins and lipids.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename DocFiles/Biology/Port/Cell Fundamental unit of life/diff.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+RER {Rough Endoplasmic Reticulum}
+\end_layout
+
+\begin_layout Standard
+The rough endoplasmic reticulum (RER) is a network of membrane-bound sacs and tubules found in the cytoplasm of eukaryotic cells.
+ It's characterized by ribosomes attached to its surface,
+ giving it a "rough" appearance.
+ The RER plays a crucial role in protein synthesis,
+ folding,
+ and modification,
+ especially for proteins destined for secretion or incorporation into other cell membranes.
+ 
+\end_layout
+
+\begin_layout Standard
+Here's a more detailed explanation:
+\end_layout
+
+\begin_layout Standard
+Structure:
+\end_layout
+
+\begin_layout Standard
+• Membrane Sheets:
+\end_layout
+
+\begin_layout Standard
+The RER consists of flattened,
+ interconnected sacs called cisternae,
+ which extend throughout the cytoplasm,
+ often near the nucleus.
+ 
+\end_layout
+
+\begin_layout Standard
+• Ribosomes:
+\end_layout
+
+\begin_layout Standard
+Ribosomes,
+ the protein synthesis machinery,
+ are attached to the outer surface of the RER membrane.
+ 
+\end_layout
+
+\begin_layout Standard
+• Connection to the Nuclear Envelope:
+\end_layout
+
+\begin_layout Standard
+The RER is physically connected to the nuclear envelope,
+ which surrounds the nucleus,
+ allowing for efficient protein transport.
+ 
+\end_layout
+
+\begin_layout Standard
+Function:
+\end_layout
+
+\begin_layout Standard
+• Protein Synthesis:
+\end_layout
+
+\begin_layout Standard
+Ribosomes on the RER translate mRNA into proteins,
+ with proteins destined for secretion or incorporation into the cell membrane being synthesized here.
+ 
+\end_layout
+
+\begin_layout Standard
+• Protein Folding and Modification:
+\end_layout
+
+\begin_layout Standard
+The RER provides a space for newly synthesized proteins to fold into their correct three-dimensional shape and undergo modifications,
+ such as glycosylation (addition of sugar molecules).
+ 
+\end_layout
+
+\begin_layout Standard
+• Protein Transport:
+\end_layout
+
+\begin_layout Standard
+The RER is involved in transporting synthesized proteins to other cellular compartments,
+ such as the Golgi apparatus,
+ which further processes and packages proteins.
+ 
+\end_layout
+
+\begin_layout Standard
+• Quality Control:
+\end_layout
+
+\begin_layout Standard
+The RER also plays a role in protein quality control,
+ ensuring that only properly folded proteins are sent on to other destinations.
+ 
+\end_layout
+
+\begin_layout Standard
+Key Differences from Smooth Endoplasmic Reticulum (SER):
+\end_layout
+
+\begin_layout Standard
+• Ribosomes:
+ The RER has ribosomes attached to its surface,
+ while the SER does not.
+ 
+\end_layout
+
+\begin_layout Standard
+• Function:
+ RER primarily focuses on protein synthesis,
+ while SER is involved in lipid synthesis,
+ detoxification,
+ and calcium storage.
+ 
+\end_layout
+
+\begin_layout Standard
+In essence,
+ the RER is a crucial cellular organelle responsible for protein synthesis,
+ modification,
+ and transport,
+ particularly for proteins destined for export from the cell or incorporation into the cell's membranes.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename DocFiles/Biology/Port/Cell Fundamental unit of life/RER_nucleus_nucleolus_gp_plasms__cell_label_60.jpg
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename DocFiles/Biology/Port/Cell Fundamental unit of life/PIXNIO-41577-5400x3418.jfif.jpg
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Part
