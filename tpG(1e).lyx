@@ -1,5 +1,5 @@
-#LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 620
+#LyX 2.5 created this file. For more info see https://www.lyx.org/
+\lyxformat 643
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -34,7 +34,16 @@
 \float_alignment class
 \paperfontsize default
 \spacing single
-\use_hyperref false
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize a4
 \use_geometry true
 \use_package amsmath 1
@@ -54,11 +63,19 @@
 \use_indices false
 \paperorientation portrait
 \suppress_date false
-\justification true
-\use_refstyle 1
+\justification default
+\crossref_package refstyle
 \use_formatted_ref 0
 \use_minted 0
 \use_lineno 0
+\backgroundcolor none
+\fontcolor none
+\notefontcolor lightgray
+\boxbgcolor red
+\table_border_color default
+\table_odd_row_color default
+\table_even_row_color default
+\table_alt_row_colors_start 1
 \index Index
 \shortcut idx
 \color #008000
@@ -88,12 +105,17 @@
 \html_be_strict false
 \docbook_table_output 0
 \docbook_mathml_prefix 1
+\docbook_mathml_version 0
 \end_header
 
 \begin_body
 
 \begin_layout Title
 The Pullaw Gravitation
+\end_layout
+
+\begin_layout Standard
+Infrastructure
 \end_layout
 
 \begin_layout Standard
@@ -227,7 +249,31 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://india.voobly.com/"
+target "https://india.voobly.com/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Social
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.goodreads.com/sardarbhagatsingh"
+target "https://www.goodreads.com/sardarbhagatsingh"
+literal "true"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -295,6 +341,42 @@ literal "true"
 LatexCommand href
 name "https://www.facebook.com/rajatkaliaeducation"
 target "https://www.facebook.com/rajatkaliaeducation"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.researchgate.net/profile/Rajat-Kalia"
+target "https://www.researchgate.net/profile/Rajat-Kalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.w3profile.com/rajatkalia/"
+target "https://www.w3profile.com/rajatkalia/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.reddit.com/user/rajatkalia/"
+target "https://www.reddit.com/user/rajatkalia/"
 literal "true"
 
 \end_inset
@@ -532,6 +614,42 @@ Freelancing
 LatexCommand href
 name "https://www.guru.com/freelancers/rajat-kalia"
 target "https://www.guru.com/freelancers/rajat-kalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.codecademy.com/profiles/rajatkalia"
+target "https://www.codecademy.com/profiles/rajatkalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://leetcode.com/u/rajatkalia1/"
+target "https://leetcode.com/u/rajatkalia1/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.scribd.com/user/308680256/Rajat-Kalia"
+target "https://www.scribd.com/user/308680256/Rajat-Kalia"
 literal "true"
 
 \end_inset

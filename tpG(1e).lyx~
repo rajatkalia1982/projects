@@ -102,16 +102,11 @@
 \begin_body
 
 \begin_layout Title
-Complex Numbers ( Algebra )
+The Pullaw Gravitation
 \end_layout
 
-\begin_layout Author
-Rajat Kalia
-\end_layout
-
-\begin_layout Date
-16 August,
- 2026
+\begin_layout Standard
+Infrastructure
 \end_layout
 
 \begin_layout Standard
@@ -663,7 +658,7 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Part
-Theory
+Gravitation Theory
 \end_layout
 
 \begin_layout Part
@@ -671,91 +666,72 @@ Problem Set
 \end_layout
 
 \begin_layout Chapter
-\begin_inset Index idx
-range none
-pageformat default
-status open
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-JEE Mains Problems
-\end_layout
-
-\end_inset
-
 JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
 Q1:
- Let x and y be real numbers such that 
-\begin_inset Formula $50\left(\dfrac{2x}{1+3i}-\dfrac{y}{1-2i}\right)=31+17i$
+ A planet (
+\begin_inset Formula $P_{1}$
 \end_inset
 
- ,
- 
-\begin_inset Formula $i=\sqrt{-1}.$
+) is moving around a star of mass 2M in the orbit of radius R.
+ Another planet (
+\begin_inset Formula $P_{2}$
 \end_inset
 
-Then the value of 
-\begin_inset Formula $10(x-3y)$
+) is moving around another star of mass 4M in a orbit of radius 2R.
+ Ratio of time periods of revolution of 
+\begin_inset Formula $P_{1}$
+\end_inset
+
+ and 
+\begin_inset Formula $P_{2}$
 \end_inset
 
  is :
 \end_layout
 
 \begin_layout Standard
-(A) 20
+[ JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
 \begin_layout Standard
-(B) 31
+(A) 
+\begin_inset Formula $\dfrac{1}{2}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-(C) 35
+(B) 2
 \end_layout
 
 \begin_layout Standard
-(D) 75
+(C) 4
 \end_layout
 
 \begin_layout Standard
-{ Solution:
+(D) 
+\begin_inset Formula $\dfrac{1}{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+{Solution :
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=7bvmAsRoeiU"
-target "https://www.youtube.com/watch?v=7bvmAsRoeiU"
+name "https://www.youtube.com/watch?v=jbztq7mxFwc"
+target "https://www.youtube.com/watch?v=jbztq7mxFwc"
 literal "true"
 
 \end_inset
 
- }
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset index_print
-LatexCommand printindex
-type "idx"
-name "Index"
-
-\end_inset
-
-
+}
 \end_layout
 
 \end_body

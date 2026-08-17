@@ -1,0 +1,441 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\use_default_options true
+\maintain_unincluded_children no
+\language american
+\language_package default
+\inputencoding utf8
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Dimensional Analysis and Significant Figures
+\end_layout
+
+\begin_layout Author
+Rajat Kalia
+\end_layout
+
+\begin_layout Date
+15 August,
+ 2026
+\end_layout
+
+\begin_layout Address
+
+\lang english
+#764,
+ 41-A,
+ Chandigarh {TC(official)}
+\end_layout
+
+\begin_layout Address
+
+\lang english
+\begin_inset CommandInset href
+LatexCommand href
+name "https://github.com/rajatkalia1982/projects"
+target "https://github.com/rajatkalia1982/projects"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+
+\lang english
+\begin_inset CommandInset href
+LatexCommand href
+name "https://sourceforge.net/u/rajatkalia/profile"
+target "https://sourceforge.net/u/rajatkalia/profile"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+
+\lang english
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/@rajatkaliaeducation"
+target "https://www.youtube.com/@rajatkaliaeducation"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+
+\lang english
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.lulu.com/spotlight/rajatkalia11"
+target "https://www.lulu.com/spotlight/rajatkalia11"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+
+\lang english
+\begin_inset CommandInset href
+LatexCommand href
+name "https://amazon.com/author/rajatkalia"
+target "https://amazon.com/author/rajatkalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+
+\lang english
+\begin_inset CommandInset href
+LatexCommand href
+name "https://rk-e.blogspot.in/"
+target "https://rk-e.blogspot.in/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Dimensional Analysis
+\end_layout
+
+\begin_layout Part*
+Problem Set
+\end_layout
+
+\begin_layout Chapter
+JEE Mains Problems
+\end_layout
+
+\begin_layout Section
+Intext Problems
+\end_layout
+
+\begin_layout Standard
+Q1:
+ The dimensional formula of 
+\begin_inset Formula $\frac{1}{2}\epsilon_{0}E^{2}$
+\end_inset
+
+ ( 
+\begin_inset Formula $\epsilon_{0}$
+\end_inset
+
+ = permittivity of vacuum and 
+\begin_inset Formula $E$
+\end_inset
+
+ = Electric Field ) is 
+\begin_inset Formula $M^{a}L^{b}T^{c}$
+\end_inset
+
+.
+ The value of 
+\begin_inset Formula $2a-b+c=0$
+\end_inset
+
+ is ________.
+\end_layout
+
+\begin_layout Standard
+[ JEE Mains 2nd April 2026 Shift 1 ]
+\end_layout
+
+\begin_layout Standard
+A) 0
+\end_layout
+
+\begin_layout Standard
+B) 1
+\end_layout
+
+\begin_layout Standard
+C) -1
+\end_layout
+
+\begin_layout Standard
+D) 2
+\end_layout
+
+\begin_layout Standard
+{Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=CAgTYRH7-P8"
+target "https://www.youtube.com/watch?v=CAgTYRH7-P8"
+literal "true"
+
+\end_inset
+
+ }
+\end_layout
+
+\begin_layout Section
+Full Syllabus Problems
+\end_layout
+
+\begin_layout Standard
+Q1:
+ The position of an object having mass 0.1 kg as a function of time t is given as 
+\begin_inset Formula $\overrightarrow{r}=10t^{2}\hat{i}+5t^{3}\hat{j}$
+\end_inset
+
+ m.
+ At t = 1 s,
+ which of the following statements is correct ?
+\end_layout
+
+\begin_layout Standard
+[ JEE Mains 2nd April 2026 Shift 1 ]
+\end_layout
+
+\begin_layout Standard
+A The linear momentum 
+\begin_inset Formula $\overrightarrow{p}=(2\hat{i}+1.5\hat{j})kg.m/s$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+B The force acting on the object 
+\begin_inset Formula $\overrightarrow{F}=\left(2\hat{i}+3\hat{j}\right)N$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+C The angular momentum of the object about it's origin 
+\begin_inset Formula $\overrightarrow{L}=15\hat{k}\;J.s$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+D The torque acting on the object about it's origin 
+\begin_inset Formula $T=20\hat{k}\;N.m$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Choose the correct answer from the options given below :
+\end_layout
+
+\begin_layout Standard
+(a) A,
+ B and C only.
+\end_layout
+
+\begin_layout Standard
+(b) B,
+ C and D only.
+\end_layout
+
+\begin_layout Standard
+(c) A,
+ C and D only.
+\end_layout
+
+\begin_layout Standard
+(d) A,
+ B and D only.
+ 
+\end_layout
+
+\begin_layout Standard
+{Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=DvIERvObc1E"
+target "https://www.youtube.com/watch?v=DvIERvObc1E"
+literal "true"
+
+\end_inset
+
+}
+\end_layout
+
+\begin_layout Part
+Significant Figures
+\end_layout
+
+\begin_layout Part*
+Problem Set
+\end_layout
+
+\begin_layout Chapter
+JEE Mains Problems
+\end_layout
+
+\begin_layout Standard
+Q1 :
+ The diameter of a wire measured by a screw gauge of least count 0.001 cm is 0.08 cm.
+ The length measured by a scale of least count 0.1 cm is 150 cm.
+ When a weight of 100 N is applied to the wire,
+ the extension in length is 0.5 cm,
+ measured by a micrometer of least count 0.001 cm.
+ The error in the measurement of Young's Modulus is 
+\begin_inset Formula $\alpha\times10^{9}\;N/m^{2}$
+\end_inset
+
+.
+ The value of 
+\begin_inset Formula $\alpha$
+\end_inset
+
+ is _________.
+\end_layout
+
+\begin_layout Standard
+(Ignore the contribution of load to Young's Modulus error calculation)
+\end_layout
+
+\begin_layout Standard
+[ JEE Mains 2nd April 2026 Shift 1 ]
+\end_layout
+
+\begin_layout Standard
+A) 1.3
+\end_layout
+
+\begin_layout Standard
+B) 1.65
+\end_layout
+
+\begin_layout Standard
+C) 0.13
+\end_layout
+
+\begin_layout Standard
+D) 0.25
+\end_layout
+
+\begin_layout Standard
+{Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=JCaMvvfacDw"
+target "https://www.youtube.com/watch?v=JCaMvvfacDw"
+literal "true"
+
+\end_inset
+
+}
+\end_layout
+
+\end_body
+\end_document

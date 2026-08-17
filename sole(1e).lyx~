@@ -35,8 +35,8 @@
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize a4
-\use_geometry true
+\papersize default
+\use_geometry false
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -71,10 +71,6 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 1in
-\topmargin 2cm
-\rightmargin 1.5cm
-\bottommargin 2cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -102,7 +98,7 @@
 \begin_body
 
 \begin_layout Title
-Complex Numbers ( Algebra )
+System of Linear Equations
 \end_layout
 
 \begin_layout Author
@@ -671,91 +667,68 @@ Problem Set
 \end_layout
 
 \begin_layout Chapter
-\begin_inset Index idx
-range none
-pageformat default
-status open
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-JEE Mains Problems
-\end_layout
-
-\end_inset
-
 JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
-Q1:
- Let x and y be real numbers such that 
-\begin_inset Formula $50\left(\dfrac{2x}{1+3i}-\dfrac{y}{1-2i}\right)=31+17i$
+Q1 :
+ Let α,
+ β ∈ R be such that the system of linear equations
+\end_layout
+
+\begin_layout Standard
+x + 2y + z = 5
+\end_layout
+
+\begin_layout Standard
+2x + y + αz = 5
+\end_layout
+
+\begin_layout Standard
+8x + 4y + βz = 18
+\end_layout
+
+\begin_layout Standard
+has no solution.
+ Then 
+\begin_inset Formula $\dfrac{β}{α}$
 \end_inset
 
- ,
- 
-\begin_inset Formula $i=\sqrt{-1}.$
-\end_inset
-
-Then the value of 
-\begin_inset Formula $10(x-3y)$
-\end_inset
-
- is :
+ is equal to :
 \end_layout
 
 \begin_layout Standard
-(A) 20
+[ JEE Mains 2026 2nd April Shift 1 ]
 \end_layout
 
 \begin_layout Standard
-(B) 31
+A) -4
 \end_layout
 
 \begin_layout Standard
-(C) 35
+B) 4
 \end_layout
 
 \begin_layout Standard
-(D) 75
+C) 8
 \end_layout
 
 \begin_layout Standard
-{ Solution:
+D) -8
+\end_layout
+
+\begin_layout Standard
+{ Soltution :
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=7bvmAsRoeiU"
-target "https://www.youtube.com/watch?v=7bvmAsRoeiU"
+name "https://www.youtube.com/watch?v=NAct7oeCy2s"
+target "https://www.youtube.com/watch?v=NAct7oeCy2s"
 literal "true"
 
 \end_inset
 
- }
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset index_print
-LatexCommand printindex
-type "idx"
-name "Index"
-
-\end_inset
-
-
+}
 \end_layout
 
 \end_body
