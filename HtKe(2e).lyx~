@@ -243,7 +243,31 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://india.voobly.com/"
+target "https://india.voobly.com/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Social
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.goodreads.com/sardarbhagatsingh"
+target "https://www.goodreads.com/sardarbhagatsingh"
+literal "true"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -311,6 +335,42 @@ literal "true"
 LatexCommand href
 name "https://www.facebook.com/rajatkaliaeducation"
 target "https://www.facebook.com/rajatkaliaeducation"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.researchgate.net/profile/Rajat-Kalia"
+target "https://www.researchgate.net/profile/Rajat-Kalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.w3profile.com/rajatkalia/"
+target "https://www.w3profile.com/rajatkalia/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.reddit.com/user/rajatkalia/"
+target "https://www.reddit.com/user/rajatkalia/"
 literal "true"
 
 \end_inset
@@ -528,6 +588,18 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://tmm18.blogspot.com/"
+target "https://tmm18.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Meditation ]
+\end_layout
+
+\begin_layout Standard
 Freelancing
 \end_layout
 
@@ -536,6 +608,30 @@ Freelancing
 LatexCommand href
 name "https://www.guru.com/freelancers/rajat-kalia"
 target "https://www.guru.com/freelancers/rajat-kalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.codecademy.com/profiles/rajatkalia"
+target "https://www.codecademy.com/profiles/rajatkalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://leetcode.com/u/rajatkalia1/"
+target "https://leetcode.com/u/rajatkalia1/"
 literal "true"
 
 \end_inset

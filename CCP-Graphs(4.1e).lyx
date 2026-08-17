@@ -44,9 +44,20 @@ initials
 \output_sync 0
 \bibtex_command biber
 \index_command default
+\float_placement class
+\float_alignment class
 \paperfontsize default
 \spacing single
-\use_hyperref false
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize a4
 \use_geometry true
 \use_package amsmath 1
@@ -118,6 +129,10 @@ Rajat Kalia
 \end_layout
 
 \begin_layout Standard
+Infrastructure
+\end_layout
+
+\begin_layout Standard
 #764,
  41-A,
  Chandigarh {TC(official)} - 160036
@@ -145,6 +160,10 @@ literal "true"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Educational
 \end_layout
 
 \begin_layout Standard
@@ -184,6 +203,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
+Store
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.lulu.com/spotlight/rajatkalia11"
@@ -208,11 +231,15 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
+Sports
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
-name "https://rk-e.blogspot.in/"
-target "https://rk-e.blogspot.in/"
-literal "false"
+name "https://www.youtube.com/@indiangamersorganization"
+target "https://www.youtube.com/@indiangamersorganization"
+literal "true"
 
 \end_inset
 
@@ -222,9 +249,49 @@ literal "false"
 \begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.guru.com/freelancers/rajat-kalia"
-target "https://www.guru.com/freelancers/rajat-kalia"
+name "https://www.facebook.com/groups/igohn"
+target "https://www.facebook.com/groups/igohn"
 literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://india.voobly.com/"
+target "https://india.voobly.com/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Social
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.goodreads.com/sardarbhagatsingh"
+target "https://www.goodreads.com/sardarbhagatsingh"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://x.com/RajatKalia1"
+target "https://x.com/RajatKalia1"
+literal "false"
 
 \end_inset
 
@@ -258,9 +325,342 @@ literal "true"
 \begin_layout Standard
 \begin_inset CommandInset href
 LatexCommand href
-name "https://x.com/RajatKalia1"
-target "https://x.com/RajatKalia1"
+name "https://www.instagram.com/rajatkalia007/"
+target "https://www.instagram.com/rajatkalia007/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.twitch.tv/rajatkalia"
+target "https://www.twitch.tv/rajatkalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.facebook.com/rajatkaliaeducation"
+target "https://www.facebook.com/rajatkaliaeducation"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.researchgate.net/profile/Rajat-Kalia"
+target "https://www.researchgate.net/profile/Rajat-Kalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.w3profile.com/rajatkalia/"
+target "https://www.w3profile.com/rajatkalia/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.reddit.com/user/rajatkalia/"
+target "https://www.reddit.com/user/rajatkalia/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Blogs
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://rk-e.blogspot.in/"
+target "https://rk-e.blogspot.in/"
 literal "false"
+
+\end_inset
+
+ [Physics]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://chem-rke.blogspot.com/"
+target "https://chem-rke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [Chemistry]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://biosciences-rke.blogspot.com/"
+target "https://biosciences-rke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Bio-Sciences ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://rk-edu.blogspot.com/"
+target "https://rk-edu.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Mathematics ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://medlife-rke.blogspot.com/"
+target "https://medlife-rke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [Medical Sciences ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://computers-mke.blogspot.com/"
+target "https://computers-mke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Computers Engineering ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://ee-mke.blogspot.com/"
+target "https://ee-mke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [Electrical Engineering ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://me-mke.blogspot.com/"
+target "https://me-mke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Mechanical Engineering ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://ce-mke.blogspot.com/"
+target "https://ce-mke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Civil Engineering ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://mke-whj.blogspot.com/"
+target "https://mke-whj.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ White Hat Junior ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://ba-xpn.blogspot.com/"
+target "https://ba-xpn.blogspot.com/"
+literal "false"
+
+\end_inset
+
+ [ Bachelor of Arts ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://constitution1982.blogspot.com/"
+target "https://constitution1982.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Constitution ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://debk-mke.blogspot.com/"
+target "https://debk-mke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Accounting ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://comm-pke.blogspot.com/"
+target "https://comm-pke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Commerce ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://brigade-13.blogspot.com/"
+target "https://brigade-13.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Air Force,
+ India ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://battalion-7.blogspot.com/"
+target "https://battalion-7.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Armed Forces ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://design-mke.blogspot.com/"
+target "https://design-mke.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Design ]
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://tmm18.blogspot.com/"
+target "https://tmm18.blogspot.com/"
+literal "true"
+
+\end_inset
+
+ [ Meditation ]
+\end_layout
+
+\begin_layout Standard
+Freelancing
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.guru.com/freelancers/rajat-kalia"
+target "https://www.guru.com/freelancers/rajat-kalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.codecademy.com/profiles/rajatkalia"
+target "https://www.codecademy.com/profiles/rajatkalia"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://leetcode.com/u/rajatkalia1/"
+target "https://leetcode.com/u/rajatkalia1/"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.scribd.com/user/308680256/Rajat-Kalia"
+target "https://www.scribd.com/user/308680256/Rajat-Kalia"
+literal "true"
 
 \end_inset
 

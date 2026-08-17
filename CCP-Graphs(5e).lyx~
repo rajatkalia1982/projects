@@ -44,9 +44,20 @@ initials
 \output_sync 0
 \bibtex_command biber
 \index_command default
+\float_placement class
+\float_alignment class
 \paperfontsize default
 \spacing single
-\use_hyperref false
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize a4
 \use_geometry true
 \use_package amsmath 1
@@ -105,7 +116,7 @@ initials
 \begin_body
 
 \begin_layout Title
-A Complete Course in Physics ( Graphs ) - Extended 4th Edition
+A Complete Course in Physics ( Graphs ) - 5th Edition
 \end_layout
 
 \begin_layout Author
@@ -114,546 +125,12 @@ Rajat Kalia
 
 \begin_layout Date
 7 December ,
- 2018
+ 2023
 \end_layout
 
-\begin_layout Standard
-Infrastructure
-\end_layout
-
-\begin_layout Standard
-#764,
- 41-A,
- Chandigarh {TC(official)} - 160036
-\end_layout
-
-\begin_layout Standard
-Shamlat (Ramgarh Sardaran),
- Ludhiana,
- Punjab
-\end_layout
-
-\begin_layout Standard
-SCO 24(TF),
- 41-D,
- Chandigarh - 160036
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.alphaclasses.com/"
-target "https://www.alphaclasses.com/"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Educational
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://github.com/rajatkalia1982"
-target "https://github.com/rajatkalia1982"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://sourceforge.net/u/rajatkalia/profile"
-target "https://sourceforge.net/u/rajatkalia/profile"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.youtube.com/@rajatkaliaeducation"
-target "https://www.youtube.com/@rajatkaliaeducation"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Store
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.lulu.com/spotlight/rajatkalia11"
-target "https://www.lulu.com/spotlight/rajatkalia11"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://amazon.com/author/rajatkalia"
-target "https://amazon.com/author/rajatkalia"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Sports
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.youtube.com/@indiangamersorganization"
-target "https://www.youtube.com/@indiangamersorganization"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.facebook.com/groups/igohn"
-target "https://www.facebook.com/groups/igohn"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://india.voobly.com/"
-target "https://india.voobly.com/"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Social
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.goodreads.com/sardarbhagatsingh"
-target "https://www.goodreads.com/sardarbhagatsingh"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://x.com/RajatKalia1"
-target "https://x.com/RajatKalia1"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.linkedin.com/in/rajatkalia007/"
-target "https://www.linkedin.com/in/rajatkalia007/"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.facebook.com/rajatkalia007"
-target "https://www.facebook.com/rajatkalia007"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.instagram.com/rajatkalia007/"
-target "https://www.instagram.com/rajatkalia007/"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.twitch.tv/rajatkalia"
-target "https://www.twitch.tv/rajatkalia"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.facebook.com/rajatkaliaeducation"
-target "https://www.facebook.com/rajatkaliaeducation"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.researchgate.net/profile/Rajat-Kalia"
-target "https://www.researchgate.net/profile/Rajat-Kalia"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.w3profile.com/rajatkalia/"
-target "https://www.w3profile.com/rajatkalia/"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.reddit.com/user/rajatkalia/"
-target "https://www.reddit.com/user/rajatkalia/"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Blogs
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://rk-e.blogspot.in/"
-target "https://rk-e.blogspot.in/"
-literal "false"
-
-\end_inset
-
- [Physics]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://chem-rke.blogspot.com/"
-target "https://chem-rke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [Chemistry]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://biosciences-rke.blogspot.com/"
-target "https://biosciences-rke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Bio-Sciences ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://rk-edu.blogspot.com/"
-target "https://rk-edu.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Mathematics ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://medlife-rke.blogspot.com/"
-target "https://medlife-rke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [Medical Sciences ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://computers-mke.blogspot.com/"
-target "https://computers-mke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Computers Engineering ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://ee-mke.blogspot.com/"
-target "https://ee-mke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [Electrical Engineering ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://me-mke.blogspot.com/"
-target "https://me-mke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Mechanical Engineering ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://ce-mke.blogspot.com/"
-target "https://ce-mke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Civil Engineering ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://mke-whj.blogspot.com/"
-target "https://mke-whj.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ White Hat Junior ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://ba-xpn.blogspot.com/"
-target "https://ba-xpn.blogspot.com/"
-literal "false"
-
-\end_inset
-
- [ Bachelor of Arts ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://constitution1982.blogspot.com/"
-target "https://constitution1982.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Constitution ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://debk-mke.blogspot.com/"
-target "https://debk-mke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Accounting ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://comm-pke.blogspot.com/"
-target "https://comm-pke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Commerce ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://brigade-13.blogspot.com/"
-target "https://brigade-13.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Air Force,
- India ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://battalion-7.blogspot.com/"
-target "https://battalion-7.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Armed Forces ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://design-mke.blogspot.com/"
-target "https://design-mke.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Design ]
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://tmm18.blogspot.com/"
-target "https://tmm18.blogspot.com/"
-literal "true"
-
-\end_inset
-
- [ Meditation ]
-\end_layout
-
-\begin_layout Standard
-Freelancing
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.guru.com/freelancers/rajat-kalia"
-target "https://www.guru.com/freelancers/rajat-kalia"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.codecademy.com/profiles/rajatkalia"
-target "https://www.codecademy.com/profiles/rajatkalia"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://leetcode.com/u/rajatkalia1/"
-target "https://leetcode.com/u/rajatkalia1/"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.scribd.com/user/308680256/Rajat-Kalia"
-target "https://www.scribd.com/user/308680256/Rajat-Kalia"
-literal "true"
-
-\end_inset
-
-
+\begin_layout Address
+764 41-A ,
+ Chd
 \end_layout
 
 \begin_layout Standard
@@ -823,7 +300,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Introduction/G01.jpg
+	filename Images/CC/P-Graphs/5e/Images/Introduction/G01.jpg
 	scale 50
 
 \end_inset
@@ -961,7 +438,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Introduction/G02.jpg
+	filename Images/CC/P-Graphs/5e/Images/Introduction/G02.jpg
 	scale 50
 
 \end_inset
@@ -1257,7 +734,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Introduction/G04.jpg
+	filename Images/CC/P-Graphs/5e/Images/Introduction/G04.jpg
 	scale 50
 
 \end_inset
@@ -1411,7 +888,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Introduction/G06.jpg
+	filename Images/CC/P-Graphs/5e/Images/Introduction/G06.jpg
 	scale 50
 
 \end_inset
@@ -1759,7 +1236,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/graph1_cgf.jpg
+	filename Images/CC/P-Graphs/5e/Images/Kinematics/graph1_cgf.jpg
 	scale 50
 
 \end_inset
@@ -1823,7 +1300,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/graph2_cgf.jpg
+	filename Images/CC/P-Graphs/5e/Images/Kinematics/graph2_cgf.jpg
 	scale 50
 
 \end_inset
@@ -1980,7 +1457,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/graph4_cgf.jpg
+	filename Images/CC/P-Graphs/5e/Images/Kinematics/graph4_cgf.jpg
 	scale 50
 
 \end_inset
@@ -2047,7 +1524,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/graph5_cgf.jpg
+	filename Images/CC/P-Graphs/5e/Images/Kinematics/graph5_cgf.jpg
 	scale 50
 
 \end_inset
@@ -2184,7 +1661,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/graph7_cgf.jpg
+	filename Images/CC/P-Graphs/5e/Images/Kinematics/graph7_cgf.jpg
 	scale 50
 
 \end_inset
@@ -2310,7 +1787,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/graph9_cgf.jpg
+	filename Images/CC/P-Graphs/5e/Images/Kinematics/graph9_cgf.jpg
 	scale 50
 
 \end_inset
@@ -2331,7 +1808,7 @@ status open
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintCited"
-bibfiles "Bibliography/CC/P-Graphs/4e/introduction"
+bibfiles "Bibliography/CC/P-Graphs/5e/introduction"
 options "plain"
 
 \end_inset
@@ -27241,7 +26718,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/subjective1.jpg
-	scale 75
+	scale 70
 
 \end_inset
 
@@ -27255,6 +26732,86 @@ status open
 
 \begin_layout Quote
 }
+\end_layout
+
+\begin_layout Standard
+Problem :
+ The current/voltage relationship for two resistors A and B is as shown in Figure 2.5.
+ Determine the value of the resistance of each resistor.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Yaw/V-I 1.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Question :
+ Graphs of current against voltage for two resistors P and Q are shown in Figure 2.6.
+ Determine the value of each resistor.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename I:/DataBack/projects/Yaw/V-I 2.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
@@ -30195,7 +29752,6 @@ d) OR gate
 LatexCommand printindex
 type "idx"
 name "Index"
-literal "true"
 
 \end_inset
 
