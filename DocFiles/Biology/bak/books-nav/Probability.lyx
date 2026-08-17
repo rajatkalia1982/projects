@@ -1,0 +1,889 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1cm
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Probability
+\end_layout
+
+\begin_layout Author
+Rajat Kalia
+\end_layout
+
+\begin_layout Date
+12-January-2022
+\end_layout
+
+\begin_layout Chapter
+Introduction
+\end_layout
+
+\begin_layout Standard
+Probability is the branch of mathematics concerning numerical descriptions
+ of how likely an event is to occur, or how likely it is that a proposition
+ is true.
+ The probability of an event is a number between 0 and 1, where, roughly
+ speaking, 0 indicates impossibility of the event and 1 indicates certainty.
+\end_layout
+
+\begin_layout Section
+Sample Space
+\end_layout
+
+\begin_layout Standard
+In probability theory, the sample space of an experiment or random trial
+ is the set of all possible outcomes or results of that experiment.
+ A sample space is usually denoted using set notation, and the possible
+ ordered outcomes, or sample points, are listed as elements in the set.
+\end_layout
+
+\begin_layout Subsection
+Examples of a Sample Space
+\end_layout
+
+\begin_layout Subsubsection
+Toss a coin
+\end_layout
+
+\begin_layout Standard
+While tossing a fair coin, the Sample Space would be H-Heads and T-Tails.
+\end_layout
+
+\begin_layout Subparagraph
+\begin_inset Formula $S={H,T}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Graphics
+	filename Probability/images.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Probability/popat2.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Probability/popat.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Similarly , in tossing two identical coins or a coin twice , the Sample
+ Space would be just the cross product of single coin toss
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Graphics
+	filename Probability/download.jpg
+	scale 70
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Probability/download.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+i.e.
+ 
+\begin_inset Formula $S={HH,HT,TH,TT}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Probability/yaw.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Probability/paw.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Probability/thaw.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Probability/kraw.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Extending it furthur, In tossing 3 identical coins or a coin thrice
+\end_layout
+
+\begin_layout Subparagraph
+\begin_inset Formula $S={HHH,HHT,HTH,THH,HTT,THT,TTH,TTT}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Graphics
+	filename Probability/images (1).jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Probability/images (1).jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Probability/images (1).jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Q: However , If we have all different coins, the case would be much more
+ surprising
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Graphics
+	filename Probability/images.jpg
+	scale 50
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Probability/download.jpg
+	scale 60
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Probability/images (1).jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In this case, we see that the first leftmost element can be filled in 6
+ ways.
+ Now in each case we have only two coins with 2 sides are available for
+ the rest of 2 positions which can be filled in 
+\begin_inset Formula $2\times2\times2$
+\end_inset
+
+ ways.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $S=$
+\end_inset
+
+
+\begin_inset Formula $H_{1}$
+\end_inset
+
+
+\begin_inset Formula ${H_{2}H_{3},H_{2}T_{3},T_{3}H_{2},T_{2}T_{3}andswapped}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+So, 48 total ways.
+\end_layout
+
+\begin_layout Standard
+We see that first place can be filled in 6 ways, second place in 4 ways
+ and third place in 2 ways.
+\end_layout
+
+\begin_layout Subsubsection
+Throw a dice
+\end_layout
+
+\begin_layout Standard
+In a throw of a dice, the Sample Space would be 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $S={1,2,3,4,5,6}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Graphics
+	filename Probability/istockphoto-656001690-1024x1024.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Further as above , if we throw two identical dice or a dice twice, the Sample
+ Space would be simply the cross-product
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\begin{array}{cccccc}
+(1,1) & (1,2) & (1,3) & (1,4) & (1,5) & (1,6)\\
+(2,1) & (2,2) & (2,3) & (2,4) & (2,5) & (2,6)\\
+(3,1) & (3,2) & (3,3) & (3,4) & (3,5) & (3,6)\\
+(4,1) & (4,2) & (4,3) & (4,4) & (4,5) & (4,6)\\
+(5,1) & (5,2) & (5,3) & (5,4) & (5,5) & (5,6)\\
+(6,1) & (6,2) & (6,3) & (6,4) & (6,5) & (6,6)
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Graphics
+	filename Probability/images.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Pack of Cards
+\end_layout
+
+\begin_layout Standard
+Clubs, Hearts, Diamonds, Spades.
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Graphics
+	filename Probability/download (1).jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Event
+\end_layout
+
+\begin_layout Chapter
+Probability
+\end_layout
+
+\begin_layout Subsubsection
+Matrix Match Type Problems
+\end_layout
+
+\begin_layout Description
+Matrix 1: A student goes to exam on a bicycle or scooter or car or on foot.
+ The probabilities of his using bicycle, scooter car or being on foot are
+ 
+\begin_inset Formula $\dfrac{1}{10}$
+\end_inset
+
+ , 
+\begin_inset Formula $\dfrac{1}{5}$
+\end_inset
+
+ , 
+\begin_inset Formula $\dfrac{3}{10}$
+\end_inset
+
+ or 
+\begin_inset Formula $\dfrac{2}{5}$
+\end_inset
+
+ respectively.
+ The probability of reaching late at the examination centre by using these
+ modes are 
+\begin_inset Formula $\dfrac{1}{3}$
+\end_inset
+
+,
+\begin_inset Formula $\dfrac{1}{4}$
+\end_inset
+
+,
+\begin_inset Formula $\dfrac{1}{12}$
+\end_inset
+
+ and 
+\begin_inset Formula $\dfrac{1}{24}$
+\end_inset
+
+ respectively.
+ The student reached the exam centre on time.
+ Under Column I, the modes of travel are given and under Column II, the
+ probabilies that the student used the particular mode of transport provided
+ that he reached the exam centre on time.
+ Match the corresponding entries.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Column I
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Column II
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(P) Bicycle
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(A) 
+\begin_inset Formula $\dfrac{2}{5}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(Q)Scooter
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(B) 
+\begin_inset Formula $\dfrac{1}{5}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(R)Car
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(C) 
+\begin_inset Formula $\dfrac{2}{15}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(S)On Foot
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(D) 
+\begin_inset Formula $\dfrac{4}{15}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Linked Comprehension Type Questions
+\end_layout
+
+\begin_layout Description
+Comprehension 1: There are 
+\begin_inset Formula $n$
+\end_inset
+
+ biased coins and 
+\begin_inset Formula $n$
+\end_inset
+
+ boxes numbered 
+\begin_inset Formula $1$
+\end_inset
+
+ to 
+\begin_inset Formula $n$
+\end_inset
+
+.
+ The coins are tossed and each put into its corresponding box.
+ For the 
+\begin_inset Formula $k^{th}$
+\end_inset
+
+ coin, the odds in favour of appearance of head are 
+\begin_inset Formula $k$
+\end_inset
+
+ and the odds against are 
+\begin_inset Formula $2n-k$
+\end_inset
+
+ .
+ Let 
+\begin_inset Formula $E_{n}$
+\end_inset
+
+ denote the event of selecting the 
+\begin_inset Formula $k^{th}$
+\end_inset
+
+ box and 
+\begin_inset Formula $H$
+\end_inset
+
+ denote the event that the selected box contains a Head.
+\end_layout
+
+\begin_layout Quote
+Q1: If 
+\begin_inset Formula $P(E_{k})=c\forall k$
+\end_inset
+
+ , then 
+\begin_inset Formula $P\left(E_{m}|H\right)$
+\end_inset
+
+ where 
+\begin_inset Formula $m\epsilon\left\{ 1,2,3,......n\right\} $
+\end_inset
+
+ is
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+A) 
+\begin_inset Formula $\dfrac{m}{n\left(n+1\right)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+B) 
+\begin_inset Formula $\dfrac{2m}{n\left(n+1\right)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+C) 
+\begin_inset Formula $\dfrac{c}{n+1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+D) 
+\begin_inset Formula $\dfrac{2}{n+1}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+Q2: If 
+\begin_inset Formula $P\left(E_{k}\right)\propto k$
+\end_inset
+
+ for 
+\begin_inset Formula $k=1,2,3........n$
+\end_inset
+
+ .
+ Find 
+\begin_inset Formula $P\left(H\right)$
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+A) 
+\begin_inset Formula $\dfrac{2n+1}{6n}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+B) 
+\begin_inset Formula $\dfrac{2n+1}{4n}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+C) 
+\begin_inset Formula $\dfrac{2}{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+D) 
+\begin_inset Formula $\dfrac{1}{3}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+Q3: Evaluate the probability 
+\begin_inset Formula $P$
+\end_inset
+
+ that only the 
+\begin_inset Formula $m^{th}$
+\end_inset
+
+ box contains a head .Its value for 
+\begin_inset Formula $m=3,n=5$
+\end_inset
+
+ is
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+A) 
+\begin_inset Formula $0.12$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+B) 
+\begin_inset Formula $0.0832$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+C) 
+\begin_inset Formula $0.648$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+D) None of these
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Hints and Solutions
+\end_layout
+
+\begin_layout Quote
+Matrix Match Type Problems
+\end_layout
+
+\begin_layout Quote
+Matrix 1:Answers
+\end_layout
+
+\begin_layout Quote
+\begin_inset Graphics
+	filename ../Git/projects/Images/CC/M/1.1e/Matrix Answers/ImagesReduced/Matrix_Probability_1.JPG
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Linked Comprehension Type Questions
+\end_layout
+
+\begin_layout Quote
+Comprehension 1 Answers Q1) B Q2) A Q3) C
+\end_layout
+
+\end_body
+\end_document

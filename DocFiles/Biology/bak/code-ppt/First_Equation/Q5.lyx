@@ -1,0 +1,206 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize b4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Description
+Example : A speedboat starts from rest, accelerating at 2 ms
+\begin_inset Formula $^{−2}$
+\end_inset
+
+ for 20 s.
+ It then continues at a steady speed for a further 30 s and decelerates
+ to rest in 30 s.
+ Find:
+\end_layout
+
+\begin_layout Standard
+(a) the distance travelled in m,
+\end_layout
+
+\begin_layout Standard
+(b) the average speed in ms 
+\begin_inset Formula $^{−1}$
+\end_inset
+
+ and,
+\end_layout
+
+\begin_layout Standard
+(c) the time taken to cover half the distance.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename D:/Projects/Images/CC/P-Graphs/4e/Images/Kinematics/ex2.jpg
+	scale 39
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Solution : a) distance=area of trapezium 
+\begin_inset Formula ${\displaystyle =\frac{\left(a+b\right)h}{2}}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle =\frac{\left(80+30\right)\left(40\right)}{2}}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+=2200 m
+\end_layout
+
+\begin_layout Standard
+b) 
+\begin_inset Formula ${\displaystyle \text{average speed}=\frac{\text{distance travelled}}{\text{time taken}}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle =\frac{2200}{80}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+=27.5 ms 
+\begin_inset Formula $^{−1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+c) We need to find the time when the area of the trapezium is half of its
+ original area, or 1100m , as shown in the graph.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename D:/Projects/Images/CC/P-Graphs/4e/Images/Kinematics/ex2c.jpg
+	scale 39
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The base of this unknown trapezium has length 
+\backslash
+displaystyle{t}t, and the top of the trapezium will have length t−20.
+ So we have:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle \text{area of trapezium}=\frac{\left(a+b\right)h}{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula ${\displaystyle 1100=\frac{\left(t+\left[t-20\right]\right)40}{2}=20\left(2t-20\right)}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+55=2t−20 
+\end_layout
+
+\begin_layout Standard
+75=2t 
+\end_layout
+
+\begin_layout Standard
+t=37.5s 
+\end_layout
+
+\begin_layout Standard
+So it will take 37.5 s to cover half the distance.
+\end_layout
+
+\end_body
+\end_document

@@ -106,7 +106,7 @@ initials
 \begin_body
 
 \begin_layout Title
-A Complete Course in Physics ( Graphs ) - First Edition
+A Complete Course in Physics ( Graphs ) - Extended First Edition
 \end_layout
 
 \begin_layout Author
@@ -114,17 +114,8 @@ Rajat Kalia
 \end_layout
 
 \begin_layout Date
-July 30,
- 2012
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
+March 09,
+ 2017
 \end_layout
 
 \begin_layout Standard
@@ -666,20 +657,308 @@ literal "true"
 
 \end_layout
 
+\begin_layout Standard
+
+\end_layout
+
 \begin_layout Chapter*
-Preface and Acknowledgements
+Preface
 \end_layout
 
 \begin_layout Standard
-This book is a research evaluate stuff on Kinematics covering graphs.
- The material has got acclaim locally and now looking for it internationally.
+The First Edition was a collection of tough problems but the file was small ,
+ only being 12 pages not meeting the Amazon crieteria of minimum 24 pages for paperback printing.
+ Moreover,
+ the toughness of problems required that answers be provided Intext.
  
 \end_layout
 
 \begin_layout Standard
-I would like to thank my family,
- well wishers for their support and consistent encouragement and most of all God for it's grace and Guidance.
- 
+Graphs is a very catchy topic for +1/+2 level and Competitive Exams,
+ it is apparent that books in this particular topic would be written and available soon in the near future.
+\end_layout
+
+\begin_layout Chapter*
+Acknowledgements
+\end_layout
+
+\begin_layout Standard
+I first of all thank my son Manas Kalia for the love and support.
+\end_layout
+
+\begin_layout Standard
+Today,
+ he is writing an essay on 
+\begin_inset Quotes eld
+\end_inset
+
+Myself
+\begin_inset Quotes erd
+\end_inset
+
+ for all of us
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+1 My name is Manas.
+\end_layout
+
+\begin_layout Plain Layout
+2 I am six years old.
+\end_layout
+
+\begin_layout Plain Layout
+3 I study in KGF.
+\end_layout
+
+\begin_layout Plain Layout
+4 I like to play ludo.
+\end_layout
+
+\begin_layout Plain Layout
+5 I love my family.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I would also like to show few of his designs,
+ he has made while playing on computer.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/BaloonSeller2 001.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Drawing4.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Drawing6.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Holi 001.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Untitled7.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Untitled19.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
@@ -806,6 +1085,27 @@ c)
 d) 3:1
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ The velocity in a displacement-time is given by the slope of the curve.
+ Slope = tan(gent) of angle of inclination of s-t graph.
+ This gives the respective ratios tan 30
+\begin_inset Formula $^{o}$
+\end_inset
+
+ / tan 60
+\begin_inset Formula $^{o}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Answer:
+ b) is the correct answer.
+ }
+\end_layout
+
 \begin_layout Description
 
 \series bold
@@ -868,6 +1168,29 @@ c) 12 m,
 \begin_layout Quote
 d) 20 m,
  20 m
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ The displacement in a velocity-time graph is given by the area under the graph with proper signs.
+ From 0s - to 2s ,
+ the area is 8m .
+ From 2s - to 4s ,
+ the area is -4m .
+ From 4s - to 8s ,
+ the area is 8m.
+ Adding these 3 values ,
+ we get 8m + (-4m) + 8m = 12m.
+ } The distance in a v-t graph is given by the absolute area under the graph.
+ So,
+ taking the absolute values of individual area divisions,
+ we get 8m + 4m + 8m =20m
+\end_layout
+
+\begin_layout Quote
+Answer:
+ a) is the correct answer.
+ }
 \end_layout
 
 \begin_layout Description
@@ -943,6 +1266,102 @@ d) Somewhere on the graph,
  both trains have the same acceleration.
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ Depending on the question requirements,
+ we'll have to check all the assertions one by one.
+\end_layout
+
+\begin_layout Quote
+a) In a position time graph,
+ the slope gives velocity.
+ It can be clearly seen that Graph B has a much lower slope than Graph A at time 
+\begin_inset Formula $t_{B}$
+\end_inset
+
+.
+ So,
+ the assertion is wrong.
+\end_layout
+
+\begin_layout Quote
+b,c) By drawing a line parallel to the line A which is a tangent to Graph B ,
+ it can be seen where the two graphs have same slope.
+ It is clear that the graphs have same slope between 0 and 
+\begin_inset Formula $t_{B}$
+\end_inset
+
+ as noted from the figure.
+ So,
+ assertion b is wrong while c is correct.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/Paralleltracktrainssolution.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+d) As the Graph A has a constant slope,
+ so the acceleration of body A is zero.
+ Whereas Graph B is constantly turning,
+ so the slope can be assumed to be non-zero throughout.
+ According to some revelations,
+ however it is noted that the figure is not clear enough to show whether Graph B is straight after 
+\begin_inset Formula $t_{B}$
+\end_inset
+
+ or bending.
+ In case it is assumed to be straight,
+ then after 
+\begin_inset Formula $t_{B}$
+\end_inset
+
+ both trains will have same (zero) acceleration.
+ Also at start both have large (infinite) accelration,
+ in which case the ratio of the two large ( infinite ) values may be calculated if initial conditions are mentioned and is required.
+\end_layout
+
+\begin_layout Quote
+At our level we would assume this assertion to be wrong,
+ however making a note that the image should have been more clearly presented.
+\end_layout
+
+\begin_layout Quote
+Answer:
+ c) is the correct assertion.
+ }
+\end_layout
+
 \begin_layout Description
 
 \series bold
@@ -1002,6 +1421,36 @@ c) 16 m
 
 \begin_layout Quote
 d) 18 m
+\end_layout
+
+\begin_layout Quote
+{ Hint :
+ For displacement calculations,
+ between 0 - to 4 ,
+ area of the positive trapesium = 
+\begin_inset Formula $\dfrac{1}{2}\times\left(2+4\right)\times4$
+\end_inset
+
+ = 12
+\end_layout
+
+\begin_layout Quote
+between 4 - to 8,
+ area of negative trapesium =
+\begin_inset Formula $\dfrac{1}{2}\times(2+4)\times(-2)$
+\end_inset
+
+ = -6.
+\end_layout
+
+\begin_layout Quote
+So ,
+ the answer is +6
+\end_layout
+
+\begin_layout Quote
+So ,
+ a is the correct option.}
 \end_layout
 
 \begin_layout Subsection
@@ -1109,6 +1558,108 @@ c) 4 m
 d) 6 m 
 \end_layout
 
+\begin_layout Quote
+{Hint:
+ For solving this problem,
+ we draw the graph of the problem,
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q1-secondequation-Answers.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+Accordning to graph,
+ let the time when it reaches maximum velocity be T,
+ and the maximum velocity be V.
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+V = 2XT and also V = 4X(3-T)
+\end_layout
+
+\begin_layout Quote
+Equating the equations,
+\end_layout
+
+\begin_layout Quote
+2T = 12-4T = V
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+6T = 12
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+T = 2
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+ V = 2T = 4
+\end_layout
+
+\begin_layout Quote
+Calculating the area under the graph using the calculated parameters,
+ Area = 1/2 X 4 X 3 = 6m
+\end_layout
+
+\begin_layout Quote
+So ,
+ area under the graph is 6m = displacement .
+ Also,
+ as all the area is on the positive side,
+ so distance = 6m.
+ 
+\end_layout
+
+\begin_layout Quote
+}
+\end_layout
+
 \begin_layout Description
 Example:
  A particle starts from rest.
@@ -1138,7 +1689,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/accelerationvstime.jpg
-	scale 72
+	scale 75
 
 \end_inset
 
@@ -1164,6 +1715,60 @@ c) 550 m/s
 
 \begin_layout Quote
 d) 660 m/s
+\end_layout
+
+\begin_layout Quote
+{ Hint :
+ Writing the equation of the graph ,
+ we get 
+\begin_inset Formula $\dfrac{a}{10}+\dfrac{t}{11}=1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\begin_inset Formula $a=\dfrac{10}{11}(11-t)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Integrating,
+ ( we will assume initial velocity to be zero as the body starts from rest.
+ )
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $v=\dfrac{10}{11}(11t-\dfrac{1}{2}t^{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Substituting 
+\begin_inset Formula $t=11s$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $v_{11s}=55m/s$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Answer:
+ b) is the correct answer }
 \end_layout
 
 \begin_layout Description
@@ -1221,6 +1826,20 @@ c) 12 m/s
 
 \begin_layout Quote
 d) 14 m/s
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ Area under the acceleration-time graph is change in velocity.
+ Area of the triangle is Half ( into ) base ( into ) altitude = 8m/s.
+ Adding the initial value of 2m/s ,
+ we get 2 + 8 = 10m/s.
+ 
+\end_layout
+
+\begin_layout Quote
+Answer:
+ b) is the correct answer }
 \end_layout
 
 \begin_layout Description
@@ -1292,6 +1911,18 @@ d) Graphs I,
  II and III
 \end_layout
 
+\begin_layout Quote
+{Hint:
+ Area under the acceleration time graphs give change in velocity.
+ In all the three figures,
+ the area under the graphs are +ve,
+ hence velocity is increasing in all cases.
+ As the initial velocity is +ve ,
+ in all three cases the velocity remains throughout positive.
+ So ,
+ the speed is also increasing in all cases.}
+\end_layout
+
 \begin_layout Description
 Example:
  A body starts from rest and moves along a straight line with constant acceleration.
@@ -1330,6 +1961,70 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ The problem given has 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+= 0 
+\end_layout
+
+\begin_layout Quote
+Now acceleration = constant ( lets say k ) = 
+\begin_inset Formula $\dfrac{dv}{dt}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\begin_inset Formula $k=v\dfrac{dv}{ds}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\begin_inset Formula $\int_{0}^{v}vdv=\int_{0}^{s}kds$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\begin_inset Formula $v=\sqrt{2ks}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+The graph is proportional to square root function
+\end_layout
+
+\begin_layout Quote
+Hence ,
+ b (as it is the only graph with such a property )
+\end_layout
+
+\begin_layout Quote
+Answer :
+ b) is the correct graph }
 \end_layout
 
 \begin_layout Subsection
@@ -1442,6 +2137,32 @@ c) 2 m/s
 d) None of these
 \end_layout
 
+\begin_layout Quote
+{ Hint :
+ The area under the a-x graph gives change in 
+\begin_inset Formula $\dfrac{v^{2}}{2}$
+\end_inset
+
+ as can be evaluated by Integration method.
+ The area of triange is (0.5) X (1) X (1) = 0.5
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+v = 1m/s .
+ Initial position is given to be 0 in the graph.
+ Hence,
+ we take only the positive sign.
+\end_layout
+
+\begin_layout Quote
+Answer :
+ a) is the correct answer.
+ }
+\end_layout
+
 \begin_layout Description
 Example :
  A particle initially at rest,
@@ -1498,6 +2219,22 @@ c) 55 m/s
 
 \begin_layout Quote
 d) 110 m/s
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ The area under the a-t graph is half the change in 
+\begin_inset Formula $v^{2}$
+\end_inset
+
+.
+ Area under the graph is 55.
+ So 
+\begin_inset Formula $v_{max}=\sqrt{110}m/s$
+\end_inset
+
+ .
+ Hence none of the answers is correct }
 \end_layout
 
 \begin_layout Section
@@ -1616,6 +2353,13 @@ c) c
 d) d 
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ By the above mentioned propositions,
+ d) is the required section with positive velocity and negative accleration.
+ }
+\end_layout
+
 \begin_layout Subsection
 \begin_inset Index idx
 range none
@@ -1695,6 +2439,84 @@ c) 2.4 s
 
 \begin_layout Quote
 d) 5 s
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ The tangent from 0 to the circle is drawn.
+ It's normal passes through the center of the circle.
+ Time at this instant needs to be calculated.
+\end_layout
+
+\begin_layout Quote
+If H=5 ,
+ R = 3 ,
+ Length of tangent = 4.
+ (By Pythagoras.)
+\end_layout
+
+\begin_layout Quote
+Angle which the tangent makes with the t axis is 
+\begin_inset Formula $\theta$
+\end_inset
+
+ = 
+\begin_inset Formula $sin^{-1}(3/5)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+So,
+ the projection of tangent on t axis ( i.e.
+ the required time ) = 4 cos 
+\begin_inset Formula $\theta$
+\end_inset
+
+ = 
+\begin_inset Formula $4\times\dfrac{4}{5}=3.2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q1-avinseq-Answer.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+}
 \end_layout
 
 \begin_layout Subsection
@@ -1804,6 +2626,51 @@ status open
 
 \end_layout
 
+\begin_layout Quote
+{Hint:
+ Using Co-Ordinate Geometry Result studied in +1 Mathematics,
+ we get the equation of the graph
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $\dfrac{v}{v_{o}}+\dfrac{x}{x_{o}}=1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+We are supposed to find the a-x graph from this.
+\end_layout
+
+\begin_layout Quote
+So,
+ we rewrite this equation as 
+\begin_inset Formula $v=v_{o}(1-\dfrac{x}{x_{o}})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Differentiating,
+ we get 
+\begin_inset Formula $a=-\dfrac{v_{o}}{x_{o}}=constant$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Hence d) is the requisite graph.
+\end_layout
+
+\begin_layout Quote
+Answer:
+ d) is the correct answer.
+ }
+\end_layout
+
 \begin_layout Description
 Example.
  The velocity (v) of a body moving along the postive x-direction varies with displacement (x) from the origin as p v = k x ,
@@ -1844,6 +2711,22 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{Hint:
+ The variable p removes the dependence of v on x and gives emphasis only on the first condition that body is moving along positive x-direction.
+ In Graphs a) ,c) body is moving along positive x-direction,
+ However,
+ a) is a specific case when p is proportional to x and not the general case.
+ Only c) covers the general case of all possible p and still moving in positive x-direction.
+ Hence c) is the correct answer
+\end_layout
+
+\begin_layout Quote
+Answer:
+ c) is the required answer.
+ }
 \end_layout
 
 \begin_layout Subsection
@@ -1906,6 +2789,18 @@ status open
 
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ If we take the downward axis as positive,
+ v will keep on increasing till the object hits something.
+ 
+\end_layout
+
+\begin_layout Quote
+So,
+ a) is the correct answer.}
+\end_layout
+
 \begin_layout Description
 Example:
  The velocity-time graph of a body falling from rest under gravity and rebounding from a solid surface is represented by which of the following graphs?
@@ -1943,6 +2838,18 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ At rebound,
+ the velocity would become negative of itself if the collision is perfectly elastic.
+ Only in graph (a) such a thing is happening.
+ 
+\end_layout
+
+\begin_layout Quote
+a) is the correct answer.}
 \end_layout
 
 \begin_layout Description
@@ -1985,6 +2892,27 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ Before the strike,
+ body A has velocity u-gt whereas body B has velocity -gt.
+ So,
+ a constant difference of u remains.
+ Before strike,
+ u-gto+gto=u .
+ However ,
+ after that it is u-gt ,
+ the time being to=u/g of strike.
+ So,
+ the negative slope line starts from the x-axis and a discontinuity comes into picture.
+ 
+\end_layout
+
+\begin_layout Quote
+So ,
+ C) is the required graph.}
 \end_layout
 
 \begin_layout Subsection
@@ -2048,6 +2976,28 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ 
+\begin_inset Formula $v_{x}$
+\end_inset
+
+ would remain constant as ucos
+\begin_inset Formula $\theta$
+\end_inset
+
+ and 
+\begin_inset Formula $v_{y}$
+\end_inset
+
+ would linearly decrease and go negative after maximum height is attained(if the fire angle is +ve).
+\end_layout
+
+\begin_layout Quote
+So,
+ a) is the requisite graph.}
 \end_layout
 
 \begin_layout Subsection
@@ -2140,6 +3090,18 @@ status open
 
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ The graph has initially (0-5) a +ve slope,
+ then zero slope and then (15-20) an equal -ve slope
+\end_layout
+
+\begin_layout Quote
+So,
+ d) is the correct answer.
+ }
+\end_layout
+
 \begin_layout Description
 Example.
  Which of the displacement-time (x−t) graphs shown in Fig.
@@ -2178,6 +3140,17 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ The object cannot be at two positions on a single time instant,
+\end_layout
+
+\begin_layout Quote
+So,
+ d) is the correct option.
+ }
 \end_layout
 
 \begin_layout Description
@@ -2220,6 +3193,21 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint:
+ As the car is accelerating upto 4 seconds,
+ the graph should be concave up.
+ Further ahead ,
+ it moves with constant velocity ,
+ so a positive slope ahead of 4 seconds.
+ 
+\end_layout
+
+\begin_layout Quote
+d) is the correct answer.
+ }
 \end_layout
 
 \begin_layout Description
@@ -2287,6 +3275,35 @@ status open
 
 \end_layout
 
+\begin_layout Quote
+{ Hint :
+ While both are in air,
+ the differece of their velocity vectors would be a constant vector ,
+ so 
+\begin_inset Formula $\triangle x=c_{1}t$
+\end_inset
+
+ .
+ Also,
+ after the first stone hits ground,
+ 
+\begin_inset Formula $\triangle x=c_{2}t-x_{o}$
+\end_inset
+
+ as the velocity component in x direction of second stone is constant.
+ There is no discontinutiy.
+ So,
+ both before and after one hits the ground ,
+ it would be a straight line.
+ 
+\end_layout
+
+\begin_layout Quote
+Hence,
+ d) is the correct answer.
+ }
+\end_layout
+
 \begin_layout Description
 Example.
  Figure shows the velocity-time (v - t) graphs for one dimensional motion.
@@ -2346,6 +3363,19 @@ c) (ii) and (iv) only
 d) all
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ At one particular instant,
+ the object cannot have two different velocities.
+ 
+\end_layout
+
+\begin_layout Quote
+Hence,
+ c) is the correct answer.
+ }
+\end_layout
+
 \begin_layout Description
 Example.
  Which of the velocity-time (v-t) graphs shown in Fig.
@@ -2384,6 +3414,19 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{Hint:
+ In c) ,
+ the particle is constantly increasing in one dimension,
+ In d) ,
+ it stops near the end.
+\end_layout
+
+\begin_layout Quote
+c),d) are the correct answers.
+ }
 \end_layout
 
 \begin_layout Section
@@ -2508,6 +3551,47 @@ c) 90/7 m/s
 d) 40/7 m/s 
 \end_layout
 
+\begin_layout Quote
+{Hint:
+ 1.
+ As no contradictory statements are present,
+ we would take velocity as the value of speed only.
+ Actually velocity is required for calculation of acceleration but here ,
+ speed doesn't contradict anything so we'll use it's value for velocity.
+\end_layout
+
+\begin_layout Quote
+-10 from slope,
+ c)
+\end_layout
+
+\begin_layout Quote
+2.
+ Speed time graph's area is distance.
+ From area calculation,
+ in last 2 seconds,
+ the area is 20 and total area is 90.
+ 
+\end_layout
+
+\begin_layout Quote
+So,
+ 2/9 is the required ration b)
+\end_layout
+
+\begin_layout Quote
+3.
+ Total distance from area is 90,
+ and total time is 7.
+ 
+\end_layout
+
+\begin_layout Quote
+So,
+ 90/7.
+ c)}
+\end_layout
+
 \begin_layout Description
 Example:
  A body starts from rest at time t = 0 and undergoes an acceleration as shown in Fig.Which of the graphs shown in Fig.
@@ -2581,6 +3665,11 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{Hint:
+ d) is the v-t graph by calculating area function.}
 \end_layout
 
 \begin_layout Description
@@ -2667,6 +3756,46 @@ status open
 
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ 1.
+ The area under the accln-time graph gives change in velocity.
+ Till 2.5s,
+ 6-1.5=4.5 is the required area.
+ 
+\end_layout
+
+\begin_layout Quote
+So,
+ c)
+\end_layout
+
+\begin_layout Quote
+2.
+ Area under the v-t graph d) is 12 till 4 seconds.
+ 
+\end_layout
+
+\begin_layout Quote
+So,
+ c)
+\end_layout
+
+\begin_layout Quote
+3.
+ Till 2 seconds ,
+ the graph should be concave-up while from 2 to 4 it should be concave-down.
+\end_layout
+
+\begin_layout Quote
+So,
+ b)
+\end_layout
+
+\begin_layout Quote
+}
+\end_layout
+
 \begin_layout Subsection
 Matching
 \end_layout
@@ -2731,6 +3860,14 @@ r) Motion having a constant retardation
 s) Uniformly accelerated motion.
 \end_layout
 
+\begin_layout Quote
+{ Hint:
+ p->d ,
+ q->a,
+ r ->c ,
+ s->a,b,c }
+\end_layout
+
 \begin_layout Description
 2.
  Figure shows the displacement ·time (x - t) graph of the m-tion of a body.
@@ -2768,6 +3905,13 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Description
+{ Hint p->c,
+ q->a,c,
+ r-> d ,
+ s->b }
 \end_layout
 
 \begin_layout Section
@@ -2840,6 +3984,12 @@ c ) 550 m /s
 
 \begin_layout Quote
 d ) 660 m /s
+\end_layout
+
+\begin_layout Quote
+{ Hint :
+ See In chapter examples for solution.
+ }
 \end_layout
 
 \begin_layout Description
@@ -2915,6 +4065,45 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint :
+ The graph of the question is a straight line with the equation,
+ 
+\begin_inset Formula $\dfrac{x}{x_{o}}+\dfrac{v}{v_{o}}=1$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+This gives ,
+ 
+\begin_inset Formula $v=v_{o}(1-x/x_{o})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+So,
+ diffrentiating it,
+ we get
+\end_layout
+
+\begin_layout Quote
+\begin_inset Formula $a=-v_{o}/x_{o}$
+\end_inset
+
+ which is a constant.
+ Only in a) it is shown to be a constant.
+ 
+\end_layout
+
+\begin_layout Quote
+So,
+ a) }
 \end_layout
 
 \begin_layout Description
@@ -3037,6 +4226,37 @@ c ) 0.3
 d ) zero 
 \end_layout
 
+\begin_layout Quote
+{Hint:
+ Q3:
+ Area under the graph is 36.
+ Taking initial position as zero,
+ c) is the best fit answer.
+\end_layout
+
+\begin_layout Quote
+Q4.
+ For av.
+ velocity,
+ total displacement / total time should be calculated.
+ which is 36/12 = 3m/s .
+ d ) is the required answer.
+\end_layout
+
+\begin_layout Quote
+Q5.
+ The accln is 1.8 from 0s to 2s,
+ 0 from 2s to 10s and -1.8 from 10s to 12s.
+ So,
+ area under the a-t graph is zero.
+ So av.
+ accln is zero d)
+\end_layout
+
+\begin_layout Quote
+}
+\end_layout
+
 \begin_layout Description
 Q6:
  Four persons K,
@@ -3062,6 +4282,16 @@ c ) d / 2v s
 
 \begin_layout Quote
 d ) d / 2v s
+\end_layout
+
+\begin_layout Quote
+{Hint:
+ Not a graphs question,
+ we'll discuss it in kinematics book.
+ Athough an easy one.
+ It was mistakenly added to graphs book.
+ Let's use it to signify the fact that even if a diagram is made,
+ it is still not a graph.}
 \end_layout
 
 \begin_layout Description
@@ -3105,6 +4335,49 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Quote
+{ Hint :
+ Case 1:
+ Thrown from height h with zero initial velocity,
+ v=-gt and h = 
+\begin_inset Formula $h_{o}-1/2gt^{2}$
+\end_inset
+
+,
+ so eliminating t,
+ we get 
+\begin_inset Formula $h=h_{o}-v^{2}/2g$
+\end_inset
+
+.
+ So,
+ 
+\begin_inset Formula $v=-\sqrt{2g(h_{o}-h)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Case 2:
+ We assume the opposite for solving purpose that the ball is now thrown from a height 
+\begin_inset Formula $h_{o}/2$
+\end_inset
+
+ and replace ho only and see the effect.
+ Taking upward velocity as positive ,
+ we get 
+\begin_inset Formula $v=\sqrt{2g(h_{o}/2-h)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+a) is the required answer.
+ }
 \end_layout
 
 \begin_layout Quote
