@@ -1,0 +1,101 @@
+Newbie FAQs on units in Age of Empires
+
+1.I get an out-of-sync worldtime error after 10-12 minutes of the game.What to do?
+
+Ans. Install 1.0e patch
+
+2.What is attack bonus/Shield???
+Ans.
+Normal Situation
+Take the example of a hypothetical unit in Age of Empires say SCODA with an attack of 23+4 . Now it hits another unit RAX with hit points 230 and armour 2+3/0+4. If SCODA is a Contact attack unit, Then RAX would lose 27-5=22 hitpoints on 1 hit, while if it is a pierce attack unit, RAX would lose 27-4=23 Hitpoints.
+
+Attack bonus.
+If RAX loses more than 22 points (say 29 pts) to a contact attack SCODA, then we say that SCODA has an attack bonus of 7 over RAX.
+
+Shield
+
+If RAX loses less than 22 points ( say 18 pts) to a contact attack SCODA , then we say that SCODA has a shield of 4 vs RAX.
+
+3. What is the difference between Barrack and Castle Huskarls?
+
+Ans.First of all , the barrack huskarls don't get counted in the total army. They are treated as a different unit than the castle huskarl by the Age of Empires applet.
+
+Secondly, It is only the barrack huskarl which is created faster while the castle huskarl is created at the normal speed.
+
+Thirdly, Although the stats of both castle and barrack huskarls are the same , the barrack huskarls are substantially weaker than the Castle huskarls when it comes to fighting in groups.The programming is different in Age of Empires.
+
+4.What is the advantage of huskarl over archers and scorpions?
+
+Ans.A Huskarl has High pierce armour + Attack bonus + Shield vs Archers..while vs Scorpions it has only Pierce armour
+
+4.What about eagle warriors????
+
+Eagle warriors are exactly the other way round .... They have High pierce armour + Attack bonus + Shield vs Seige attack...while ony pierce armour vs Archers.
+
+5.Which is the most effective unit vs Elite war elephants(If you want to kill them)?
+
+Ans.Heavy Scorpion(Celts/ and to a slightly lesser extent Chinese)
+
+6.What is ground attack in Age of Empires??
+
+Ans. 7 helbs are hitting a war elephant, while the elephant is hitting only one, still all those hitting the elephant are losing hitpoints, we say that the elephant has a ground attack.
+
+The Cataphract Trample damage is limited only to infantry. vs infantry it is ground attack.
+8.Are trebeuchets of any two civilizations same???
+
+NO
+
+Japs > Celts > Viking > Huns >.......>Saracens> Teutons
+
+9.Does huskarl have a bonus over gunpowder??
+
+Yes
+
+10.Do Archers have bonus over Cataphracts??
+
+NO
+
+11.Does eagle warrior has bonus over Cavalry??
+
+Yes
+
+12.Changing the Difficulty level of the game changes the number of wolves???
+
+Ans. YES. You have more wolves in hardest than in hard mode
+
+13.What is house bug Age of Empires??
+
+Ans.HOUSE BUG - build house and move it over an explored area. You will now notice that when you move it over an area where enemy has buildings or units it will turn red showing that you cant build there.
+works with all buildings.
+Use the house bug to find enemy forwards, know if he is going stone/gold or to find his army.
+
+14.What is a HANG in Age of Empires?
+
+Ans.Hang is the situation when the Age of Empires engine has to do more calculations than normal. e.g. when 40 scorpions fire on 40 Paladins..... the number of calculations involved is too high. Each scorpion Arrow in 2 dimensions passes through n paladins in 2 dimensions each...and they are moving... So the Age of Empires engine has to find the intersection of them..Now it has to do the same for all 40 Scorpions. ... Stopping the Moving Paladin reduces the number of calculations, so Age of Empires applet sometimes does that also..
+
+Typical reasons of HANG
+
+Age of Empires engine supports a maximum population of around 600-700... When the total population goes beyond this , the number of calculations involved gets too high... e.g. In a 3v3 with 200 pop each player (total 1200) the number of calculations is too high
+
+Mongol moving onagers... Now the onager is moving...Say 10's of onagers are moving..40 paladin are moving...this situation gives the Age of Empires engine something impossible to calculate...So what it does, first it stops the Paladin, then it stops the onager and then takes the shot first, before allowing them to move.
+
+15.Which is the best seige weapon in Age of Empires???
+
+Ram/Trebuchet/Bombard Cannon
+
+In my opinion Bombard Cannon is the best of these 3. Gunpowder + Bombard Cannons is the fastest sweeping army in Age of Empires. But Gunpowder Civs are only used in maps like Arena. So we don't get to see the Actual power of these units very often. In arabia , civs Huns / Mongols / Chinese are used which lack Gunpowder.
+
+RAMs are the most overrated of these 3 in Expert gaming. I see a lots of experts using RAMS to kill even Mongol Casltes which is wrong. Otherwise rams are a better option then trebs and can be used for very fast sweep.
+
+Trebs.
+If you are Japanese , there is no point using RAMs .. You must take full advantage of your Civ bonus. Also in maps with constricted paths, Trebs are the best option of these three because of their range. Try playing Danube . However in open maps like arabia, Trebs are mostly useless(except of course vs Mongols opponent)
+
+16.Aztec Seige onager vs Mongol Seige onager vs Teuton Seige onager??
+
+Ans.You give command to an Aztec onager to take shot on some unit which is some distance away(the intervening terrain is arbitrary), It will follow the shortest path to the unit (reach a distance 8/9) and take the shot. We say that the aztec onager is normal.
+
+A teuton onager on the other hand will not follow the shortest path (the terrain is arbitrary) , follow some path according to its own intellegence and will take a slightly inaccurate shot.We say that teuton onager is unintellegent.
+
+A mongol onager(fully researched ) will dance on your guidelines, follow your exact commands and will also create a hang for the moving units which come in the firing range(for a very accurate shot). We say that the mongol seige onager is intellegent.
+
+Courtesy:Rajat Kalia or Atilla the Hun
