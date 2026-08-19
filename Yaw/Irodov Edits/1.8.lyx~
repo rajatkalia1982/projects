@@ -1,0 +1,328 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children no
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a3
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Question 1.8 :
+ Two swimmers leave point A on one bank of the river to reach point B lying right across on the other bank.
+ One of them crosses the river along the straight line AB while the other swims at right angles to the stream and then walks the distance that he has been carried away by the stream to get to point B.
+ What was the velocity u of his walking if both swimmers reached the destination simultaneously?
+ The stream velocity 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+ = 2.0 km/hour and the velocity v' of each swimmer with respect to water equals 2.5 km per hour.
+\end_layout
+
+\begin_layout Standard
+Solution Case I :
+ Swimmer swims with final velocity along AB,
+ this case is also called the Shortest Path case.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "foreground"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename F:/DataBack/projects/Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Relative Velocity/Crossing the River problems/Shortest Path.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We see that 
+\begin_inset Formula $\overrightarrow{v'}+\overrightarrow{v_{o}}=\overrightarrow{v}$
+\end_inset
+
+ and they form a right triangle
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow v=\sqrt{v'^{2}-v_{o}^{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+time to reach point B = 
+\begin_inset Formula $\dfrac{AB}{\sqrt{v'^{2}-v_{o}^{2}}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Case II :
+ Swimmer swims at right angle to the stream,
+ this would require the Shortest Time in crossing the river but the problem requires that he would have to walk to get to B.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "foreground"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename F:/DataBack/projects/Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Relative Velocity/Crossing the River problems/Shortest Time in river crossing.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We see that 
+\begin_inset Formula $\overrightarrow{v'}+\overrightarrow{v_{o}}=\overrightarrow{v}$
+\end_inset
+
+ and they form a right triangle,
+ though this time with 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\overrightarrow{v}$
+\end_inset
+
+ as the hyportenuse.
+ It should be noted however that this time v',
+ vo and v vectors are different from Case I while the magnitudes of v' and vo are the same.
+ Our problem Case II is independent in this regard from case I and we can choose the same names without loss of generality
+\end_layout
+
+\begin_layout Standard
+Proceeding to solve the question
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{AB}{v'}=\dfrac{d_{w}}{v_{o}}$
+\end_inset
+
+ (By similarity of triangles,
+ from figure)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow d_{w}=\dfrac{v_{o}}{v'}.AB$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time 
+\begin_inset Formula $t_{1}$
+\end_inset
+
+ to cross the river and reach the point (say C ) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{1}=\dfrac{AB}{v'}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time 
+\begin_inset Formula $t_{2}$
+\end_inset
+
+ to cross the distance dw back to B
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{2}=\dfrac{d_{w}}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Total time = 
+\begin_inset Formula $t_{1}+t_{2}=\dfrac{AB}{v'}+\dfrac{d_{w}}{u}=\dfrac{AB}{v'}+\dfrac{\dfrac{v_{o}}{v'}.AB}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Proceeding to solve the problem by comparing both the cases,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{AB}{\sqrt{v'^{2}-v_{o}^{2}}}=\dfrac{AB}{v'}+\dfrac{\dfrac{v_{o}}{v'}.AB}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solving further,
+ we get the required form,
+ first cancelling AB and cross multiplying v'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{v'}{\sqrt{v'^{2}-v_{o}^{2}}}-1=\dfrac{v_{o}}{u}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow u=\dfrac{v_{o}}{\dfrac{v'}{\sqrt{v'^{2}-v_{o}^{2}}}-1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Calculating the value,
+ u = 3 km/hr
+\end_layout
+
+\end_body
+\end_document

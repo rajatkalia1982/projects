@@ -1,0 +1,282 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children no
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a3
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Question 1.7 :
+ Two boats,
+ A and B,
+ move away from a buoy anchored at the middle of a river along the mutually perpendicular straight lines:
+ the boat A along the river,
+ and the boat B across thg river.
+ Having moved off an equal distance from the buoy the boats returned.
+ Find the ratio of times of motion of boats 
+\begin_inset Formula $\tau_{A}/\tau_{B}$
+\end_inset
+
+ if the velocity of each boat with respect to water is 
+\begin_inset Formula $\eta$
+\end_inset
+
+ = 1.2 times greater than the stream velocity.
+ 
+\end_layout
+
+\begin_layout Standard
+Solution:
+ ->
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "foreground"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename F:/DataBack/projects/Images/CC/P-Mechanics/1e/ImagesReduced/Kinematics/Relative Velocity/Crossing the River problems/Theory Problem 2.jpg
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Let the stream velocity be 
+\begin_inset Formula $v_{o}$
+\end_inset
+
+ ,
+ then the boat velocity with respect to water is 
+\begin_inset Formula $\eta v_{o}$
+\end_inset
+
+ .
+ Also let us assume that the equal distance be d.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Case A
+\series default
+ :
+ Final velocity of boat A in forward journey ( in the stream direction )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v=\eta v_{o}+v_{o}=(\eta+1)v_{o}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time to reach the destination =
+\begin_inset Formula $t_{1}=\dfrac{d}{(\eta+1)v_{o}}$
+\end_inset
+
+ ............(1)
+\end_layout
+
+\begin_layout Standard
+Final velocity of boat A in the backward journey ( opposite to the stream direction )
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $v=\eta v_{o}-v_{o}=(\eta-1)v_{o}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Time to reach back to the buoy =
+\begin_inset Formula $t_{2}=\dfrac{d}{(\eta-1)v_{o}}$
+\end_inset
+
+ ............(2)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tau_{A}=t_{1}+t_{2}=\dfrac{d}{(\eta+1)v_{o}}+\dfrac{d}{(\eta-1)v_{o}}=\dfrac{2\eta}{\eta^{2}-1}\dfrac{d}{v_{o}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Case B :
+ 
+\series default
+Here we proceed according to the shortest path case in Theory Problem 1.
+\end_layout
+
+\begin_layout Standard
+In Forward Journey (Upwards in the figure)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{1}=\dfrac{d}{\sqrt{\eta^{2}-1}v_{o}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In Backwards Journey (Downwards in the figure)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $t_{2}=\dfrac{d}{\sqrt{\eta^{2}-1}v_{o}}=t_{1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $\tau_{B}=t_{1}+t_{2}=2t_{1}=\dfrac{2}{\sqrt{\eta^{2}-1}}\dfrac{d}{v_{o}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{\tau_{A}}{\tau_{B}}=\dfrac{\dfrac{2\eta}{\eta^{2}-1}\dfrac{d}{v_{o}}}{\dfrac{2}{\sqrt{\eta^{2}-1}}\dfrac{d}{v_{o}}}=\dfrac{\eta}{\sqrt{\eta^{2}-1}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Substituting the value,
+ we get 6/
+\begin_inset Formula $\sqrt{11}$
+\end_inset
+
+ as the ratio.
+ = 1.81 (approx.)
+\end_layout
+
+\end_body
+\end_document
