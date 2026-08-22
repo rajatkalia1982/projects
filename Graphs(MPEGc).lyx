@@ -129,12 +129,12 @@ Graphs MPEGc ( Mathematics/Physics/Economics/Geography/computing )
 \end_layout
 
 \begin_layout Author
-Manas Kalia and Rajat Kalia
+Rajat Kalia
 \end_layout
 
 \begin_layout Date
-25 December ,
- 2023
+22 August ,
+ 2026
 \end_layout
 
 \begin_layout Standard
@@ -679,6 +679,7 @@ literal "true"
 \begin_layout Standard
 \begin_inset Graphics
 	filename Graphs-MPEGc/students21Aug2026-3.jpg
+	scale 95
 
 \end_inset
 
@@ -8682,45 +8683,6 @@ status open
 \end_layout
 
 \begin_layout Standard
-Solution :
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Box Doublebox
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "72col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/image7_sol.jpg
-	scale 5037
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Flex Strong
 status open
 
@@ -9952,7 +9914,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/Paralleltracktrains.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -10045,7 +10007,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/Paralleltracktrainssolution.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -10133,7 +10095,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/displacementfromvtgraphproblem.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -10250,7 +10212,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/ex2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -10342,7 +10304,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/ex2c.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -10535,7 +10497,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-secondequation-Answers.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -10646,7 +10608,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/accelerationvstime.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -10766,7 +10728,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acc-t-graph-3.jpg
-	scale 75
+	scale 55
 
 \end_inset
 
@@ -10857,7 +10819,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/ncertproblem.jpg
-	scale 75
+	scale 50
 
 \end_inset
 
@@ -11404,7 +11366,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-avinseq.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -11494,7 +11456,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-avinseq-Answer.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -11565,7 +11527,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/velocitydisplacement.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -11603,7 +11565,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-velocitydisplacementanswer.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -11715,7 +11677,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-velocitydisplacement.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -11801,7 +11763,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-freefall.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -11864,7 +11826,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q3-freefall.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -11968,7 +11930,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/Untitled-1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12089,7 +12051,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/DesbienDwain_graphsTPT08.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12170,7 +12132,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q4-freefall.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12246,7 +12208,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-miscelleneous.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12280,7 +12242,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-miscelleneous-Answers.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12341,7 +12303,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-miscelleneous.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12403,7 +12365,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q3-miscelleneous.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12492,7 +12454,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q4-miscelleneous.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12571,7 +12533,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/ImagesReduced/Q5-miscelleneous.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12651,7 +12613,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q6-miscelleneous.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12711,7 +12673,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-passagetype.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12868,7 +12830,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-passagetype_im1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12902,7 +12864,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-passagetype_im2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -12991,7 +12953,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-passagetype-Answers.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -13079,7 +13041,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q1-matchingtype.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -13142,7 +13104,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-matchingtype.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -13205,7 +13167,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/accelerationvstime.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -13268,7 +13230,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/velocitydisplacement.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -13302,7 +13264,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/Q2-previousyearsiit_2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -13381,7 +13343,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/passage-previousyearsiit.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -13572,7 +13534,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/KinematicsClassicalApproach/ImagesReduced/example-previousyearsiit.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -13671,7 +13633,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/22.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -13749,7 +13711,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/positionvstime.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -13922,7 +13884,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/33.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14010,7 +13972,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/34.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14090,7 +14052,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/35.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14166,7 +14128,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/36.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14243,7 +14205,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/37.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14322,7 +14284,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/38.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14409,7 +14371,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/39.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14492,7 +14454,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/velocityvstime.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -14566,7 +14528,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/41.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14637,7 +14599,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/42.jpg
-	scale 75
+	scale 55
 
 \end_inset
 
@@ -14710,7 +14672,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/43.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14785,7 +14747,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/44.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14856,7 +14818,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/45.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -14928,7 +14890,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/49.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15000,7 +14962,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/50.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15059,7 +15021,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/51.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15134,7 +15096,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/1_1_rev.jpg
-	scale 50
+	scale 40
 
 \end_inset
 
@@ -15210,7 +15172,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15274,7 +15236,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_5.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15326,7 +15288,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_6.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15403,7 +15365,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/reviewkinematics/ImagesReduced/1_7_rev.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -15452,7 +15414,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_8.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15497,7 +15459,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_9.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15548,7 +15510,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_10.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15598,7 +15560,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_11plus12.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15706,7 +15668,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_13.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15751,7 +15713,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_14.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15822,7 +15784,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_15.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15893,7 +15855,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_16plus17.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -15960,7 +15922,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Kinematics/1_18to20.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -16087,7 +16049,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/force-time-graph1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -16225,7 +16187,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/th2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -16279,7 +16241,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/th3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -16335,7 +16297,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/large.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -16385,7 +16347,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/large (1).jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -16423,7 +16385,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/large (2).jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -16540,7 +16502,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Friction/ImagesReduced/fsta.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -16600,7 +16562,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Friction/ImagesReduced/fkin.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -16644,7 +16606,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Friction/ImagesReduced/frict1.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -16685,7 +16647,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Friction/ImagesReduced/frictcoef.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -16786,7 +16748,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/Scan_20170409 (5).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -16834,7 +16796,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/Scan_20170409 (5) 2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -16874,7 +16836,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/Scan_20170418 (2).jpg
-	scale 70
+	scale 58
 
 \end_inset
 
@@ -16926,7 +16888,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/Scan_20170418 (2)_trai.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -16967,7 +16929,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/Scan_20170409 (4).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17026,7 +16988,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/im1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17188,7 +17150,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/im2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17351,7 +17313,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/im3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17452,7 +17414,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/im4.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17496,7 +17458,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/graph.jpg
-	scale 50
+	scale 48
 
 \end_inset
 
@@ -17607,7 +17569,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/eample46.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17659,7 +17621,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/eample46solution.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17712,7 +17674,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/14472c80-cdb1-4390-ba60-eb4a609254b6.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17782,7 +17744,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/68302de1-5791-4eab-a050-71942cd43ec0.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17845,7 +17807,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/e38a2cef-0533-454a-aac7-69e5c31eec78.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17893,7 +17855,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/35fe4c31-6a03-4f74-bace-2a4809afc836.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -17941,7 +17903,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/impulse-graph.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18056,7 +18018,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/fig2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18120,7 +18082,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/fig3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18223,7 +18185,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/pic6.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18310,7 +18272,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/pic7.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18377,7 +18339,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/Scan_20170409 (2).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18443,7 +18405,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/Scan_20170418.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -18571,7 +18533,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/001q.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18605,7 +18567,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/001.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18658,7 +18620,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LawsOfMotion/ImagesReduced/001ans.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18844,7 +18806,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/th1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18895,7 +18857,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/th4.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -18953,7 +18915,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/topornek.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19006,7 +18968,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/graphforce.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19070,7 +19032,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/example28.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19109,7 +19071,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/example28solutionson.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19158,7 +19120,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/ImagesReduced/Scan_20170409 (2) FX.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19214,7 +19176,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/ImagesReduced/Scan_20170409 (3).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19291,7 +19253,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/ImagesReduced/002.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19363,7 +19325,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/EnergyConservation/0406768d-b992-4a57-9d87-a50f2b36ebc3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19537,7 +19499,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/RotatoryMotion/rotation-u1.jpg
-	scale 75
+	scale 50
 
 \end_inset
 
@@ -19588,45 +19550,6 @@ status open
 
 \begin_layout Description
 Example:
- Moment of Inertia I of a solid sphere about an axis parallel to a diameter and at a distance x from its centre of mass varies as
-\end_layout
-
-\begin_layout Description
-\begin_inset Box Doublebox
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "70col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/007.jpg
-	scale 50
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Example:
  A wheel is rolling without sliding on a horizontal surface.
  The centre of the wheel moves with a constant speed 
 \begin_inset Formula $v_{o}$
@@ -19660,7 +19583,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/008.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19700,7 +19623,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/009-a.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19739,7 +19662,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/009.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19790,7 +19713,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/010.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19829,7 +19752,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/Scan_20170409 (2).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19881,7 +19804,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/Scan_20170409 (2)_2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19929,7 +19852,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RotatoryMotion/ImagesReduced/Scan_20170409 (2)_3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -19992,7 +19915,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Momentum/ImagesReduced/Scan_20170418 (3).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20073,7 +19996,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/g.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -20141,7 +20064,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/002g.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20183,7 +20106,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/002-a g.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20222,7 +20145,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Scan_20170409 (6).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20266,7 +20189,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Scan_20170409 (6)_2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20313,7 +20236,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Scan_20170409 (7).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20357,7 +20280,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Scan_20170409 (7)_2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20402,7 +20325,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Scan_20170409_73.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20446,7 +20369,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/001a.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20480,7 +20403,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/001.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20527,7 +20450,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Scan_20170407.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20567,7 +20490,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Gravitation_AR1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20649,7 +20572,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Gravitation_AR2_Q.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20683,7 +20606,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/Gravitation_AR2_answer.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20776,7 +20699,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/007.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20904,7 +20827,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Gravitation/ImagesReduced/002.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -20987,7 +20910,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/Sine wave.JPG
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21042,7 +20965,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/cosine wave.JPG
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21090,7 +21013,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/-sinewave.JPG
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21156,7 +21079,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/linear.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21207,7 +21130,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ellipse.JPG
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21259,7 +21182,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407_shm_ob1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21365,7 +21288,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407_ob_answer.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21409,7 +21332,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 (2) ob3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21529,7 +21452,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 (3) obtype2nd_2.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -21589,7 +21512,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 (4) Mtch1.jpg
-	scale 50
+	scale 45
 
 \end_inset
 
@@ -21623,7 +21546,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 (4) Mtch1_questions.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21663,7 +21586,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 (5) Mtching_2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21731,7 +21654,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 (5) Mtching_2.3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21790,7 +21713,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 (6) Comprehension 1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21868,7 +21791,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 Comp.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -21907,7 +21830,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/Scan_20170407 Q1Comp.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -22035,7 +21958,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/SHM/ImagesReduced/002-3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -22243,7 +22166,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/ModuliiOfElasticity/ImagesReduced/Scan_20170407.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -22335,7 +22258,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/Elasticity/elasticity-e1.jpg
-	scale 75
+	scale 45
 
 \end_inset
 
@@ -22433,7 +22356,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/ModuliiOfElasticity/ImagesReduced/Scan_20170407 comp1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -22561,7 +22484,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/ModuliiOfElasticity/ImagesReduced/Scan_20170407 comp1_2.jpg
-	scale 50
+	scale 48
 
 \end_inset
 
@@ -22601,7 +22524,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/ModuliiOfElasticity/ImagesReduced/Scan_20170407 comp1_3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -22690,7 +22613,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -22748,7 +22671,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -22788,7 +22711,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4)_ob.jpg
-	scale 50
+	scale 45
 
 \end_inset
 
@@ -22847,7 +22770,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4) obnxt.jpg
-	scale 50
+	scale 55
 
 \end_inset
 
@@ -22916,7 +22839,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -23010,7 +22933,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_ob2.jpg
-	scale 50
+	scale 48
 
 \end_inset
 
@@ -23093,7 +23016,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (2).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -23198,7 +23121,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3) obx.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -23254,7 +23177,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3) oby.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -23326,7 +23249,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3) obz.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -23464,7 +23387,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3) obz1.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -23525,7 +23448,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3) obz2.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -23597,7 +23520,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_w.jpg
-	scale 70
+	scale 55
 
 \end_inset
 
@@ -23664,7 +23587,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_obu.jpg
-	scale 50
+	scale 43
 
 \end_inset
 
@@ -23698,7 +23621,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_obu2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -23737,7 +23660,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_obv.jpg
-	scale 50
+	scale 40
 
 \end_inset
 
@@ -23793,7 +23716,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (2) obp.jpg
-	scale 50
+	scale 42
 
 \end_inset
 
@@ -24034,7 +23957,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3)_obl.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -24146,7 +24069,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/Images/Scan_20170408 (3)_obe.jpg
-	scale 50
+	scale 70
 
 \end_inset
 
@@ -24200,7 +24123,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4) _obg.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -24313,7 +24236,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4)_obi.jpg
-	scale 50
+	scale 48
 
 \end_inset
 
@@ -24372,7 +24295,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4)_obj.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -24416,7 +24339,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4)_obk.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -24505,7 +24428,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_obm.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -24620,7 +24543,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (2) ob_ma_2.jpg
-	scale 50
+	scale 45
 
 \end_inset
 
@@ -24679,7 +24602,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (2) ob_ma_3.jpg
-	scale 50
+	scale 44
 
 \end_inset
 
@@ -24735,7 +24658,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (2) ob_ma_4.jpg
-	scale 50
+	scale 44
 
 \end_inset
 
@@ -24796,7 +24719,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_ob_m5.jpg
-	scale 50
+	scale 40
 
 \end_inset
 
@@ -24880,7 +24803,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_ob_m6.jpg
-	scale 50
+	scale 42
 
 \end_inset
 
@@ -24948,7 +24871,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_ob_m7.jpg
-	scale 50
+	scale 45
 
 \end_inset
 
@@ -25009,7 +24932,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (3) _obm8.jpg
-	scale 50
+	scale 45
 
 \end_inset
 
@@ -25092,7 +25015,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4) mtch1.jpg
-	scale 50
+	scale 45
 
 \end_inset
 
@@ -25126,7 +25049,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4) mtch1-questions.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25168,7 +25091,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4) mtch2.jpg
-	scale 50
+	scale 44
 
 \end_inset
 
@@ -25202,7 +25125,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408 (4) mtch2-questions.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25249,7 +25172,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_comp1.jpg
-	scale 50
+	scale 3750
 
 \end_inset
 
@@ -25336,7 +25259,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/Scan_20170408_comp2.jpg
-	scale 50
+	scale 47
 
 \end_inset
 
@@ -25451,7 +25374,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/002 Heat1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25512,7 +25435,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/002 Heat2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25573,7 +25496,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/002.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25623,7 +25546,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/003 Heat3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25679,7 +25602,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/003 Heat4.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25739,7 +25662,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/005.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25801,7 +25724,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/001 TD.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25878,7 +25801,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/002-1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25919,7 +25842,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/002-2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -25989,7 +25912,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Thermodynamics/ImagesReduced/003 HeatMatching.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26057,7 +25980,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/MechanicalWaves/ImagesReduced/Scan_20170407 (2).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26099,7 +26022,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/MechanicalWaves/ImagesReduced/Scan_20170407.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26145,7 +26068,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/MechanicalWaves/ImagesReduced/Scan_20170407_q1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26188,7 +26111,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/MechanicalWaves/ImagesReduced/Scan_20170408.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26271,7 +26194,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Sound/ImagesReduced/Scan_20170407 (3).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26316,7 +26239,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Sound/ImagesReduced/Scan_20170407 (4).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26426,7 +26349,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Sound/ImagesReduced/006.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26493,7 +26416,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Sound/ImagesReduced/006_ans.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26667,7 +26590,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170409 (3) _ob1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26706,7 +26629,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170409 (3) _ob1q.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26751,7 +26674,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170409.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26792,7 +26715,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170419.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26838,7 +26761,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170419_2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26882,7 +26805,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170419 (2).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26923,7 +26846,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170419 (2)_2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -26963,7 +26886,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Electrostatics/ImagesReduced/Scan_20170419 (3)_3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -27063,7 +26986,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/ohm-meter.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -27119,7 +27042,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/scan240002.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -27191,7 +27114,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/objective1.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -27260,7 +27183,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/objective2.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -27326,7 +27249,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/scan210004.jpg
-	scale 75
+	scale 7560
 
 \end_inset
 
@@ -27451,7 +27374,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/Untitled2.jpg
-	scale 75
+	scale 7560
 
 \end_inset
 
@@ -27542,7 +27465,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/Untitled3.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -27617,7 +27540,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/CurrentElectricity/ImagesReduced/Scan_20170418 (4).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -27668,7 +27591,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/subjective1.jpg
-	scale 75
+	scale 60
 
 \end_inset
 
@@ -27733,7 +27656,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/CurrentElectricity/ImagesReduced/1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -27776,7 +27699,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/CurrentElectricity/ImagesReduced/3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -27905,7 +27828,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/CurrentElectricity/ImagesReduced/7.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -27953,7 +27876,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/CurrentElectricity/ImagesReduced/8.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28065,7 +27988,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/MagneticField/ImagesReduced/Scan_20170419 (5).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28136,7 +28059,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/MagneticField/ImagesReduced/005 IIT20071.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28170,7 +28093,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/MagneticField/ImagesReduced/005 IIT20071-Answer.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28383,7 +28306,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/Photoelectric Effect(1).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28445,7 +28368,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/workfunction(1).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28487,7 +28410,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/photo_.JPG
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28525,7 +28448,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/11(2).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28617,7 +28540,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/circuit.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28715,7 +28638,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/imga.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28753,7 +28676,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/imgb.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28791,7 +28714,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/imgc.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28890,7 +28813,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/Untitled.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28947,7 +28870,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/004 iv.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -28989,7 +28912,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/004 iv-2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29069,7 +28992,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/PhotoElectricEffect/ImagesReduced/004.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29184,7 +29107,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Nucleus/ImagesReduced/008.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29263,7 +29186,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Nucleus/ImagesReduced/001.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29317,7 +29240,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Nucleus/ImagesReduced/001 Nucleus.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29559,7 +29482,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29598,7 +29521,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29644,7 +29567,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/3.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29692,7 +29615,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/4.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29749,7 +29672,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/ImagesReduced/Scan_20170409_obrop1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29795,7 +29718,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/ImagesReduced/Scan_20170409_obrop2q.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29833,7 +29756,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/ImagesReduced/Scan_20170409_obrop2.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29886,7 +29809,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/ImagesReduced/Scan_20170409 (2).jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -29926,7 +29849,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/ImagesReduced/Scan_20170409 (3).jpg
-	scale 75
+	scale 40
 
 \end_inset
 
@@ -29975,7 +29898,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/ImagesReduced/Scan_20170409 (2)_comp1.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30009,7 +29932,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/RayOptics/ImagesReduced/Scan_20170409 (2)_comp1q.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30107,7 +30030,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Semiconductors/ImagesReduced/005.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30150,7 +30073,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Semiconductors/ImagesReduced/006.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30199,7 +30122,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Semiconductors/ImagesReduced/002.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30291,7 +30214,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Semiconductors/ImagesReduced/001-semiconductors.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30361,7 +30284,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Semiconductors/ImagesReduced/003.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30403,7 +30326,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Semiconductors/ImagesReduced/003-a.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30463,7 +30386,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/Semiconductors/ImagesReduced/004.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30551,7 +30474,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/4.1e/Images/LogicGates/ImagesReduced/002-a.jpg
-	scale 50
+	scale 37
 
 \end_inset
 
@@ -30625,8 +30548,8 @@ Indian economics and all it's relations get a graph of this form .
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/resized_Indian market.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/resized_Indian market.jpg
+	scale 37
 
 \end_inset
 
@@ -30645,8 +30568,8 @@ It's called the BLOB.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/resized_outsideindia.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/resized_outsideindia.jpg
+	scale 37
 
 \end_inset
 
@@ -30713,8 +30636,8 @@ If the law of diminishing returns holds true then the opportunity cost of expand
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/ppf_efficient_ineffcient.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/ppf_efficient_ineffcient.jpg
+	scale 37
 
 \end_inset
 
@@ -30733,8 +30656,8 @@ This is an explanation of the law of diminishing returns and it occurs because n
 
 \begin_layout Verse
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/ppf_diminishing_returns.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/ppf_diminishing_returns.jpg
+	scale 37
 
 \end_inset
 
@@ -30782,8 +30705,8 @@ Producing more of both goods would represent an improvement in welfare and a gai
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/ppf_opportunity_cost.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/ppf_opportunity_cost.jpg
+	scale 37
 
 \end_inset
 
@@ -30876,8 +30799,8 @@ Summing the marginal utilities gives us the total utility.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_03.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_03.jpg
+	scale 37
 
 \end_inset
 
@@ -30912,8 +30835,8 @@ The marginal utility of an item can change.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_05.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_05.jpg
+	scale 37
 
 \end_inset
 
@@ -30969,8 +30892,8 @@ So how does the consumer decide what to purchase?
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_07.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_07.jpg
+	scale 37
 
 \end_inset
 
@@ -30992,8 +30915,8 @@ Let’s say that we eat only two goods:
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_08.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_08.jpg
+	scale 37
 
 \end_inset
 
@@ -31012,8 +30935,8 @@ We continue to allocate on budget on those goods that yield the highest marginal
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_09.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_09.jpg
+	scale 37
 
 \end_inset
 
@@ -31032,8 +30955,8 @@ Here is your chance to practice.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_10.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_10.jpg
+	scale 37
 
 \end_inset
 
@@ -31063,8 +30986,8 @@ Our first step is to divide the marginal utility of each item by the price.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_11.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_11.jpg
+	scale 37
 
 \end_inset
 
@@ -31090,8 +31013,8 @@ Knowing how the consumer behaves allows us to derive a demand curve.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_12.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_12.jpg
+	scale 37
 
 \end_inset
 
@@ -31107,8 +31030,8 @@ Recall that as we move along the demand curve,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_13.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_13.jpg
+	scale 37
 
 \end_inset
 
@@ -31123,8 +31046,8 @@ We can plot the two points and create a demand curve for oranges.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_14.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_14.jpg
+	scale 37
 
 \end_inset
 
@@ -31154,8 +31077,8 @@ Is it logical for someone who is maximizing his utility to purchase both water a
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_15.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_15.jpg
+	scale 37
 
 \end_inset
 
@@ -31175,8 +31098,8 @@ Knowing that individuals experience diminishing marginal utility,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_16.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_16.jpg
+	scale 37
 
 \end_inset
 
@@ -31211,8 +31134,8 @@ One example is the price per unit based on package size.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_17.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_17.jpg
+	scale 37
 
 \end_inset
 
@@ -31230,8 +31153,8 @@ Services often follow a similar pricing scheme with lower average prices for mor
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_18.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-1_Consumer_Behavior_18.jpg
+	scale 37
 
 \end_inset
 
@@ -31297,8 +31220,8 @@ Indifference curves and budget constraints allow for a more in-depth analysis of
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_02.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_02.jpg
+	scale 37
 
 \end_inset
 
@@ -31315,8 +31238,8 @@ An indifference curve map shows the family of indifference curves.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Topographic_map_example.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Topographic_map_example.jpg
+	scale 37
 
 \end_inset
 
@@ -31331,8 +31254,8 @@ Source:
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_03.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_03.jpg
+	scale 37
 
 \end_inset
 
@@ -31360,8 +31283,8 @@ For example,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_04.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_04.jpg
+	scale 37
 
 \end_inset
 
@@ -31375,8 +31298,8 @@ Since any combination of the two goods will only yield one level of utility at a
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_05.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_05.jpg
+	scale 37
 
 \end_inset
 
@@ -31404,8 +31327,8 @@ A greater income will cause a parallel shift rightward of the budget constraint 
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_06.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_06.jpg
+	scale 37
 
 \end_inset
 
@@ -31431,8 +31354,8 @@ The slope of the budget constraint is the negative ratio of the prices (-Px/Py).
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_07.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_07.jpg
+	scale 37
 
 \end_inset
 
@@ -31458,8 +31381,8 @@ Given the goal of consumers is to maximize utility given their budget constraint
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_08.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_08.jpg
+	scale 37
 
 \end_inset
 
@@ -31475,8 +31398,8 @@ We previously mentioned that utility is maximized where the marginal utility per
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_09.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_09.jpg
+	scale 37
 
 \end_inset
 
@@ -31498,8 +31421,8 @@ The demand curve can be derived from the indifference curves and budget constrai
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_10.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_10.jpg
+	scale 37
 
 \end_inset
 
@@ -31531,8 +31454,8 @@ For example,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_11.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_11.jpg
+	scale 37
 
 \end_inset
 
@@ -31555,8 +31478,8 @@ Bringing the new budget constraint back to the original indifference curve allow
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_12.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_12.jpg
+	scale 37
 
 \end_inset
 
@@ -31616,8 +31539,8 @@ Another extreme is perfect substitutes.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_14.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_14.jpg
+	scale 37
 
 \end_inset
 
@@ -31650,8 +31573,8 @@ The amount of food and other goods,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_15.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_15.jpg
+	scale 37
 
 \end_inset
 
@@ -31673,8 +31596,8 @@ Unfortunately,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_16.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_16.jpg
+	scale 37
 
 \end_inset
 
@@ -31692,8 +31615,8 @@ If the consumer could convert a portion of the food stamps to cash,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_17.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_17.jpg
+	scale 37
 
 \end_inset
 
@@ -31726,8 +31649,8 @@ Similarly,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_18.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/5-2_Indifference_Curves_18.jpg
+	scale 37
 
 \end_inset
 
@@ -31794,8 +31717,8 @@ The resulting demand schedule for gas might look like this.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-1.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-1.jpg
+	scale 37
 
 \end_inset
 
@@ -31826,8 +31749,8 @@ So,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-2.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-2.jpg
+	scale 37
 
 \end_inset
 
@@ -31908,8 +31831,8 @@ Using our gasoline example,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-3.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-3.jpg
+	scale 37
 
 \end_inset
 
@@ -31936,8 +31859,8 @@ As price rises,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-4.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-4.jpg
+	scale 37
 
 \end_inset
 
@@ -32010,8 +31933,8 @@ Consider our example.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-5.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-5.jpg
+	scale 37
 
 \end_inset
 
@@ -32057,8 +31980,8 @@ If consumers are faced with an extreme change in the price of gas,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-6.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-6.jpg
+	scale 37
 
 \end_inset
 
@@ -32075,8 +31998,8 @@ You can see this in the graph in figure 4,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-7.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-7.jpg
+	scale 37
 
 \end_inset
 
@@ -32114,8 +32037,8 @@ With a shift in demand,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-8.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-8.jpg
+	scale 37
 
 \end_inset
 
@@ -32139,8 +32062,8 @@ A common complaint with the oil and gas industry is that suppliers deliberately 
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-9.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-9.jpg
+	scale 37
 
 \end_inset
 
@@ -32155,8 +32078,8 @@ Figure 5,
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename I:/Github/projects/Images/CC/CSS/3e/ImagesResized/Untitled-10.jpg
-	scale 50
+	filename Images/CC/CSS/3e/ImagesResized/Untitled-10.jpg
+	scale 37
 
 \end_inset
 
