@@ -703,6 +703,50 @@ Initiation
 Preface
 \end_layout
 
+\begin_layout Standard
+I've been working on books of Graphs since 2011-12.
+ While the subject at the Graduate Enterance Level is in a stalemate,
+ I've been trying to write all of the Graphs in a single Compilation.
+ As far as the learning of this subject is concerned,
+ I am an IITian myself and mastered all of these things I'm telling here,
+ there is more than enough reason for me to expect a neatly written Text.
+ 
+\end_layout
+
+\begin_layout Standard
+Typical Mathematics Graphs are basically mostly transformation based or Stanadard Type Graph based with respective transformations.
+ 
+\end_layout
+
+\begin_layout Standard
+Physics Graphs are basically chapter based,
+ with interesting methods for each new chapter.
+ 
+\end_layout
+
+\begin_layout Standard
+Commerce Graphs I am still trying to get to the girth,
+ but It still is a long way,
+ I'll get enough time after my kid's degree entrance it seems.
+\end_layout
+
+\begin_layout Standard
+Geography ,
+ I have practical experience during my near to Chandigarh hill stations visits,
+ and from here it's easy to learn.
+ Google is handy,
+ I mean you don't need a special degree for learning this aspect,
+ and old age browsing is easy for this piece of education.
+\end_layout
+
+\begin_layout Standard
+computing graphs I had many many teachers who were more eager to teach,
+ than I was available to learn.
+ I still have learnt ,
+ while those people kept on pushing .
+ By now I need it also for writing in this book.
+\end_layout
+
 \begin_layout Chapter*
 Acknowledgements
 \end_layout
@@ -713,8 +757,292 @@ I would like to thank my son Manas for his love and support.
  to my father for the day to day needs.
 \end_layout
 
+\begin_layout Standard
+Yeah Mathematics Graph Methodologies were well explained by Chitkara Sir and again well treated by RN Sir as well.
+ Then there is a book by Arihant Guys which has sufficient depth.
+ You can try looking for more advanced stuff on google also,
+ while you'll get none new it seems and the IIT training books have enough and completely explained.
+\end_layout
+
+\begin_layout Standard
+Arvind Chauhan is a standalone master all the way.
+ Then these Arihant Guys had a publication in their magazine which got me the idea of the first book I started working on.
+\end_layout
+
+\begin_layout Standard
+Commerce I started learning from my wife and still continuing under Neha Mam,
+ while some of the top features were explained during my MBA lectures,
+ by one of the teacher,
+ I don't know her name again.
+ 
+\end_layout
+
+\begin_layout Standard
+Geography Contours etc I was eager to learn during my Xth Class Exam.
+ One smartass Lecturer took one of our lecture once and discussed many interesting things,
+ which got me interested.
+ Contours etc.
+ mommy explained to me,
+ and look easy as of now.
+ Furthur GPS nowadays is really advanced,
+ earlier blackberry people had their personally featured altitude calculation while I had the IPhone with Airtel plan for competing.
+ As of by now,
+ blackberry guys have quit the business.
+\end_layout
+
+\begin_layout Standard
+computing graphs I worked on for 6 hard years at IIT while trying to complete my Bachelors in Electrical Engineering.
+ Matlab is a standard there,
+ while I had more interest in other highend programming languages,
+ Matlab also I am woking on since my degree got completed and I gave my GATE paper in 2012 also.
+ 
+\end_layout
+
 \begin_layout Part*
 Mathematics
+\end_layout
+
+\begin_layout Chapter
+Graph Transformations
+\end_layout
+
+\begin_layout Standard
+There are many times when you’ll know very well what the graph of a particular function looks like,
+ and you’ll want to know what the graph of a very similar function looks like.
+ In this chapter,
+ we’ll discuss some ways to draw graphs in these circumstances.
+ 
+\end_layout
+
+\begin_layout Standard
+Transformations “after” the original function Suppose you know what the graph of a function f(x) looks like.
+ Suppose d 
+\begin_inset Formula $\epsilon$
+\end_inset
+
+ R is some number that is greater than 0,
+ and you are asked to graph the function f(x) + d.
+ The graph of the new function is easy to describe:
+ just take every point in the graph of f(x),
+ and move it up a distance of d.
+ That is,
+ if (a,
+ b) is a point in the graph of f(x),
+ then (a,
+ b + d) is a point in the graph of f(x) + d.
+\end_layout
+
+\begin_layout Standard
+As an explanation for what’s written above:
+ If (a,
+ b) is a point in the graph of f(x),
+ then that means f(a) = b.
+ Hence,
+ f(a) + d = b + d,
+ which is to say that (a,
+ b + d) is a point in the graph of f(x) + d.
+\end_layout
+
+\begin_layout Standard
+The chart on the next page describes how to use the graph of f(x) to create the graph of some similar functions.
+ Throughout the chart,
+ d > 0,
+ c > 1,
+ and (a,
+ b) is a point in the graph of f(x).
+\end_layout
+
+\begin_layout Standard
+Notice that all of the “new functions” in the chart di↵er from f(x) by some algebraic manipulation that happens after f plays its part as a function.
+ For example,
+ first you put x into the function,
+ then f(x) is what comes out.
+ The
+\end_layout
+
+\begin_layout Standard
+function has done its job.
+ Only after f has done its job do you add d to get the new function f(x) + d.
+\end_layout
+
+\begin_layout Standard
+Because all of the algebraic transformations occur after the function does its job,
+ all of the changes to points in the second column of the chart occur in the second coordinate.
+ Thus,
+ all the changes in the graphs occur in the
+\end_layout
+
+\begin_layout Standard
+vertical measurements of the graph.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/transformations.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Examples.
+\end_layout
+
+\begin_layout Standard
+• The graph of 
+\begin_inset Formula $f(x)=x^{2}$
+\end_inset
+
+ is a graph that we know how to draw.
+ 
+\end_layout
+
+\begin_layout Standard
+We can use this graph that we know and the chart above to draw f(x)+2,
+ f(x) − 2,
+ 2f(x),
+ 1 2f(x),
+ and −f(x).
+ Or to write the previous five functions without the name of the function f,
+ these are the five functions 
+\begin_inset Formula $x^{2}+2$
+\end_inset
+
+,
+ 
+\begin_inset Formula $x^{2}−2$
+\end_inset
+
+,
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $2x^{2}$
+\end_inset
+
+,
+ 
+\begin_inset Formula $\dfrac{x^{2}}{2}$
+\end_inset
+
+ ,
+ and 
+\begin_inset Formula $−x^{2}$
+\end_inset
+
+.
+ These graphs are drawn on the next page.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+The Base Graph 
+\begin_inset Formula $y=x^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/xsquare.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Vertical Stretch by 2
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/xsquareby2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
@@ -31892,8 +32220,190 @@ printbibliography
 Geography
 \end_layout
 
+\begin_layout Part
+Basics
+\end_layout
+
+\begin_layout Standard
+Line graphs:
+ Show continuous changes like temperature or river discharge over time.
+\end_layout
+
+\begin_layout Standard
+Bar charts:
+ Compare discrete data like population sizes or land use types.
+\end_layout
+
+\begin_layout Standard
+Climate graphs:
+ Combine a bar chart for rainfall and a line graph for temperature.
+\end_layout
+
+\begin_layout Standard
+Population pyramids:
+ Show age and gender groups for a country.
+\end_layout
+
+\begin_layout Chapter
+Line graphs
+\end_layout
+
+\begin_layout Chapter
+Bar charts
+\end_layout
+
+\begin_layout Chapter
+Climate graphs
+\end_layout
+
+\begin_layout Chapter
+Population pyramids
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
 \begin_layout Part*
 computing
+\end_layout
+
+\begin_layout Part
+Basics
+\end_layout
+
+\begin_layout Chapter
+MATLAB
+\end_layout
+
+\begin_layout Subsubsection
+Decaying Sinusoid
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Decaying Sinusoid
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/decaygssoid.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+B = 1;
+\end_layout
+
+\begin_layout Plain Layout
+r = 0.85;
+\end_layout
+
+\begin_layout Plain Layout
+n = -10:10;
+\end_layout
+
+\begin_layout Plain Layout
+x = B*r.^n;
+ % decaying exponential
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+A = 60;
+\end_layout
+
+\begin_layout Plain Layout
+w0 = 20*pi;
+\end_layout
+
+\begin_layout Plain Layout
+phi = 0;
+\end_layout
+
+\begin_layout Plain Layout
+a = 6;
+\end_layout
+
+\begin_layout Plain Layout
+y = A*sin(w0*n + phi);
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+z = x.*y;
+\end_layout
+
+\begin_layout Plain Layout
+stem (n,z)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

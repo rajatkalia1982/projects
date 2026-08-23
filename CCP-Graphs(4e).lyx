@@ -1,5 +1,5 @@
-#LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 620
+#LyX 2.5 created this file. For more info see https://www.lyx.org/
+\lyxformat 643
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -77,11 +77,19 @@ initials
 \use_indices false
 \paperorientation portrait
 \suppress_date false
-\justification true
-\use_refstyle 1
+\justification default
+\crossref_package refstyle
 \use_formatted_ref 0
 \use_minted 0
 \use_lineno 0
+\backgroundcolor none
+\fontcolor none
+\notefontcolor lightgray
+\boxbgcolor red
+\table_border_color default
+\table_odd_row_color default
+\table_even_row_color default
+\table_alt_row_colors_start 1
 \index Index
 \shortcut idx
 \color #008000
@@ -111,6 +119,7 @@ initials
 \html_be_strict false
 \docbook_table_output 0
 \docbook_mathml_prefix 1
+\docbook_mathml_version 0
 \end_header
 
 \begin_body
@@ -120,7 +129,7 @@ A Complete Course in Physics ( Graphs ) - 4th Edition
 \end_layout
 
 \begin_layout Author
-Manas Kalia
+Rajat Kalia
 \end_layout
 
 \begin_layout Date
@@ -2360,7 +2369,6 @@ options "plain"
 status open
 
 \begin_layout Plain Layout
-
 
 \backslash
 printbibliography
@@ -10515,7 +10523,7 @@ Now acceleration = constant ( lets say k ) =
 \end_inset
 
 
-\begin_inset Formula $\int_{0}^{v}vdv=\int_{0}^{s}kds$
+\begin_inset Formula $\int^{v}_{0}vdv=\int^{s}_{0}kds$
 \end_inset
 
 
@@ -11205,7 +11213,7 @@ So,
 \begin_layout Quote
 Differentiating,
  we get 
-\begin_inset Formula $a=-\dfrac{v_{o}}{x_{o}}v=-\dfrac{v_{o}^{2}}{x_{o}}(1-\dfrac{x}{x_{o}})$
+\begin_inset Formula $a=-\dfrac{v_{o}}{x_{o}}v=-\dfrac{v^{2}_{o}}{x_{o}}(1-\dfrac{x}{x_{o}})$
 \end_inset
 
 
@@ -15594,7 +15602,6 @@ status open
 
 \begin_layout Plain Layout
 
-
 \backslash
 printbibliography
 \end_layout
@@ -15732,7 +15739,7 @@ This definition works well for case where you might use iterative procedures to 
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $Δ\overrightarrow{p}=\intop_{t_{i}}^{t_{f}}\overset{\rightarrow}{F}_{net}dt$
+\begin_inset Formula $Δ\overrightarrow{p}=\intop^{t_{f}}_{t_{i}}\overset{\rightarrow}{F}_{net}dt$
 \end_inset
 
 
@@ -16041,7 +16048,7 @@ Solution
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $v(t)=v_{o}+\dfrac{1}{m}∫_{0}^{t}F(t)dt$
+\begin_inset Formula $v(t)=v_{o}+\dfrac{1}{m}∫^{t}_{0}F(t)dt$
 \end_inset
 
 
@@ -18019,7 +18026,7 @@ status open
 
 \begin_layout Quote
 a) 
-\begin_inset Formula $u=\dfrac{\pi F_{0}^{2}}{2m}$
+\begin_inset Formula $u=\dfrac{\pi F^{2}_{0}}{2m}$
 \end_inset
 
 
@@ -18053,7 +18060,7 @@ d)
 { Hint :
  From impulse relation ,
  
-\begin_inset Formula $mv_{f}=\dfrac{\pi F_{0}^{2}}{2}$
+\begin_inset Formula $mv_{f}=\dfrac{\pi F^{2}_{0}}{2}$
 \end_inset
 
 .
@@ -18315,7 +18322,6 @@ options "plain"
 status open
 
 \begin_layout Plain Layout
-
 
 \backslash
 printbibliography
@@ -19030,7 +19036,6 @@ options "plain"
 status open
 
 \begin_layout Plain Layout
-
 
 \backslash
 printbibliography
@@ -21722,7 +21727,6 @@ options "plain"
 status open
 
 \begin_layout Plain Layout
-
 
 \backslash
 printbibliography
@@ -27607,7 +27611,6 @@ status open
 
 \begin_layout Plain Layout
 
-
 \backslash
 printbibliography
 \end_layout
@@ -28734,7 +28737,6 @@ status open
 
 \begin_layout Plain Layout
 
-
 \backslash
 printbibliography
 \end_layout
@@ -29048,7 +29050,7 @@ d)
 \end_layout
 
 \begin_layout Quote
-\begin_inset Formula $q=\intop_{0}^{R}4\pi r^{2}\left(d-\dfrac{d}{R}r\right)dr$
+\begin_inset Formula $q=\intop^{R}_{0}4\pi r^{2}\left(d-\dfrac{d}{R}r\right)dr$
 \end_inset
 
 
@@ -29056,7 +29058,7 @@ d)
 
 \begin_layout Quote
 =
-\begin_inset Formula $4\pi\left[d\intop_{0}^{R}r^{2}dr-\dfrac{d}{R}\intop_{0}^{R}r^{3}dr\right]$
+\begin_inset Formula $4\pi\left[d\intop^{R}_{0}r^{2}dr-\dfrac{d}{R}\intop^{R}_{0}r^{3}dr\right]$
 \end_inset
 
 
@@ -29685,7 +29687,6 @@ options "plain"
 status open
 
 \begin_layout Plain Layout
-
 
 \backslash
 printbibliography
