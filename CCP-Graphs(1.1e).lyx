@@ -1,5 +1,5 @@
-#LyX 2.4 created this file. For more info see https://www.lyx.org/
-\lyxformat 620
+#LyX 2.5 created this file. For more info see https://www.lyx.org/
+\lyxformat 643
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -48,8 +48,8 @@ initials
 \pdf_colorlinks false
 \pdf_backref false
 \pdf_pdfusetitle true
-\papersize a4
-\use_geometry true
+\papersize a5
+\use_geometry false
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -67,11 +67,19 @@ initials
 \use_indices false
 \paperorientation portrait
 \suppress_date false
-\justification true
-\use_refstyle 1
+\justification default
+\crossref_package refstyle
 \use_formatted_ref 0
 \use_minted 0
 \use_lineno 0
+\backgroundcolor none
+\fontcolor none
+\notefontcolor lightgray
+\boxbgcolor red
+\table_border_color default
+\table_odd_row_color default
+\table_even_row_color default
+\table_alt_row_colors_start 1
 \index Index
 \shortcut idx
 \color #008000
@@ -101,6 +109,7 @@ initials
 \html_be_strict false
 \docbook_table_output 0
 \docbook_mathml_prefix 1
+\docbook_mathml_version 0
 \end_header
 
 \begin_body
@@ -766,7 +775,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/BaloonSeller2 001.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -800,7 +809,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Drawing4.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -834,7 +843,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Drawing6.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -868,7 +877,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Holi 001.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -902,7 +911,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Untitled7.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -936,7 +945,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ManasImgsSlctd/Untitled19.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -1134,7 +1143,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q2-firstequation.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -1221,7 +1230,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/Paralleltracktrains.jpg
-	scale 75
+	scale 50
 
 \end_inset
 
@@ -1314,7 +1323,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/Paralleltracktrainssolution.jpg
-	scale 75
+	scale 50
 
 \end_inset
 
@@ -1391,7 +1400,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/displacementfromvtgraphproblem.jpg
-	scale 75
+	scale 44
 
 \end_inset
 
@@ -1583,7 +1592,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q1-secondequation-Answers.jpg
-	scale 50
+	scale 30
 
 \end_inset
 
@@ -1685,7 +1694,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/accelerationvstime.jpg
-	scale 75
+	scale 44
 
 \end_inset
 
@@ -1796,7 +1805,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acc-t-graph-3.jpg
-	scale 72
+	scale 44
 
 \end_inset
 
@@ -1878,7 +1887,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/ncertproblem.jpg
-	scale 72
+	scale 42
 
 \end_inset
 
@@ -1947,7 +1956,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/Untitled2.jpg
-	scale 72
+	scale 43
 
 \end_inset
 
@@ -1992,7 +2001,7 @@ Now acceleration = constant ( lets say k ) =
 \end_inset
 
 
-\begin_inset Formula $\int_{0}^{v}vdv=\int_{0}^{s}kds$
+\begin_inset Formula $\int^{v}_{0}vdv=\int^{s}_{0}kds$
 \end_inset
 
 
@@ -2105,7 +2114,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/accelerationposition1.jpg
-	scale 72
+	scale 44
 
 \end_inset
 
@@ -2189,7 +2198,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/acclnvsdisplacement.jpg
-	scale 72
+	scale 42
 
 \end_inset
 
@@ -2321,7 +2330,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Original/ClassicalApproach/signofacclnfromxt.jpg
-	scale 72
+	scale 43
 
 \end_inset
 
@@ -2409,7 +2418,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q1-avinseq.jpg
-	scale 50
+	scale 28
 
 \end_inset
 
@@ -2499,7 +2508,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q1-avinseq-Answer.jpg
-	scale 50
+	scale 35
 
 \end_inset
 
@@ -2572,7 +2581,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/ClassicalApproach/velocitydisplacement.jpg
-	scale 72
+	scale 44
 
 \end_inset
 
@@ -2610,7 +2619,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/1e-1.1e/ImagesReduced/Q1-velocitydisplacementanswer.jpg
-	scale 50
+	scale 35
 
 \end_inset
 
