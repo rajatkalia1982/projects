@@ -971,7 +971,7 @@ Concepts of Graphs
 \end_layout
 
 \begin_layout Section
-The Equations of motion and the origin of Graph Handling
+The Equations of motion
 \end_layout
 
 \begin_layout Subsection
@@ -5340,6 +5340,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename D:/projects/Images/CC/P-Graphs/4.1e/Images/Kinematics/graph25.gif
+	scale 65
 
 \end_inset
 
