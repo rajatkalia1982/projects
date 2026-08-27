@@ -34,7 +34,16 @@
 \float_alignment class
 \paperfontsize default
 \spacing single
-\use_hyperref false
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize a4
 \use_geometry true
 \use_package amsmath 1
@@ -102,7 +111,7 @@
 \begin_body
 
 \begin_layout Title
-Complex Numbers ( Algebra )
+Quadratic Equations (Algebra)
 \end_layout
 
 \begin_layout Author
@@ -671,169 +680,54 @@ Problem Set
 \end_layout
 
 \begin_layout Chapter
-\begin_inset Index idx
-range none
-pageformat default
-status open
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-JEE Mains Problems
-\end_layout
-
-\end_inset
-
 JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
 Q1:
- Let x and y be real numbers such that 
-\begin_inset Formula $50\left(\dfrac{2x}{1+3i}-\dfrac{y}{1-2i}\right)=31+17i$
-\end_inset
-
- ,
- 
-\begin_inset Formula $i=\sqrt{-1}.$
-\end_inset
-
-Then the value of 
-\begin_inset Formula $10(x-3y)$
-\end_inset
-
- is :
+ Let α,
+ α + 2 ,
+ α ∈ Z ,
+ be the roots of the quadratic equation
 \end_layout
 
 \begin_layout Standard
-[ JEE Mains 2nd Apr 2026 Shift 1 ]
+x( x + 2 ) + ( x +1 )( x + 3 ) + ( x + 2 )( x + 4 ) + ...........+ ( x + n + 1 )( x + n - 1 ) = 4n for some n ∈ N.
+ Then n + α is equal to :
 \end_layout
 
 \begin_layout Standard
-(A) 20
+[ JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
 \begin_layout Standard
-(B) 31
+A) 0
 \end_layout
 
 \begin_layout Standard
-(C) 35
+B) 1
 \end_layout
 
 \begin_layout Standard
-(D) 75
+C) 2
 \end_layout
 
 \begin_layout Standard
-{ Solution:
+D) 3
+\end_layout
+
+\begin_layout Standard
+{Solution:
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=7bvmAsRoeiU"
-target "https://www.youtube.com/watch?v=7bvmAsRoeiU"
+name "https://www.youtube.com/watch?v=_WAVSUet9a0"
+target "https://www.youtube.com/watch?v=_WAVSUet9a0"
 literal "true"
 
 \end_inset
 
- }
-\end_layout
-
-\begin_layout Chapter
-JEE Advanced Problems
-\end_layout
-
-\begin_layout Standard
-Q1:
- Let ℝ denote the set of all real numbers.
- Let 𝑧1=1+2𝑖 and 𝑧2=3𝑖 be two complex numbers,
- where 𝑖=√−1 .
- Let
-\end_layout
-
-\begin_layout Standard
-𝑆={(𝑥,𝑦)∈ℝ×ℝ∶
-\begin_inset Formula $|𝑥+𝑖𝑦−𝑧_{1}|=2|𝑥+𝑖𝑦−𝑧_{2}|$
-\end_inset
-
-}.
-\end_layout
-
-\begin_layout Standard
-Then which of the following statements is (are) TRUE?
-\end_layout
-
-\begin_layout Standard
-[ JEE Advanced 2025 Paper 1]
-\end_layout
-
-\begin_layout Standard
-(A) 𝑆 is a circle with centre 
-\begin_inset Formula $(−\dfrac{1}{3},\dfrac{10}{3})$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-(B) 𝑆 is a circle with centre 
-\begin_inset Formula $(\dfrac{1}{3},\dfrac{8}{3})$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-(C) 𝑆 is a circle with radius 
-\begin_inset Formula $\dfrac{√2}{3}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-(D) 𝑆 is a circle with radius 
-\begin_inset Formula $\dfrac{2√2}{3}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-{ Solution :
- 
-\begin_inset CommandInset href
-LatexCommand href
-name "https://www.youtube.com/watch?v=cYJl2HBn030"
-target "https://www.youtube.com/watch?v=cYJl2HBn030"
-literal "true"
-
-\end_inset
-
- }
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset index_print
-LatexCommand printindex
-type "idx"
-name "Index"
-
-\end_inset
-
- 
+}
 \end_layout
 
 \end_body
