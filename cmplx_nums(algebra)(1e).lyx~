@@ -7,7 +7,7 @@
 \textclass book
 \use_default_options true
 \maintain_unincluded_children no
-\language american
+\language english
 \language_package default
 \inputencoding utf8
 \fontencoding auto
@@ -34,16 +34,7 @@
 \float_alignment class
 \paperfontsize default
 \spacing single
-\use_hyperref true
-\pdf_bookmarks true
-\pdf_bookmarksnumbered true
-\pdf_bookmarksopen true
-\pdf_bookmarksopenlevel 1
-\pdf_breaklinks false
-\pdf_pdfborder false
-\pdf_colorlinks false
-\pdf_backref false
-\pdf_pdfusetitle true
+\use_hyperref false
 \papersize a4
 \use_geometry true
 \use_package amsmath 1
@@ -111,51 +102,41 @@
 \begin_body
 
 \begin_layout Title
-Co-Ordinate Geometry
+Complex Numbers ( Algebra )
 \end_layout
 
 \begin_layout Author
 Rajat Kalia
 \end_layout
 
-\begin_layout Author
-19 August,
+\begin_layout Date
+16 August,
  2026
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Infrastructure
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 #764,
  41-A,
  Chandigarh {TC(official)} - 160036
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Shamlat (Ramgarh Sardaran),
  Ludhiana,
  Punjab
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 SCO 24(TF),
  41-D,
  Chandigarh - 160036
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.alphaclasses.com/"
@@ -168,14 +149,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Educational
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://github.com/rajatkalia1982"
@@ -188,8 +165,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://sourceforge.net/u/rajatkalia/profile"
@@ -202,8 +177,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.youtube.com/@rajatkaliaeducation"
@@ -216,14 +189,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Store
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.lulu.com/spotlight/rajatkalia11"
@@ -236,8 +205,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://amazon.com/author/rajatkalia"
@@ -250,14 +217,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Sports
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.youtube.com/@indiangamersorganization"
@@ -270,8 +233,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/groups/igohn"
@@ -284,8 +245,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://india.voobly.com/"
@@ -298,14 +257,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Social
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.goodreads.com/sardarbhagatsingh"
@@ -318,8 +273,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://x.com/RajatKalia1"
@@ -332,8 +285,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.linkedin.com/in/rajatkalia007/"
@@ -346,8 +297,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/rajatkalia007"
@@ -360,8 +309,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.instagram.com/rajatkalia007/"
@@ -374,8 +321,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.twitch.tv/rajatkalia"
@@ -388,8 +333,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/rajatkaliaeducation"
@@ -402,8 +345,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.researchgate.net/profile/Rajat-Kalia"
@@ -416,8 +357,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.w3profile.com/rajatkalia/"
@@ -430,8 +369,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.reddit.com/user/rajatkalia/"
@@ -444,14 +381,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Blogs
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://rk-e.blogspot.in/"
@@ -464,8 +397,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://chem-rke.blogspot.com/"
@@ -478,8 +409,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://biosciences-rke.blogspot.com/"
@@ -492,8 +421,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://rk-edu.blogspot.com/"
@@ -506,8 +433,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://medlife-rke.blogspot.com/"
@@ -520,8 +445,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://computers-mke.blogspot.com/"
@@ -534,8 +457,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ee-mke.blogspot.com/"
@@ -548,8 +469,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://me-mke.blogspot.com/"
@@ -562,8 +481,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ce-mke.blogspot.com/"
@@ -576,8 +493,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://mke-whj.blogspot.com/"
@@ -590,8 +505,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ba-xpn.blogspot.com/"
@@ -604,8 +517,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://constitution1982.blogspot.com/"
@@ -618,8 +529,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://debk-mke.blogspot.com/"
@@ -632,8 +541,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://comm-pke.blogspot.com/"
@@ -646,8 +553,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://brigade-13.blogspot.com/"
@@ -661,8 +566,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://battalion-7.blogspot.com/"
@@ -675,8 +578,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://design-mke.blogspot.com/"
@@ -689,8 +590,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://tmm18.blogspot.com/"
@@ -703,14 +602,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Freelancing
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.guru.com/freelancers/rajat-kalia"
@@ -723,8 +618,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.codecademy.com/profiles/rajatkalia"
@@ -737,8 +630,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://leetcode.com/u/rajatkalia1/"
@@ -751,8 +642,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.scribd.com/user/308680256/Rajat-Kalia"
@@ -764,646 +653,636 @@ literal "true"
 
 \end_layout
 
-\begin_layout Part
-Straight Line
-\end_layout
-
-\begin_layout Chapter
-
-\lang english
-The Straight Line
-\end_layout
-
-\begin_layout Subsubsection
-
-\lang english
-Single Answer Type
-\end_layout
-
-\begin_layout Description
-
-\lang english
-Example 1 :
- i) If a,
- b,
- c form a G.P.
- with common ratio r,
- the product of the y-coordinates of the points of intersection of the line ax+by+c=0 and the currve 
-\begin_inset Formula $y^{2}+2x=0$
-\end_inset
-
- .
- ii) Will the intersection coordinates be real if we choose the intersecting curve to be 
-\begin_inset Formula $y^{2}=2x$
-\end_inset
-
- .
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-i)
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-a) -
-\begin_inset Formula $r^{2}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-b) -2r
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-c) -
-\begin_inset Formula $2r^{2}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-d) r/2
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-ii)
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-a) Yes
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-b) No
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-c) Can't say
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-d) None of these.
-\end_layout
-
 \begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
 
-\lang english
-{ Hint :
- Answer i) c) ii) b) 
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Solution :
- i) As a,
- b,
- c are in GP,
- put b =ar,
- c= a
-\begin_inset Formula $r^{2}$
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-This gives,
- 
-\begin_inset Formula $ax+ary+ar^{2}=0$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-i.e.
- 
-\begin_inset Formula $x+ry+r^{2}=0$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-putting 
-\begin_inset Formula $x=-\dfrac{y^{2}}{2}$
-\end_inset
-
-,
- we get
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset Formula $-y^{2}+2ry+2r^{2}=0$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Sum of roots =
-\begin_inset Formula $y_{1}+y_{2}$
-\end_inset
-
-= 
-\begin_inset Formula $2r$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Product of roots =
-\begin_inset Formula $y_{1}y_{2}$
-\end_inset
-
-= 
-\begin_inset Formula $-2r^{2}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset Formula $|y_{1}-y_{2}|=\sqrt{\left(y_{1}+y_{2}\right)^{2}-4y_{1}y_{2}}=\sqrt{4r^{2}+8r^{2}}=Real$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Hence,
- the equation will have real y-coordinates .
- This can be figured out by drawing the graph of the solution.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-ii) In this case,
- 
-\begin_inset Formula $x=\dfrac{y^{2}}{2}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset Formula $y^{2}+2ry+2r^{2}=0$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Sum of roots =
-\begin_inset Formula $y_{1}+y_{2}$
-\end_inset
-
-= 
-\begin_inset Formula $-2r$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Product of roots =
-\begin_inset Formula $y_{1}y_{2}$
-\end_inset
-
-= 
-\begin_inset Formula $2r^{2}$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset Formula $|y_{1}-y_{2}|=\sqrt{\left(y_{1}+y_{2}\right)^{2}-4y_{1}y_{2}}=\sqrt{4r^{2}-8r^{2}}=Imaginary$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Hence,
- the equation will not have real roots.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-}
-\end_layout
-
-\begin_layout Description
-
-\lang english
-Example 2:
- Orthocentre of the triangle with vertices (0,0) ,
- (4,0),
- (0,3) is
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-a) (3/4,4)
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-b) (3,4)
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-c) (0,0)
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-d) None of these
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-,{ Hint :
- By inspection c) (0,0) is the requisite answer .
- It can be further generalized that the orthocenter of the triangle formed by lines x=0,y=0 and any other third line is indeed (0,0).
- } 
-\end_layout
-
-\begin_layout Description
-
-\lang english
-Example 3 :
- A straight line through the origin divides the parallel lines 
-\begin_inset Formula $\sqrt[7]{3}x+5y+8=0$
-\end_inset
-
- and 
-\begin_inset Formula $3\sqrt[7]{3}x+15y=10$
-\end_inset
-
- in the ratio
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-a) 8/5
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-b) 5/8
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-c) 2/9
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-d) 0.3
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-{Hint :
- Let the line be y=mx
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-The point of interesection with the first line would be 
-\begin_inset Formula $\left(\dfrac{-8}{\sqrt[7]{3}+5m},\dfrac{-8m}{\sqrt[7]{3}+5m}\right)$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Similarly,
- the point of intersection with the second line would be 
-\begin_inset Formula $\left(\dfrac{10/3}{\sqrt[7]{3}+5m},\dfrac{10m/3}{\sqrt[7]{3}+5m}\right)$
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Using section formula,
- the ratio in which (0.0) divides these the line segment joining these two points would be 8X3/10 = 8/5 }
-\end_layout
-
-\begin_layout Description
-
-\lang english
-Example 4 :
- The sum of distances of a point from two perpendicular lines is 
-\begin_inset Formula $2\sqrt{2}$
-\end_inset
-
- .
- The are enclosed by the locus of these points is.
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-a) 16
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-b) 12
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-c) 32
-\end_layout
-
-\begin_layout Quote
-
-\lang english
-d) 8
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-{ Hint :
- Answer 16 a) 
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Let's take the two lines to be x=0 and y=0
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset Formula $\Longrightarrow$
-\end_inset
-
- The equation of locus is 
-\begin_inset Formula $|x|+|y|=2\sqrt{2}$
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset Formula $\Longrightarrow$
-\end_inset
-
- The equation is basically 4 line segments joining the vertices as a square as for the values 
-\begin_inset Formula $x>2\sqrt{2}$
-\end_inset
-
- or 
-\begin_inset Formula $y>2\sqrt{2}$
-\end_inset
-
-,
- the equality can't hold for real values of x and y.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-So,
- the area diagonals are of length 
-\begin_inset Formula $4\sqrt{2}$
-\end_inset
-
- each.
- That implies,
- the area of square is 16 Units.}
-\end_layout
-
-\begin_layout Subsubsection
-
-\lang english
-Subjective Problems
-\end_layout
-
-\begin_layout Description
-
-\lang english
-Example :
- The number of integral points ( integral point means both the coordinates should be integer ) that lie exactly in the interior of the triangle with vertices (0,0),(0,m),(n,0) where m,n are both +ve integers with m>n.
- {Subjective}
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-{ Hint :
- By inspection,
- moving down from the topmost point,
- at the line y=m-1,
- the farthermost point inside the triangle is the left hand limit of n/m .
- On this line,
- the integral points is Zero or 
-\begin_inset Formula $\left[\dfrac{n}{m}\right]$
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-On the line y=m-2,
- the number of points is 
-\begin_inset Formula $\left[\dfrac{2n}{m}\right]$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Proceeding in this way,
- on the last line with integral points,
- the equation is y=1,
- and the number of points is 
-\begin_inset Formula $\left[\dfrac{\left(m-2\right)n}{m}\right]$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-Hence ,
- the total number of such points is 
-\begin_inset Formula $\left[\dfrac{n}{m}\right]$
-\end_inset
-
- +
-\begin_inset Formula $\left[\dfrac{2n}{m}\right]$
-\end_inset
-
-+......+ 
-\begin_inset Formula $\left[\dfrac{\left(m-2\right)n}{m}\right]$
-\end_inset
-
-}
 \end_layout
 
 \begin_layout Part
-Ellipse
+Theory
 \end_layout
 
 \begin_layout Chapter
+Complex Numbers
+\end_layout
+
+\begin_layout Description
+Matrix 1:
+ A line 
+\begin_inset Formula $\overline{a}z+a\overline{z}+c+\overline{c}=0$
+\end_inset
+
+ is taken in the argand plane.
+ The equation of line after applying the transformation given,
+ is to be found.
+ Column I contains the transformation while column II contains the resulting equations.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="18" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Column I
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Column II
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(P)The line is translated a distance 
+\begin_inset Formula $Re(a)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(A)
+\begin_inset Formula $\overline{az}+az=c+\overline{c}+2Re(ia^{2})$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+along the positive x-axis ,
+ 
+\begin_inset Formula $Im(a)$
+\end_inset
+
+ along
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+positive y-axis ,
+ and then reflected in
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+the real axis
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(Q)The line is translated a distance 
+\begin_inset Formula $Re(a)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(B)
+\begin_inset Formula $\overline{az}+az+c+\overline{c}=0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+along the positive x-axis ,
+ 
+\begin_inset Formula $Im(a)$
+\end_inset
+
+ along
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+positive y-axis ,
+ and then reflected in
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+imaginary axis
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(P)The line is translated a distance 
+\begin_inset Formula $Im(a)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(C)
+\begin_inset Formula $\overline{az}+az+c+\overline{c}-2\left|a\right|^{2}=0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+along the positive x-axis ,
+ 
+\begin_inset Formula $Re(a)$
+\end_inset
+
+ along
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+negative y-axis ,
+ and then reflected in
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+the real axis
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(P)The line is translated a distance 
+\begin_inset Formula $Im(a)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(D)
+\begin_inset Formula $\overline{az}+az+2\left|a\right|^{2}=c+\overline{c}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+along the positive x-axis ,
+ 
+\begin_inset Formula $Re(a)$
+\end_inset
+
+ along
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+positive y-axis ,
+ and then reflected in
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+imaginary axis
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(E) 
+\begin_inset Formula $\overline{az}+az+2Im(a^{2})=c+\overline{c}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Problem Set
+\end_layout
+
+\begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+JEE Mains Problems
+\end_layout
+
+\end_inset
+
 JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
 Q1:
- Let an ellipse 
-\begin_inset Formula $\dfrac{x^{2}}{a^{2}}+\dfrac{y^{2}}{b^{2}}=1$
+ Let x and y be real numbers such that 
+\begin_inset Formula $50\left(\dfrac{2x}{1+3i}-\dfrac{y}{1-2i}\right)=31+17i$
 \end_inset
 
-,
+ ,
  
-\begin_inset Formula $a<b,$
+\begin_inset Formula $i=\sqrt{-1}.$
 \end_inset
 
-pass through the point 
-\begin_inset Formula $(4,3)$
+Then the value of 
+\begin_inset Formula $10(x-3y)$
 \end_inset
 
- and have eccentricity 
-\begin_inset Formula $\dfrac{\sqrt{5}}{3}$
-\end_inset
-
-.
- Then the length of it's latus rectum is :
+ is :
 \end_layout
 
 \begin_layout Standard
-(A) 
-\begin_inset Formula $\dfrac{4\sqrt{5}}{3}$
-\end_inset
-
-
+[ JEE Mains 2nd Apr 2026 Shift 1 Q2 ]
 \end_layout
 
 \begin_layout Standard
-(B) 
-\begin_inset Formula $2\sqrt{5}$
-\end_inset
-
-
+(A) 20
 \end_layout
 
 \begin_layout Standard
-(C) 
-\begin_inset Formula $\dfrac{7\sqrt{5}}{3}$
-\end_inset
-
-
+(B) 31
 \end_layout
 
 \begin_layout Standard
-(D) 
-\begin_inset Formula $\dfrac{8\sqrt{5}}{3}$
-\end_inset
-
-
+(C) 35
 \end_layout
 
 \begin_layout Standard
-{Solution :
+(D) 75
+\end_layout
+
+\begin_layout Standard
+{ Solution:
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=PbL0Q3oPqWI"
-target "https://www.youtube.com/watch?v=PbL0Q3oPqWI"
+name "https://www.youtube.com/watch?v=7bvmAsRoeiU"
+target "https://www.youtube.com/watch?v=7bvmAsRoeiU"
 literal "true"
 
 \end_inset
 
-}
+ }
+\end_layout
+
+\begin_layout Chapter
+JEE Advanced Problems
+\end_layout
+
+\begin_layout Standard
+Q1:
+ Let ℝ denote the set of all real numbers.
+ Let 𝑧1=1+2𝑖 and 𝑧2=3𝑖 be two complex numbers,
+ where 𝑖=√−1 .
+ Let
+\end_layout
+
+\begin_layout Standard
+𝑆={(𝑥,𝑦)∈ℝ×ℝ∶
+\begin_inset Formula $|𝑥+𝑖𝑦−𝑧_{1}|=2|𝑥+𝑖𝑦−𝑧_{2}|$
+\end_inset
+
+}.
+\end_layout
+
+\begin_layout Standard
+Then which of the following statements is (are) TRUE?
+\end_layout
+
+\begin_layout Standard
+[ JEE Advanced 2025 Paper 1 Q7]
+\end_layout
+
+\begin_layout Standard
+(A) 𝑆 is a circle with centre 
+\begin_inset Formula $(−\dfrac{1}{3},\dfrac{10}{3})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(B) 𝑆 is a circle with centre 
+\begin_inset Formula $(\dfrac{1}{3},\dfrac{8}{3})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(C) 𝑆 is a circle with radius 
+\begin_inset Formula $\dfrac{√2}{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(D) 𝑆 is a circle with radius 
+\begin_inset Formula $\dfrac{2√2}{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+{ Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=cYJl2HBn030"
+target "https://www.youtube.com/watch?v=cYJl2HBn030"
+literal "true"
+
+\end_inset
+
+ }
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+ 
 \end_layout
 
 \end_body
