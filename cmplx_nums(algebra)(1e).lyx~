@@ -7,7 +7,7 @@
 \textclass book
 \use_default_options true
 \maintain_unincluded_children no
-\language american
+\language english
 \language_package default
 \inputencoding utf8
 \fontencoding auto
@@ -34,16 +34,7 @@
 \float_alignment class
 \paperfontsize default
 \spacing single
-\use_hyperref true
-\pdf_bookmarks true
-\pdf_bookmarksnumbered true
-\pdf_bookmarksopen true
-\pdf_bookmarksopenlevel 1
-\pdf_breaklinks false
-\pdf_pdfborder false
-\pdf_colorlinks false
-\pdf_backref false
-\pdf_pdfusetitle true
+\use_hyperref false
 \papersize a4
 \use_geometry true
 \use_package amsmath 1
@@ -111,7 +102,7 @@
 \begin_body
 
 \begin_layout Title
-Matrices and Determinants
+Complex Numbers ( Algebra )
 \end_layout
 
 \begin_layout Author
@@ -119,43 +110,33 @@ Rajat Kalia
 \end_layout
 
 \begin_layout Date
-19 August,
+16 August,
  2026
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Infrastructure
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 #764,
  41-A,
  Chandigarh {TC(official)} - 160036
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Shamlat (Ramgarh Sardaran),
  Ludhiana,
  Punjab
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 SCO 24(TF),
  41-D,
  Chandigarh - 160036
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.alphaclasses.com/"
@@ -168,14 +149,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Educational
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://github.com/rajatkalia1982"
@@ -188,8 +165,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://sourceforge.net/u/rajatkalia/profile"
@@ -202,8 +177,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.youtube.com/@rajatkaliaeducation"
@@ -216,14 +189,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Store
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.lulu.com/spotlight/rajatkalia11"
@@ -236,8 +205,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://amazon.com/author/rajatkalia"
@@ -250,14 +217,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Sports
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.youtube.com/@indiangamersorganization"
@@ -270,8 +233,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/groups/igohn"
@@ -284,8 +245,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://india.voobly.com/"
@@ -298,14 +257,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Social
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.goodreads.com/sardarbhagatsingh"
@@ -318,8 +273,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://x.com/RajatKalia1"
@@ -332,8 +285,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.linkedin.com/in/rajatkalia007/"
@@ -346,8 +297,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/rajatkalia007"
@@ -360,8 +309,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.instagram.com/rajatkalia007/"
@@ -374,8 +321,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.twitch.tv/rajatkalia"
@@ -388,8 +333,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/rajatkaliaeducation"
@@ -402,8 +345,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.researchgate.net/profile/Rajat-Kalia"
@@ -416,8 +357,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.w3profile.com/rajatkalia/"
@@ -430,8 +369,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.reddit.com/user/rajatkalia/"
@@ -444,14 +381,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Blogs
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://rk-e.blogspot.in/"
@@ -464,8 +397,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://chem-rke.blogspot.com/"
@@ -478,8 +409,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://biosciences-rke.blogspot.com/"
@@ -492,8 +421,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://rk-edu.blogspot.com/"
@@ -506,8 +433,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://medlife-rke.blogspot.com/"
@@ -520,8 +445,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://computers-mke.blogspot.com/"
@@ -534,8 +457,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ee-mke.blogspot.com/"
@@ -548,8 +469,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://me-mke.blogspot.com/"
@@ -562,8 +481,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ce-mke.blogspot.com/"
@@ -576,8 +493,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://mke-whj.blogspot.com/"
@@ -590,8 +505,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ba-xpn.blogspot.com/"
@@ -604,8 +517,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://constitution1982.blogspot.com/"
@@ -618,8 +529,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://debk-mke.blogspot.com/"
@@ -632,8 +541,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://comm-pke.blogspot.com/"
@@ -646,8 +553,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://brigade-13.blogspot.com/"
@@ -661,8 +566,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://battalion-7.blogspot.com/"
@@ -675,8 +578,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://design-mke.blogspot.com/"
@@ -689,8 +590,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://tmm18.blogspot.com/"
@@ -703,14 +602,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Freelancing
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.guru.com/freelancers/rajat-kalia"
@@ -723,8 +618,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.codecademy.com/profiles/rajatkalia"
@@ -737,8 +630,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://leetcode.com/u/rajatkalia1/"
@@ -751,8 +642,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.scribd.com/user/308680256/Rajat-Kalia"
@@ -764,63 +653,68 @@ literal "true"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
-Matrices Problem Set
+Theory
+\end_layout
+
+\begin_layout Part
+Problem Set
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+JEE Mains Problems
+\end_layout
+
+\end_inset
+
 JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
-Q1 :
- Let 
-\begin_inset Formula $A=\left[\begin{array}{cc}
-1 & 2\\
-1 & \alpha
-\end{array}\right]$
+Q1:
+ Let x and y be real numbers such that 
+\begin_inset Formula $50\left(\dfrac{2x}{1+3i}-\dfrac{y}{1-2i}\right)=31+17i$
 \end_inset
 
- and 
-\begin_inset Formula $B=\left[\begin{array}{cc}
-3 & 3\\
-\beta & 2
-\end{array}\right]$
-\end_inset
-
-.
- If 
-\begin_inset Formula $A^{2}-4A+I=0$
-\end_inset
-
- and 
-\begin_inset Formula $B^{2}-5B-6I=0$
-\end_inset
-
-,
- then among the two statements :
+ ,
  
-\end_layout
-
-\begin_layout Standard
-(S1) :
- 
-\begin_inset Formula $\left[\left(B-A\right)\left(B+A\right)\right]^{T}=\left[\begin{array}{cc}
-13 & 15\\
-7 & 10
-\end{array}\right]$
+\begin_inset Formula $i=\sqrt{-1}.$
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-(S2) :
- 
-\begin_inset Formula $det\left(adj\left(A+B\right)\right)=-5$
+Then the value of 
+\begin_inset Formula $10(x-3y)$
 \end_inset
 
-,
+ is :
 \end_layout
 
 \begin_layout Standard
@@ -828,33 +722,118 @@ Q1 :
 \end_layout
 
 \begin_layout Standard
-(A) Only (S1) is correct
+(A) 20
 \end_layout
 
 \begin_layout Standard
-(B) Only (S2) is correct
+(B) 31
 \end_layout
 
 \begin_layout Standard
-(C) Both (S1) and (S2) are correct
+(C) 35
 \end_layout
 
 \begin_layout Standard
-(D) Both (S1) and (S2) are wrong
+(D) 75
 \end_layout
 
 \begin_layout Standard
-{Solution :
+{ Solution:
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=_uTUbsovqU8"
-target "https://www.youtube.com/watch?v=_uTUbsovqU8"
+name "https://www.youtube.com/watch?v=7bvmAsRoeiU"
+target "https://www.youtube.com/watch?v=7bvmAsRoeiU"
 literal "true"
 
 \end_inset
 
-}
+ }
+\end_layout
+
+\begin_layout Chapter
+JEE Advanced Problems
+\end_layout
+
+\begin_layout Standard
+Q1:
+ Let ℝ denote the set of all real numbers.
+ Let 𝑧1=1+2𝑖 and 𝑧2=3𝑖 be two complex numbers,
+ where 𝑖=√−1 .
+ Let
+\end_layout
+
+\begin_layout Standard
+𝑆={(𝑥,𝑦)∈ℝ×ℝ∶
+\begin_inset Formula $|𝑥+𝑖𝑦−𝑧_{1}|=2|𝑥+𝑖𝑦−𝑧_{2}|$
+\end_inset
+
+}.
+\end_layout
+
+\begin_layout Standard
+Then which of the following statements is (are) TRUE?
+\end_layout
+
+\begin_layout Standard
+[ JEE Advanced 2025 Paper 1]
+\end_layout
+
+\begin_layout Standard
+(A) 𝑆 is a circle with centre 
+\begin_inset Formula $(−\dfrac{1}{3},\dfrac{10}{3})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(B) 𝑆 is a circle with centre 
+\begin_inset Formula $(\dfrac{1}{3},\dfrac{8}{3})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(C) 𝑆 is a circle with radius 
+\begin_inset Formula $\dfrac{√2}{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(D) 𝑆 is a circle with radius 
+\begin_inset Formula $\dfrac{2√2}{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+{ Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=cYJl2HBn030"
+target "https://www.youtube.com/watch?v=cYJl2HBn030"
+literal "true"
+
+\end_inset
+
+ }
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+ 
 \end_layout
 
 \end_body

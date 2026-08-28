@@ -675,6 +675,188 @@ LatexCommand tableofcontents
 Theory
 \end_layout
 
+\begin_layout Chapter
+Quadratic Equations
+\end_layout
+
+\begin_layout Subsubsection
+Linked Comprehension type Problems
+\end_layout
+
+\begin_layout Description
+Comprehension 1:
+ Let a ,
+ b ,
+ c be three distinct real numbers and 
+\begin_inset Formula $f(x)$
+\end_inset
+
+ be a quadratic polynomial satisfying the equation
+\end_layout
+
+\begin_layout Description
+\begin_inset Formula $\left[\begin{array}{ccc}
+9a^{2} & 9a & 1\\
+9b^{2} & 9b & 1\\
+9c^{2} & 9c & 1
+\end{array}\right]\left[\begin{array}{c}
+f\left(-1\right)\\
+f\left(-2\right)\\
+f\left(-3\right)
+\end{array}\right]=\left[\begin{array}{c}
+16a^{2}+10a\\
+16b^{2}+10b\\
+16c^{2}+10c
+\end{array}\right]$
+\end_inset
+
+ .
+ Let 
+\begin_inset Formula $V$
+\end_inset
+
+ be a point of local maxima of 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ and 
+\begin_inset Formula $A$
+\end_inset
+
+ be the point where 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ meets the x-axis and 
+\begin_inset Formula $B$
+\end_inset
+
+ be a point on 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ such that 
+\begin_inset Formula $AB$
+\end_inset
+
+ subtends a right angle at 
+\begin_inset Formula $V$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1:
+ The curve 
+\begin_inset Formula $f(x)$
+\end_inset
+
+ is given by
+\end_layout
+
+\begin_layout Quote
+A) 
+\begin_inset Formula $f(x)=-\dfrac{2}{9}x^{2}+2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+B) 
+\begin_inset Formula $f(x)=-\dfrac{x^{2}}{10}+16$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+C) 
+\begin_inset Formula $f(x)=-\dfrac{x^{2}}{16}+10$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+D) None of these
+\end_layout
+
+\begin_layout Description
+Q2:
+ The equation of chord 
+\begin_inset Formula $AB$
+\end_inset
+
+ can be
+\end_layout
+
+\begin_layout Quote
+A) 
+\begin_inset Formula $5x+6y+15=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+B) 
+\begin_inset Formula $6x+5y+15=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+C) 
+\begin_inset Formula $65x+27y+106=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+D) None of these
+\end_layout
+
+\begin_layout Description
+Q3:
+ The area of the region lying between the curve and the chord 
+\begin_inset Formula $AB$
+\end_inset
+
+ is
+\end_layout
+
+\begin_layout Quote
+A) 
+\begin_inset Formula $\dfrac{3445}{8}unit^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+B) 
+\begin_inset Formula $\dfrac{3445}{64}unit^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+C) 
+\begin_inset Formula $\dfrac{3445}{128}unit^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+D) None of these
+\end_layout
+
 \begin_layout Part
 Problem Set
 \end_layout

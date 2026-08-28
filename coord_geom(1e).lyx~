@@ -111,14 +111,14 @@
 \begin_body
 
 \begin_layout Title
-Matrices and Determinants
+Co-Ordinate Geometry
 \end_layout
 
 \begin_layout Author
 Rajat Kalia
 \end_layout
 
-\begin_layout Date
+\begin_layout Author
 19 August,
  2026
 \end_layout
@@ -765,7 +765,572 @@ literal "true"
 \end_layout
 
 \begin_layout Part
-Matrices Problem Set
+Straight Line
+\end_layout
+
+\begin_layout Chapter
+
+\lang english
+The Straight Line
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang english
+Single Answer Type
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Example 1 :
+ i) If a,
+ b,
+ c form a G.P.
+ with common ratio r,
+ the product of the y-coordinates of the points of intersection of the line ax+by+c=0 and the currve 
+\begin_inset Formula $y^{2}+2x=0$
+\end_inset
+
+ .
+ ii) Will the intersection coordinates be real if we choose the intersecting curve to be 
+\begin_inset Formula $y^{2}=2x$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+i)
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+a) -
+\begin_inset Formula $r^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) -2r
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) -
+\begin_inset Formula $2r^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) r/2
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+ii)
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+a) Yes
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) No
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) Can't say
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) None of these.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+{ Hint :
+ Answer i) c) ii) b) 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Solution :
+ i) As a,
+ b,
+ c are in GP,
+ put b =ar,
+ c= a
+\begin_inset Formula $r^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+This gives,
+ 
+\begin_inset Formula $ax+ary+ar^{2}=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+i.e.
+ 
+\begin_inset Formula $x+ry+r^{2}=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+putting 
+\begin_inset Formula $x=-\dfrac{y^{2}}{2}$
+\end_inset
+
+,
+ we get
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $-y^{2}+2ry+2r^{2}=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Sum of roots =
+\begin_inset Formula $y_{1}+y_{2}$
+\end_inset
+
+= 
+\begin_inset Formula $2r$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Product of roots =
+\begin_inset Formula $y_{1}y_{2}$
+\end_inset
+
+= 
+\begin_inset Formula $-2r^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $|y_{1}-y_{2}|=\sqrt{\left(y_{1}+y_{2}\right)^{2}-4y_{1}y_{2}}=\sqrt{4r^{2}+8r^{2}}=Real$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Hence,
+ the equation will have real y-coordinates .
+ This can be figured out by drawing the graph of the solution.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+ii) In this case,
+ 
+\begin_inset Formula $x=\dfrac{y^{2}}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $y^{2}+2ry+2r^{2}=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Sum of roots =
+\begin_inset Formula $y_{1}+y_{2}$
+\end_inset
+
+= 
+\begin_inset Formula $-2r$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Product of roots =
+\begin_inset Formula $y_{1}y_{2}$
+\end_inset
+
+= 
+\begin_inset Formula $2r^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $|y_{1}-y_{2}|=\sqrt{\left(y_{1}+y_{2}\right)^{2}-4y_{1}y_{2}}=\sqrt{4r^{2}-8r^{2}}=Imaginary$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Hence,
+ the equation will not have real roots.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+}
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Example 2:
+ Orthocentre of the triangle with vertices (0,0) ,
+ (4,0),
+ (0,3) is
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+a) (3/4,4)
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) (3,4)
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) (0,0)
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) None of these
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+,{ Hint :
+ By inspection c) (0,0) is the requisite answer .
+ It can be further generalized that the orthocenter of the triangle formed by lines x=0,y=0 and any other third line is indeed (0,0).
+ } 
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Example 3 :
+ A straight line through the origin divides the parallel lines 
+\begin_inset Formula $\sqrt[7]{3}x+5y+8=0$
+\end_inset
+
+ and 
+\begin_inset Formula $3\sqrt[7]{3}x+15y=10$
+\end_inset
+
+ in the ratio
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+a) 8/5
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) 5/8
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) 2/9
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) 0.3
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+{Hint :
+ Let the line be y=mx
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+The point of interesection with the first line would be 
+\begin_inset Formula $\left(\dfrac{-8}{\sqrt[7]{3}+5m},\dfrac{-8m}{\sqrt[7]{3}+5m}\right)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Similarly,
+ the point of intersection with the second line would be 
+\begin_inset Formula $\left(\dfrac{10/3}{\sqrt[7]{3}+5m},\dfrac{10m/3}{\sqrt[7]{3}+5m}\right)$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Using section formula,
+ the ratio in which (0.0) divides these the line segment joining these two points would be 8X3/10 = 8/5 }
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Example 4 :
+ The sum of distances of a point from two perpendicular lines is 
+\begin_inset Formula $2\sqrt{2}$
+\end_inset
+
+ .
+ The are enclosed by the locus of these points is.
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+a) 16
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) 12
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) 32
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) 8
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+{ Hint :
+ Answer 16 a) 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Let's take the two lines to be x=0 and y=0
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\Longrightarrow$
+\end_inset
+
+ The equation of locus is 
+\begin_inset Formula $|x|+|y|=2\sqrt{2}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\Longrightarrow$
+\end_inset
+
+ The equation is basically 4 line segments joining the vertices as a square as for the values 
+\begin_inset Formula $x>2\sqrt{2}$
+\end_inset
+
+ or 
+\begin_inset Formula $y>2\sqrt{2}$
+\end_inset
+
+,
+ the equality can't hold for real values of x and y.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+So,
+ the area diagonals are of length 
+\begin_inset Formula $4\sqrt{2}$
+\end_inset
+
+ each.
+ That implies,
+ the area of square is 16 Units.}
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang english
+Subjective Problems
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Example :
+ The number of integral points ( integral point means both the coordinates should be integer ) that lie exactly in the interior of the triangle with vertices (0,0),(0,m),(n,0) where m,n are both +ve integers with m>n.
+ {Subjective}
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+{ Hint :
+ By inspection,
+ moving down from the topmost point,
+ at the line y=m-1,
+ the farthermost point inside the triangle is the left hand limit of n/m .
+ On this line,
+ the integral points is Zero or 
+\begin_inset Formula $\left[\dfrac{n}{m}\right]$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+On the line y=m-2,
+ the number of points is 
+\begin_inset Formula $\left[\dfrac{2n}{m}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Proceeding in this way,
+ on the last line with integral points,
+ the equation is y=1,
+ and the number of points is 
+\begin_inset Formula $\left[\dfrac{\left(m-2\right)n}{m}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Hence ,
+ the total number of such points is 
+\begin_inset Formula $\left[\dfrac{n}{m}\right]$
+\end_inset
+
+ +
+\begin_inset Formula $\left[\dfrac{2n}{m}\right]$
+\end_inset
+
++......+ 
+\begin_inset Formula $\left[\dfrac{\left(m-2\right)n}{m}\right]$
+\end_inset
+
+}
+\end_layout
+
+\begin_layout Part
+Ellipse
 \end_layout
 
 \begin_layout Chapter
@@ -773,74 +1338,58 @@ JEE Mains Problems
 \end_layout
 
 \begin_layout Standard
-Q1 :
- Let 
-\begin_inset Formula $A=\left[\begin{array}{cc}
-1 & 2\\
-1 & \alpha
-\end{array}\right]$
+Q1:
+ Let an ellipse 
+\begin_inset Formula $\dfrac{x^{2}}{a^{2}}+\dfrac{y^{2}}{b^{2}}=1$
 \end_inset
 
- and 
-\begin_inset Formula $B=\left[\begin{array}{cc}
-3 & 3\\
-\beta & 2
-\end{array}\right]$
+,
+ 
+\begin_inset Formula $a<b,$
+\end_inset
+
+pass through the point 
+\begin_inset Formula $(4,3)$
+\end_inset
+
+ and have eccentricity 
+\begin_inset Formula $\dfrac{\sqrt{5}}{3}$
 \end_inset
 
 .
- If 
-\begin_inset Formula $A^{2}-4A+I=0$
-\end_inset
-
- and 
-\begin_inset Formula $B^{2}-5B-6I=0$
-\end_inset
-
-,
- then among the two statements :
- 
+ Then the length of it's latus rectum is :
 \end_layout
 
 \begin_layout Standard
-(S1) :
- 
-\begin_inset Formula $\left[\left(B-A\right)\left(B+A\right)\right]^{T}=\left[\begin{array}{cc}
-13 & 15\\
-7 & 10
-\end{array}\right]$
+(A) 
+\begin_inset Formula $\dfrac{4\sqrt{5}}{3}$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-(S2) :
- 
-\begin_inset Formula $det\left(adj\left(A+B\right)\right)=-5$
+(B) 
+\begin_inset Formula $2\sqrt{5}$
 \end_inset
 
-,
+
 \end_layout
 
 \begin_layout Standard
-[ JEE Mains 2nd Apr 2026 Shift 1 ]
+(C) 
+\begin_inset Formula $\dfrac{7\sqrt{5}}{3}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-(A) Only (S1) is correct
-\end_layout
+(D) 
+\begin_inset Formula $\dfrac{8\sqrt{5}}{3}$
+\end_inset
 
-\begin_layout Standard
-(B) Only (S2) is correct
-\end_layout
 
-\begin_layout Standard
-(C) Both (S1) and (S2) are correct
-\end_layout
-
-\begin_layout Standard
-(D) Both (S1) and (S2) are wrong
 \end_layout
 
 \begin_layout Standard
@@ -848,8 +1397,8 @@ Q1 :
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=_uTUbsovqU8"
-target "https://www.youtube.com/watch?v=_uTUbsovqU8"
+name "https://www.youtube.com/watch?v=PbL0Q3oPqWI"
+target "https://www.youtube.com/watch?v=PbL0Q3oPqWI"
 literal "true"
 
 \end_inset

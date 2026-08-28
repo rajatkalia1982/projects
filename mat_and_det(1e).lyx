@@ -769,6 +769,671 @@ Matrices Problem Set
 \end_layout
 
 \begin_layout Chapter
+
+\lang english
+Matrices
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Q:
+ Invent a 
+\begin_inset Formula $3\times3$
+\end_inset
+
+ magic matrix M with the entries 1 ,
+ 2 ,
+ 3 ,
+ ........9.
+ All rows and columns and diagonals add to 15 .
+ The first row could be ( 8,
+ 3,
+ 4) .
+ What could be M.
+ 
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Q:
+ If 
+\begin_inset Formula $A=\left[\begin{array}{cc}
+1 & i\\
+-i & 1
+\end{array}\right]$
+\end_inset
+
+ .
+ Find 
+\begin_inset Formula $A^{T}A$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Q:
+ Find the adjoints of the following matrices
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+a) 
+\begin_inset Formula $\left[\begin{array}{cc}
+15 & 7\\
+8 & 14
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) 
+\begin_inset Formula $\left[\begin{array}{cc}
+7 & 0\\
+0 & 7
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) 
+\begin_inset Formula $\left[\begin{array}{cc}
+1 & 2\\
+3 & 4
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Q:
+ If 
+\begin_inset Formula $A=\left[\begin{array}{c}
+2x+6\\
+26\\
+2z+48\\
+t^{2}+41
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+\begin_inset Formula $=\left[\begin{array}{ccc}
+x^{2} & -x & 1\\
+y^{2} & -y & 2\\
+z^{2} & -z & 3\\
+t^{2} & -t & 4
+\end{array}\right]\left[\begin{array}{cc}
+1 & 2\\
+2 & 3\\
+3 & 4
+\end{array}\right]\left[\begin{array}{c}
+1\\
+2
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Then ,
+ 
+\begin_inset Formula $A$
+\end_inset
+
+ can be
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+a) 
+\begin_inset Formula $\left[\begin{array}{c}
+10\\
+26\\
+46\\
+47
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) 
+\begin_inset Formula $\left[\begin{array}{c}
+10\\
+26\\
+54\\
+42
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) 
+\begin_inset Formula $\left[\begin{array}{c}
+10\\
+26\\
+46\\
+42
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) 
+\begin_inset Formula $\left[\begin{array}{c}
+10\\
+26\\
+54\\
+41\frac{9}{25}
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang english
+Linked Comprehension Type Questions
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Comprehension 1:
+ Two vectors 
+\begin_inset Formula $v=\left(1,2,3\right)$
+\end_inset
+
+ and 
+\begin_inset Formula $w=\left(1,3,4\right)$
+\end_inset
+
+ are taken and put in the columns of a matrix as 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula 
+\[
+M=\left[\begin{array}{cc}
+1 & 1\\
+2 & 3\\
+3 & 4
+\end{array}\right]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+The linear combination of these two vectors can be expressed as 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula 
+\[
+c\left[\begin{array}{c}
+1\\
+2\\
+3
+\end{array}\right]+d\left[\begin{array}{c}
+1\\
+3\\
+4
+\end{array}\right]=\left[\begin{array}{cc}
+1 & 1\\
+2 & 3\\
+3 & 4
+\end{array}\right]\left[\begin{array}{c}
+A\\
+B
+\end{array}\right]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+Q1:
+ A relation between A ,
+ B ,
+ c and d is 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+
+\lang english
+a) 
+\begin_inset Formula $6c+8d=A+B$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) 
+\begin_inset Formula $8c+6d=A+B$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) 
+\begin_inset Formula $6c+8d=6A+8B$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) None of these
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+
+\lang english
+Q2:
+ The matrix 
+\begin_inset Formula $\left[\begin{array}{c}
+A\\
+B
+\end{array}\right]$
+\end_inset
+
+ in the equation 
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+\begin_inset Formula $\left[\begin{array}{cc}
+1 & 1\\
+2 & 3\\
+3 & 4
+\end{array}\right]\left[\begin{array}{c}
+A\\
+B
+\end{array}\right]=\left[\begin{array}{c}
+2\\
+5\\
+8
+\end{array}\right]$
+\end_inset
+
+ is given by
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+
+\lang english
+a) 
+\begin_inset Formula $\left[\begin{array}{c}
+1\\
+1
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+b) 
+\begin_inset Formula $\left[\begin{array}{c}
+1\\
+2
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+c) 
+\begin_inset Formula $\left[\begin{array}{c}
+2\\
+2
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\lang english
+d) None of these
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+
+\lang english
+Matrix Match Type Problems
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\lang english
+Matrix 1 :
+ 
+\series default
+Three elementary matrices 
+\begin_inset Formula $E=\left[\begin{array}{ccc}
+1 & 0 & 0\\
+2 & 1 & 0\\
+0 & 0 & 1
+\end{array}\right]$
+\end_inset
+
+ ,
+ 
+\begin_inset Formula $F=\left[\begin{array}{ccc}
+1 & 0 & 0\\
+0 & 1 & 0\\
+-1 & 0 & 1
+\end{array}\right]$
+\end_inset
+
+ ,
+ 
+\begin_inset Formula $G=\left[\begin{array}{ccc}
+1 & 0 & 0\\
+0 & 1 & 0\\
+0 & -1 & 1
+\end{array}\right]$
+\end_inset
+
+ are given.
+ Under column I ,
+ resultant matrices (lower triangular) obtained from 
+\begin_inset Formula $E,F,G$
+\end_inset
+
+ or their inverses are given.
+ Match the matrices given in column I with their corresponding expressions given under column II :
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+Column I
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+Column II
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(P)
+\begin_inset Formula $\left[\begin{array}{ccc}
+1 & 0 & 0\\
+-2 & 1 & 0\\
+-1 & 1 & 1
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(A)
+\begin_inset Formula $EFG$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(Q)
+\begin_inset Formula $\left[\begin{array}{ccc}
+1 & 0 & 0\\
+2 & 1 & 0\\
+-1 & -1 & 1
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(B)
+\begin_inset Formula $EF^{-1}G$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(R)
+\begin_inset Formula $\left[\begin{array}{ccc}
+1 & 0 & 0\\
+-2 & 1 & 0\\
+1 & 1 & 1
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(C)
+\begin_inset Formula $E^{-1}FG^{-1}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(S)
+\begin_inset Formula $\left[\begin{array}{ccc}
+1 & 0 & 0\\
+2 & 1 & 0\\
+1 & -1 & 1
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(D)
+\begin_inset Formula $E^{-1}F^{-1}G^{-1}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang english
+(E)
+\begin_inset Formula $G^{-1}F^{-1}E^{-1}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
 JEE Mains Problems
 \end_layout
 

@@ -7,7 +7,7 @@
 \textclass book
 \use_default_options true
 \maintain_unincluded_children no
-\language american
+\language english
 \language_package default
 \inputencoding utf8
 \fontencoding auto
@@ -111,51 +111,41 @@
 \begin_body
 
 \begin_layout Title
-Co-Ordinate Geometry
+Quadratic Equations (Algebra)
 \end_layout
 
 \begin_layout Author
 Rajat Kalia
 \end_layout
 
-\begin_layout Author
-19 August,
+\begin_layout Date
+16 August,
  2026
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Infrastructure
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 #764,
  41-A,
  Chandigarh {TC(official)} - 160036
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Shamlat (Ramgarh Sardaran),
  Ludhiana,
  Punjab
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 SCO 24(TF),
  41-D,
  Chandigarh - 160036
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.alphaclasses.com/"
@@ -168,14 +158,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Educational
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://github.com/rajatkalia1982"
@@ -188,8 +174,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://sourceforge.net/u/rajatkalia/profile"
@@ -202,8 +186,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.youtube.com/@rajatkaliaeducation"
@@ -216,14 +198,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Store
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.lulu.com/spotlight/rajatkalia11"
@@ -236,8 +214,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://amazon.com/author/rajatkalia"
@@ -250,14 +226,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Sports
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.youtube.com/@indiangamersorganization"
@@ -270,8 +242,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/groups/igohn"
@@ -284,8 +254,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://india.voobly.com/"
@@ -298,14 +266,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Social
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.goodreads.com/sardarbhagatsingh"
@@ -318,8 +282,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://x.com/RajatKalia1"
@@ -332,8 +294,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.linkedin.com/in/rajatkalia007/"
@@ -346,8 +306,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/rajatkalia007"
@@ -360,8 +318,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.instagram.com/rajatkalia007/"
@@ -374,8 +330,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.twitch.tv/rajatkalia"
@@ -388,8 +342,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.facebook.com/rajatkaliaeducation"
@@ -402,8 +354,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.researchgate.net/profile/Rajat-Kalia"
@@ -416,8 +366,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.w3profile.com/rajatkalia/"
@@ -430,8 +378,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.reddit.com/user/rajatkalia/"
@@ -444,14 +390,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Blogs
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://rk-e.blogspot.in/"
@@ -464,8 +406,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://chem-rke.blogspot.com/"
@@ -478,8 +418,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://biosciences-rke.blogspot.com/"
@@ -492,8 +430,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://rk-edu.blogspot.com/"
@@ -506,8 +442,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://medlife-rke.blogspot.com/"
@@ -520,8 +454,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://computers-mke.blogspot.com/"
@@ -534,8 +466,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ee-mke.blogspot.com/"
@@ -548,8 +478,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://me-mke.blogspot.com/"
@@ -562,8 +490,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ce-mke.blogspot.com/"
@@ -576,8 +502,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://mke-whj.blogspot.com/"
@@ -590,8 +514,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://ba-xpn.blogspot.com/"
@@ -604,8 +526,6 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://constitution1982.blogspot.com/"
@@ -618,8 +538,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://debk-mke.blogspot.com/"
@@ -632,8 +550,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://comm-pke.blogspot.com/"
@@ -646,8 +562,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://brigade-13.blogspot.com/"
@@ -661,8 +575,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://battalion-7.blogspot.com/"
@@ -675,8 +587,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://design-mke.blogspot.com/"
@@ -689,8 +599,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://tmm18.blogspot.com/"
@@ -703,14 +611,10 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 Freelancing
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.guru.com/freelancers/rajat-kalia"
@@ -723,8 +627,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.codecademy.com/profiles/rajatkalia"
@@ -737,8 +639,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://leetcode.com/u/rajatkalia1/"
@@ -751,8 +651,6 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset CommandInset href
 LatexCommand href
 name "https://www.scribd.com/user/308680256/Rajat-Kalia"
@@ -764,8 +662,21 @@ literal "true"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
-Ellipse
+Theory
+\end_layout
+
+\begin_layout Part
+Problem Set
 \end_layout
 
 \begin_layout Chapter
@@ -774,66 +685,44 @@ JEE Mains Problems
 
 \begin_layout Standard
 Q1:
- Let an ellipse 
-\begin_inset Formula $\dfrac{x^{2}}{a^{2}}+\dfrac{y^{2}}{b^{2}}=1$
-\end_inset
-
-,
- 
-\begin_inset Formula $a<b,$
-\end_inset
-
-pass through the point 
-\begin_inset Formula $(4,3)$
-\end_inset
-
- and have eccentricity 
-\begin_inset Formula $\dfrac{\sqrt{5}}{3}$
-\end_inset
-
-.
- Then the length of it's latus rectum is :
+ Let α,
+ α + 2 ,
+ α ∈ Z ,
+ be the roots of the quadratic equation
 \end_layout
 
 \begin_layout Standard
-(A) 
-\begin_inset Formula $\dfrac{4\sqrt{5}}{3}$
-\end_inset
-
-
+x( x + 2 ) + ( x +1 )( x + 3 ) + ( x + 2 )( x + 4 ) + ...........+ ( x + n + 1 )( x + n - 1 ) = 4n for some n ∈ N.
+ Then n + α is equal to :
 \end_layout
 
 \begin_layout Standard
-(B) 
-\begin_inset Formula $2\sqrt{5}$
-\end_inset
-
-
+[ JEE Mains 2nd April 2026 Shift 1 ]
 \end_layout
 
 \begin_layout Standard
-(C) 
-\begin_inset Formula $\dfrac{7\sqrt{5}}{3}$
-\end_inset
-
-
+A) 0
 \end_layout
 
 \begin_layout Standard
-(D) 
-\begin_inset Formula $\dfrac{8\sqrt{5}}{3}$
-\end_inset
-
-
+B) 1
 \end_layout
 
 \begin_layout Standard
-{Solution :
+C) 2
+\end_layout
+
+\begin_layout Standard
+D) 3
+\end_layout
+
+\begin_layout Standard
+{Solution:
  
 \begin_inset CommandInset href
 LatexCommand href
-name "https://www.youtube.com/watch?v=PbL0Q3oPqWI"
-target "https://www.youtube.com/watch?v=PbL0Q3oPqWI"
+name "https://www.youtube.com/watch?v=_WAVSUet9a0"
+target "https://www.youtube.com/watch?v=_WAVSUet9a0"
 literal "true"
 
 \end_inset
