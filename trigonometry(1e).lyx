@@ -659,7 +659,7 @@ literal "true"
 \end_layout
 
 \begin_layout Part
-igonometry
+Trigonometry
 \end_layout
 
 \begin_layout Chapter
@@ -1809,7 +1809,7 @@ Q1:
 \end_layout
 
 \begin_layout Standard
-[ JEE Mains 2nd April 2028 Shift 1 ]
+[ JEE Mains 2nd April 2028 Shift 1 Q11 ]
 \end_layout
 
 \begin_layout Standard
@@ -1851,6 +1851,50 @@ Q1:
 LatexCommand href
 name "https://www.youtube.com/watch?v=qj-bKAbdLpE"
 target "https://www.youtube.com/watch?v=qj-bKAbdLpE"
+literal "true"
+
+\end_inset
+
+}
+\end_layout
+
+\begin_layout Standard
+Q2:
+ Let 
+\begin_inset Formula $S=\{x\epsilon[-\pi,\pi]:sinx(sinx+cosx)=a,a\epsilon Z\}.$
+\end_inset
+
+Then n(S) is equal to :
+ 
+\end_layout
+
+\begin_layout Standard
+[ JEE Mains 2nd April 2028 Shift 1 Q12 ]
+\end_layout
+
+\begin_layout Standard
+(A) 3
+\end_layout
+
+\begin_layout Standard
+(B) 6
+\end_layout
+
+\begin_layout Standard
+(C) 7
+\end_layout
+
+\begin_layout Standard
+(D) 9
+\end_layout
+
+\begin_layout Standard
+{ Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=DZmcnFZbvK4"
+target "https://www.youtube.com/watch?v=DZmcnFZbvK4"
 literal "true"
 
 \end_inset
