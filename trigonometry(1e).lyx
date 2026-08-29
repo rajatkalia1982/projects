@@ -1809,7 +1809,7 @@ Q1:
 \end_layout
 
 \begin_layout Standard
-[ JEE Mains 2nd April 2028 Shift 1 Q11 ]
+[ JEE Mains 2nd April 2026 Shift 1 Q11 ]
 \end_layout
 
 \begin_layout Standard
@@ -1869,7 +1869,7 @@ Then n(S) is equal to :
 \end_layout
 
 \begin_layout Standard
-[ JEE Mains 2nd April 2028 Shift 1 Q12 ]
+[ JEE Mains 2nd April 2026 Shift 1 Q12 ]
 \end_layout
 
 \begin_layout Standard
@@ -1900,6 +1900,45 @@ literal "true"
 \end_inset
 
 }
+\end_layout
+
+\begin_layout Chapter
+JEE Advanced Problems 
+\end_layout
+
+\begin_layout Standard
+Q1 :
+ Let 
+\begin_inset Formula $\alpha=\dfrac{1}{sin60^{o}sin61^{o}}+\dfrac{1}{sin62^{o}sin63^{o}}+....+\dfrac{1}{sin118^{o}sin119^{o}}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Then the value of 
+\begin_inset Formula $\left(\dfrac{cosec1^{o}}{\alpha}\right)^{2}$
+\end_inset
+
+is ______.
+\end_layout
+
+\begin_layout Standard
+[ JEE Advanced 2025 Paper 2 Q15 ]
+\end_layout
+
+\begin_layout Standard
+{Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=vM-HVpY-HD4"
+target "https://www.youtube.com/watch?v=vM-HVpY-HD4"
+literal "true"
+
+\end_inset
+
+ }
 \end_layout
 
 \end_body
