@@ -1,0 +1,521 @@
+#LyX 2.5 created this file. For more info see https://www.lyx.org/
+\lyxformat 643
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\use_default_options true
+\begin_modules
+endnotes
+hanging
+logicalmkup
+theorems-std
+\end_modules
+\maintain_unincluded_children no
+\language english
+\language_package default
+\inputencoding auto-legacy
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification default
+\crossref_package prettyref
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\backgroundcolor none
+\fontcolor none
+\notefontcolor lightgray
+\boxbgcolor red
+\table_border_color default
+\table_odd_row_color default
+\table_even_row_color default
+\table_alt_row_colors_start 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1.25in
+\rightmargin 1in
+\bottommargin 1.25in
+\secnumdepth 3
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\docbook_mathml_version 0
+\end_header
+
+\begin_body
+
+\begin_layout Title
+A Complete Course in Chemistry 
+\end_layout
+
+\begin_layout Author
+Rajat Kalia
+\end_layout
+
+\begin_layout Date
+7 December,
+ 2018
+\end_layout
+
+\begin_layout Part*
+Physical Chemistry
+\end_layout
+
+\begin_layout Part
+Stoichiometry ( Quantitative Analysis )
+\end_layout
+
+\begin_layout Chapter
+Governing Laws
+\end_layout
+
+\begin_layout Section
+The law of definite proportions
+\end_layout
+
+\begin_layout Standard
+The law of definite proportions,
+ also known law of definite composition,
+ states that regardless of the amount,
+ a pure compound always contains the same elements in the same proportions by mass.
+\end_layout
+
+\begin_layout Subsection
+History
+\end_layout
+
+\begin_layout Standard
+Although many experimenters had long assumed the truth of the principle in general,
+ the French chemist Joseph-Louis Proust first accumulated conclusive evidence for it in a series of researches on the composition of many substances,
+ especially the oxides of iron (1797).
+ Another French chemist,
+ Claude Berthollet,
+ who held for indefinite proportions,
+ contested Proust’s findings,
+ but the Scottish chemist Thomas Thomson confirmed some of them.
+ Proust had definitely proved “metals are not capable of indefinite degrees of oxidation.” The principle was then concretely formulated by the English chemist John Dalton in his chemical atomic theory (1808).
+\end_layout
+
+\begin_layout Subsection
+Examples of the Law of Definite Proportions
+\end_layout
+
+\begin_layout Standard
+Let us take,
+ for example,
+ the compound water.
+ Whatever the source of water,
+ its composition is that of two atoms of hydrogen and one atom of oxygen.
+\end_layout
+
+\begin_layout Standard
+Law of Definite Proportions:
+ % by Weight of Hydrogen and Oxygen in Water This figure shows that water,
+ from any source,
+ is always made up of two atoms of hydrogen and one atom of oxygen.
+ If we calculate the molecular weight of water,
+ we come up with 18 g/mol.
+ In 1 mole of water,
+ there are 2 grams of hydrogen and 16 grams of oxygen.
+ By weight,
+ we have a percentage of 11% hydrogen and 89% oxygen in one mole of water.
+ This translates into a ratio of 1:8 of hydrogen to oxygen in water.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/Ch/ImagesReduced/resized_screen_shot_2014-09-07_at_2.28.55_pm.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Law of Definite Proportions illustrates that whatever the amount of water,
+ whether it be 2 moles or 54 grams,
+ the ratio of the amount of hydrogen to oxygen by weight will always be the same,
+ just like the egg:sugar:butter ratio in chocolate cake should always be the same to maintain consistent taste.
+\end_layout
+
+\begin_layout Standard
+Let's look at another compound made up of three atoms this time,
+ such as Ethyl Alcohol,
+ which consists of 2 atoms of Carbon,
+ 6 atoms of Hydrogen and one atom of Oxygen.
+\end_layout
+
+\begin_layout Standard
+According to the figure,
+ we can calculate the percentage of each element in ethyl alcohol by weight,
+ and we come up with 52% carbon,
+ 13% hydrogen and 35% oxygen by weight.
+ Based on the Law of Definite Proportions,
+ the percentages of carbon,
+ hydrogen and oxygen in ethyl alcohol,
+ will always be the same,
+ no matter what the amount.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/CC/Ch/ImagesReduced/lawofdefiniteproportionscorrection.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Law of multiple proportions
+\end_layout
+
+\begin_layout Standard
+Law of multiple proportions,
+ also known as Dalton s Law,
+ states that when one element combines with another to form more than one compound,
+ the mass rations of the elements in the compounds are simple whole numbers of each other.
+\end_layout
+
+\begin_layout Part
+States of Matter
+\end_layout
+
+\begin_layout Chapter
+The Solid State
+\end_layout
+
+\begin_layout Chapter*
+Test Solid State (NCERT)
+\end_layout
+
+\begin_layout Subsubsection*
+Time Allowed :
+ 1 Hour ________________________ Maximum Marks :
+ 60
+\end_layout
+
+\begin_layout Standard
+Please read the instructions carefully.
+ You will be alloted 5 minutes specifically for this purpose.
+\end_layout
+
+\begin_layout Subsubsection*
+Instructions
+\end_layout
+
+\begin_layout Subsection*
+A.
+ General
+\end_layout
+
+\begin_layout Quote
+1.
+ Blank papers,
+ clipboards,
+ log tables,
+ slide rules,
+ calculators,
+ cellular phones,
+ pagers,
+ and electronic gadgets in any form are not allowed.
+\end_layout
+
+\begin_layout Quote
+2.
+ Do not break the seals of the question-paper booklet before instructed to do so by the invigilators.
+\end_layout
+
+\begin_layout Subsection*
+B.
+ Question paper format and Marking Scheme :
+\end_layout
+
+\begin_layout Quote
+1.
+ This question paper consists of 6 questions carrying 10 marks each.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Q1:
+ Classify each of the following solids as ionic,
+ metallic,
+ molecular,
+ network (covalent) or amorphous.
+ 
+\end_layout
+
+\begin_layout Quote
+(i) Tetra phosphorus decoxide (
+\begin_inset Formula $P_{4}O_{10}$
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Quote
+(ii) Ammonium phosphate 
+\begin_inset Formula $(NH_{4})_{3}PO_{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(iii) SiC
+\end_layout
+
+\begin_layout Quote
+(iv) 
+\begin_inset Formula $I_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(v)
+\begin_inset Formula $P_{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+(vi) Plastic
+\end_layout
+
+\begin_layout Quote
+(vii) Graphite
+\end_layout
+
+\begin_layout Quote
+(viii) Brass 
+\end_layout
+
+\begin_layout Quote
+(ix) Rb 
+\end_layout
+
+\begin_layout Quote
+(x) LiBr 
+\end_layout
+
+\begin_layout Quote
+(xi) Si
+\end_layout
+
+\begin_layout Description
+Q2:
+ Silver crystallises in fcc lattice.
+ If edge length of the cell is 
+\begin_inset Formula $4.07×10^{–8}$
+\end_inset
+
+ cm and density is 
+\begin_inset Formula $10.5$
+\end_inset
+
+ 
+\begin_inset Formula $g\,cm^{–3}$
+\end_inset
+
+,
+ calculate the atomic mass of silver.
+\end_layout
+
+\begin_layout Description
+Q3:
+ Analysis shows that nickel oxide has the formula 
+\begin_inset Formula $Ni_{0.98}O_{1.00}$
+\end_inset
+
+.
+ What fractions of nickel exist as 
+\begin_inset Formula $Ni_{2+}$
+\end_inset
+
+ and 
+\begin_inset Formula $Ni_{3+}$
+\end_inset
+
+ ions?
+\end_layout
+
+\begin_layout Description
+Q4:
+ Ferric oxide crystallises in a hexagonal close-packed array of oxide ions with two out of every three octahedral holes occupied by ferric ions.
+ Derive the formula of the ferric oxide.
+\end_layout
+
+\begin_layout Description
+Q5:
+ Explain the following terms with suitable examples:
+ 
+\end_layout
+
+\begin_layout Quote
+(i) Schottky defect 
+\end_layout
+
+\begin_layout Quote
+(ii) Frenkel defect 
+\end_layout
+
+\begin_layout Quote
+(iii) Interstitials and 
+\end_layout
+
+\begin_layout Quote
+(iv) F-centres.
+\end_layout
+
+\begin_layout Description
+Q6:
+ If NaCl is doped with 
+\begin_inset Formula $10^{–3}$
+\end_inset
+
+ mol % of 
+\begin_inset Formula $SrCl_{2}$
+\end_inset
+
+,
+ what is the concentration of cation vacancies?
+\end_layout
+
+\begin_layout Chapter
+The Gaseous State
+\end_layout
+
+\begin_layout Part
+Redox Reactions and Electrochemistry
+\end_layout
+
+\begin_layout Part
+Chemical Kinetics and Equilibrium
+\end_layout
+
+\begin_layout Part
+Structure of the Atom
+\end_layout
+
+\begin_layout Part*
+Inorganic Chemistry
+\end_layout
+
+\begin_layout Part
+The Salt Analysis ( Qualitative Analysis )
+\end_layout
+
+\begin_layout Part
+Common Industrial Extraction and Purification Techniques 
+\end_layout
+
+\begin_layout Part*
+Organic Chemistry
+\end_layout
+
+\begin_layout Part
+Introduction
+\end_layout
+
+\begin_layout Chapter
+Some Facts
+\end_layout
+
+\begin_layout Part
+IUPAC Nomenclature
+\end_layout
+
+\begin_layout Part
+Hydrocarbons
+\end_layout
+
+\begin_layout Part
+Steriochemistry
+\end_layout
+
+\end_body
+\end_document
