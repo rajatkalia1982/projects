@@ -912,5 +912,86 @@ literal "true"
 }
 \end_layout
 
+\begin_layout Standard
+Q2 :
+ Let 
+\begin_inset Formula $\alpha$
+\end_inset
+
+ ,
+ 
+\begin_inset Formula $\beta$
+\end_inset
+
+ be the roots of the equation 
+\begin_inset Formula $x^{2}-3x+r=0$
+\end_inset
+
+,
+ and 
+\begin_inset Formula $\dfrac{\alpha}{2}$
+\end_inset
+
+,
+ 
+\begin_inset Formula $2\beta$
+\end_inset
+
+ be the roots of the equation 
+\begin_inset Formula $x^{2}+3x+r=0$
+\end_inset
+
+.
+ If the roots of the equation 
+\begin_inset Formula $x^{2}+6x=m$
+\end_inset
+
+ are 
+\begin_inset Formula $2\alpha+\beta+2r$
+\end_inset
+
+ and 
+\begin_inset Formula $\alpha-2\beta-\dfrac{r}{2}$
+\end_inset
+
+,
+ then m is equal to :
+ 
+\end_layout
+
+\begin_layout Standard
+[ JEE Mains 2nd April 2026 Shift 2 Q1 ]
+\end_layout
+
+\begin_layout Standard
+A) -135
+\end_layout
+
+\begin_layout Standard
+B) -567
+\end_layout
+
+\begin_layout Standard
+C) 135
+\end_layout
+
+\begin_layout Standard
+D) 567
+\end_layout
+
+\begin_layout Standard
+{ Solution :
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.youtube.com/watch?v=4sKXoUOd8Is"
+target "https://www.youtube.com/watch?v=4sKXoUOd8Is"
+literal "true"
+
+\end_inset
+
+ }
+\end_layout
+
 \end_body
 \end_document
