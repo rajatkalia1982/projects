@@ -2054,11 +2054,7 @@ Solution :
  The function f (x) is a periodic one with the period 2n,
  hence,
  it is sufficient to sketch its graph on the interval [0,
- 2
-\begin_inset Formula $\pi$
-\end_inset
-
-].
+ 2n].
  But on this interval the following equality is true:
 \end_layout
 
