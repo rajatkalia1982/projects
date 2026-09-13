@@ -1016,21 +1016,7 @@ pageformat default
 status open
 
 \begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\nospellcheck off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-JEE Mains Problems
+idx1
 \end_layout
 
 \end_inset
