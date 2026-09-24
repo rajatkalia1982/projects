@@ -1144,7 +1144,7 @@ Upward Shift by
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/xsquareplus2.jpg
-	scale 50
+	scale 60
 
 \end_inset
 
@@ -1275,7 +1275,7 @@ Inversion
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/inversion.jpg
-	scale 50
+	scale 60
 
 \end_inset
 
@@ -1337,7 +1337,7 @@ Transformations II
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/transformations 2.jpg
-	scale 55
+	scale 60
 
 \end_inset
 
@@ -1481,7 +1481,7 @@ Horizontal Shrink by 1/2
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/shrink by 1by2.jpg
-	scale 50
+	scale 60
 
 \end_inset
 
@@ -1522,7 +1522,7 @@ Shift left by 2
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/shift left by 2.jpg
-	scale 65
+	scale 60
 
 \end_inset
 
@@ -1571,7 +1571,7 @@ Horizontal Stretch by
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/horizontalstretchby2.jpg
-	scale 43
+	scale 60
 
 \end_inset
 
@@ -1620,7 +1620,7 @@ Shift Right by
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/shiftrightby2.jpg
-	scale 55
+	scale 60
 
 \end_inset
 
@@ -1654,7 +1654,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/flipoveryaxis.jpg
-	scale 55
+	scale 60
 
 \end_inset
 
@@ -1729,7 +1729,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/IAMaron1a.jpg
-	scale 62
+	scale 60
 
 \end_inset
 
@@ -1849,7 +1849,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/IAMaron1b.jpg
-	scale 41
+	scale 60
 
 \end_inset
 
@@ -1946,7 +1946,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/IAMaron1c.jpg
-	scale 40
+	scale 60
 
 \end_inset
 
@@ -33415,6 +33415,780 @@ z = x.*y;
 
 \begin_layout Plain Layout
 stem (n,z)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Exp-Sin
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/exp-sin.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+A = 60;
+\end_layout
+
+\begin_layout Plain Layout
+w0 = 20*pi;
+\end_layout
+
+\begin_layout Plain Layout
+phi = 0;
+\end_layout
+
+\begin_layout Plain Layout
+a = 6;
+\end_layout
+
+\begin_layout Plain Layout
+t = 0:.001:1;
+\end_layout
+
+\begin_layout Plain Layout
+expsin = A*sin(w0*t + phi).*exp(-a*t);
+\end_layout
+
+\begin_layout Plain Layout
+plot(t,expsin)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Cosine Stem
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/cos-stem.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+A = 1;
+\end_layout
+
+\begin_layout Plain Layout
+omega = 2*pi/12;
+ % angular frequency
+\end_layout
+
+\begin_layout Plain Layout
+phi = 0;
+\end_layout
+
+\begin_layout Plain Layout
+n = -10:10;
+\end_layout
+
+\begin_layout Plain Layout
+y = A*cos(omega*n);
+\end_layout
+
+\begin_layout Plain Layout
+stem(n,y)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Cosine
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/cos.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+A = 4;
+\end_layout
+
+\begin_layout Plain Layout
+w0 = 20*pi;
+\end_layout
+
+\begin_layout Plain Layout
+phi = pi/6;
+\end_layout
+
+\begin_layout Plain Layout
+t = 0:.001:1;
+\end_layout
+
+\begin_layout Plain Layout
+cosine = A*cos(w0*t + phi);
+\end_layout
+
+\begin_layout Plain Layout
+plot(t,cosine)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+StemReview
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/stmrvw.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+B = 1;
+\end_layout
+
+\begin_layout Plain Layout
+r = 0.85;
+\end_layout
+
+\begin_layout Plain Layout
+n = -10:10;
+\end_layout
+
+\begin_layout Plain Layout
+x = B*r.^n;
+ % decaying exponential
+\end_layout
+
+\begin_layout Plain Layout
+stem(n,x)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Exponential
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/exponential.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+B = 5;
+\end_layout
+
+\begin_layout Plain Layout
+a = 6;
+\end_layout
+
+\begin_layout Plain Layout
+t = 0:.001:1;
+\end_layout
+
+\begin_layout Plain Layout
+x = B*exp(-a*t);
+ % decaying exponential
+\end_layout
+
+\begin_layout Plain Layout
+plot(t,x)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Sawtooth
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/tri1.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+A = 1;
+\end_layout
+
+\begin_layout Plain Layout
+w0 = 10*pi;
+\end_layout
+
+\begin_layout Plain Layout
+t = 0:.001:1
+\end_layout
+
+\begin_layout Plain Layout
+W = 0.5;
+\end_layout
+
+\begin_layout Plain Layout
+tri = A*sawtooth(w0*t+W);
+ 
+\end_layout
+
+\begin_layout Plain Layout
+plot(t,tri);
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Growing Exp
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/grwexp.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+B = 1;
+\end_layout
+
+\begin_layout Plain Layout
+a = 5;
+\end_layout
+
+\begin_layout Plain Layout
+t = 0:0.001:1;
+\end_layout
+
+\begin_layout Plain Layout
+x = B*exp(a*t);
+ % growing exponential
+\end_layout
+
+\begin_layout Plain Layout
+plot(t,x);
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Square
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/computing/grwexp.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+A = 1;
+\end_layout
+
+\begin_layout Plain Layout
+w0 = 10*pi;
+\end_layout
+
+\begin_layout Plain Layout
+t = 0:.001:1
+\end_layout
+
+\begin_layout Plain Layout
+rho = 0.5;
+\end_layout
+
+\begin_layout Plain Layout
+sq = A*square(w0*t+rho);
+ 
+\end_layout
+
+\begin_layout Plain Layout
+plot(t,sq);
 \end_layout
 
 \end_inset
