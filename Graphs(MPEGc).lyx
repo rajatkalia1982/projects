@@ -802,6 +802,10 @@ computing graphs I worked on for 6 hard years at IIT while trying to complete my
 Mathematics
 \end_layout
 
+\begin_layout Part
+Basic Transformations
+\end_layout
+
 \begin_layout Chapter
 Graph Transformations
 \end_layout
@@ -1666,6 +1670,1468 @@ status open
 
 \end_layout
 
+\begin_layout Standard
+Transformations before and after the original function As long as there is only one type of operation involved “inside the function” – either multiplication or addition – and only one type of operation involved
+\end_layout
+
+\begin_layout Standard
+“outside of the function” – either multiplication or addition – you can apply the rules from the two charts to transform the graph of a function.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/actualfunction.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Examples.
+\end_layout
+
+\begin_layout Standard
+• Let’s look at the function 
+\begin_inset Formula $-2f(x+3)$
+\end_inset
+
+ .There is only one kind of operation inside of the parentheses,
+ and that operation is addition —
+ you are adding 3.
+\end_layout
+
+\begin_layout Standard
+There is only one kind of operation outside of the parentheses,
+ and that operation is multiplication – you are multiplying by 2,
+ and you are multiplying by -1.
+ 
+\end_layout
+
+\begin_layout Standard
+So to find the graph of 
+\begin_inset Formula $-2f(x+3)$
+\end_inset
+
+,3),
+ take the graph of f(x),
+ shift it to the left by a distance of 3,
+ stretch vertically by a factor of 2,
+ and then flip over the x-axis.
+\end_layout
+
+\begin_layout Standard
+(There are three transformations that you have to perform in this problem:
+ shift left,
+ stretch,
+ and flip.
+ You have to do all three,
+ but the order in which you do them isn’t important.
+ You’ll get the same answer either way.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/modifiedfn.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+• The graph of 2g(3x) is obtained from the graph of g(x) by shrinking the horizontal coordinate by 1/3,
+ and stretching the vertical coordinate by 2.
+ (You’d get the same answer here if you reversed the order of the transformations
+\end_layout
+
+\begin_layout Standard
+and stretched vertically by 2 before shrinking horizontally by 1/3.
+ The order isn’t important.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+Function
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/basic2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/transformed2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Exercise
+\end_layout
+
+\begin_layout Standard
+For #1-10,
+ suppose that f(x) = 
+\begin_inset Formula $x^{8}$
+\end_inset
+
+.
+ Match each of the numbered functions on the left with the lettered function on the right that it equals.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="11" columns="2">
+<features borderColor="default" oddRowsColor="default" evenRowsColor="default" tabularvalignment="middle">
+<column alignment="center" valignment="top" color="default">
+<column alignment="center" valignment="top" color="default">
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Function
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Value
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Enumerate
+\begin_inset Formula $f(x)+2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+A
+\begin_inset Formula $\left(-x\right)^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.
+ 
+\begin_inset Formula $3f(x)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+B 
+\begin_inset Formula $\dfrac{1}{3}x^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.
+ 
+\begin_inset Formula $f(-x)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+C 
+\begin_inset Formula $x^{8}-2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.
+ 
+\begin_inset Formula $f(x-2)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+D 
+\begin_inset Formula $x^{8}+2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.
+ 
+\begin_inset Formula $\dfrac{1}{3}f(x)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+E 
+\begin_inset Formula $\left(\dfrac{x}{3}\right)^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.
+ 
+\begin_inset Formula $f(3x)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+F 
+\begin_inset Formula $\left(\dfrac{x}{3}\right)^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7.
+ 
+\begin_inset Formula $f(x)-2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+G 
+\begin_inset Formula $\left(x-2\right)^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8.
+ 
+\begin_inset Formula $-f\left(x\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+H 
+\begin_inset Formula $\left(3x\right)^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9.
+ 
+\begin_inset Formula $f(x+2)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+I 
+\begin_inset Formula $3x^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10.
+ 
+\begin_inset Formula $f\left(\dfrac{x}{3}\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+J 
+\begin_inset Formula $\left(x+2\right)^{8}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Exercise
+\end_layout
+
+\begin_layout Standard
+For #11 and #12,
+ suppose g(x) = 1/x.
+ Match each of the numbered functions on the left with the lettered function on the right that it equals.
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="2">
+<features borderColor="default" oddRowsColor="default" evenRowsColor="default" tabularvalignment="middle">
+<column alignment="center" valignment="top" color="default">
+<column alignment="center" valignment="top" color="default">
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Function
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Value
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11.
+ 
+\begin_inset Formula $-4g(3x-7)+2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+A 
+\begin_inset Formula $\dfrac{6}{-2x+5}-3$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row color="default">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12.
+ 
+\begin_inset Formula $6g(-2x+5)-3$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" color="default" usebox="none">
+\begin_inset Text
+
+\begin_layout Itemize
+B 
+\begin_inset Formula $\dfrac{-4}{3x-7}+2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query
+\end_layout
+
+\begin_layout Standard
+Given the graph of f(x),
+ match the following four functions with their graphs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/funciton query.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+13.
+ 
+\begin_inset Formula $f(x)+2$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+14.
+ 
+\begin_inset Formula $f(x)-2$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+15.
+ 
+\begin_inset Formula $f(x+2)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+16.
+ 
+\begin_inset Formula $f(x-2)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/funciton query answers.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query 2
+\end_layout
+
+\begin_layout Standard
+Given the graph of g(x) ,
+ match the following four functions with their graphs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+17.
+ 
+\begin_inset Formula $g(x)+3$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+18.
+ 
+\begin_inset Formula $g(x)-3$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+19.
+ 
+\begin_inset Formula $g(x+3)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+20.
+ 
+\begin_inset Formula $g(x-3)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 2 answers.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query 3
+\end_layout
+
+\begin_layout Standard
+Given the graph of h(x) ,
+ match the following two functions with their graphs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 3.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+21.
+ 
+\begin_inset Formula $-h(x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+22.
+ 
+\begin_inset Formula $h(-x)$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 3 answers.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query 4
+\end_layout
+
+\begin_layout Standard
+Given the graph of f(x) ,
+ match the following two functions with their graphs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 4.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+23.
+ 
+\begin_inset Formula $-f(x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+24.
+ 
+\begin_inset Formula $f(-x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 4 answers.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query 5
+\end_layout
+
+\begin_layout Standard
+Given the graph of g(x) ,
+ match the following four functions with their graphs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 5.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+25.
+ 
+\begin_inset Formula $2g(x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+26.
+ 
+\begin_inset Formula $\dfrac{1}{2}g(x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+27.
+ 
+\begin_inset Formula $g(2x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+28.
+ 
+\begin_inset Formula $g(\dfrac{x}{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 5 answers.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query 6
+\end_layout
+
+\begin_layout Standard
+Given the graph of h(x) ,
+ match the following four functions with their graphs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 6.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+29.
+ 
+\begin_inset Formula $3h(x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+30.
+ 
+\begin_inset Formula $\dfrac{1}{3}h(x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+31.
+ 
+\begin_inset Formula $h(3x)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+32.
+ 
+\begin_inset Formula $h(\dfrac{x}{3})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 6 answers.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query 7
+\end_layout
+
+\begin_layout Standard
+For #33-41,
+ match the numbered functions with their lettered graphs.
+\end_layout
+
+\begin_layout Standard
+33.
+ 
+\begin_inset Formula $x^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+34.
+ 
+\begin_inset Formula $x^{2}+1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+35.
+ 
+\begin_inset Formula $\left(x+1\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+36.
+ 
+\begin_inset Formula $\left(x+1\right)^{2}+1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+37.
+ 
+\begin_inset Formula $\left(x+1\right)^{2}-1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+38.
+ 
+\begin_inset Formula $\left(x-1\right)^{2}+1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+39.
+ 
+\begin_inset Formula $\left(x-1\right)^{2}-1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+40.
+ 
+\begin_inset Formula $-\left(x+1\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+41.
+ 
+\begin_inset Formula $-\left(x-1\right)^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 7.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Query 8
+\end_layout
+
+\begin_layout Standard
+Below is the graph of a function f(x).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/query 8.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+42.) What is the domain of f?
+\end_layout
+
+\begin_layout Standard
+43.) What is the range of f?
+\end_layout
+
+\begin_layout Standard
+44.) What are the x-intercepts of the graph of f?
+\end_layout
+
+\begin_layout Standard
+45.) What is the y-intercept of the graph of f?
+\end_layout
+
 \begin_layout Chapter
 I.A.
  Maron
@@ -2062,8 +3528,16 @@ Solution :
  But on this interval the following equality is true:
 \end_layout
 
+\begin_layout Part
+Competition Oriented
+\end_layout
+
 \begin_layout Chapter
 Competition (IITJEE) Oriented
+\end_layout
+
+\begin_layout Part
+Conceptuals
 \end_layout
 
 \begin_layout Chapter
