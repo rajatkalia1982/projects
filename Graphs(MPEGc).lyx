@@ -5086,6 +5086,416 @@ Solution :
  ).
 \end_layout
 
+\begin_layout Section
+1.5.3 Sketch the graphs of the following functions
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $y=cosx+|cosx|$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ 
+\begin_inset Formula $cosx+|cosx|=\{\begin{array}{ccc}
+2cosx & at & cosx\geq0\\
+0 & at & cosx<0
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron3a.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Doubling the non-negative co-ordinates of the graph for the function 
+\begin_inset Formula $y=cosx$
+\end_inset
+
+ ( the broken line in fig.
+ ) and assuming 
+\begin_inset Formula $y=0$
+\end_inset
+
+ at the points where 
+\begin_inset Formula $cosx<0$
+\end_inset
+
+,
+ we can sketch the desired graph (the solid line in the same figure).
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $y=|x+2|x$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ The function 
+\begin_inset Formula $|x+2|x$
+\end_inset
+
+ may be given by two formulas:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=\{\begin{array}{ccc}
+(x+2)x & at & x\geq-2\\
+-(x+2)x & at & x\leq-2
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron3b.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Plotting separately both parabolas:
+ 
+\begin_inset Formula $y=(x+2)x=(x+1)^{2}-1$
+\end_inset
+
+,
+ and 
+\begin_inset Formula $y=-[(x+1)^{2}-1]$
+\end_inset
+
+,
+ retain only the parts corresponding to the above indicated intervals.
+ Drawn in a solid line in Fig.
+ is the graph of the given function,
+ the broken line showing the deleted parts of the constructed parabolas.
+\end_layout
+
+\begin_layout Section
+Sketch the graph of the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=2|x-2|-|x+1|+x$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+At 
+\begin_inset Formula $x\geq2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=2(x-2)-(x+1)+x=2x-5$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At 
+\begin_inset Formula $-1\leq x\leq2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=-2(x-2)-(x+1)+x=-2x+3$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Finally,
+ at 
+\begin_inset Formula $x\leq-1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=-2(x-2)+(x+1)+x=5$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron4.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hence,
+ the given function can be rewritten in the following way:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=\{\begin{array}{ccc}
+5 & at & x\leq-1\\
+-2x+3 & at & -1\leq x\leq2\\
+2x-5 & at & x\geq2
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Therefore the graph is a polygonal line (see Fig.).
+\end_layout
+
+\begin_layout Section
+Sketch the graph of the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=2^{x}-2^{-x}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Draw graphs for the functions 
+\begin_inset Formula $y_{1}=2^{x}$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{2}=-2^{-x}$
+\end_inset
+
+ .
+ (broken lines in Fig.
+ ),
+ and add graphically their ordinates.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron5.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In doing so bear in mind that 
+\begin_inset Formula $y_{2}<y<y_{1}$
+\end_inset
+
+,
+ and that 
+\begin_inset Formula $y_{2}$
+\end_inset
+
+ tends to zero with an increase in x ,
+ whereas 
+\begin_inset Formula $y_{1}$
+\end_inset
+
+ tends to zero with a decrease in x.
+ ( the solid line in Fig.
+ )
+\end_layout
+
+\begin_layout Section
+1.5.6 Sketch the graph of the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=xsinx$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ Being the product of two odd functions 
+\begin_inset Formula $y_{1}=x$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{2}=sinx$
+\end_inset
+
+,
+ the function Y is an even one,
+ that is why we shall analyse it for 
+\begin_inset Formula $x\geq0$
+\end_inset
+
+.
+ We draw graphs for 
+\begin_inset Formula $y_{1}=x$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{2}=sinx$
+\end_inset
+
+ (the broken lines in Fig.
+ ).
+\end_layout
+
+\begin_layout Standard
+At the points where 
+\begin_inset Formula $y_{2}=sinx=0$
+\end_inset
+
+,
+ 
+\begin_inset Formula $y=y_{1}.y_{2}=0$
+\end_inset
+
+,
+ and at the points where 
+\begin_inset Formula $y_{2}=sinx=±1$
+\end_inset
+
+,
+ 
+\begin_inset Formula $y=±y_{1}=±x$
+\end_inset
+
+.
+ The latter equality
+\end_layout
+
 \begin_layout Part
 Competition Oriented
 \end_layout
@@ -5745,11 +6155,35 @@ Slope.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Box box
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
 physical slope = 
 \begin_inset Formula $\dfrac{\text{Δ}y}{\text{Δ}x}$
 \end_inset
 
  
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
