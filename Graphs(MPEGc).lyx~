@@ -3993,8 +3993,24 @@ are equivalent.
 
 \begin_layout Standard
 Solution :
- 
+ (a) 
 \begin_inset Formula $f\left(x\right)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=\sqrt{-x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=\sqrt{-x}+6$
 \end_inset
 
 

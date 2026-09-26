@@ -3997,7 +3997,23 @@ Solution :
 \begin_inset Formula $f\left(x\right)=\sqrt{x}$
 \end_inset
 
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
 
+ 
+\begin_inset Formula $g(x)=\sqrt{-x}$
+\end_inset
+
+ (Reflect in the -axis) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=\sqrt{-x}+6$
+\end_inset
+
+ (Up 6)
 \end_layout
 
 \begin_layout Standard
