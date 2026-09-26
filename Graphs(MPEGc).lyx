@@ -3528,6 +3528,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Mathematics/Graph/method 2 (2).jpg
+	scale 60
 
 \end_inset
 
@@ -4005,7 +4006,7 @@ Solution :
 \begin_inset Formula $g(x)=\sqrt{-x}$
 \end_inset
 
- (Reflect in the -axis) 
+ (Reflect in the y-axis) 
 \begin_inset Formula $\rightarrow$
 \end_inset
 
@@ -4017,8 +4018,204 @@ Solution :
 \end_layout
 
 \begin_layout Standard
+(b) 
+\begin_inset Formula $f(x)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=\sqrt{x}+6$
+\end_inset
+
+ (Up 6) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=\sqrt{-x}+6$
+\end_inset
+
+ (Reflect in the y-axis).
+\end_layout
+
+\begin_layout Standard
 (c) Yes,
  parts (a) and (b) yield the same function.
+\end_layout
+
+\begin_layout Standard
+Example 4:
+ Start with the function 
+\begin_inset Formula $f\left(x\right)=\sqrt{x}$
+\end_inset
+
+ ,
+ and write the function which results from the given transformations.
+ Then decide if the results from parts (a) and (b)
+\end_layout
+
+\begin_layout Standard
+are equivalent.
+\end_layout
+
+\begin_layout Standard
+(a) Reflect in the y-axis,
+ then shift left 2 units.
+\end_layout
+
+\begin_layout Standard
+(b) Shift left 2 units,
+ then reflect in the y-axis.
+\end_layout
+
+\begin_layout Standard
+(c) Do parts (a) and (b) yield the same function?
+ (You should be able to tell without graphing.)
+\end_layout
+
+\begin_layout Standard
+Solution :
+ (a) 
+\begin_inset Formula $f\left(x\right)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=\sqrt{-x}$
+\end_inset
+
+ ( Reflect in the y-axis )
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=\sqrt{-(x+2)}$
+\end_inset
+
+ ( Left 2 )
+\end_layout
+
+\begin_layout Standard
+Note:
+ In part (a),
+ 
+\begin_inset Formula $h\left(x\right)$
+\end_inset
+
+ can also be written as 
+\begin_inset Formula $h(x)=\sqrt{-x-2}$
+\end_inset
+
+ .
+ 
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $f\left(x\right)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=\sqrt{x+2}$
+\end_inset
+
+ ( Left 2 )
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=\sqrt{-(x+2)}$
+\end_inset
+
+ ( Reflect in the y-axis )
+\end_layout
+
+\begin_layout Standard
+(c) No,
+ parts (a) and (b) do not yield the same function,
+ since 
+\begin_inset Formula $\sqrt{-x-2}\neq\sqrt{-x+2}$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Standard
+Both graphs are shown below to emphasize the difference in the final results (but we can see that the above functions are different without graphing the functions).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/example 4.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Example 5:
+ Start with the function 
+\begin_inset Formula $f\left(x\right)=\sqrt{x}$
+\end_inset
+
+ ,
+ and write the function which results from the given transformations.
+ Then decide if the results from parts (a) and (b)
+\end_layout
+
+\begin_layout Standard
+are equivalent.
+\end_layout
+
+\begin_layout Standard
+(a) Reflect in the x-axis,
+ then shift upward 4 units.
+\end_layout
+
+\begin_layout Standard
+(b) Shift upward 4 units,
+ then reflect in the x-axis.
+\end_layout
+
+\begin_layout Standard
+(c) Do parts (a) and (b) yield the same function?
+ (You should be able to tell without graphing.)
 \end_layout
 
 \begin_layout Chapter
@@ -4396,6 +4593,40 @@ Solution :
 \end_layout
 
 \begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron1d.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Solution :
  The domain of definition of the function is the entire number scale.
  Indeed,
@@ -4406,7 +4637,11 @@ Solution :
  at any x,
  hence,
  arc cos (cosx) has a meaning.
- The function f (x) is a periodic one with the period 2n,
+ The function f (x) is a periodic one with the period 2
+\begin_inset Formula $\pi$
+\end_inset
+
+,
  hence,
  it is sufficient to sketch its graph on the interval [0,
  2
@@ -4415,6 +4650,440 @@ Solution :
 
 ].
  But on this interval the following equality is true:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f(x)=\begin{cases}
+x, & 0\leq x\leq\pi\\
+2\pi-x, & \pi\leq x\leq2\pi
+\end{cases}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Indeed,
+ the first assertion follows from the definition of the function arc cos x,
+ while the second one can be proved in the following way.
+ Let us put 
+\begin_inset Formula $x'=2\pi-x$
+\end_inset
+
+,
+ 
+\begin_inset Formula $\pi\leq x\leq2\pi$
+\end_inset
+
+,
+ then 
+\begin_inset Formula $0\leq x'\leq\pi$
+\end_inset
+
+ and 
+\end_layout
+
+\begin_layout Standard
+Taking all this into consideration,
+ we draw the graph (see Fig.)
+\end_layout
+
+\begin_layout Standard
+(e) 
+\begin_inset Formula $f(x)=\sqrt{sinx}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ The function 
+\begin_inset Formula $y=\sqrt{sinx}$
+\end_inset
+
+ is a periodic one with period 2
+\begin_inset Formula $\pi$
+\end_inset
+
+;
+ that is why we may confine ourselves to the interval 
+\begin_inset Formula $[0,2\pi)$
+\end_inset
+
+.
+ But the function is not defined in the whole interval 
+\begin_inset Formula $[0,2\pi)$
+\end_inset
+
+,
+ it is defined only in the interval [0,
+ 
+\begin_inset Formula $\pi$
+\end_inset
+
+],
+ as in the interval 
+\begin_inset Formula $(\pi,2\pi)$
+\end_inset
+
+ the radicand is negative.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron1e.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The graph is symmetrical about the straight line x = 
+\begin_inset Formula $\pi$
+\end_inset
+
+/2,
+ as well as the graph y = sin x (see Fig.).
+ Here we have an example of a periodic function which does not exist in the infinite set of intervals.
+\end_layout
+
+\begin_layout Standard
+(f) 
+\begin_inset Formula $f(x)=x^{1/logx}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The domain of definition of the function is 
+\begin_inset Formula $0<x<1$
+\end_inset
+
+ and 
+\begin_inset Formula $1<x<\infty$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron1f.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Reduce the formula to the form
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f(x)=x^{1/logx}=x^{log_{x}10}=10.$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hence,
+ the graph of the given function is the half-line y = 10 in the right-hand halfplane with the point x = 1 removed (see Fig.)
+\end_layout
+
+\begin_layout Section
+1.5.2 Sketch the graphs of functions defined by different formulas in different intervals (and in those reducible to them):
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $y=\{\begin{array}{ccc}
+sinx & at & -\pi\leq x\leq0\\
+2 & at & 0<x\leq1\\
+1/(x-1) & at & 1<x\leq4
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron2a.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ The domain of definition of the function is the interval [-
+\begin_inset Formula $\pi$
+\end_inset
+
+,
+ 4].
+ The graph of the function consists of a portion of the sinusoid y = sin x on the interval 
+\begin_inset Formula $-\pi\leq x\leq0$
+\end_inset
+
+,
+ Straight line y = 2 on the interval (0,
+ 1] and a part of the branch of the hyperbola y= 1/(x-1) on the interval (1,4] (see Fig.).
+\end_layout
+
+\begin_layout Standard
+(b)
+\begin_inset Formula $f(x)=\{\begin{array}{ccc}
+-2 & at & x>0\\
+1/2 & at & x=0\\
+-x^{3} & at & x<0
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron2b.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The graph of the function consists of a portion of a cubic parabola,an isolated point and a half-line (see Fig.).
+\end_layout
+
+\begin_layout Standard
+(c).
+ 
+\begin_inset Formula $y=x+\sqrt{x^{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ The function may be given by two formulas:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f(x)=\{\begin{array}{ccc}
+2x, & if & x\geq0\\
+0, & if & x<0
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron2c.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Thus,
+ the graph of our function is a polygonal line (see Fig.).
+\end_layout
+
+\begin_layout Standard
+(d) 
+\begin_inset Formula $y=2/(x+\sqrt{x^{2}})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron2d.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ From (c) it follows that the function is defined only in the interval (0,
+ +
+\begin_inset Formula $\infty$
+\end_inset
+
+),
+ y being equal to l/x (x> 0).
+ Thus,
+ the graph of our function is the right-hand part of an equilateral hyperbola (see Fig.
+ ).
 \end_layout
 
 \begin_layout Part
