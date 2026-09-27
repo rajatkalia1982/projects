@@ -4218,6 +4218,573 @@ are equivalent.
  (You should be able to tell without graphing.)
 \end_layout
 
+\begin_layout Standard
+Solution:
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $f(x)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=-\sqrt{x}$
+\end_inset
+
+ ( Reflect in the x-axis ) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=-\sqrt{x}+4$
+\end_inset
+
+ ( Up 4 )
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $f(x)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=\sqrt{x}+4$
+\end_inset
+
+ ( Up 4 ) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=-\left(\sqrt{x}+4\right)$
+\end_inset
+
+ ( Reflect in the x-axis )
+\end_layout
+
+\begin_layout Standard
+Note:
+ In part (b),
+ 
+\begin_inset Formula $h\left(x\right)$
+\end_inset
+
+ can also be written as 
+\begin_inset Formula $h(x)=-\sqrt{x}-4$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Standard
+(c) No,
+ parts (a) and (b) do not yield the same function,
+ since 
+\begin_inset Formula $-\sqrt{x}+4\neq-\sqrt{x}-4$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Both graphs are shown below to emphasize the difference in the final results (but we can see that the above functions are different without graphing the functions).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/example 5.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Example 6:
+ Start with the function 
+\begin_inset Formula $f\left(x\right)=\sqrt{x}$
+\end_inset
+
+ ,
+ and write the function which results from the given transformations.
+ Then decide if the results from parts (a) and (b)
+\end_layout
+
+\begin_layout Standard
+are equivalent.
+\end_layout
+
+\begin_layout Standard
+(a) Shrink horizontally by a factor of 1/3 ,
+ then shift right 6 units.
+\end_layout
+
+\begin_layout Standard
+(b) Shift right 6 units,
+ then shrink horizontally by a factor of 1/3 .
+\end_layout
+
+\begin_layout Standard
+(c) Do parts (a) and (b) yield the same function?
+ (You should be able to tell without graphing.)
+\end_layout
+
+\begin_layout Standard
+Solution :
+ 
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $f(x)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=\sqrt{3x}$
+\end_inset
+
+ ( Shrink horizontally by a factor of 1/3 ) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=\sqrt{3(x-6)}$
+\end_inset
+
+ ( Right 6 )
+\end_layout
+
+\begin_layout Standard
+Note:
+ In part (a),
+ h x can also be written as h x 3x 18 .
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $f(x)=\sqrt{x}$
+\end_inset
+
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $g(x)=\sqrt{x-6}$
+\end_inset
+
+ ( Right 6 ) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $h(x)=\sqrt{3x-6}$
+\end_inset
+
+ ( Shrink horizontally by a factor of 1/3 )
+\end_layout
+
+\begin_layout Standard
+Note:
+ In part (b),
+ 
+\begin_inset Formula $h\left(x\right)$
+\end_inset
+
+ can also be written as 
+\begin_inset Formula $h(x)=\sqrt{3x-18}$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Standard
+(c) No,
+ parts (a) and (b) do not yield the same function,
+ since 
+\begin_inset Formula $\sqrt{3x-6}\neq\sqrt{3x-18}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/example 6.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/Table.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Example (short)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/example.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Trigonometry Example (Transformation)
+\end_layout
+
+\begin_layout Standard
+Match the following :
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $y=sin\left(\pi*x\right)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $y=3*sinx$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(c) 
+\begin_inset Formula $y=2*sin(2x-\dfrac{\pi}{2})-1$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(d) 
+\begin_inset Formula $y=sin\left(x-\dfrac{\pi}{2}\right)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(e) 
+\begin_inset Formula $y=sin\left(x+\dfrac{\pi}{2}\right)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(d) 
+\begin_inset Formula $y=sin(x)+4$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/question.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/answers.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+A Conceptual Problem
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/conceptual.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+A Problem Statement
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/Q1.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/Graph/Q2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 I.A.
  Maron
@@ -5242,7 +5809,7 @@ Plotting separately both parabolas:
 \end_layout
 
 \begin_layout Section
-Sketch the graph of the function
+1.5.4 Sketch the graph of the function
 \end_layout
 
 \begin_layout Standard
@@ -5353,7 +5920,7 @@ Therefore the graph is a polygonal line (see Fig.).
 \end_layout
 
 \begin_layout Section
-Sketch the graph of the function
+1.5.5 Sketch the graph of the function
 \end_layout
 
 \begin_layout Standard
@@ -5473,6 +6040,40 @@ Solution :
 \end_layout
 
 \begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron6.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 At the points where 
 \begin_inset Formula $y_{2}=sinx=0$
 \end_inset
@@ -5493,7 +6094,1794 @@ At the points where
 \end_inset
 
 .
- The latter equality
+ The latter equality indicates the expedience of graphing the auxiliary function 
+\begin_inset Formula $y_{3}=-x$
+\end_inset
+
+.
+ Marking the indicated points and joining them into a smooth curve,
+ we obtain the required graph (the solid line in Fig.
+ ).
+\end_layout
+
+\begin_layout Section
+1.5.7 Sketch the graph of the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=x(x^{2}-1)$
+\end_inset
+
+ by multiplying the ordinates of the graphs 
+\begin_inset Formula $y_{1}=x$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{2}=x^{2}-1$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+1.5.8 Graph the following functions:
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $y=x/(x^{2}-4)$
+\end_inset
+
+,
+ 
+\end_layout
+
+\begin_layout Standard
+(a) Since the function is odd,
+ it is sufficient to investigate it for 
+\begin_inset Formula $x\geq0$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Let us consider it as the quotient of the two functions:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y_{1}=x$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{2}=x^{2}-4$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron8a.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Since at x = 2 the denominator 
+\begin_inset Formula $y_{2}=0$
+\end_inset
+
+,
+ the function is not defined at the point 2.
+ In the interval [0,
+ 2) the function 
+\begin_inset Formula $y_{1}$
+\end_inset
+
+ increases from 0 to 2,
+ the function 
+\begin_inset Formula $y_{2}$
+\end_inset
+
+ is negative and 
+\begin_inset Formula $|y_{2}|=4-x^{2}$
+\end_inset
+
+ decreases from 4 to 0;
+ hence,
+ the quotient 
+\begin_inset Formula $f(x)=y_{1}/y_{2}$
+\end_inset
+
+ is negative and increases in absolute value,
+ i.e.
+ f (x) decreases in the interval [0,2) from 0 to 
+\begin_inset Formula $\infty$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+In the interval (2,
+ 
+\begin_inset Formula $\infty$
+\end_inset
+
+) both functions are positive and increasing.
+ Their quotient decreases since from 
+\begin_inset Formula $2\leq x_{1}<x_{2}$
+\end_inset
+
+ it follows that 
+\begin_inset Formula $y_{2}-y_{1}=\dfrac{x_{2}}{x^{2}_{2}-4}-\dfrac{x_{1}}{x^{2}_{1}-4}=\dfrac{\left(x_{1}-x_{2}\right)\left(x_{1}x_{2}+4\right)}{\left(x^{2}_{2}-4\right)\left(x^{2}_{1}-4\right)}<0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The indicated quotient tends to zero as 
+\begin_inset Formula $x\rightarrow\infty$
+\end_inset
+
+,
+ since 
+\begin_inset Formula $y=\dfrac{1/x}{1-4/x^{2}}\rightarrow0.$
+\end_inset
+
+ The general outline of the graph is presented in Fig.
+ (three solid lines).
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $y=1/arccosx$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Denote 
+\begin_inset Formula $y_{1}=arccosx$
+\end_inset
+
+.
+ The domain of definition of this function 
+\begin_inset Formula $|x|\leq1.$
+\end_inset
+
+ At 
+\begin_inset Formula $x=1$
+\end_inset
+
+ we have 
+\begin_inset Formula $y_{1}=0$
+\end_inset
+
+,
+ hence,
+ 
+\begin_inset Formula $y=1/y_{1}\rightarrow\infty$
+\end_inset
+
+ at 
+\begin_inset Formula $x\rightarrow1$
+\end_inset
+
+,
+ i.
+ e.
+ 
+\begin_inset Formula $x=1$
+\end_inset
+
+ is a vertical asymptote.
+ The function 
+\begin_inset Formula $y_{1}$
+\end_inset
+
+ decreases on the entire interval of definition 
+\begin_inset Formula $[-1,1)$
+\end_inset
+
+,
+ hence 
+\begin_inset Formula $y=1/y_{1}$
+\end_inset
+
+ increases.
+ The maximum value 
+\begin_inset Formula $y_{1}=\pi$
+\end_inset
+
+ is attained at 
+\begin_inset Formula $x=-1$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron8b.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Accordingly,
+ the minimum value of the function is 
+\begin_inset Formula $1/\pi$
+\end_inset
+
+.
+ The solid line in Fig.
+ represents the general outline of the graph.
+\end_layout
+
+\begin_layout Section*
+Simple Transformations of Graphs
+\end_layout
+
+\begin_layout Standard
+I.
+ The graph of the function 
+\begin_inset Formula $y=f(x+a)$
+\end_inset
+
+ is obtained from the graph of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ by translating the latter graph along the x-axis by | a | scale units in the direction opposite to the sign of a (see Fig.).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaronTI.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+II.
+ The graph 
+\begin_inset Formula $y=f(x)+b$
+\end_inset
+
+ is obtained from the graph of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ by translating the latter graph along the y-axis by | b | scale units in the direction opposite to the sign of b (see Fig.).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaronTII.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+III.
+ The graph of the function 
+\begin_inset Formula $y=f(kx)$
+\end_inset
+
+ (k > 0) is obtained from the graph of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ by "compressing" the latter graph against the y-axis in the horizontal direction k times at 
+\begin_inset Formula $k>I$
+\end_inset
+
+ and by "stretching" it in the horizontal direction from the y-axis l/k times at k < 1 (see Fig.).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaronTIII.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+IV.
+ The graph of the function 
+\begin_inset Formula $y=kf(x)$
+\end_inset
+
+ 
+\begin_inset Formula $(k>0)$
+\end_inset
+
+ is obtained from the graph of function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ by "stretching" it in the horizontal direction k times at 
+\begin_inset Formula $k>1$
+\end_inset
+
+ and "compressing" it against the x-axis (i.
+ e.
+ vertically) 
+\begin_inset Formula $1/k$
+\end_inset
+
+ times at 
+\begin_inset Formula $k<1$
+\end_inset
+
+ (see Fig.
+ above {same as III}).
+\end_layout
+
+\begin_layout Standard
+V.
+ The graph of the function 
+\begin_inset Formula $y=-f(x)$
+\end_inset
+
+ is symmetrical to that of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ about the x-axis,
+ while the graph of the function 
+\begin_inset Formula $y=f(-x)$
+\end_inset
+
+ is symmetrical to that of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ about the y-axis.
+\end_layout
+
+\begin_layout Standard
+VI.
+ The graph of the function 
+\begin_inset Formula $y=f(|x|)$
+\end_inset
+
+ is obtained from the graph of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ in the following way:
+ for 
+\begin_inset Formula $x\geq0$
+\end_inset
+
+ the graph of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ is retained,
+ then this retained part of the graph is reflected symmetrically about the y-axis,
+ thus determining the graph of the function for 
+\begin_inset Formula $x\leq0$
+\end_inset
+
+ (see Fig.).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaronTVI.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+VII.
+ The graph of the function 
+\begin_inset Formula $y=|f(x)|$
+\end_inset
+
+ is constructed from the graph 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ in the following way:
+ the portion of the graph of the function 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ lying above the x-axis remains unchanged,
+ its other portion located below the x-axis being transformed symmetrically about the x-axis (see Fig.).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaronTVII.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+VIII.
+ The graphs of the more complicated functions
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=\lambda f(kx+a)+b$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+are drawn from the graph of 
+\begin_inset Formula $y=f(x)$
+\end_inset
+
+ applying consecutively transformations I to V.
+\end_layout
+
+\begin_layout Section
+1.5.9 Graph the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=3\sqrt{-2(x+2.5)}-0.8$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+by transforming the graph 
+\begin_inset Formula $y=\sqrt{x}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Solution :
+ Sketch the graph of the function 
+\begin_inset Formula $y=\sqrt{x}$
+\end_inset
+
+ (which is the upper branch of the parabola 
+\begin_inset Formula $y^{2}=x$
+\end_inset
+
+) (Fig.
+ a),
+ and transform it in the following sequence.
+\end_layout
+
+\begin_layout Standard
+Sketch the graph of the function 
+\begin_inset Formula $y=3\sqrt{2x}$
+\end_inset
+
+ by enlarging 
+\begin_inset Formula $3\sqrt{2}$
+\end_inset
+
+ times the ordinates of the points on the graph of the function 
+\begin_inset Formula $y=\sqrt{x}$
+\end_inset
+
+ and leaving their abscissas unchanged (see Fig.
+ b).
+\end_layout
+
+\begin_layout Standard
+Then sketch the graph of the function 
+\begin_inset Formula $y=3\sqrt{-2x}$
+\end_inset
+
+ which will be the mirror image of the preceding graph about the y-axis (see Fig.,
+ c).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron1.5.9.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+By shifting the obtained graph 2.5 scale units leftward and then 0.8 unit downward draw the desired graph of the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=3\sqrt{-2(x+2.5)}-0.8$
+\end_inset
+
+ (see Fig.,
+ d).
+\end_layout
+
+\begin_layout Section
+1.5.10 Graph the function 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=3cosx-\sqrt{3}sinx$
+\end_inset
+
+ by transforming the cosine curve.
+\end_layout
+
+\begin_layout Standard
+Solution :
+ Transform the given function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=3cosx-\sqrt{3}sinx$
+\end_inset
+
+ =
+\begin_inset Formula $2\sqrt{3}\left(\dfrac{\sqrt{3}}{2}cosx-\dfrac{1}{2}sinx\right)$
+\end_inset
+
+ = 
+\begin_inset Formula $2\sqrt{3}cos\left(x+\dfrac{\pi}{6}\right)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Thus,
+ we have to sketch the graph of the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=2\sqrt{3}cos\left(x+\dfrac{\pi}{6}\right)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+which is the graph of the function 
+\begin_inset Formula $y=2\sqrt{3}cosx$
+\end_inset
+
+ translated by 
+\begin_inset Formula $\pi$
+\end_inset
+
+/6 leftward.
+ The function has a period of 2
+\begin_inset Formula $\pi$
+\end_inset
+
+,
+ hence it is sufficient to draw its graph for 
+\begin_inset Formula $-\pi\leq x\leq\pi$
+\end_inset
+
+.
+ (see Fig.)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron1.5.10.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The graph of any function of the form y = a cos x + b sin x,
+ where a and b are constants,
+ is sketched in a similar way.
+\end_layout
+
+\begin_layout Section
+1.5.11 Graph the following functions:
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $y=\dfrac{x+3}{x+1}$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $y=\dfrac{1}{x^{2}-9}$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(c) 
+\begin_inset Formula $y=\{\begin{array}{ccc}
+x^{2}+x+1 & at & -1\leq x\leq0\\
+sin^{2}x & at & 0\leq x\leq\pi\\
+(x-1)/(x+1) & at & \pi<x\leq5
+\end{array}$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(d) 
+\begin_inset Formula $y=x+1/x$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(e) 
+\begin_inset Formula $y=x^{2}-x^{3}$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(f) 
+\begin_inset Formula $y=x+sinx$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(g) 
+\begin_inset Formula $y=1/cosx;$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(h) 
+\begin_inset Formula $y=3sin(2x-4)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(i) 
+\begin_inset Formula $y=2\sqrt{-3(x+1.5)}-1.2$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(j) 
+\begin_inset Formula $y=|x^{2}-2x-1|$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(k) 
+\begin_inset Formula $y=||x|-1|$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(l) 
+\begin_inset Formula $y=cos(sinx)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(m) 
+\begin_inset Formula $y=|sinx|+sinx$
+\end_inset
+
+ 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+on the interval [0,
+\begin_inset Formula $\pi$
+\end_inset
+
+];
+\end_layout
+
+\begin_layout Standard
+(n) 
+\begin_inset Formula $y=x^{2}signx$
+\end_inset
+
+ ,
+ where sign x ={
+\begin_inset Formula $\begin{array}{ccc}
+1 & at & x>0\\
+0 & at & x=0\\
+-1 & at & x<0
+\end{array}$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Section
+1.5.12 The function y = f (x) is given graphically (Fig.).
+ Sketch the graphs of the following functions:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IAMaron1.5.12.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(a) 
+\begin_inset Formula $y=f(x+1)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(b) 
+\begin_inset Formula $y=f\left(x/2\right)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(c) 
+\begin_inset Formula $y=|f(x)|$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Standard
+(d) 
+\begin_inset Formula $y=\left(|f(x)|\pm f(x)\right)/2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(e) 
+\begin_inset Formula $y=|f(x)|/f(x)$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Chapter
+GINT (Greatest Integer Function/Floor)
+\end_layout
+
+\begin_layout Section
+Theory
+\end_layout
+
+\begin_layout Subsection
+Integer Interval Property
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $n\leq x<n+1$
+\end_inset
+
+ 
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+ 
+\begin_inset Formula $[x]=n,n\epsilon\mathbb{Z}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Integer Shifts
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $[x+k]=[x]+k$
+\end_inset
+
+ ( for any integer k ).
+\end_layout
+
+\begin_layout Subsection
+Behaviour with Negative 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $[-x]=\{\begin{array}{cc}
+-[x] & x\epsilon\mathbb{Z}\\
+-[x]-1 & x\notin\mathbb{Z}
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+The Sum of Floor and Its Negative
+\end_layout
+
+\begin_layout Standard
+The Sum of Floor and Its Negative
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $[x]+[-x]=\{\begin{array}{ccc}
+0 & if & x\epsilon\mathbb{Z}\\
+-1 & if & x\notin\mathbb{Z}
+\end{array}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Inequalities
+\end_layout
+
+\begin_layout Itemize
+If 
+\begin_inset Formula $[x]\leq k$
+\end_inset
+
+,
+ then 
+\begin_inset Formula $x<k+1$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Itemize
+If 
+\begin_inset Formula $[x]\geq k$
+\end_inset
+
+,
+ then 
+\begin_inset Formula $x\geq k$
+\end_inset
+
+;
+\end_layout
+
+\begin_layout Subsection
+Ceiling Function
+\end_layout
+
+\begin_layout Standard
+The smallest integer function,
+ also known as the ceiling function,
+ is typically denoted as 
+\begin_inset Formula $\left\lceil x\right\rceil $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It outputs the smallest integer greater than or equal to x
+\end_layout
+
+\begin_layout Standard
+Formally:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\left\lceil x\right\rceil =m$
+\end_inset
+
+,
+ 
+\begin_inset Formula $\Leftrightarrow$
+\end_inset
+
+
+\begin_inset Formula $m-1<x\leq m,$
+\end_inset
+
+ 
+\begin_inset Formula $m\epsilon\mathbb{Z}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Floor vs Ceiling Functions
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/table.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Simple Transformations
+\end_layout
+
+\begin_layout Subsection
+Gint of Gint
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Gint of Gint
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/gintofgint.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Minus Gint of Gint
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Minus Gint of Gint
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/minus gint of gint.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Gint of Gint of Minus x
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Gint of Gint of Minus x
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/gintofgintofminusx.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Gint of Gint of x by 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Gint of Gint of x by 2
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/gintofgintofxby2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Gint of Gint of 3x
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Gint of Gint of 3x
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/gintofgintof3x.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Gint of Gint of (2x+1)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Gint of Gint of (2x+1)
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/gintofgintof2xplus1.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+(Gint of Gint of 2x) +1
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+(Gint of Gint of 2x) + 1
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/gintofgintof2x_plus1.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+An Example
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/a function.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Example
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/1.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Example 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/2.2.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+High End Problem
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $[x+y]+[x-y]=5;y\geq x;x\geq0;y\geq0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/YKzqE.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Another High-End Problem
+\end_layout
+
+\begin_layout Standard
+Set of points (x,y) satisfying 
+\begin_inset Formula $[y]=[x]$
+\end_inset
+
+ is equal to
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/GINT/ahep.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Part
@@ -5502,6 +7890,453 @@ Competition Oriented
 
 \begin_layout Chapter
 Competition (IITJEE) Oriented
+\end_layout
+
+\begin_layout Section
+Find the number of solutions of 4{x}=x+[x]
+\end_layout
+
+\begin_layout Standard
+As we know,
+ to find number of solutions of two curves we should find the point of intersection of two curves.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\therefore4\{x\}=x+[x]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow4(x-[x]=x+[x])$
+\end_inset
+
+ 
+\begin_inset Formula $\{\because x=[x]+\{x\}\}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow4x-x=4[x]+[x]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow[x]=\dfrac{3}{5}x$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\therefore$
+\end_inset
+
+ To plot the graph of both
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $y=[x]$
+\end_inset
+
+ and 
+\begin_inset Formula $y=\dfrac{3}{5}x$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Clearly,
+ the two graphs intersect where
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $[x]=0$
+\end_inset
+
+ and 
+\begin_inset Formula $[x]=1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=\dfrac{5}{3}[x]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=\dfrac{5}{3}.0$
+\end_inset
+
+ and 
+\begin_inset Formula $x=\dfrac{5}{3}(1)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\therefore$
+\end_inset
+
+ 
+\begin_inset Formula $x=0$
+\end_inset
+
+ and 
+\begin_inset Formula $x=\dfrac{5}{3}$
+\end_inset
+
+are the only two solutions.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IIT/arhnt45.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Find 
+\begin_inset Formula $y=[x^{2}]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IIT/gintxsquare.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+[y]=[sin[x]]
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IIT/gintsingintxequaltoginty.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+\begin_inset Formula $[x^{2}-x+1]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IIT/gintxsqminusxplus1.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+\begin_inset Formula $[y]=x$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IIT/gintyequaltox.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+[x]/x
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IIT/gintxbyx.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solution :
+ You take the graph of the function
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $g(x)=\dfrac{1}{x}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Mathematics/IIT/1byx.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+and cut it to infinitely many pieces,
+ each piece over an interval of length 1 between 2 consecutive integers:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $n\leq x<n+1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+and then you move each of these parts vertically,
+ so that the graph at that part would coincide with
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f(x)=\dfrac{n}{x}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+so it varies between
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f(n+)=\dfrac{n}{n}=1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+on the left end point 
+\begin_inset Formula $x=n$
+\end_inset
+
+,
+ and
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f((n+1)-)=\dfrac{n}{n+1}=\dfrac{n}{n+1}=1-\dfrac{1}{n+1}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+at the right end point 
+\begin_inset Formula $x=n+1$
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Part
