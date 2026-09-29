@@ -42687,8 +42687,112 @@ Climate graphs
 Population pyramids
 \end_layout
 
+\begin_layout Standard
+A population pyramid is a graph that shows how a country's population is divided by age and gender.
+\end_layout
+
+\begin_layout Standard
+How It Works
+\end_layout
+
+\begin_layout Standard
+• Gender layout:
+ Males are on the left and females are on the right.
+\end_layout
+
+\begin_layout Standard
+• Age groups:
+ Youngest ages are at the bottom and oldest are at the top.
+\end_layout
+
+\begin_layout Standard
+• Values:
+ The horizontal axis shows numbers of people or percentages.
+\end_layout
+
+\begin_layout Standard
+Main Types of Pyramids
+\end_layout
+
+\begin_layout Standard
+• Expansive (Triangle):
+ Has a wide base.
+ It shows high birth rates and fast population growth (common in developing nations).
+\end_layout
+
+\begin_layout Standard
+• Stationary (Rectangle):
+ Has a box-like shape.
+ It shows stable growth with low birth and death rates.
+\end_layout
+
+\begin_layout Standard
+• Constrictive (Inverted):
+ Narrows at the bottom.
+ It shows low birth rates and an aging population (common in developed nations).
+\end_layout
+
+\begin_layout Standard
+Why It Matters
+\end_layout
+
+\begin_layout Standard
+• Helps predict future growth.
+\end_layout
+
+\begin_layout Standard
+• Shows workforce size and dependency ratios (how many young or elderly people depend on workers).
+\end_layout
+
+\begin_layout Standard
+• Guides economic and health planning.
+\end_layout
+
+\begin_layout Standard
+If you'd like,
+ I can show you how to read a specific country's pyramid or explain the Demographic Transition Theory in more detail.
+\end_layout
+
 \begin_layout Section
 India
+\end_layout
+
+\begin_layout Subsection
+Live
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/live.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -42717,7 +42821,44 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Geography/PopPyr/india/pop pyramid india 2023.jpg
-	scale 60
+	scale 200
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+2020
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/2020.jpg
 
 \end_inset
 
@@ -42793,6 +42934,81 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Geography/PopPyr/india/arb 2.jpg
+	scale 140
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+1989
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/1989.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+1961
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/1961.jpg
 	scale 60
 
 \end_inset
@@ -42802,6 +43018,202 @@ status open
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Subsection
+Jains in India
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/jains.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Vs Another Country
+\end_layout
+
+\begin_layout Subsection
+India vs China (Demographic Edge)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/india vs china.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+India Vs China (2)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/india vs china2.jpg
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+India Vs Japan
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/india vs japan.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Comparisions
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/PopPyr/india/comparisions.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
