@@ -29959,6 +29959,232 @@ c) 400 J
 d) 300 J
 \end_layout
 
+\begin_layout Description
+Example :
+ Given in the figure are examples of some potential energy functions in one dimension.
+ The total energy of the particle is indicated by a cross on the ordinate axis.
+ In each case,
+ specify the regions,
+ if any,
+ in which the particle cannot be found for the given energy.
+ Also,
+ indicate the minimum total energy the particle must have in each case.
+ Think of simple physical contexts for which these potential energy shapes are relevant.
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/NCERT-Solutions-Class-11-Physics-Chapter-6-Question-Number-3.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ans:
+ 
+\end_layout
+
+\begin_layout Standard
+The total energy is given by E = K.E.
+ + P.E.
+\end_layout
+
+\begin_layout Standard
+K.E.
+ = E – P.E.
+\end_layout
+
+\begin_layout Standard
+Kinetic energy can never be negative.
+ The particle cannot exist in the region where K.E.
+ would become negative.
+\end_layout
+
+\begin_layout Standard
+(a) For the region x = 0 and x = a,
+ potential energy is zero.
+ So,
+ kinetic energy is positive.
+ For x > a,
+ the potential energy has a value greater than E.
+ So,
+ kinetic energy becomes zero.
+ Thus,
+ the particle will not exist in the region x > a.
+\end_layout
+
+\begin_layout Standard
+The minimum total energy that the particle can have,
+ in this case,
+ is zero.
+\end_layout
+
+\begin_layout Standard
+(b) For the entire x-axis,
+ P.E.
+ > E,
+ the kinetic energy of the object would be negative.
+ Thus,
+ the particle will not exist in this region.
+\end_layout
+
+\begin_layout Standard
+(c) Here,
+ x = 0 to x = a and x > b,
+ the P.E.
+ is greater than E,
+ so the kinetic energy is negative.
+ The object cannot exist in this region.
+\end_layout
+
+\begin_layout Standard
+(d) For x = -b/2 to x =-a/2 and x = a/2 to x = b/2 .
+ Kinetic energy is positive,
+ and the P.E.
+ < E.
+ The particle is present in this region.
+\end_layout
+
+\begin_layout Description
+Example :
+ An object is dropped from the top of a high building and falls freely to the ground.
+ Which one of the graphs below best represents both its potential energy and kinetic energy as functions of the time fallen by the object?
+ 
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/Energy-Work-Power-2-Q10.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(A) A
+\end_layout
+
+\begin_layout Standard
+(B) B
+\end_layout
+
+\begin_layout Standard
+(C) C
+\end_layout
+
+\begin_layout Standard
+(D) D
+\end_layout
+
+\begin_layout Description
+Example :
+ An object is dropped from the top of a high building and falls freely to the ground.
+ Which one of the graphs below best represents its potential energy (Ep) as a function of the distance fallen by the object?
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/Energy-Work-Power-1-Q03.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(A) A
+\end_layout
+
+\begin_layout Standard
+(B) B
+\end_layout
+
+\begin_layout Standard
+(C) C
+\end_layout
+
+\begin_layout Standard
+(D) D
+\end_layout
+
 \begin_layout Section
 \begin_inset Index idx
 range none
@@ -37655,7 +37881,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/ohm-meter.jpg
-	scale 60
+	scale 56
 
 \end_inset
 
@@ -38046,7 +38272,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Images/CC/P-Graphs/Common/Reduced/CurrentElectricity/subjective1.jpg
-	scale 60
+	scale 55
 
 \end_inset
 
@@ -38531,6 +38757,530 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Description
+Example :
+ A small bar magnet is being slowly inserted with constant velocity inside a solenoid as shown in figure.
+ Which graph best represents the relationship between emf induced with time
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/1422355278232Capture.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/1422355326547Capture.jpg
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Exercise :
+ A uniform and constant magnetic field B is directed perpendicularly into the plane of the page everywhere within a rectangular region as shown above.
+ A wire circuit in the shape of a semicircle is uniformly rotated counterclockwise in the plane of the page about an axis A.
+ The axis A is perpendicular to the page at the edge of the field and directed through the center of the straight-line portion of the circuit.
+ Which of the following graphs best approximates the emf ε induced in the circuit as a function of time t?
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/GR9277-57.jpg
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/GR9277-57ans.JPG
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Solution :
+ Faraday's Law:
+ ɛ = − dΦ/dt 
+\end_layout
+
+\begin_layout Standard
+with Φ = NBA
+\end_layout
+
+\begin_layout Standard
+Given:
+ N = 1,
+\end_layout
+
+\begin_layout Standard
+B constant
+\end_layout
+
+\begin_layout Standard
+A increases and decreases uniformly since the wire circuit rotates uniformly
+\end_layout
+
+\begin_layout Standard
+→ the rate of change of A,
+ dA/dt = constant.
+\end_layout
+
+\begin_layout Standard
+ɛ = − BdA/dt = constant
+\end_layout
+
+\begin_layout Standard
+Only graph (A) shows constant ε.
+\end_layout
+
+\begin_layout Standard
+ε changes periodically from positive to negative since only half of area covered in magnetic field.
+\end_layout
+
+\begin_layout Standard
+Answer:
+ A
+\end_layout
+
+\begin_layout Description
+Example :
+ A plot of magnetic flux (ϕ ) versus current (I) is shown in the figure for two inductors A and B.
+ Which of the two has larger value of self inductance?
+ (Delhi 2010)
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/Important-Questions-for-Class-12-Physics-Chapter-6-Electromagnetic-Induction-Class-12-Important-Questions-94.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Answer :
+ Answer:
+\end_layout
+
+\begin_layout Standard
+Since ϕ = LI
+\end_layout
+
+\begin_layout Standard
+∴ L = ϕI = slope
+\end_layout
+
+\begin_layout Standard
+Slope of A is greater than slope of B
+\end_layout
+
+\begin_layout Standard
+∴ Inductor A has larger value of self inductance than inductor B.
+\end_layout
+
+\begin_layout Description
+Example:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/18yjey1oz75e1.jpeg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Exercise :
+ A graph between the magnitude of the magnetic flux linked with a closed loop and time is given in the figure.
+ Arrange the regions of the graph in ascending order of the magnitude of induced emf in the loop.
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/image(46458).jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Answer:
+ According to electromagnetic induction,
+ induced emf,
+ Ascending order of induced emf from the graphical representation is b<c<d<a.
+\end_layout
+
+\begin_layout Description
+Example :
+ In the circuit shown above,
+ the switch S is closed at t = 0.
+ Which of the following best represents the voltage across the inductor,
+ as seen on an oscilloscope?
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/GR0177-40.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/GR0177-40b.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Answer :
+ The voltage drops across the resistor and the inductor → (A),
+ (B),
+ (C) are FALSE.
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/Solenoid Exampler.jpg
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Example :
+ Gauss's Law An isolated sphere of radius R contains a uniform volume distribution of positive charge.
+ Which of the curves on the graph above correctly illustrated the dependence of the magnitude of the electric field of the sphere as a function of the distance r from its center?
+\end_layout
+
+\begin_layout Description
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Physics/gauss's law.jpg
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A.
+ A
+\end_layout
+
+\begin_layout Standard
+B.
+ B
+\end_layout
+
+\begin_layout Standard
+C.
+ C
+\end_layout
+
+\begin_layout Standard
+D.
+ D
+\end_layout
+
+\begin_layout Standard
+E.
+ E
 \end_layout
 
 \begin_layout Section
@@ -42867,6 +43617,10 @@ status open
 \end_layout
 
 \begin_layout Subsection
+Traffic Counts on Main Street
+\end_layout
+
+\begin_layout Standard
 \begin_inset Box Doublebox
 position "t"
 hor_pos "c"
@@ -45118,6 +45872,166 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Graphs-MPEGc/Images/Geography/MAPS/History/images.jpg
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Wind rose and star diagram
+\end_layout
+
+\begin_layout Section
+California
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/Wind rose and star diagram/v4-460px-Read-a-Wind-Rose-Step-5.jpg
+	scale 95
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Chennai
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/Wind rose and star diagram/how-to-interpret-a-wind-rose.jpg
+	scale 73
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Flow Charts
+\end_layout
+
+\begin_layout Section
+Geographical Location
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/FlowCharts/Flowchart-of-the-procedure-to-determine-the-geographical-locations-associated-with-a.jpg
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Geographical Names
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "90col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "default"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Graphs-MPEGc/Images/Geography/FlowCharts/geographical names.jpg
+	scale 38
 
 \end_inset
 
