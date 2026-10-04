@@ -118,7 +118,7 @@ Co-Ordinate Geometry
 Rajat Kalia
 \end_layout
 
-\begin_layout Author
+\begin_layout Date
 19 August,
  2026
 \end_layout
@@ -758,6 +758,17 @@ LatexCommand href
 name "https://www.scribd.com/user/308680256/Rajat-Kalia"
 target "https://www.scribd.com/user/308680256/Rajat-Kalia"
 literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
 
 \end_inset
 
@@ -1408,6 +1419,17 @@ literal "true"
 \end_inset
 
 }
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+
 \end_layout
 
 \end_body

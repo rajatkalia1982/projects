@@ -663,6 +663,31 @@ Trigonometry
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Heights and Distances
+\end_layout
+
+\end_inset
+
 Heights and Distances
 \end_layout
 
@@ -727,6 +752,31 @@ So the ratio is
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Trigonometric Identities
+\end_layout
+
+\end_inset
+
 Trigonometric Identities
 \end_layout
 
@@ -891,6 +941,31 @@ Multiple Answer Type Questions
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Trigonometric Equations
+\end_layout
+
+\end_inset
+
 Trigonometric Equations
 \end_layout
 
@@ -1139,6 +1214,31 @@ D) None of these
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Properties of Triangle
+\end_layout
+
+\end_inset
+
 Properties of Triangle
 \end_layout
 
@@ -1505,6 +1605,31 @@ D)
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Inverse Trigonometry
+\end_layout
+
+\end_inset
+
 Inverse Trigonometry
 \end_layout
 
@@ -1786,10 +1911,60 @@ d) None of these.
 \end_layout
 
 \begin_layout Part
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Problem Set
+\end_layout
+
+\end_inset
+
 Problem Set
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+JEE Mains Problems
+\end_layout
+
+\end_inset
+
 JEE Mains Problems
 \end_layout
 
@@ -1903,6 +2078,31 @@ literal "true"
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+JEE Advanced Problems 
+\end_layout
+
+\end_inset
+
 JEE Advanced Problems 
 \end_layout
 
@@ -1939,6 +2139,17 @@ literal "true"
 \end_inset
 
  }
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+
 \end_layout
 
 \end_body

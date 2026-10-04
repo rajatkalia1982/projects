@@ -1,7 +1,9 @@
-#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 345
+#LyX 2.5 created this file. For more info see https://www.lyx.org/
+\lyxformat 643
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \use_default_options true
 \begin_modules
@@ -10,28 +12,69 @@ foottoend
 logicalmkup
 theorems-std
 \end_modules
+\maintain_unincluded_children no
 \language english
-\inputencoding auto
-\font_roman default
-\font_sans default
-\font_typewriter default
+\language_package default
+\inputencoding auto-legacy
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
+\use_non_tex_fonts false
 \font_sc false
-\font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize a4paper
+\papersize a4
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
+\use_indices false
 \paperorientation portrait
+\suppress_date false
+\justification default
+\crossref_package prettyref
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\backgroundcolor none
+\fontcolor none
+\notefontcolor lightgray
+\boxbgcolor red
+\table_border_color default
+\table_odd_row_color default
+\table_even_row_color default
+\table_alt_row_colors_start 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
 \leftmargin 1in
 \topmargin 1.5in
 \rightmargin 1in
@@ -39,42 +82,104 @@ theorems-std
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
-\defskip medskip
-\quotes_language english
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
+\tablestyle default
 \tracking_changes false
 \output_changes false
-\author "" 
-\author "" 
+\change_bars false
+\postpone_fragile_content false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\docbook_mathml_version 0
 \end_header
 
 \begin_body
 
+\begin_layout Title
+Thermodynamics
+\end_layout
+
+\begin_layout Author
+Rajat Kalia
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Thermal Properties of Matter
+\end_layout
+
+\end_inset
+
 Thermal Properties of Matter
 \end_layout
 
 \begin_layout Standard
-We know from experience that a glass of ice-cold water left on a table on
- a hot summer day eventually warms up whereas a cup of hot tea on the same
- table cools down.
- It means that when the temperature of body, ice-cold water or hot tea in
- this case, and its surrounding medium are different, heat transfer takes
- place between the system and the surrounding medium, until the body and
- the surrounding medium are at the same temperature.
- We also know that in the case of glass tumbler of ice cold water, heat
- flows from the environment to the glass tumbler, whereas in the case of
- hot tea, it flows from the cup of hot tea to the environment.
- So, we can say that 
+We know from experience that a glass of ice-cold water left on a table on a hot summer day eventually warms up whereas a cup of hot tea on the same table cools down.
+ It means that when the temperature of body,
+ ice-cold water or hot tea in this case,
+ and its surrounding medium are different,
+ heat transfer takes place between the system and the surrounding medium,
+ until the body and the surrounding medium are at the same temperature.
+ We also know that in the case of glass tumbler of ice cold water,
+ heat flows from the environment to the glass tumbler,
+ whereas in the case of hot tea,
+ it flows from the cup of hot tea to the environment.
+ So,
+ we can say that 
 \series bold
-heat is the form of energy transferred between two (or more) systems or
- a system and its surroundings by virtue of temperature difference
+heat is the form of energy transferred between two (or more) systems or a system and its surroundings by virtue of temperature difference
 \series default
 .
- The SI unit of heat energy transferred is expressed in joule (J) while
- SI unit of temperature is kelvin (K).
+ The SI unit of heat energy transferred is expressed in joule (J) while SI unit of temperature is kelvin (K).
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
