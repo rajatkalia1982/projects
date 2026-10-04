@@ -46968,7 +46968,6 @@ plot(t,sq);
 LatexCommand printindex
 type "idx"
 name "Index"
-literal "true"
 
 \end_inset
 

@@ -5,6 +5,10 @@
 \save_transient_properties true
 \origin unavailable
 \textclass book
+\begin_preamble
+\usepackage{makeidx}
+\makeindex
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children no
 \language english
@@ -120,6 +124,31 @@ Rajat Kalia
 \end_layout
 
 \begin_layout Chapter
+\begin_inset Index idx
+range none
+pageformat default
+status open
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\nospellcheck off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+JEE Mains
+\end_layout
+
+\end_inset
+
 JEE Mains
 \end_layout
 
@@ -169,6 +198,17 @@ literal "true"
 \end_inset
 
  }
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset index_print
+LatexCommand printindex
+type "idx"
+name "Index"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
